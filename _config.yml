@@ -1,1 +1,25 @@
 theme: jekyll-theme-minimal
+
+## Pattern Settings
+
+## sets the author in the <head></head> tag
+pattern_author: Jin Kim
+## sets the description in the <head></head> tag
+pattern_description: JNSKM, a blog.
+## sets the language in the <html></html> tag
+pattern_language: en
+## sets the favicon
+## pattern_favicon: /src/assets/images/favicon.ico
+
+## (list) add style locations here
+pattern_styles:
+  - _site/assets/css/style.css
+## (list) add script locations here
+## pattern_scripts:
+##  - _site/assets/js/xxxxx.js
+
+sass:
+## sets the location of the stylesheet
+  sass_dir: _site/assets/_scss
+## minifies the sylesheet
+  style: :compressed
