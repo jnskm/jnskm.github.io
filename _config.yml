@@ -12,14 +12,14 @@ pattern_language: en
 ## pattern_favicon: /src/assets/images/favicon.ico
 
 ## (list) add style locations here
-pattern_styles:
+## pattern_styles:
   - _site/assets/css/style.css
 ## (list) add script locations here
 ## pattern_scripts:
 ##  - _site/assets/js/xxxxx.js
 
-sass:
+## sass:
 ## sets the location of the stylesheet
-  sass_dir: _site/assets/_scss
+##  sass_dir: _site/assets/_scss
 ## minifies the sylesheet
-  style: :compressed
+##  style: :compressed
