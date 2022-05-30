@@ -1,3 +1,2 @@
-[Carrot](carrot.md)
-
-[Tomato](tomato.md)
+* [Carrot](carrot.md)
+* [Tomato](tomato.md)
