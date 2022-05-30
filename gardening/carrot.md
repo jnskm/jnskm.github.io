@@ -1,4 +1,4 @@
-[Gardening](..)
+[Gardening](index.md)
 # 20220529
 
 Kuroda Carrots
