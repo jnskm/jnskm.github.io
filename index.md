@@ -1,2 +1,2 @@
-[Gardening](gardening/)
-[Website](website/)
+* [Gardening](gardening/)
+* [Website](website/)
