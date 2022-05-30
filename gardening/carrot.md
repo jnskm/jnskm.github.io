@@ -10,3 +10,5 @@ Mixed:
 * Added some compost from Lomi, about 80% of the bucket.
 * Added a little bit of coffee grounds.
 Thoroughly watered. I'd say about half of the watering can. Need to measure more accurately (?)
+
+(https://drive.google.com/file/d/113OK70ghl4gliaAcgpvHC4XdDwNGds81/view?usp=sharing)
