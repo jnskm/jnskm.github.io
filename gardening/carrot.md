@@ -11,4 +11,4 @@ Mixed:
 * Added a little bit of coffee grounds.
 Thoroughly watered. I'd say about half of the watering can. Need to measure more accurately (?)
 
-(https://drive.google.com/file/d/113OK70ghl4gliaAcgpvHC4XdDwNGds81/view?usp=sharing)
+![](https://drive.google.com/file/d/113OK70ghl4gliaAcgpvHC4XdDwNGds81/view?usp=sharing)
