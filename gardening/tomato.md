@@ -1,8 +1,9 @@
-<title>Gardening: Tomato</title>
+% Gardening: Tomato
 
-20220509
-Temp: ~73F
+# 20220509
+
 Planted Chadwick Cherry Tomato.
+* Temp: ~73F
 * 2-3 seeds in the middle
 * Small planter
 * Thoroughly watered
