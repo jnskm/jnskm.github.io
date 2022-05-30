@@ -1,1 +1,1 @@
-[GitHub](github.md)
+* [GitHub](github.md)
