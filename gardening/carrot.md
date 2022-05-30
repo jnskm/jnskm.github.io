@@ -1,5 +1,3 @@
-% Gardening: Carrot
-
 # 20220529
 
 Kuroda Carrots
