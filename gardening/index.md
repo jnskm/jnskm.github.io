@@ -1,3 +1,3 @@
-<title>Gardening</title>
-<p><a href="carrot.md">Carrot</a></p>
+% Gardening
+[Carrots](carrot.md)
 <p><a href="tomato.md">Tomato</a></p>
