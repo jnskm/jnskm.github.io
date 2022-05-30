@@ -10,4 +10,4 @@ I'll do my own content management and do it simply with text files formatted in 
 
 Finally, I've been able to setup GitHub to run my website at:
 
-https://jnskm.github.io
+[https://jnskm.github.io](https://jnskm.github.io)
