@@ -19,7 +19,7 @@ Mixed:
 * Added a little bit of coffee grounds.
 Thoroughly watered. I'd say about half of the watering can. Need to measure more accurately (?)
 
-![Large outside planter with Kuroda carrot seeds planted.](https://drive.google.com/uc?export=view&id=113OK70ghl4gliaAcgpvHC4XdDwNGds81)
+![Large outside planter with Kuroda carrot seeds planted.](img_carrot/P5290010.JPG)
 
 # 20220530
 
