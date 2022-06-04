@@ -1,4 +1,4 @@
-[Gardening](index.md)
+[Home](../index.md) / [Gardening](index.md) / Tomato
 
 # 20220529
 
@@ -25,7 +25,7 @@ Mixed:
 
 The planter I got from Kickstarter is called Greenfinity. It has a nifty watering solution where I can water from the ground up. The "watering hole" was dry, so I filled it up today.
 
-![Indoor Greenfinity planter with Chadwick cherry tomato seeds](img_tomato/P529009.JPG)
+![Indoor Greenfinity planter with Chadwick cherry tomato seeds](img_tomato/P5290009.JPG)
 
 From [Peaceful Valley](https://www.groworganic.com):
 
