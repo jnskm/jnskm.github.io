@@ -1,2 +1,6 @@
+* [Books](books/)
+* [Clothes](clothes/)
+* [Exercise](exercise/)
 * [Gardening](gardening/)
+* [Shoes](shoes/)
 * [Website](website/)
