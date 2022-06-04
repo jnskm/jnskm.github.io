@@ -1,4 +1,4 @@
-[Home](../) / [Exercise](index.md) / Yoga
+[Home](../index.md) / [Exercise](index.md) / Yoga
 
 When I walk at the nearby park there is some discomfort around my left hip area. Standing for too long exacerbates the pain. So, my idea is to do some yoga. But first, to do that, I need a yoga mat. What are some things that I am looking far in a yoga mat?
 
