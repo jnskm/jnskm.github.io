@@ -1,4 +1,5 @@
-[Gardening](index.md)
+[Home](../index.md) / [Gardening](index.md) / Carrot
+
 # 20220529
 
 Kuroda Carrots
@@ -13,6 +14,7 @@ Kuroda Carrots
     * Maturity: 68-100 days
     * Sun/Shade: Sun
     * Spacing: 2-3"
+    
 Mixed:
 * Some soil that my sister got for me from Home Depot. Kind of almost mulch-like.
 * Added some compost from Lomi, about 80% of the bucket.
