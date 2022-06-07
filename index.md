@@ -9,7 +9,7 @@
 * [Exercise](exercise/)
 * [Food](food/)
 * [Gardening](gardening/)
-* [Purchasing](purchasing/ß)
+* [Purchasing](purchasing/)
 * [Shoes](shoes/)
 * [Transportation](transportation/)
 * [Website](website/)
