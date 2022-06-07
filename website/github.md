@@ -1,4 +1,8 @@
-[Home](../index.md) / [Website](index.md) / GitHub
+<head>
+    <link rel="stylesheet" type="text/css" media="all" href="/style.css">
+</head>
+
+[Home](/index.md) / [Website](index.md) / GitHub
 
 # 20220530
 
