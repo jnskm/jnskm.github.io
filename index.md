@@ -4,8 +4,12 @@
 
 * [Books](books/)
 * [Clothes](clothes/)
+* [Energy](energy/)
+* [Environment](environment/)
 * [Exercise](exercise/)
+* [Food](food/)
 * [Gardening](gardening/)
 * [Purchasing](purchasing/ß)
 * [Shoes](shoes/)
+* [Transportation](transportation/)
 * [Website](website/)
