@@ -1,4 +1,8 @@
-[Home](../index.md) / [Gardening](index.md) / Tomato
+<head>
+    <link rel="stylesheet" type="text/css" media="all" href="/style.css">
+</head>
+
+[Home](/index.md) / [Gardening](index.md) / Tomato
 
 # 20220529
 
@@ -16,6 +20,7 @@ Planted Chadwick Cherry Tomato.
 * Maturity: 70-90 days
 * Sun/Shade: Sun
 * Spacing: 3-4"
+
 Mixed:
 * Soil my sister bought from Home Depot
 * Compost from Lomi, about 10% of bucket.
