@@ -4,7 +4,7 @@
 
 [Transportation](index.md) / Car
 
-* 20220601
+# 20220601
 
 The most affordable solution is to fix the front suspension of the Pathfinder. That’s it. And it should last at least several thousand miles or more likely many tens of thousands of miles.
 
