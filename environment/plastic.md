@@ -2,7 +2,7 @@
     <link rel="stylesheet" type="text/css" media="all" href="/style.css">
 </head>
 
-[Home](/index.md) / [Environment](index.md) / Plastic
+[Environment](index.md) / Plastic
 
 # 20220601
 

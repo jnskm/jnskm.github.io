@@ -2,7 +2,7 @@
     <link rel="stylesheet" type="text/css" media="all" href="/style.css">
 </head>
 
-[Home](/index.md) / [Gardening](index.md) / Carrot
+[Gardening](index.md) / Carrot
 
 # 20220529
 

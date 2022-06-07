@@ -2,7 +2,7 @@
     <link rel="stylesheet" type="text/css" media="all" href="/style.css">
 </head>
 
-[Home](/index.md) / [Gardening](index.md) / Tomato
+[Gardening](index.md) / Tomato
 
 # 20220529
 

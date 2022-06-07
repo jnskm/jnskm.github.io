@@ -2,7 +2,7 @@
     <link rel="stylesheet" type="text/css" media="all" href="/style.css">
 </head>
 
-[Home](/index.md) / [Transportation](index.md) / Car
+[Transportation](index.md) / Car
 
 * 20220601
 

@@ -2,7 +2,7 @@
     <link rel="stylesheet" type="text/css" media="all" href="/style.css">
 </head>
 
-[Home](/index.md) / [Exercise](index.md) / Indoor Exercise Equipment
+[Exercise](index.md) / Indoor Exercise Equipment
 
 Why am I looking for 
 

@@ -2,7 +2,7 @@
     <link rel="stylesheet" type="text/css" media="all" href="/style.css">
 </head>
 
-[Home](/index.md) / [Energy](energy.md) / Battery
+[Energy](energy.md) / Battery
 
 # 20220602
 

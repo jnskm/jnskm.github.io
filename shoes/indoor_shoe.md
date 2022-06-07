@@ -2,7 +2,7 @@
     <link rel="stylesheet" type="text/css" media="all" href="/style.css">
 </head>
 
-[Home](/index.md) / [Shoes](index.md) / Indoor Shoe
+[Shoes](index.md) / Indoor Shoe
 
 Because of the chemotherapy that I received, my toetips (?) and fingertips are sensitive to cold. Because the floors in my current living situation are wood-like, they are cold, during the summer and especially during the winter. So I need indoor shoes.
 

@@ -2,7 +2,7 @@
     <link rel="stylesheet" type="text/css" media="all" href="/style.css">
 </head>
 
-[Home](/index.md) / [Food](index.md) / Vegan
+[Food](index.md) / Vegan
 
 # 20220606
 
