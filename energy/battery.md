@@ -2,7 +2,7 @@
     <link rel="stylesheet" type="text/css" media="all" href="/style.css">
 </head>
 
-[Energy](energy.md) / Battery
+[Energy](index.md) / Battery
 
 # 20220602
 
