@@ -1,5 +1,5 @@
 <head>
-    <link rel="stylesheet" src="style.css">
+    <link rel="stylesheet" type="text/css" media="all" href="style.css">
 </head>
 
 * [Books](books/)
