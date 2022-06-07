@@ -1,4 +1,8 @@
-[Home](../index.md) / [Clothes](index.md) / Jean
+<head>
+    <link rel="stylesheet" type="text/css" media="all" href="/style.css">
+</head>
+
+[Home](/index.md) / [Clothes](index.md) / Jean
 
 # Big John M26G (000) 26oz Selvage Denim Jeans/ Straight Fit
 
