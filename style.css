@@ -8,13 +8,13 @@
 }
 
 h1 {
-  font-family: Courier_Prime_Code, courier;
+  font-family: Courier_Prime_Code, courier, monospace;
 }
 
 body {
-  font-family: Courier_Prime_Code, courier;
+  font-family: Courier_Prime_Code, courier, monospace;
 }
 
 a {
-  font-family: Courier_Prime_Code, courier;
+  font-family: Courier_Prime_Code, courier, monospace;
 }
