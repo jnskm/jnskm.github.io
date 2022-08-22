@@ -4,4 +4,5 @@
 
 Food
 
+* [Recipes](recipes/index.md)
 * [Vegan](vegan.md)
