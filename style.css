@@ -1,15 +1,20 @@
+@font-face {
+  font-family: Courier_Prime_Code;
+  src: url('/fonts/Courier_Prime_Code.ttf');
+}
+
 * {
-  font-family: Courier, monospace;
+  font-family: Courier_Prime_Code, Courier, monospace;
 }
 
 h1 {
-  font-family: courier;
+  font-family: Courier_Prime_Code, courier;
 }
 
 body {
-  font-family: courier;
+  font-family: Courier_Prime_Code, courier;
 }
 
 a {
-  font-family: courier;
+  font-family: Courier_Prime_Code, courier;
 }
