@@ -1,6 +1,6 @@
 @font-face {
   font-family: Courier_Prime_Code;
-  src: '/fonts/Courier_Prime_Code.ttf';
+  src: url(fonts/Courier_Prime_Code.ttf);
 }
 
 * {
