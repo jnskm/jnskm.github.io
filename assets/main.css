@@ -1,6 +1,11 @@
 @font-face {
     font-family: "Courier Prime Code";
-    src: url(fonts/Courier_Prime_Code.ttf);
+    src:
+    url('fonts/Courier_Prime_Code.ttf') format('ttf'),
+    url('fonts/Courier_Prime_Code-Webfont.woff') format('woff'),
+    url('fonts/Courier_Prime_Code-Webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
 }
 
 /** Reset some basic elements */
