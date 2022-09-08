@@ -12,4 +12,6 @@ Then Jekyll itself had some things that hung. Again, from the top, step by step,
 
 But yes, finally: Jekyll is running on my local machine. Next step: push it to GitHub Pages on [jnskm.github.io][jnskm.github.io]. Fingers crossed.
 
+Hmm. I've updated the assets folder by adding a fonts folder and editing the main.css file, but GitHub Desktop is not registering that these changes have been made.
+
 [jnskm.github.io]: https://jnskm.github.io
