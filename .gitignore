@@ -1,5 +1,5 @@
-
-gardening/.DS_Store
-gardening/img_carrot/.DS_Store
-exercise/.DS_Store
-exercise/imgs_indoor_exercise_equipment/.DS_Store
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
