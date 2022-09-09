@@ -21,7 +21,7 @@
 title: JNSKM
 email: jin@jnskm.com
 description: >- # this means to ignore newlines until "baseurl:"
-  JNSKM is short for Jin S. Kim, my name, but without the vowels. My thoughts, ranging from human-centered design to sustainable business decision making, will make up JNSKM. Welcome, and enjoy.
+  &#169; 2022 Jin S. Kim
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://jnskm.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jnskm
