@@ -164,8 +164,8 @@ table td { border: 1px solid #e8e8e8; }
 /** Posts */
 .post-header { margin-bottom: 30px; }
 
-.post-title { font-size: 14px; line-height: 1; }
-/** 42 > 14 del letter-spacing: -1px; */
+.post-title { font-size: 14px; }
+/** 42 > 14 del letter-spacing: -1px; line-height: 1;*/
 
 @media screen and (max-width: 800px) { .post-title { font-size: 36px; } }
 /** 36 > 14 */
