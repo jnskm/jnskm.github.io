@@ -167,7 +167,7 @@ table td { border: 1px solid #e8e8e8; }
 .post-title { font-size: 14px; }
 /** 42 > 14 del letter-spacing: -1px; line-height: 1;*/
 
-@media screen and (max-width: 800px) { .post-title { font-size: 36px; } }
+@media screen and (max-width: 800px) { .post-title { font-size: 14px; } }
 /** 36 > 14 */
 
 .post-content { margin-bottom: 30px; }
@@ -181,7 +181,7 @@ table td { border: 1px solid #e8e8e8; }
 .post-content h3 { font-size: 14px; }
 /** 26 > 14 */
 
-@media screen and (max-width: 800px) { .post-content h3 { font-size: 22px; } }
+@media screen and (max-width: 800px) { .post-content h3 { font-size: 14px; } }
 /** 22 > 14 */
 
 .post-content h4 { font-size: 14px; }
