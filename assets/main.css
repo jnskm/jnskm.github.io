@@ -51,7 +51,8 @@ a:visited {
 a:hover {
     color: #f5f5f5;
     text-decoration-line: underline;
-    text-decoration-color: #ff0000;
+    text-decoration-thickness: 2px;
+    text-decoration-color: #828282;
     text-decoration-style: solid;
 }
 
