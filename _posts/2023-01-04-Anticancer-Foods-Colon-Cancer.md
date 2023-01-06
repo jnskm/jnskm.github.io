@@ -6,6 +6,8 @@ categories: food
 ---
 Anticancer Foods: Colon Cancer
 
+[YouTube Video][1]
+
 There are several foods that may help to prevent colon cancer, including:
 
 1. Fruits and vegetables: Fruits and vegetables are high in fiber, which help to prevent constipation and promote regular bowel movements. This reduces the risk of colon cancer. Aim to eat a variety of fruits and vegetables including leafy greens, berries, and cruciferous vegetables such as broccoli and cauliflower.
@@ -27,3 +29,5 @@ Organic foods are also beneficial for those who are recovering from illness or i
 In conclusion, organic foods have several potential health benefits, including lower levels of pesticides, higher levels of nutrients, and fresher products.
 
 It is important to note that a healthy diet for colon cancer prevention should be balanced and varied. It is also important to maintain a healthy weight, be physically active, and avoid tobacco and minimize or eliminate alcohol consumption, as these factors contribute to the risk of colon cancer.
+
+[1]: https://youtu.be/OjDdsRI8c1w
