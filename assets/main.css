@@ -61,13 +61,13 @@ a:hover {
 .social-media-list a:hover .username { text-decoration: underline; }
 
 /** Blockquotes */
-blockquote { color: #f5f5f5; border-left: 4px solid #e8e8e8; padding-left: 15px; font-size: 14px; letter-spacing: -1px; font-style: italic; }
+blockquote { color: #f5f5f5; border-left: 4px solid #e8e8e8; padding-left: 15px; font-size: 16px; letter-spacing: -1px; font-style: italic; }
 /** 18 > 14 */
 
 blockquote > :last-child { margin-bottom: 0; }
 
 /** Code formatting */
-pre, code { font-size: 14px; border: 1px solid #e8e8e8; border-radius: 3px; background-color: #eef; }
+pre, code { font-size: 16px; border: 1px solid #e8e8e8; border-radius: 3px; background-color: #eef; }
 /** 15 > 14 */
 
 code { padding: 1px 5px; }
@@ -103,7 +103,7 @@ table td { border: 1px solid #e8e8e8; }
 /** Site header */
 .site-header { border-top: 5px solid #424242; border-bottom: 1px solid #e8e8e8; min-height: 55.95px; position: relative; }
 
-.site-title { font-size: 14px; font-weight: 300; line-height: 54px; margin-bottom: 0; float: left; }
+.site-title { font-size: 16px; font-weight: 300; line-height: 54px; margin-bottom: 0; float: left; }
 /** 26 > 14 del letter-spacing: -1px; */
 
 .site-title, .site-title:visited { color: #f5f5f5; }
@@ -123,12 +123,12 @@ table td { border: 1px solid #e8e8e8; }
 /** Site footer */
 .site-footer { border-top: 1px solid #e8e8e8; padding: 30px 0; }
 
-.footer-heading { font-size: 14px; margin-bottom: 15px; }
+.footer-heading { font-size: 16px; margin-bottom: 15px; }
 /** 18 > 14 */
 
 .contact-list, .social-media-list { list-style: none; margin-left: 0; }
 
-.footer-col-wrapper { font-size: 14px; color: #828282; margin-left: -15px; }
+.footer-col-wrapper { font-size: 16px; color: #828282; margin-left: -15px; }
 /** 15 > 14 */
 
 .footer-col { float: left; margin-bottom: 15px; padding-left: 15px; }
@@ -147,48 +147,48 @@ table td { border: 1px solid #e8e8e8; }
 .page-content { padding: 14px 0; flex: 1; }
 /** 30 > 14 */
 
-.page-heading { font-size: 14px; }
+.page-heading { font-size: 16px; }
 /** 32 > 14 */
 
-.post-list-heading { font-size: 14px; }
+.post-list-heading { font-size: 16px; }
 /** 28 > 14 */
 
 .post-list { margin-left: 0; list-style: none; }
 
 .post-list > li { margin-bottom: 30px; }
 
-.post-meta { font-size: 14px; color: #828282; }
+.post-meta { font-size: 16px; color: #828282; }
 
-.post-link { display: block; font-size: 14px; }
+.post-link { display: block; font-size: 16px; }
 /** 24 > 14 */
 
 /** Posts */
 .post-header { margin-bottom: 30px; }
 
-.post-title { font-size: 14px; }
+.post-title { font-size: 16px; }
 /** 42 > 14 del letter-spacing: -1px; line-height: 1;*/
 
-@media screen and (max-width: 800px) { .post-title { font-size: 14px; } }
+@media screen and (max-width: 800px) { .post-title { font-size: 16px; } }
 /** 36 > 14 */
 
 .post-content { margin-bottom: 30px; }
 
-.post-content h2 { font-size: 14px; }
+.post-content h2 { font-size: 16px; }
 /** 32 > 14 */
 
-@media screen and (max-width: 800px) { .post-content h2 { font-size: 14px; } }
+@media screen and (max-width: 800px) { .post-content h2 { font-size: 16px; } }
 /** 28 > 14 */
 
-.post-content h3 { font-size: 14px; }
+.post-content h3 { font-size: 16px; }
 /** 26 > 14 */
 
-@media screen and (max-width: 800px) { .post-content h3 { font-size: 14px; } }
+@media screen and (max-width: 800px) { .post-content h3 { font-size: 16px; } }
 /** 22 > 14 */
 
-.post-content h4 { font-size: 14px; }
+.post-content h4 { font-size: 16px; }
 /** 20 > 14 */
 
-@media screen and (max-width: 800px) { .post-content h4 { font-size: 14px; } }
+@media screen and (max-width: 800px) { .post-content h4 { font-size: 16px; } }
 /** 18 > 14 */
 
 /** Syntax highlighting styles */
