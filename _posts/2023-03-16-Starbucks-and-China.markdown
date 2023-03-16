@@ -16,4 +16,4 @@ I haven't spent money at a Starbucks for some time, for other reasons such as: o
 
 I don't think this is a left or right, liberal or conservative issue: we are talking about whether we should continue buying from a company that seems to be supporting a government that is fighting against our ideals of life, freedom, and liberty. 
 
-[1] https://www.fastcompany.com/90866221/starbucks-china-expansion-howard-schultz-shareholder-vote-board
+[1]: https://www.fastcompany.com/90866221/starbucks-china-expansion-howard-schultz-shareholder-vote-board
