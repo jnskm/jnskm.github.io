@@ -4,7 +4,7 @@ title: "Starbucks and China"
 date: 2023-03-16
 categories: "Starbucks"
 ---
-"[Starbucks's China expansion stirs up conservative shareholder trouble for Howard Schultz][1]" by Clint Rainey, writing for Fast Company:
+[Starbucks's China expansion stirs up conservative shareholder trouble for Howard Schultz][1] by Clint Rainey, writing for Fast Company:
 
 > In pursuit of growth, the chain has, among other things, helped the government to develop rural infrastructure in China’s Yunnan coffee province, and established a foundation that has organized so-called red-tourism trips and commended “the high fighting spirit and steel will” of the People’s Liberation Army.
 
