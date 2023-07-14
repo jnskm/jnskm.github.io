@@ -11,7 +11,7 @@ layout: default
 
   {%- if site.posts.size > 0 -%}
     <!-- <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2> -->
-    <ul class="post-list">
+    <!-- <ul class="post-list"> -->
       {%- for post in site.posts -%}
         {%- assign date_format = site.minima.date_format | default: "%Y%m%d" -%} <!-- was %b %-d, %Y -->
         <!--
@@ -22,7 +22,7 @@ layout: default
           </a>
         </h3>
         -->
-        <li class="post-meta">{{ post.date | date: date_format }} <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></li>
+        <br class="post-meta">{{ post.date | date: date_format }} <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></br>
       {%- endfor -%}
     </ul>
   {%- endif -%}
