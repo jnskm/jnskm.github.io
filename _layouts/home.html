@@ -22,7 +22,7 @@ layout: default
           </a>
         </h3>
         -->
-        {{ post.date | date: date_format }} <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        {{ post.date | date: date_format }} <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a><br>
       {%- endfor -%}
     </ul>
   {%- endif -%}
