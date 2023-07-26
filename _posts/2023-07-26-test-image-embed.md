@@ -7,4 +7,4 @@ categories: "image"
 
 Testing to figure out how to embed images into Jekyll posts.
 
-<img src="https://www.instagram.com/p/CsQwImXObtA/">
+<img src="../assets/images/Apple_AirPods_Pro_2_01.JPG" width="600">
