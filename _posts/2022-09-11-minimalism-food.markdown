@@ -16,11 +16,11 @@ Cooking your own food requires a lot. A lot more than you think. Let’s take an
 Step 01: Grocery Shopping
 You’ll need to get dressed, tidy up your hair or put a cap on, get in your car or on your bike (don’t forget to take your reusable grocery bag and your mask if you think there will be a lot of people and a long checkout line), get there, find parking, and go through the isles and pick out your ingredients:
 
-= I prefer angel hair, so organic vegan angel hair pasta. Gluten-free is better.  
-= Organic pasta sauce  
-= Organic garlic: I prefer these pre-minced. Saves a lot of time and effort.  
-= Organic onions  
-= Organic avocado oil  
+= organic vegan gluten-free angel hair pasta  
+= organic pasta sauce  
+= organic (minced) garlic: optional pre-minced, saves time and effort  
+= organic onions  
+= organic avocado oil  
 
 (Of course, if you already have some of these ingredients you won’t need to buy them.)
 
@@ -29,13 +29,19 @@ Once you’ve got all of your ingredients in your cart, you get in line, wait, p
 Step 02: Food Prep
 Prepping your food starts once you get home. I have recently been forced to inventory everything I have because I had to move. Prepping food requires a lot of things:
 
-- Refrigerator / freezer: The leftover pasta sauce (if there is any) will need to be refrigerated. Same goes for the bottle of the pre-minced organic garlic. You might also have some mushrooms left over that you will have to refrigerate if you’re cooking for just yourself (or maybe not, if you’re a big eater or if you really love mushrooms).<br>
-- A sink with running water. This is something we take for granted, but sometimes you don’t have access to a sink. Search on Craigslist and there are many rooms available where you are limited to using the microwave and mini-fridge in your room. And many listings prefer limited and simple cooking with no strong odor. That rules out pretty much the world’s cuisine except for US cuisine such as simple sandwiches, mac-‘n-cheese, salads (without anchovies!), etc. Sautéing garlic would be a terrible violation.<br>
-- A cutting board, and enough room to have the cutting board flat without wobbling. You don’t want your cutting board to wobble when you’re using a sharp knife to cut things.<br>
-- A sharp knife. Sharper is better: there’s less chance of it slipping and accidentally slicing something it shouldn’t. And to keep a knife sharp, you’ll need some kind of sharpening tool.<br>
-- Kitchen towels to wipe your tools, plates, bowls, and utensils as well as your hands.<br>
-- A heat source. It can be a hotpot, gas, electric, or induction stove. It can also be a wood stove.<br>
-- A pot and a wooden cooking spoon. Both I assume are clean (which requires several other items that I will cover later in this post).<br>
+= Refrigerator / freezer: Refrigerate leftover pasta sauce, minced organic garlic, mushrooms.
+
+= A sink with running water. This is something we take for granted, but sometimes you don’t have access to a sink. Search on Craigslist and there are many rooms available where you are limited to using the microwave and mini-fridge in your room. And many listings prefer limited and simple cooking with no strong odor. That rules out pretty much the world’s cuisine except for US cuisine such as simple sandwiches, mac-‘n-cheese, salads (without anchovies!), etc. Sautéing garlic would be a terrible violation.
+
+= A cutting board, and enough room to have the cutting board flat without wobbling. You don’t want your cutting board to wobble when you’re using a sharp knife to cut things.
+
+= A sharp knife. Sharper is better: there’s less chance of it slipping and accidentally slicing something it shouldn’t. And to keep a knife sharp, you’ll need some kind of sharpening tool.
+
+= Kitchen towels to wipe your tools, plates, bowls, and utensils as well as your hands.
+
+= A heat source. It can be a hotpot, gas, electric, or induction stove. It can also be a wood stove.
+
+= A pot and a wooden cooking spoon. Both I assume are clean (which requires several other items that I will cover later in this post).
 
 With these items you can start to prep your food. Rinse your cutting board and your knife, peel the onion, chop the onion and hopefully you have some way of composting your food waste. Put them in a small bowl. Oh yes, you need some bowls. Do the same for mushrooms, though you’ll need to wash them first.
 
