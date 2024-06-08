@@ -16,11 +16,11 @@ Cooking your own food requires a lot. A lot more than you think. Let’s take an
 Step 01: Grocery Shopping
 You’ll need to get dressed, tidy up your hair or put a cap on, get in your car or on your bike (don’t forget to take your reusable grocery bag and your mask if you think there will be a lot of people and a long checkout line), get there, find parking, and go through the isles and pick out your ingredients:
 
-* I prefer angel hair, so organic vegan angel hair pasta. Gluten-free is better.  
-* Organic pasta sauce  
-* Organic garlic: I prefer these pre-minced. Saves a lot of time and effort.  
-* Organic onions  
-* Organic avocado oil  
+= I prefer angel hair, so organic vegan angel hair pasta. Gluten-free is better.  
+= Organic pasta sauce  
+= Organic garlic: I prefer these pre-minced. Saves a lot of time and effort.  
+= Organic onions  
+= Organic avocado oil  
 
 (Of course, if you already have some of these ingredients you won’t need to buy them.)
 
