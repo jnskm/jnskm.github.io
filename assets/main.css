@@ -61,7 +61,7 @@ a:hover {
 .social-media-list a:hover .username { text-decoration: underline; }
 
 /** Blockquotes */
-blockquote { color: #000000; border-left: 4px solid #e8e8e8; padding-left: 15px; font-size: 16px; letter-spacing: -1px; font-style: italic; }
+blockquote { color: #000000; border-left: 4px solid #e8e8e8; padding-left: 15px; font-size: 16px; let; font-style: normal; }
 /** 18 > 14 */
 
 blockquote > :last-child { margin-bottom: 0; }
