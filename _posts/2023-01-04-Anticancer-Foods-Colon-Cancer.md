@@ -4,17 +4,17 @@ title:  "Anticancer Foods: Colon Cancer"
 date:   2023-01-04
 categories: food
 ---
-Anticancer Foods: Colon Cancer
-
-{% include youtube_embed.html id="OjDdsRI8c1w" %}
-
 There are several foods that may help to prevent colon cancer, including:
 
-1. Fruits and vegetables: Fruits and vegetables are high in fiber, which help to prevent constipation and promote regular bowel movements. This reduces the risk of colon cancer. Aim to eat a variety of fruits and vegetables including leafy greens, berries, and cruciferous vegetables such as broccoli and cauliflower.
-2. Whole grains: Whole grains, such as whole wheat, oats, and brown rice, are high in fiber.
-3. Legumes: Legumes, such as beans, lentils, and peas, are also high in fiber.
-4. Nuts and seeds: Nuts and seeds, such as almonds, flaxseeds, and chia seeds, are high in fiber and contain other nutrients.
-5. Fish: Fish, particularly fatty fish such as salmon, mackerel, and sardines, are high in omega-3 fatty acids, which reduce the risk of colon cancer.
+= Fruits and vegetables: Fruits and vegetables are high in fiber, which help to prevent constipation and promote regular bowel movements. This reduces the risk of colon cancer. Aim to eat a variety of fruits and vegetables including leafy greens, berries, and cruciferous vegetables such as broccoli and cauliflower.
+
+= Whole grains: Whole grains, such as whole wheat, oats, and brown rice, are high in fiber.
+
+= Legumes: Legumes, such as beans, lentils, and peas, are also high in fiber.
+
+= Nuts and seeds: Nuts and seeds, such as almonds, flaxseeds, and chia seeds, are high in fiber and contain other nutrients.
+
+= Fish: Fish, particularly fatty fish such as salmon, mackerel, and sardines, are high in omega-3 fatty acids, which reduce the risk of colon cancer.
 
 Just as low-mercury fish and small fish are recommended to reduce our exposure to toxic chemicals, replace conventionally produced fruits and vegetables with organic alternatives.
 

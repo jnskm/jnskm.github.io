@@ -4,8 +4,6 @@ title: "Nylon: Diamine - Alkyl Halide"
 date: 2023-01-06
 categories: "synthetic materials"
 ---
-# Nylon: Diamine
-
 Nylon is made through a process called polymerization, which involves the linking together of many small molecules called monomers to form long chains of polymer. The monomers used to make nylon are called diamines and dicarboxylic acids.
 
 A diamine is a type of organic compound that contains two amino groups (-NH2) bonded to a single carbon atom. Diamines are used as monomers in the production of nylon and other polyamides. They can be synthesized from a variety of starting materials, including alkyl halides, alkyl sulfates, and aryl halides.

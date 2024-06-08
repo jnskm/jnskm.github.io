@@ -4,8 +4,6 @@ title: "Nylon: Diamine - Alkyl Halide - Methane Chloride"
 date: 2023-01-06
 categories: "synthetic materials"
 ---
-# Nylon: Diamine - Alkyl Halide - Methane Chloride
-
 Background:
 
 Nylon is made through a process called polymerization, which involves the linking together of many small molecules called monomers to form long chains of polymer. The monomers used to make nylon are called diamines and dicarboxylic acids.

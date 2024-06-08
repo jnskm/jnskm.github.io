@@ -4,9 +4,8 @@ title: "Nylon: Diamine"
 date: 2023-01-06
 categories: "synthetic materials"
 ---
-# Nylon: Diamine
-
 Background:
+
 Nylon is made through a process called polymerization, which involves the linking together of many small molecules called monomers to form long chains of polymer. The monomers used to make nylon are called diamines and dicarboxylic acids.
 
 What is a diamine?
@@ -25,10 +24,13 @@ Diamines can be harmful if ingested or inhaled, and they may cause skin irritati
 
 Some common health effects of diamine exposure include:
 
-* Respiratory irritation: Diamines can irritate the respiratory system, causing symptoms such as coughing, difficulty breathing, and chest tightness.
-* Skin irritation: Diamines can cause skin irritation in some people, resulting in redness, itching, and rash.
-* Allergic reactions: Some people may develop an allergic reaction to diamines, which can cause symptoms such as hives, swelling, and difficulty breathing.
-* Nausea: Diamines can cause dizziness and lightheadedness in some people.
+= Respiratory irritation: Diamines can irritate the respiratory system, causing symptoms such as coughing, difficulty breathing, and chest tightness.
+
+= Skin irritation: Diamines can cause skin irritation in some people, resulting in redness, itching, and rash.
+
+= Allergic reactions: Some people may develop an allergic reaction to diamines, which can cause symptoms such as hives, swelling, and difficulty breathing.
+
+= Nausea: Diamines can cause dizziness and lightheadedness in some people.
 
 High levels of exposure to diamines can lead to more serious health effects, such as unconsciousness and death.
 
