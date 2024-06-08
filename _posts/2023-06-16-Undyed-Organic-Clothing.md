@@ -4,10 +4,7 @@ title: "Undyed Organic Clothing"
 date: 2023-06-16
 categories: "Clothing"
 ---
-I look for clothing that meets these requirements:
-
-= Undyed
-= Organic
+I look for clothing that meets these requirements: undyed, organic. Especially when buying new clothing, though I try to find used clothing. For used clothing, I am less strict. For example, I am open to buying denim used clothing. Denim is dyed, mostly synthetically dyed. But most of that has gone under the bridge. And so has the pesticides that came along with the cotton. Both of these -- synethic dyes and pesticides -- have probably been washed away. Most of them anyway. But new clothes? Undyed and organic if at all possible.
 
 Although color is nice, most color pigments used to dye clothing are toxic. They are toxic to the workers, toxic to us the customers, and toxic to the environment. Synthetic and toxic pigments are then usually drained into a nearby river, killing the river and all the organisms that live in it and all the organism that depend on it. I look for undyed clothing. That does not mean white; it means the natural color of cotton, linen, and wool.
 
