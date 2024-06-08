@@ -4,12 +4,7 @@ title:  "Minimalism: Food"
 date:   2022-09-11
 categories: minimalism, food
 ---
-## layout: post
-title: "Minimalism: Food"
-date: 2022-09-11
-categories: minimalism, food
-
-NOT MINIMAL
+Minimalism: Food
 
 Cooking your own food requires a lot. A lot more than you think. Let’s take an example, a simple one: spaghetti with store-bought sauce enhanced with sautéed garlic, onion, and mushrooms with avocado oil.
 
