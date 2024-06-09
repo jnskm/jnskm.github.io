@@ -106,7 +106,7 @@ table td { border: 1px solid #e8e8e8; }
 .site-title { font-size: 16px; font-weight: 300; line-height: 54px; margin-bottom: 0; float: left; }
 /** 26 > 14 del letter-spacing: -1px; */
 
-.site-title:: {
+.site-title::before {
     content: url("/assets/images/JNSKM_Logo_03_32x32.png");
     display: inline-block;
     position: relative;
