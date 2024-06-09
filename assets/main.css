@@ -107,7 +107,7 @@ table td { border: 1px solid #e8e8e8; }
 /** 26 > 14 del letter-spacing: -1px; */
 
 .site-title:: {
-    content: url("/assets/JNSKM_Logo_03_32x32.png");
+    content: url("/assets/images/JNSKM_Logo_03_32x32.png");
     display: inline-block;
     position: relative;
     width: 32px;
