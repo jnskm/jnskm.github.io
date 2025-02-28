@@ -14,21 +14,21 @@ The EPA had been working to regulate formaldehyde since 2021, but faced strong o
 
 Formaldehyde causes cancer through a combination of direct damage to your cells and the chaos it unleashes in your body over time. It’s a tricky chemical: small, reactive, and good at sneaking into places it shouldn’t. Here’s how it destroys your body.
 
-1. It Gets In and Stays In
+**Step One: It Gets In and Stays In**
 
 When you breathe in formaldehyde (say, from off-gassing furniture or cigarette smoke), it hits your nasal passages, throat, and lungs first. It’s water-soluble, so it sticks to moist tissues like a clingy guest. If it’s on your skin (from cosmetics or fabrics), it can absorb there too. Once inside, it doesn’t just sit around; it’s a reactive little molecule, eager to bond with stuff in your cells.
 
-2. DNA Damage -- Breaking the Blueprint
+**Step Two: DNA Damage -- Breaking the Blueprint**
 
 Formaldehyde is an electrophile, meaning it loves grabbing onto electron-rich molecules like DNA and proteins. It reacts with the building blocks of DNA (especially adenine and guanine) and forms what’s called DNA adducts -- weird, unwanted attachments. These adducts mess up the DNA’s structure, like using your unreadable handwriting to scribble over a perfect recipe honed over well since God created human beings. When your cells try to copy that DNA to make new cells, they can misread it, leading to mutations: permanent typos in the genetic code. If those mutations hit critical genes (like ones controlling cell growth), you’ve got a potential cancer starter.
 
 It also cross-links DNA strands or DNA to proteins, messing up the works even more. This makes it harder for cells to repair damage or divide properly, piling on the risk of errors.
 
-3. Chronic Irritation and Inflammation
+**Step Three: Chronic Irritation and Inflammation**
 
 Formaldehyde isn’t a one-and-done deal; it’s a slow burn. Repeated exposure (think years of breathing it in from your MDF desk) irritates tissues, especially in the nose and throat. This constant irritation triggers inflammation -- a state where your immune system’s on high alert, pumping out chemicals and reactive oxygen species (ROS). ROS are like tiny wrecking balls, causing more DNA damage. Over time, this cycle of irritation and inflammation wears down your body’s defenses, giving damaged cells a chance to go rogue.
 
-4. Cell Growth Goes Haywire
+**Step Four: Cell Growth Goes Haywire**
 
 Those mutations and inflammation can flip switches in your cells. Normally, genes like tumor suppressors (e.g., p53) keep cell growth in check, while oncogenes push it forward. Formaldehyde’s damage can turn off the brakes (mutating tumor suppressors) or slam the gas (activating oncogenes). The result? Cells start dividing uncontrollably, piling up into abnormal clumps—tumors. If they’re in the right (or wrong) spot and keep mutating, they can turn malignant: cancer.
 
