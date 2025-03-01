@@ -57,30 +57,42 @@ Formaldehyde is a sneaky little chemical; it’s everywhere in everyday life, of
     - Materials: Particleboard, plywood, medium-density fiberboard (MDF). These are made from wood chips, sawdust, or thin wood sheets bonded with formaldehyde-based resins.
     - Daily Use: You’re sitting at your desk, storing books, or sleeping on a bed frame—most affordable furniture has this stuff.
 
+Most furniture are made using thin slices of wood that are glued together. Big chunks of wood are hard to come by; we have chopped down most of the large trees. And we are impatient: we can't seem to wait for trees to grow large enough to have big, thick chunks of wood. Unless you are into antiques, or are ultra-rich to afford truly solid wood furniture, almost all of the modern furniture that you have around you is slowly killing you.
+
 - Upholstered Furniture (Couches, Chairs)
     - Formaldehyde’s Role: Found in the foam padding or fabric treatments for stain resistance or durability.
     - Materials: Polyurethane foam (sometimes treated with formaldehyde), synthetic fabrics like polyester or blends treated with formaldehyde finishes.
     - Daily Use: Plopping down on your sofa after work? It might be off-gassing formaldehyde.
+
+Synthetic fabrics. Stay away from them, even if it's "just" 10% or 20%. What's a lot harder is the foam; it is almost always synthetic. Find cushions that can be unzipped and replace the synthetics inside with organic cotton or wool, the good kind.
 
 - Laminate Flooring
     - Formaldehyde’s Role: In the glue binding the layers or the protective coating.
     - Materials: Wood fibers or particles with formaldehyde resins, topped with a synthetic layer.
     - Daily Use: Walking across your living room or kitchen floor.
 
+Flooring that looks and feels like wood isn't wood, most of them anyway. Unless you're paying a lot of money, that "wood" is plastic. If you can, avoid laminate flooring. Find old homes that are being demolished and ask if you can take the old wooden floors or anything that's solid wood. Those are much better than the synthetic crap that's going to be slowly making you sick.
+
 - Curtains and Drapes
     - Formaldehyde’s Role: Added to make them wrinkle-resistant or “permanent press.”
     - Materials: Cotton, polyester, or blends treated with formaldehyde-based finishes.
     - Daily Use: Hanging in your windows, subtly releasing fumes as they age.
+
+Curtains made with 100% cotton that does not wrinkle? Don't buy it. That's been treated with "anti-wrinkle" poison.
 
 - Carpets and Rugs
     - Formaldehyde’s Role: Used in adhesives for backing or as a treatment for stain resistance.
     - Materials: Synthetic fibers (nylon, polyester) or natural fibers (wool) with formaldehyde-containing glues or coatings.
     - Daily Use: Under your feet or where your kids play.
 
+Stain-resistant 100% cotton or 100% wool rugs? These things will off-gas poison every time you step on it. Don't get any carpet with rubber backing. Better yet, don't get carpet. If your feet are cold, wear a nice pair of socks or slippers or both.
+
 - Insulation (Walls, Attics)
     - Formaldehyde’s Role: Urea-formaldehyde foam insulation (UFFI) was big in the ‘70s; traces linger in older homes.
     - Materials: Foamed resins with formaldehyde.
     - Daily Use: You don’t touch it, but it’s in the walls of some homes, quietly off-gassing.
+
+This is a tough one. Replacing toxic insulation requires planning, a lot of time, and a lot of money. Most of us don't have that kind of luxury. This is where it would be good to consider crafting a bill that can completely offset the cost of retrofitting toxic insulation.
 
 **Clothing and Textiles**
 
@@ -89,15 +101,21 @@ Formaldehyde is a sneaky little chemical; it’s everywhere in everyday life, of
     - Materials: Cotton, cotton-poly blends, or synthetics treated with formaldehyde resins.
     - Daily Use: That crisp button-up or dress you wear to work or school.
 
+Don't get wrinkle-free clothing, even if it's 100% cotton. Don't get iron-free clothing, even if it's 100% cotton. Don't get clothing that has synthetic materials in it.
+
 - Bedding (Sheets, Pillowcases)
     - Formaldehyde’s Role: Same deal—wrinkle resistance or shrinkage prevention.
     - Materials: Cotton or cotton blends with formaldehyde finishes.
     - Daily Use: You’re sleeping on it every night.
 
+Any bedding -- fitted sheets, flat sheets, pillow cases, sham cases, bidet covers, etc. -- that claim to wrinkle resistant you don't want to buy, even if it's 100% cotton. Don't worry about wrinkles; worry about your health. Sometimes wrinkles, like the ones you get from 100% organic linen sheets, look really good. And they won't poison you.
+
 - Towels and Washcloths
     - Formaldehyde’s Role: Used in some treatments for durability or mildew resistance.
     - Materials: Cotton or cotton-synthetic blends.
     - Daily Use: Drying off after a shower.
+
+Stay away from towels that have synthetic textiles blended into them. Microfiber? Don't buy. Polyester? Nope. 100% cotton with a claim that it is more durable? Look carefully and make sure it has not been treated with toxic materials like formaldehyde.
 
 - Shoes (Leather or Synthetic)
     - Formaldehyde’s Role: Used in tanning leather or treating synthetic materials.
