@@ -41,19 +41,20 @@ h1, h2, h3, h4, h5, h6 { font-weight: 400; }
 a {
     color: #000000;
     text-decoration: none;
+    border-bottom: 2px dotted;
+    transition: border-bottom 0.2s ease-in-out
 }
 
 a:visited {
     color: #000000;
     text-decoration: none;
+    border-bottom: 2px dotted;
 }
 
 a:hover {
     color: #000000;
-    text-decoration-line: underline;
-    text-decoration-thickness: 2px;
-    text-decoration-color: #ff0000;
-    text-decoration-style: solid;
+    text-decoration: none;
+    border-bottom: 2px solid;
 }
 
 .social-media-list a:hover { text-decoration: none; }
