@@ -49,15 +49,5 @@ $on-laptop:        800px !default;
   "minima/layout",
   "minima/syntax-highlighting"
 ;
-/* Default hyperlink style */
-a {
-  text-decoration: none; /* Remove default underline */
-  border-bottom: 2px dotted red; /* Red dotted underline */
-  color: inherit; /* Keep default text color */
-  transition: border-bottom 0.2s ease-in-out; /* Smooth transition */
-}
 
-/* Hover effect */
-a:hover {
-  border-bottom: 2px solid red; /* Change to solid red underline on hover */
-}
+@import "custom";
