@@ -41,19 +41,19 @@ h1, h2, h3, h4, h5, h6 { font-weight: 400; }
 a {
     color: #000000;
     text-decoration: none;
-    border-bottom: 2px dotted;
+    border-bottom: 2px dotted red;
 }
 
 a:visited {
     color: #000000;
     text-decoration: none;
-    border-bottom: 2px dotted;
+    border-bottom: 2px dotted red;
 }
 
 a:hover {
     color: #000000;
     text-decoration: none;
-    border-bottom: 2px solid;
+    border-bottom: 2px solid red;
 }
 
 .social-media-list a:hover { text-decoration: none; }
