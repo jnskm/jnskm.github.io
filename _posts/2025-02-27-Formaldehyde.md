@@ -122,6 +122,8 @@ Stay away from towels that have synthetic textiles blended into them. Microfiber
     - Materials: Leather or synthetic fabrics with formaldehyde-based preservatives.
     - Daily Use: On your feet all day.
 
+Shoes are hard. I would recommend barefoot minimal shoes with wide toeboxes and those that are grounding. There's a lot of options on Etsy. Stick with real leather. Vegan leather requires a lot of processing and it isn't more environmentally friendly. Almost all the leather that are used for shoes, clothes, etc. are from the cows that a lot of folks eat. The leather would be thrown away otherwise.
+
 **Personal Care and Beauty Products**
 
 - Shampoo and Conditioner
@@ -129,108 +131,116 @@ Stay away from towels that have synthetic textiles blended into them. Microfiber
     - Materials: Water-based formulas with these formaldehyde-releasing chemicals.
     - Daily Use: Washing your hair in the shower.
 
+There are so many shampoos adn conditioners that use a bunch of synthetic meterials that are not good for you. Look at the ingredients on the plastic bottles and you'll find that most of the ingredients are synthetic. I recommend pure chamomile soap, for your hair, your face, and your body.
+
 - Body Wash and Liquid Soap
     - Formaldehyde’s Role: Same preservatives as above.
     - Materials: Water, surfactants, and formaldehyde releasers.
     - Daily Use: Cleaning your body or hands.
+
+Same thing here: pure chamomile soap is what I recommend.
 
 - Lotions and Moisturizers
     - Formaldehyde’s Role: Preservatives keep it shelf-stable.
     - Materials: Emulsions with formaldehyde-releasing agents.
     - Daily Use: Rubbing it into your skin.
 
+What you eat is more important than what you put on your 
+
 - Nail Polish and Hardeners
     - Formaldehyde’s Role: Sometimes added directly or in resins for durability; formalin (liquid formaldehyde) in hardeners.
     - Materials: Synthetic resins or formaldehyde itself.
     - Daily Use: Painting your nails.
 
-- Hair Smoothing Treatments (e.g., Brazilian Blowouts)
-    - Formaldehyde’s Role: Used (or released) to lock in straightness; some are labeled “formaldehyde-free” but still release it.
-    - Materials: Keratin formulas with formaldehyde or releasers like methylene glycol.
-    - Daily Use: Applied at salons, but you live with the residue.
+I am a guy, so I won't say much here. But I think a body that is naturally strong, including naturally strong fingernails, is beautiful.  
 
-- Cosmetics (Foundation, Mascara)
-    - Formaldehyde’s Role: Traces from preservatives like imidazolidinyl urea.
-    - Materials: Water-based makeup with these chemicals.
-    - Daily Use: Putting on your face for the day.
+- Hair Smoothing Treatments (e.g., Brazilian Blowouts)  
+    - Formaldehyde’s Role: Used (or released) to lock in straightness; some are labeled “formaldehyde-free” but still release it.  
+    - Materials: Keratin formulas with formaldehyde or releasers like methylene glycol.  
+    - Daily Use: Applied at salons, but you live with the residue.  
 
-- Deodorants
-    - Formaldehyde’s Role: Preservatives to extend shelf life.
-    - Materials: Water or alcohol bases with formaldehyde releasers.
-    - Daily Use: Under your arms every morning.
+- Cosmetics (Foundation, Mascara)  
+    - Formaldehyde’s Role: Traces from preservatives like imidazolidinyl urea.  
+    - Materials: Water-based makeup with these chemicals.  
+    - Daily Use: Putting on your face for the day.  
 
-**Cleaning and Household Products**
+- Deodorants  
+    - Formaldehyde’s Role: Preservatives to extend shelf life.  
+    - Materials: Water or alcohol bases with formaldehyde releasers.  
+    - Daily Use: Under your arms every morning.  
 
-- Dishwashing Liquid
-    - Formaldehyde’s Role: Antibacterial agent or preservative.
-    - Materials: Water, surfactants, and formaldehyde or releasers.
-    - Daily Use: Washing dishes.
+**Cleaning and Household Products**  
 
-- Fabric Softeners
-    - Formaldehyde’s Role: Preservative or fabric treatment.
-    - Materials: Chemical emulsions with formaldehyde traces.
-    - Daily Use: Softening your laundry.
+- Dishwashing Liquid  
+    - Formaldehyde’s Role: Antibacterial agent or preservative.  
+    - Materials: Water, surfactants, and formaldehyde or releasers.  
+    - Daily Use: Washing dishes.  
 
-- All-Purpose Cleaners
-    - Formaldehyde’s Role: Preservative or disinfectant.
-    - Materials: Water-based solutions with formaldehyde releasers.
-    - Daily Use: Wiping down counters or sinks.
+- Fabric Softeners  
+    - Formaldehyde’s Role: Preservative or fabric treatment.  
+    - Materials: Chemical emulsions with formaldehyde traces.  
+    - Daily Use: Softening your laundry.  
 
-- Paints and Varnishes
-    - Formaldehyde’s Role: In resins or as a preservative; off-gasses after drying.
-    - Materials: Synthetic binders or coatings with formaldehyde.
-    - Daily Use: On your walls or furniture.
+- All-Purpose Cleaners  
+    - Formaldehyde’s Role: Preservative or disinfectant.  
+    - Materials: Water-based solutions with formaldehyde releasers.  
+    - Daily Use: Wiping down counters or sinks.  
 
-- Glues and Adhesives
-    - Formaldehyde’s Role: Core ingredient in many formulas (e.g., urea-formaldehyde glue).
-    - Materials: Synthetic resins.
-    - Daily Use: DIY projects or repairs around the house.
+- Paints and Varnishes  
+    - Formaldehyde’s Role: In resins or as a preservative; off-gasses after drying.  
+    - Materials: Synthetic binders or coatings with formaldehyde.  
+    - Daily Use: On your walls or furniture.  
 
-**Everyday Consumables and Appliances**
+- Glues and Adhesives  
+    - Formaldehyde’s Role: Core ingredient in many formulas (e.g., urea-formaldehyde glue).  
+    - Materials: Synthetic resins.  
+    - Daily Use: DIY projects or repairs around the house.  
 
-- Paper Products (Paper Towels, Napkins)
-    - Formaldehyde’s Role: Added to improve wet strength.
-    - Materials: Wood pulp treated with formaldehyde resins.
-    - Daily Use: Wiping spills or your face.
+**Everyday Consumables and Appliances**  
 
-- Cigarettes and E-Cigarettes
-    - Formaldehyde’s Role: Byproduct of combustion or vaping liquid breakdown.
-    - Materials: Tobacco or vape juice (propylene glycol, glycerin) that forms formaldehyde when heated.
-    - Daily Use: Smoking or vaping.
+- Paper Products (Paper Towels, Napkins)  
+    - Formaldehyde’s Role: Added to improve wet strength.  
+    - Materials: Wood pulp treated with formaldehyde resins.  
+    - Daily Use: Wiping spills or your face.  
 
-- Gas Stoves and Kerosene Heaters
-    - Formaldehyde’s Role: Released as a combustion byproduct.
-    - Materials: Natural gas or kerosene.
-    - Daily Use: Cooking dinner or heating your home.
+- Cigarettes and E-Cigarettes  
+    - Formaldehyde’s Role: Byproduct of combustion or vaping liquid breakdown.  
+    - Materials: Tobacco or vape juice (propylene glycol, glycerin) that forms formaldehyde when heated.  
+    - Daily Use: Smoking or vaping.  
 
-**Miscellaneous**
+- Gas Stoves and Kerosene Heaters  
+    - Formaldehyde’s Role: Released as a combustion byproduct.  
+    - Materials: Natural gas or kerosene.  
+    - Daily Use: Cooking dinner or heating your home.  
 
-- Wallpaper
-    - Formaldehyde’s Role: In adhesives or coatings.
-    - Materials: Paper or vinyl with formaldehyde-based glues.
-    - Daily Use: Decorating your walls.
+**Miscellaneous**  
 
-- Grocery Bags (Paper)
-    - Formaldehyde’s Role: Strengthens the paper.
-    - Materials: Wood pulp with formaldehyde resins.
-    - Daily Use: Carrying your groceries home.
+- Wallpaper  
+    - Formaldehyde’s Role: In adhesives or coatings.  
+    - Materials: Paper or vinyl with formaldehyde-based glues.  
+    - Daily Use: Decorating your walls.  
 
-- Toys (Plastic or Wooden)
-    - Formaldehyde’s Role: In plastic production or wooden parts bonded with formaldehyde glues.
-    - Materials: Plastics or pressed wood.
-    - Daily Use: Kids playing with them.
+- Grocery Bags (Paper)  
+    - Formaldehyde’s Role: Strengthens the paper.  
+    - Materials: Wood pulp with formaldehyde resins.  
+    - Daily Use: Carrying your groceries home.  
 
-- Car Interiors (Seats, Dashboards)
-    - Formaldehyde’s Role: In adhesives, foams, or plastic molding.
-    - Materials: Synthetic fabrics, polyurethane foam, or plastics with formaldehyde resins.
-    - Daily Use: Driving to work or the store.
+- Toys (Plastic or Wooden)  
+    - Formaldehyde’s Role: In plastic production or wooden parts bonded with formaldehyde glues.  
+    - Materials: Plastics or pressed wood.  
+    - Daily Use: Kids playing with them.  
 
-## Why It’s Everywhere
+- Car Interiors (Seats, Dashboards)  
+    - Formaldehyde’s Role: In adhesives, foams, or plastic molding.  
+    - Materials: Synthetic fabrics, polyurethane foam, or plastics with formaldehyde resins.  
+    - Daily Use: Driving to work or the store.  
 
-Formaldehyde is cheap, effective, and versatile. It binds things together (furniture, fabrics), kills bacteria (cleaners, cosmetics), and preserves stuff (nail polish, bodies in morgues). The catch? It off-gasses -- releases vapor over time -- especially in new products or warm, humid conditions. Most exposure comes from breathing it in, though skin contact matters, too.
+## Why It’s Everywhere  
 
-Not every item has high levels; some just have traces from manufacturing. Modern regulations (like in California) push for low-emission versions, but it’s still in tons of stuff. You’re surrounded by it: your couch, your shirt, your shampoo, even your car. It’s not always a panic-level threat—small amounts are normal—but it adds up, especially indoors where ventilation’s poor.
+Formaldehyde is cheap, effective, and versatile. It binds things together (furniture, fabrics), kills bacteria (cleaners, cosmetics), and preserves stuff (nail polish, bodies in morgues). The catch? It off-gasses -- releases vapor over time -- especially in new products or warm, humid conditions. Most exposure comes from breathing it in, though skin contact matters, too.  
 
-Want to dodge it? Go for solid wood, organic fabrics, and products labeled “formaldehyde-free” or “low-VOC.” Air out new purchases, and open your windows if the outside air is cleaner than the air inside your home. Your daily life’s full of it, but you’ve got some control, if you’re *really* picky.
+Not every item has high levels; some just have traces from manufacturing. Modern regulations (like in California) push for low-emission versions, but it’s still in tons of stuff. You’re surrounded by it: your couch, your shirt, your shampoo, even your car. It’s not always a panic-level threat—small amounts are normal—but it adds up, especially indoors where ventilation’s poor.  
 
-Going back to Dekleve and Beck at the EPA: there will be less regulation for chemicals like formaldehyde. We have no choice but to be super picky about what we buy. Going forward stuff available for purchase will have a bunch more chemicals that will cause cancer and kill us.
+Want to dodge it? Go for solid wood, organic fabrics, and products labeled “formaldehyde-free” or “low-VOC.” Air out new purchases, and open your windows if the outside air is cleaner than the air inside your home. Your daily life’s full of it, but you’ve got some control, if you’re *really* picky.  
+
+Going back to Dekleve and Beck at the EPA: there will be less regulation for chemicals like formaldehyde. We have no choice but to be super picky about what we buy. Going forward stuff available for purchase will have a bunch more chemicals that will cause cancer and kill us.  
