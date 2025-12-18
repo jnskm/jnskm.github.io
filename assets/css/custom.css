@@ -1,0 +1,638 @@
+/* === FONT FACES === */
+@font-face {
+  font-family: 'Courier Prime Code';
+  src: url('/assets/fonts/Courier Prime Code.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Courier Prime Code';
+  src: url('/assets/fonts/Courier Prime Code Italic.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'EB Garamond';
+  src: url('/assets/fonts/EBGaramond-VariableFont_wght.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'EB Garamond';
+  src: url('/assets/fonts/EBGaramond-Italic-VariableFont_wght.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+}
+
+/* === BASE RESET === */
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: 'Courier Prime Code', monospace;
+  background: #fff;
+  color: #000;
+  display: flex;
+  flex-direction: column;
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+body.site {
+  margin: 2rem auto;
+  min-height: auto;
+  max-height: none;
+  overflow: hidden;
+  max-width: 1024px;
+  width: 90vw;
+  aspect-ratio: 1 / 1;
+  display: flex;
+  flex-direction: column;
+  border-left: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+}
+
+/* optical padding: looks equal top/bottom vs left/right */
+:root {
+  --pad-left: 3rem;          /* Left padding - matches top/bottom */
+  --pad-right: 1.5rem;       /* Right padding */
+  --pad-vertical: 3rem;      /* Top and bottom padding - more space from header/footer */
+}
+
+/* === HEADER === */
+.site-header,
+.site-footer {
+  flex: 0 0 auto;
+}
+
+.site-header header {
+  display: flex;
+  align-items: baseline;
+  gap: 2rem;
+  padding: 1.25rem 1.5rem 1rem;
+  min-height: auto;
+  background: #f8f8f8;
+  font-size: 1rem;
+}
+
+.site-name {
+  font-family: 'EB Garamond', serif;
+  font-size: 1.5rem;
+  line-height: 1;
+  margin: 0;
+  padding: 0;
+  border-bottom: none !important;
+  text-decoration: none !important;
+}
+
+.site-menu {
+  display: flex;
+  gap: 2rem;
+  margin-left: 0.3rem;
+}
+
+.site-menu a {
+  font-family: 'Courier Prime Code', monospace;
+  font-size: 1rem;
+  line-height: 1;
+  margin: 0;
+  padding: 0;
+  border-bottom: none !important;
+  text-decoration: none !important;
+}
+
+/* === FOOTER === */
+.site-footer footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.75rem 1.5rem;
+  min-height: 48px;
+  background: #f8f8f8;
+  font-size: 1rem;
+}
+
+.footer-links {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.footer-links a {
+  font-family: 'Courier Prime Code', monospace;
+  font-size: 1rem;
+  text-decoration: underline dotted red;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+
+.footer-links a:hover {
+  text-decoration: underline solid red;
+}
+
+.footer-separator {
+  color: #999;
+  margin: 0 0.25rem;
+}
+
+.footer-copyright {
+  font-family: 'Courier Prime Code', monospace;
+  font-size: 1rem;
+}
+
+/* === MAIN CONTENT === */
+.site-main {
+  flex: 1 1 auto;
+  box-sizing: border-box;
+
+  /* Top, bottom, and left padding are equal; right padding is different */
+  padding: var(--pad-vertical) var(--pad-right) var(--pad-vertical) var(--pad-left);
+
+  /* prevents content from slipping under the footer */
+  overflow: hidden;
+}
+
+.site-main .content {
+  height: 100%;
+  box-sizing: border-box;
+  overflow-y: auto; /* Allow scrolling within content area */
+  overflow-x: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start; /* Start at top for all pages */
+  width: 100%; /* Use full width of site-main */
+  max-width: 100%; /* Remove any max-width constraint */
+}
+
+/* Center content only on home page */
+body.site:has(.home-verse) .site-main .content,
+body.site:has(.home-intro) .site-main .content {
+  justify-content: center; /* Center vertically on home page only */
+}
+
+/* Custom scrollbar styling - subtle and minimal */
+.site-main .content::-webkit-scrollbar {
+  width: 8px;
+}
+
+.site-main .content::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.site-main .content::-webkit-scrollbar-thumb {
+  background: #ccc;
+  border-radius: 4px;
+}
+
+.site-main .content::-webkit-scrollbar-thumb:hover {
+  background: #999;
+}
+
+/* === TYPOGRAPHY === */
+h1 {
+  font-family: 'EB Garamond', serif;
+  font-size: 1.75rem;
+  font-weight: bold;
+  line-height: 1.3;
+}
+
+h2 {
+  font-family: 'EB Garamond', serif;
+  font-size: 1.5rem;
+  font-weight: bold;
+  line-height: 1.3;
+}
+
+h3 {
+  font-family: 'EB Garamond', serif;
+  font-size: 1.25rem;
+  font-weight: bold;
+  line-height: 1.3;
+}
+
+/* === LINKS === */
+a {
+  color: black;
+  text-decoration-line: underline;
+  text-decoration-style: dotted;
+  text-decoration-color: red;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+  font-size: 1rem;
+}
+
+a:hover {
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  text-decoration-color: red;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+
+/* === RESPONSIVE === */
+@media screen and (max-width: 768px) {
+  html {
+    font-size: 20px;
+  }
+
+  body.site {
+    border: none;
+    width: 90vw;
+    aspect-ratio: 1 / 1;
+  }
+
+  body.site.about-page .about-container {
+    width: 80vw;
+    max-width: 500px;
+  }
+
+  body.site.contact-page .contact-container {
+    width: 80vw;
+    max-width: 500px;
+  }
+
+  .site-main {
+    padding: var(--pad-vertical) 1.25rem var(--pad-vertical) var(--pad-left);
+  }
+
+  .site-header header,
+  .site-footer footer,
+  .site-menu a,
+  .site-name {
+    font-size: 1rem;
+  }
+
+  .footer-links {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.25rem;
+  }
+
+  .footer-separator {
+    display: none;
+  }
+
+  .site-footer footer {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.5rem;
+  }
+
+  a {
+    word-break: break-word;
+  }
+}
+
+/* Remove bullets from post list */
+ul.post-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  padding-left: 0; /* Explicitly remove left padding */
+  margin-left: 0; /* Explicitly remove left margin */
+}
+
+ul.post-list li {
+  margin-bottom: 0.5rem;
+}
+
+.pagination {
+  text-align: center;
+  font-family: 'Courier Prime Code', monospace;
+  font-size: 1rem;
+  margin-top: 2rem;
+  margin-bottom: 1.5rem;
+}
+
+.pagination a {
+  color: black;
+  text-decoration: underline dotted red;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+  margin: 0 1rem;
+}
+
+.pagination a:hover {
+  text-decoration: underline solid red;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+
+.post-item {
+  display: flex;
+  align-items: baseline;
+  margin-bottom: 1rem;
+  margin-left: 0; /* Explicitly remove left margin */
+  padding-left: 0; /* Explicitly remove left padding */
+}
+
+.post-date {
+  flex: 0 0 8ch;
+  color: #333;
+  margin-right: 1rem;
+}
+
+.post-title {
+  display: inline;
+  font-size: 1rem;
+  text-decoration: underline dotted red;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+  word-break: break-word;
+}
+
+.post-title:hover {
+  text-decoration: underline solid red;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+
+/* Remove link border on post title */
+.post-title-page {
+  border-bottom: none !important;
+  text-decoration: none !important;
+}
+
+/* .main-content is now handled by .site-main .content */
+.main-content {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  width: 100%; /* Use full width */
+  max-width: 100%; /* Remove any max-width constraint */
+  padding-left: 0; /* Explicitly remove left padding */
+  margin-left: 0; /* Explicitly remove left margin */
+}
+
+/* Headings within main-content should also have no left margin/padding */
+.main-content h2,
+.main-content h3 {
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.post-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  padding-left: 0; /* Explicitly remove left padding */
+  margin-left: 0; /* Explicitly remove left margin */
+}
+
+.pagination {
+  text-align: center;
+  font-family: 'Courier Prime Code', monospace;
+  font-size: 1rem;
+  margin-top: 2rem;
+}
+
+.post-content-wrapper {
+  padding: 0rem 0rem;
+  width: 100%;
+  max-width: 100%;
+  margin: 0;
+}
+
+/* Override centering for music pages - make content full width and left-aligned */
+body.site:has(.post-content-wrapper) .site-main .content {
+  align-items: flex-start;
+}
+
+article.post {
+  width: 100%;
+  max-width: 100%;
+  margin: 0;
+}
+
+@media screen and (min-width: 1280px) {
+  .post-content-wrapper {
+    padding-left: 0rem;
+    padding-right: 0rem;
+  }
+}
+
+img {
+  max-width: 80%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+.book-cover {
+  width: 300px;            /* Base width for 6:9 aspect ratio */
+  max-width: 100%;         /* Keep responsive on small screens */
+  aspect-ratio: 2 / 3;     /* Enforce 6:9 (2:3) aspect ratio */
+  height: auto;            /* Fallback for older browsers */
+  float: left;             /* Aligns image left */
+  margin-right: 20px;      /* Spacing between image and text */
+  margin-bottom: 15px;     /* Spacing below image */
+  display: block;
+  object-fit: contain;     /* Preserve full image without cropping */
+}
+
+.album-cover {
+  width: 300px;            /* Base width for square aspect ratio */
+  max-width: 100%;         /* Keep responsive on small screens */
+  aspect-ratio: 1 / 1;     /* Enforce 1:1 (square) aspect ratio */
+  height: auto;            /* Fallback for older browsers */
+  float: left;             /* Aligns image left, allows text to wrap */
+  margin-right: 20px;      /* Spacing between image and text */
+  margin-bottom: 10px;     /* Spacing below image */
+  display: block;          /* Remove inline baseline spacing */
+  object-fit: contain;     /* Preserve full image without cropping */
+}
+
+/* Remove top margin from first heading in post-content to align with image top */
+.post-content > h2:first-child,
+.post-content > h3:first-child,
+.post-content > h2:first-of-type,
+.post-content > h3:first-of-type {
+  margin-top: 0;
+}
+
+/* Lyrics section styling - use site font */
+.lyrics-section {
+  font-family: 'Courier Prime Code', monospace;
+  margin-top: 2rem;
+}
+
+.lyrics-section h2 {
+  font-family: 'EB Garamond', serif;
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.lyrics-content {
+  font-family: 'Courier Prime Code', monospace;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+/* Make images responsive on mobile */
+@media screen and (max-width: 600px) {
+  .book-cover {
+    width: 200px;                 /* Smaller size on mobile (maintains 2:3 ratio) */
+    float: none;                  /* Remove floating */
+    display: block;
+    margin: 0 auto 15px auto;     /* Center the image */
+  }
+  
+  .album-cover {
+    width: 200px;                 /* Smaller size on mobile (maintains 1:1 ratio) */
+    float: none;                  /* Remove floating */
+    display: block;
+    margin: 0 auto 10px auto;     /* Center the image */
+  }
+}
+
+/* Extra small mobile devices */
+@media screen and (max-width: 400px) {
+  .book-cover {
+    width: 150px;                 /* Even smaller for very old/small devices */
+  }
+  
+  .album-cover {
+    width: 150px;                 /* Even smaller for very old/small devices */
+  }
+}
+
+/* === HOME PAGE SECTIONS === */
+.home-verse {
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.home-verse p {
+  font-family: 'EB Garamond', serif;
+  font-size: 1.25rem;
+  line-height: 1.6;
+  margin: 0;
+}
+
+.home-verse em {
+  font-style: italic;
+  font-size: 1rem;
+  color: #666;
+}
+
+.home-intro {
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.home-intro p {
+  font-family: 'EB Garamond', serif;
+  font-size: 1rem;
+  line-height: 1.6;
+  margin: 0;
+}
+
+.home-links {
+  margin-top: 2rem;
+}
+
+.home-links p {
+  margin: 0.5rem 0;
+}
+
+.home-links a {
+  font-family: 'Courier Prime Code', monospace;
+  font-size: 1rem;
+  text-decoration: underline dotted red;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+
+.home-links a:hover {
+  text-decoration: underline solid red;
+}
+
+/* === ABOUT PAGE === */
+body.site.about-page .site-main .content {
+  font-family: 'EB Garamond', serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+}
+
+/* Square content container for About page */
+body.site.about-page .about-container {
+  width: 60vw;
+  max-width: 600px;
+  aspect-ratio: 1 / 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 2rem;
+  box-sizing: border-box;
+  text-align: center; /* Center text within container */
+}
+
+body.site.about-page .about-container p {
+  font-family: 'EB Garamond', serif;
+  font-size: 1rem;
+  line-height: 1.6;
+  margin-bottom: 1rem;
+  text-align: center; /* Center each paragraph */
+}
+
+body.site.about-page .about-container strong {
+  font-weight: bold;
+}
+
+/* === CONTACT PAGE === */
+body.site.contact-page .site-main .content {
+  font-family: 'EB Garamond', serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+}
+
+/* Square content container for Contact page */
+body.site.contact-page .contact-container {
+  width: 60vw;
+  max-width: 600px;
+  aspect-ratio: 1 / 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 2rem;
+  box-sizing: border-box;
+  text-align: center; /* Center text within container */
+}
+
+body.site.contact-page .contact-label {
+  font-family: 'EB Garamond', serif;
+  font-size: 1rem;
+  line-height: 1.6;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+body.site.contact-page .contact-email {
+  font-family: 'Courier Prime Code', monospace;
+  font-size: 1rem;
+  line-height: 1.6;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+body.site.contact-page .contact-email a {
+  font-family: 'Courier Prime Code', monospace;
+  color: black;
+  text-decoration: underline dotted red;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+
+body.site.contact-page .contact-email a:hover {
+  text-decoration: underline solid red;
+}

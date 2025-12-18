@@ -1,0 +1,60 @@
+---
+layout: default
+---
+
+<article class="post">
+  <div class="post-content-wrapper">
+    <h1 class="post-title-page">{{ page.title }}</h1>
+    {% if page.scripture %}
+    <p class="post-meta">Scripture: {{ page.scripture }}</p>
+    {% endif %}
+    {% if page.date %}
+    <p class="post-date">{{ page.date | date: "%Y.%m.%d" }}</p>
+    {% endif %}
+    
+    {% comment %} Embed video if embed_video is true (default) or not specified {% endcomment %}
+    {% if page.embed_video != false %}
+      {% if page.youtube_id %}
+      <div class="video-embed">
+        <iframe 
+          width="560" 
+          height="315" 
+          src="https://www.youtube.com/embed/{{ page.youtube_id }}" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+        </iframe>
+      </div>
+      {% elsif page.youtube_url %}
+      <div class="video-embed">
+        <iframe 
+          width="560" 
+          height="315" 
+          src="{{ page.youtube_url | replace: 'watch?v=', 'embed/' | replace: 'youtu.be/', 'youtube.com/embed/' }}" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+        </iframe>
+      </div>
+      {% endif %}
+    {% endif %}
+    
+    <div class="post-content">
+      {{ content }}
+    </div>
+    
+    <div class="video-links">
+      {% if page.youtube %}
+      <a href="{{ page.youtube }}" target="_blank" rel="noopener noreferrer" class="video-link">Watch on YouTube</a>
+      {% elsif page.youtube_id %}
+      <a href="https://youtube.com/watch?v={{ page.youtube_id }}" target="_blank" rel="noopener noreferrer" class="video-link">Watch on YouTube</a>
+      {% elsif page.youtube_url %}
+      <a href="{{ page.youtube_url }}" target="_blank" rel="noopener noreferrer" class="video-link">Watch on YouTube</a>
+      {% endif %}
+      {% if page.youtube_channel %}
+      <a href="{{ page.youtube_channel }}" target="_blank" rel="noopener noreferrer" class="video-link">Visit YouTube Channel</a>
+      {% endif %}
+    </div>
+  </div>
+</article>
+

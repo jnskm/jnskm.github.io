@@ -1,1 +1,0 @@
-# jnskm.github.io

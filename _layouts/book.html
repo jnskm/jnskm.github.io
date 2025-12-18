@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+<article class="post">
+  <div class="post-content-wrapper">
+    <h1 class="post-title-page">{{ page.title }}</h1>
+    {% if page.author %}
+    <p class="post-meta">by {{ page.author }}</p>
+    {% endif %}
+    {% if page.date %}
+    <p class="post-date">{{ page.date | date: "%Y.%m.%d" }}</p>
+    {% endif %}
+    
+    {% if page.cover_image %}
+    <img src="{{ page.cover_image | relative_url }}" 
+         alt="Cover of {{ page.title }}" 
+         class="book-cover"
+         width="300"
+         height="450"
+         loading="lazy">
+    {% endif %}
+    
+    <div class="post-content">
+      {{ content }}
+    </div>
+    
+    <div class="book-links">
+      {% if page.amazon %}
+      <a href="{{ page.amazon }}" target="_blank" rel="noopener noreferrer" class="book-link">Buy on Amazon</a>
+      {% endif %}
+      {% if page.other_stores %}
+      <div class="other-stores">
+        <h3>Also Available At</h3>
+        {{ page.other_stores | markdownify }}
+      </div>
+      {% endif %}
+    </div>
+  </div>
+</article>
+

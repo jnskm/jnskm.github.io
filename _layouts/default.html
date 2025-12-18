@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+  <link rel="alternate" type="application/rss+xml" title="RSS Feed" href="{{ '/feed.xml' | relative_url }}">
+</head>
+<body class="site{% if page.class %} {{ page.class }}{% endif %}">
+  <header class="site-header">
+    {% include header.html %}
+  </header>
+
+  <main class="site-main">
+    <div class="content">
+      {{ content }}
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    {% include footer.html %}
+  </footer>
+  <script>
+    // Reset scroll position to top when page loads
+    document.addEventListener('DOMContentLoaded', function() {
+      const contentWrapper = document.querySelector('.site-main .content');
+      if (contentWrapper) {
+        contentWrapper.scrollTop = 0;
+      }
+    });
+  </script>
+</body>
+</html>
