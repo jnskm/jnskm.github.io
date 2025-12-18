@@ -1,25 +1,17 @@
+---
+---
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <title>Home | JNSKM</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="/assets/css/custom.css">
-  <link rel="alternate" type="application/rss+xml" title="RSS Feed" href="/feed.xml">
+  <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+  <link rel="alternate" type="application/rss+xml" title="RSS Feed" href="{{ '/feed.xml' | relative_url }}">
 </head>
 <body class="site">
   <header class="site-header">
-    <header>
-      <a href="/" class="site-name">JNSKM</a>
-      <nav class="site-menu">
-        <a href="/blog">Blog</a>
-        <a href="/books">Books</a>
-        <a href="/music">Music</a>
-        <a href="/bible-studies">Bible Studies</a>
-        <a href="/devotionals">Devotionals</a>
-        <a href="/podcasts">Podcasts</a>
-      </nav>
-    </header>
+    {% include header.html %}
   </header>
 
   <main class="site-main">

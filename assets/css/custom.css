@@ -92,11 +92,16 @@ body.site {
   align-items: center;
 }
 
+.site-name img {
+  display: block;
+}
+
 .site-logo {
   height: 2.5rem;
   width: auto;
   max-width: 200px;
   object-fit: contain;
+  display: block;
 }
 
 .site-menu {
@@ -317,6 +322,7 @@ a:hover {
   /* Mobile header adjustments */
   .site-header header {
     padding: 1rem 1.25rem;
+    flex-wrap: wrap;
   }
 
   .site-logo {
@@ -344,9 +350,11 @@ a:hover {
     overflow: hidden;
     transition: max-height 0.3s ease-out;
     border-top: 1px solid #ddd;
+    display: none;
   }
-
+  
   .site-menu.menu-open {
+    display: flex;
     max-height: 500px;
     padding: 1rem 0;
   }
