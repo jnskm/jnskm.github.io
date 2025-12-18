@@ -7,10 +7,6 @@ class: about-page
 
 <div class="about-container">
   <p>
-    Welcome to <strong>JNSKM.com</strong>
-  </p>
-
-  <p>
     This site reflects the thoughts, work, and faith of someone navigating life with creativity, clarity, and purpose.
   </p>
   <p>
