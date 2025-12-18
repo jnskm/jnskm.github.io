@@ -70,12 +70,14 @@ body.site {
 
 .site-header header {
   display: flex;
-  align-items: baseline;
+  align-items: center;
+  justify-content: space-between;
   gap: 2rem;
   padding: 1.25rem 1.5rem 1rem;
   min-height: auto;
   background: #f8f8f8;
   font-size: 1rem;
+  position: relative;
 }
 
 .site-name {
@@ -86,6 +88,15 @@ body.site {
   padding: 0;
   border-bottom: none !important;
   text-decoration: none !important;
+  display: flex;
+  align-items: center;
+}
+
+.site-logo {
+  height: 2.5rem;
+  width: auto;
+  max-width: 200px;
+  object-fit: contain;
 }
 
 .site-menu {
@@ -102,6 +113,43 @@ body.site {
   padding: 0;
   border-bottom: none !important;
   text-decoration: none !important;
+}
+
+/* === HAMBURGER MENU === */
+.menu-toggle {
+  display: none;
+  flex-direction: column;
+  justify-content: space-around;
+  width: 2rem;
+  height: 2rem;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  z-index: 10;
+}
+
+.menu-toggle span {
+  width: 2rem;
+  height: 0.25rem;
+  background: #000;
+  border-radius: 10px;
+  transition: all 0.3s linear;
+  position: relative;
+  transform-origin: 1px;
+}
+
+.menu-toggle.menu-active span:first-child {
+  transform: rotate(45deg);
+}
+
+.menu-toggle.menu-active span:nth-child(2) {
+  opacity: 0;
+  transform: translateX(20px);
+}
+
+.menu-toggle.menu-active span:nth-child(3) {
+  transform: rotate(-45deg);
 }
 
 /* === FOOTER === */
@@ -264,6 +312,54 @@ a:hover {
   .site-menu a,
   .site-name {
     font-size: 1rem;
+  }
+
+  /* Mobile header adjustments */
+  .site-header header {
+    padding: 1rem 1.25rem;
+  }
+
+  .site-logo {
+    height: 2rem;
+    max-width: 150px;
+  }
+
+  /* Show hamburger menu on mobile */
+  .menu-toggle {
+    display: flex;
+  }
+
+  /* Hide menu by default on mobile */
+  .site-menu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    background: #f8f8f8;
+    flex-direction: column;
+    gap: 0;
+    margin: 0;
+    padding: 0;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease-out;
+    border-top: 1px solid #ddd;
+  }
+
+  .site-menu.menu-open {
+    max-height: 500px;
+    padding: 1rem 0;
+  }
+
+  .site-menu a {
+    padding: 0.75rem 1.5rem;
+    border-bottom: 1px solid #eee;
+    width: 100%;
+    display: block;
+  }
+
+  .site-menu a:last-child {
+    border-bottom: none;
   }
 
   .footer-links {

@@ -1,6 +1,13 @@
 <header>
-  <a href="{{ '/' | relative_url }}" class="site-name">JNSKM</a>
-  <nav class="site-menu">
+  <a href="{{ '/' | relative_url }}" class="site-name">
+    <img src="{{ '/assets/images/KimJinSung_Logo_03.png' | relative_url }}" alt="JNSKM" class="site-logo">
+  </a>
+  <button class="menu-toggle" aria-label="Toggle menu" aria-expanded="false">
+    <span></span>
+    <span></span>
+    <span></span>
+  </button>
+  <nav class="site-menu" id="site-menu">
     <a href="/blog">Blog</a>
     <a href="/books">Books</a>
     <a href="/music">Music</a>
@@ -9,3 +16,30 @@
     <a href="/podcasts">Podcasts</a>
   </nav>
 </header>
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const menuToggle = document.querySelector('.menu-toggle');
+    const siteMenu = document.getElementById('site-menu');
+    
+    if (menuToggle && siteMenu) {
+      menuToggle.addEventListener('click', function() {
+        const isExpanded = menuToggle.getAttribute('aria-expanded') === 'true';
+        menuToggle.setAttribute('aria-expanded', !isExpanded);
+        siteMenu.classList.toggle('menu-open');
+        menuToggle.classList.toggle('menu-active');
+      });
+      
+      // Close menu when clicking on a link (mobile)
+      const menuLinks = siteMenu.querySelectorAll('a');
+      menuLinks.forEach(link => {
+        link.addEventListener('click', function() {
+          if (window.innerWidth <= 768) {
+            siteMenu.classList.remove('menu-open');
+            menuToggle.classList.remove('menu-active');
+            menuToggle.setAttribute('aria-expanded', 'false');
+          }
+        });
+      });
+    }
+  });
+</script>
