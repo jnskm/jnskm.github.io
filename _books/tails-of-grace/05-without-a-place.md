@@ -2,10 +2,7 @@
 title: "Book 05: Without a Place, Not Without a Shepherd"
 date: 2025-06-13
 cover_image: "/assets/images/books/book-cover-05-without-a-place.jpg"
-# Recommended image dimensions: 300x450px (6:9 aspect ratio)
-# This ensures optimal display and fast loading on all devices
-# File size should be under 100KB for best performance
-series: "Tails of Grace"  # Optional, e.g., "Tails of Grace"
+series: "Tails of Grace"
 ---
 
 ## Twelve Lessons on Homelessness from Good Dogs and Our Faithful God

@@ -13,7 +13,7 @@ collections:
     permalink: /music/:name/
   books:
     output: true
-    permalink: /books/:name/
+    permalink: /books/:path/
   videos:
     output: true
     permalink: /videos/:name/
@@ -55,8 +55,5 @@ defaults:
     values:
       layout: "post"
 
-paginate: 12
-paginate_path: "/page:num"
 plugins:
-  - jekyll-paginate
   - jekyll-feed

@@ -2,10 +2,7 @@
 title: "Book 08: Not Just Pedigree"
 date: 2025-12-09
 cover_image: "/assets/images/books/book-cover-08-not-just-pedigree.jpg"
-# Recommended image dimensions: 300x450px (6:9 aspect ratio)
-# This ensures optimal display and fast loading on all devices
-# File size should be under 100KB for best performance
-series: "Tails of Grace"  # Optional, e.g., "Tails of Grace"
+series: "Tails of Grace"
 ---
 
 ## Twelve Lessons From Good Dogs About Family Pressure and Freedom
