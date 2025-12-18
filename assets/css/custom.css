@@ -309,7 +309,7 @@ a:hover {
   }
 
   .site-main {
-    padding: var(--pad-vertical) 1.25rem var(--pad-vertical) var(--pad-left);
+    padding: var(--pad-vertical) 1.25rem var(--pad-vertical) 1.25rem;
   }
 
   .site-header header,
@@ -371,19 +371,26 @@ a:hover {
   }
 
   .footer-links {
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 0.25rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
   }
 
   .footer-separator {
-    display: none;
+    display: inline;
+    color: #999;
+    margin: 0 0.25rem;
   }
 
   .site-footer footer {
     flex-direction: column;
-    align-items: flex-start;
+    align-items: center;
     gap: 0.5rem;
+  }
+  
+  .footer-copyright {
+    text-align: center;
+    width: 100%;
   }
 
   a {
