@@ -318,6 +318,16 @@ a:hover {
   .site-name {
     font-size: 1rem;
   }
+  
+  /* Ensure post-content and lyrics maintain consistent font size on mobile */
+  .post-content,
+  .post-content p,
+  .lyrics-content,
+  .lyrics-content p,
+  .lyrics-content * {
+    font-size: 1rem !important;
+    line-height: 1.6 !important;
+  }
 
   /* Mobile header adjustments */
   .site-header header {
@@ -566,6 +576,17 @@ img {
   margin-top: 0;
 }
 
+/* Ensure post-content text uses consistent font size */
+.post-content {
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+.post-content p {
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
 /* Lyrics section styling - use site font */
 .lyrics-section {
   font-family: 'Courier Prime Code', monospace;
@@ -583,6 +604,36 @@ img {
   font-family: 'Courier Prime Code', monospace;
   font-size: 1rem;
   line-height: 1.6;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+}
+
+.lyrics-content p {
+  font-size: 1rem;
+  line-height: 1.6;
+  margin: 0 0 0.5rem 0;
+}
+
+.lyrics-content * {
+  font-size: 1rem !important;
+  line-height: 1.6 !important;
+  max-width: 100%;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
+
+/* Ensure headings in lyrics don't override the font size */
+.lyrics-content h1,
+.lyrics-content h2,
+.lyrics-content h3,
+.lyrics-content h4,
+.lyrics-content h5,
+.lyrics-content h6 {
+  font-size: 1rem !important;
+  line-height: 1.6 !important;
 }
 
 /* Make images responsive on mobile */
