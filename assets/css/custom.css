@@ -346,6 +346,18 @@ a:hover {
     word-break: break-word !important;
   }
   
+  /* Fix pre.lyrics-content wrapping on mobile */
+  pre.lyrics-content {
+    white-space: pre-wrap !important;
+    word-wrap: break-word !important;
+    overflow-wrap: anywhere !important;
+    word-break: break-word !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+    box-sizing: border-box !important;
+  }
+  
   .lyrics-content p,
   .lyrics-content * {
     width: 100% !important;
@@ -653,6 +665,17 @@ img {
   box-sizing: border-box;
   min-width: 0;
   hyphens: auto;
+}
+
+/* Allow pre tags with lyrics-content to wrap text */
+pre.lyrics-content {
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  overflow-wrap: anywhere;
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+  min-width: 0;
 }
 
 .lyrics-content p {
