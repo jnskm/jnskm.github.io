@@ -328,6 +328,48 @@ a:hover {
     font-size: 1rem !important;
     line-height: 1.6 !important;
   }
+  
+  /* Fix lyrics text wrapping on mobile */
+  .lyrics-section {
+    width: 100%;
+    max-width: 100%;
+    box-sizing: border-box;
+    min-width: 0;
+  }
+  
+  .lyrics-content {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+    box-sizing: border-box !important;
+    overflow-wrap: anywhere !important;
+    word-break: break-word !important;
+  }
+  
+  .lyrics-content p,
+  .lyrics-content * {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+    box-sizing: border-box !important;
+    overflow-wrap: anywhere !important;
+    word-break: break-word !important;
+  }
+  
+  /* Ensure post-content-wrapper doesn't constrain lyrics */
+  .post-content-wrapper {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+    box-sizing: border-box !important;
+  }
+  
+  article.post {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+    box-sizing: border-box !important;
+  }
 
   /* Mobile header adjustments */
   .site-header header {
@@ -605,24 +647,32 @@ img {
   font-size: 1rem;
   line-height: 1.6;
   word-wrap: break-word;
-  overflow-wrap: break-word;
+  overflow-wrap: anywhere;
   width: 100%;
   max-width: 100%;
   box-sizing: border-box;
+  min-width: 0;
+  hyphens: auto;
 }
 
 .lyrics-content p {
   font-size: 1rem;
   line-height: 1.6;
   margin: 0 0 0.5rem 0;
+  word-wrap: break-word;
+  overflow-wrap: anywhere;
+  max-width: 100%;
+  box-sizing: border-box;
 }
 
 .lyrics-content * {
   font-size: 1rem !important;
   line-height: 1.6 !important;
-  max-width: 100%;
-  word-wrap: break-word;
-  overflow-wrap: break-word;
+  max-width: 100% !important;
+  word-wrap: break-word !important;
+  overflow-wrap: break-word !important;
+  overflow-wrap: anywhere !important;
+  box-sizing: border-box !important;
 }
 
 /* Ensure headings in lyrics don't override the font size */
