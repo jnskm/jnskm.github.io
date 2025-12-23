@@ -641,9 +641,9 @@ img {
   line-height: 1.6;
 }
 
-/* Lyrics section styling - use site font */
+/* Lyrics section styling - use EB Garamond for more compact display */
 .lyrics-section {
-  font-family: 'Courier Prime Code', monospace;
+  font-family: 'EB Garamond', serif;
   margin-top: 2rem;
 }
 
@@ -655,7 +655,7 @@ img {
 }
 
 .lyrics-content {
-  font-family: 'Courier Prime Code', monospace;
+  font-family: 'EB Garamond', serif;
   font-size: 1rem;
   line-height: 1.6;
   word-wrap: break-word;
