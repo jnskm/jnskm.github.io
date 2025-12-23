@@ -720,12 +720,21 @@ pre.lyrics-content {
   }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 768px) {
   .book-cover {
-    width: 200px;                 /* Smaller size on mobile (maintains 2:3 ratio) */
+    width: 90%;                   /* Large size on mobile - fits most of the width */
+    max-width: 400px;             /* Cap at 400px for very wide mobile screens */
     float: none;                  /* Remove floating */
     display: block;
-    margin: 0 auto 15px auto;     /* Center the image */
+    margin: 0 0 20px 0;           /* Left-align the image with bottom margin */
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .book-cover {
+    width: 95%;                    /* Even larger on smaller mobile devices */
+    max-width: 350px;             /* Slightly smaller cap for smaller screens */
+    margin: 0 0 20px 0;           /* Left-align the image */
   }
   
   .album-cover {
@@ -738,7 +747,9 @@ pre.lyrics-content {
 /* Extra small mobile devices */
 @media screen and (max-width: 400px) {
   .book-cover {
-    width: 150px;                 /* Even smaller for very old/small devices */
+    width: 98%;                    /* Nearly full width on very small devices */
+    max-width: none;              /* Remove max-width constraint */
+    margin: 0 0 20px 0;           /* Left-align the image */
   }
   
   .album-cover {
