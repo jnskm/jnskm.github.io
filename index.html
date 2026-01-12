@@ -49,11 +49,47 @@
     </footer>
   </footer>
   <script>
+    // Prevent browser from restoring scroll position
+    if ('scrollRestoration' in history) {
+      history.scrollRestoration = 'manual';
+    }
+
     // Reset scroll position to top when page loads
-    document.addEventListener('DOMContentLoaded', function() {
+    function resetScroll() {
+      // Reset window scroll position
+      window.scrollTo(0, 0);
+      
+      // Reset content wrapper scroll position
       const contentWrapper = document.querySelector('.site-main .content');
       if (contentWrapper) {
         contentWrapper.scrollTop = 0;
+      }
+    }
+
+    // Reset on multiple events to ensure it works
+    document.addEventListener('DOMContentLoaded', function() {
+      // Use requestAnimationFrame to ensure it happens after rendering
+      requestAnimationFrame(function() {
+        resetScroll();
+        // Double-check after a short delay
+        setTimeout(resetScroll, 0);
+      });
+    });
+
+    // Also reset on page load
+    window.addEventListener('load', function() {
+      requestAnimationFrame(function() {
+        resetScroll();
+      });
+    });
+
+    // Reset on pageshow (for back/forward navigation)
+    window.addEventListener('pageshow', function(event) {
+      if (event.persisted) {
+        // Page was loaded from cache
+        requestAnimationFrame(function() {
+          resetScroll();
+        });
       }
     });
   </script>
