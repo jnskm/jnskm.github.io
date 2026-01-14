@@ -3,7 +3,7 @@
 Check for new music releases on YouTube and create Jekyll music entries.
 
 This script:
-1. Fetches the YouTube RSS feed for the configured channel
+1. Uses the YouTube Data API to fetch ALL videos from a playlist
 2. Compares against previously tracked videos AND existing _music/ files
 3. Creates new _music/ entries for any new videos
 4. Matches the existing simple format used in the site
@@ -12,7 +12,6 @@ This script:
 import os
 import re
 import json
-import xml.etree.ElementTree as ET
 from datetime import datetime
 from pathlib import Path
 from urllib.request import urlopen, Request
@@ -29,177 +28,99 @@ except ImportError:
     print("Warning: PIL/Pillow not installed. Thumbnails will not be downloaded.")
 
 # Configuration
-YOUTUBE_HANDLE = os.environ.get('YOUTUBE_HANDLE', '@jnskm')
 REPO_ROOT = Path(__file__).parent.parent
 MUSIC_DIR = REPO_ROOT / '_music'
 IMAGES_DIR = REPO_ROOT / 'assets' / 'images' / 'music'
 TRACKER_FILE = REPO_ROOT / '.music-tracker.json'
 
 # Cover image settings
-# YouTube maxresdefault is 1280x720, which crops to 720x720 square
-# We don't upscale to avoid blurry images - output matches input size (up to max)
 COVER_IMAGE_MAX_SIZE = 1080  # Maximum output size (won't upscale beyond source)
 COVER_IMAGE_MIN_SIZE = 480   # Minimum acceptable size (below this, skip download)
 
 # YouTube playlist ID - only videos in this playlist will be added to the site
-# This is from the "Christian Songs" playlist
 YOUTUBE_PLAYLIST_ID = os.environ.get('YOUTUBE_PLAYLIST_ID', 'PLyxPXRjXeZFtRQQdEXH_pMndVzNPRDqkO')
 
-# YouTube RSS feed URL patterns
-YOUTUBE_RSS_BY_PLAYLIST_ID = 'https://www.youtube.com/feeds/videos.xml?playlist_id={}'
-YOUTUBE_RSS_BY_CHANNEL_ID = 'https://www.youtube.com/feeds/videos.xml?channel_id={}'
-YOUTUBE_CHANNEL_PAGE = 'https://www.youtube.com/{}'
+# YouTube Data API key (required for full playlist access)
+YOUTUBE_API_KEY = os.environ.get('YOUTUBE_API_KEY', '')
 
-# Since we're using a curated playlist, assume ALL videos in it are music
-ASSUME_ALL_MUSIC = True
-
-# Keywords that indicate a video is music (only used if ASSUME_ALL_MUSIC = False)
-MUSIC_KEYWORDS = [
-    'official', 'audio', 'music', 'song', 'single', 'album', 'ep',
-    'lyric', 'video', 'mv', 'track', 'release'
-]
-
-# Keywords that indicate a video is NOT music
-NON_MUSIC_KEYWORDS = [
-    'vlog', 'tutorial', 'review', 'unboxing', 'gameplay', 'stream',
-    'podcast', 'interview', 'behind the scenes', 'reaction'
-]
+# YouTube Data API endpoint
+YOUTUBE_API_PLAYLIST_ITEMS = 'https://www.googleapis.com/youtube/v3/playlistItems'
 
 
-def fetch_playlist_rss(playlist_id: str) -> list[dict]:
+def fetch_playlist_videos_api(playlist_id: str, api_key: str) -> list[dict]:
     """
-    Fetch and parse the YouTube RSS feed for a playlist.
+    Fetch ALL videos from a YouTube playlist using the Data API.
+    This overcomes the 15-video limit of RSS feeds.
+
     Returns a list of video entries with metadata.
     """
-    url = YOUTUBE_RSS_BY_PLAYLIST_ID.format(playlist_id)
-    return _parse_youtube_rss(url)
+    if not api_key:
+        print("Error: YOUTUBE_API_KEY environment variable not set")
+        print("Please add your YouTube Data API key to GitHub Secrets")
+        return []
 
-
-def fetch_channel_rss(channel_id: str) -> list[dict]:
-    """
-    Fetch and parse the YouTube RSS feed for a channel.
-    Returns a list of video entries with metadata.
-    """
-    url = YOUTUBE_RSS_BY_CHANNEL_ID.format(channel_id)
-    return _parse_youtube_rss(url)
-
-
-def get_channel_id_from_handle(handle: str) -> str | None:
-    """
-    Fetch the YouTube channel page and extract the channel ID.
-    The channel ID is needed for the RSS feed.
-    """
-    url = YOUTUBE_CHANNEL_PAGE.format(handle)
-    try:
-        req = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
-        with urlopen(req, timeout=30) as response:
-            html = response.read().decode('utf-8')
-
-            # Look for channel ID in various places
-            patterns = [
-                r'"channelId":"(UC[a-zA-Z0-9_-]{22})"',
-                r'channel_id=(UC[a-zA-Z0-9_-]{22})',
-                r'"externalId":"(UC[a-zA-Z0-9_-]{22})"',
-                r'<meta itemprop="channelId" content="(UC[a-zA-Z0-9_-]{22})"',
-            ]
-
-            for pattern in patterns:
-                match = re.search(pattern, html)
-                if match:
-                    return match.group(1)
-
-    except (URLError, HTTPError) as e:
-        print(f"Error fetching channel page: {e}")
-
-    return None
-
-
-def _parse_youtube_rss(url: str) -> list[dict]:
-    """
-    Fetch and parse a YouTube RSS feed (channel or playlist).
-    Returns a list of video entries with metadata.
-    """
     videos = []
+    next_page_token = None
 
-    try:
-        req = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
-        with urlopen(req, timeout=30) as response:
-            xml_content = response.read()
+    while True:
+        # Build API URL
+        url = (
+            f"{YOUTUBE_API_PLAYLIST_ITEMS}"
+            f"?part=snippet,contentDetails"
+            f"&playlistId={playlist_id}"
+            f"&maxResults=50"  # Maximum allowed per request
+            f"&key={api_key}"
+        )
 
-        # Parse XML
-        root = ET.fromstring(xml_content)
+        if next_page_token:
+            url += f"&pageToken={next_page_token}"
 
-        # Define namespaces used in YouTube RSS
-        namespaces = {
-            'atom': 'http://www.w3.org/2005/Atom',
-            'yt': 'http://www.youtube.com/xml/schemas/2015',
-            'media': 'http://search.yahoo.com/mrss/',
-        }
+        try:
+            req = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+            with urlopen(req, timeout=30) as response:
+                data = json.loads(response.read().decode('utf-8'))
 
-        # Extract video entries
-        for entry in root.findall('atom:entry', namespaces):
-            video_id = entry.find('yt:videoId', namespaces)
-            title = entry.find('atom:title', namespaces)
-            published = entry.find('atom:published', namespaces)
+            # Process each item in the response
+            for item in data.get('items', []):
+                snippet = item.get('snippet', {})
+                content_details = item.get('contentDetails', {})
 
-            # Get media group for additional info
-            media_group = entry.find('media:group', namespaces)
-            description = ''
-            thumbnail = ''
+                video_id = content_details.get('videoId') or snippet.get('resourceId', {}).get('videoId')
 
-            if media_group is not None:
-                desc_elem = media_group.find('media:description', namespaces)
-                if desc_elem is not None and desc_elem.text:
-                    description = desc_elem.text
+                if not video_id:
+                    continue
 
-                thumb_elem = media_group.find('media:thumbnail', namespaces)
-                if thumb_elem is not None:
-                    thumbnail = thumb_elem.get('url', '')
+                # Get the best available thumbnail
+                thumbnails = snippet.get('thumbnails', {})
+                thumbnail = ''
+                for quality in ['maxres', 'standard', 'high', 'medium', 'default']:
+                    if quality in thumbnails:
+                        thumbnail = thumbnails[quality].get('url', '')
+                        break
 
-            if video_id is not None and title is not None:
                 videos.append({
-                    'video_id': video_id.text,
-                    'title': title.text,
-                    'published': published.text if published is not None else '',
-                    'description': description,
+                    'video_id': video_id,
+                    'title': snippet.get('title', ''),
+                    'published': snippet.get('publishedAt', ''),
+                    'description': snippet.get('description', ''),
                     'thumbnail': thumbnail,
-                    'youtube_url': f'https://www.youtube.com/watch?v={video_id.text}',
-                    'youtube_music_url': f'https://music.youtube.com/watch?v={video_id.text}',
+                    'youtube_url': f'https://www.youtube.com/watch?v={video_id}',
+                    'youtube_music_url': f'https://music.youtube.com/watch?v={video_id}',
                 })
 
-    except (URLError, HTTPError) as e:
-        print(f"Error fetching RSS feed: {e}")
-    except ET.ParseError as e:
-        print(f"Error parsing RSS XML: {e}")
+            # Check for more pages
+            next_page_token = data.get('nextPageToken')
+            if not next_page_token:
+                break
+
+        except (URLError, HTTPError) as e:
+            print(f"Error fetching playlist from API: {e}")
+            break
+        except json.JSONDecodeError as e:
+            print(f"Error parsing API response: {e}")
+            break
 
     return videos
-
-
-def is_music_video(video: dict) -> bool:
-    """
-    Determine if a video is likely a music release based on title and description.
-    This helps filter out vlogs, tutorials, etc.
-
-    Customize ASSUME_ALL_MUSIC and keywords at the top of this file.
-    """
-    # For music-focused channels, assume everything is music
-    if ASSUME_ALL_MUSIC:
-        return True
-
-    text = (video['title'] + ' ' + video['description']).lower()
-
-    # Check for non-music keywords first
-    for keyword in NON_MUSIC_KEYWORDS:
-        if keyword in text:
-            return False
-
-    # Check for music keywords
-    for keyword in MUSIC_KEYWORDS:
-        if keyword in text:
-            return True
-
-    # Default: include the video
-    return True
 
 
 def get_existing_video_ids() -> set[str]:
@@ -242,11 +163,6 @@ def download_and_resize_thumbnail(video_id: str, slug: str) -> bool:
     - If source >= min size: keep original size (no scaling)
     - If source < min size: skip (too small, would be blurry)
 
-    YouTube provides thumbnails at various resolutions:
-    - maxresdefault.jpg (1280x720) -> 720x720 after crop
-    - sddefault.jpg (640x480) -> 480x480 after crop
-    - hqdefault.jpg (480x360) -> 360x360 after crop
-
     Returns True if successful, False otherwise.
     """
     if not PIL_AVAILABLE:
@@ -277,7 +193,6 @@ def download_and_resize_thumbnail(video_id: str, slug: str) -> bool:
         try:
             req = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
             with urlopen(req, timeout=30) as response:
-                # Check if we got a valid image (YouTube returns a placeholder for missing thumbnails)
                 if response.status != 200:
                     continue
 
@@ -287,31 +202,25 @@ def download_and_resize_thumbnail(video_id: str, slug: str) -> bool:
                 if len(image_data) < 5000:
                     continue
 
-                # Open and process the image
                 img = Image.open(BytesIO(image_data))
 
-                # Convert to RGB if necessary (in case of RGBA or palette images)
                 if img.mode in ('RGBA', 'P'):
                     img = img.convert('RGB')
 
                 width, height = img.size
-
-                # The square crop size will be min(width, height)
                 crop_size = min(width, height)
 
-                # Use the first (largest) image that's at least minimum size
                 if crop_size >= COVER_IMAGE_MIN_SIZE:
                     best_image = img
                     best_size = crop_size
-                    break  # Use the highest quality available
+                    break
 
-        except (URLError, HTTPError) as e:
+        except (URLError, HTTPError):
             continue
         except Exception as e:
             print(f"  Error processing thumbnail from {url}: {e}")
             continue
 
-    # Check if we found a usable image
     if best_image is None or best_size < COVER_IMAGE_MIN_SIZE:
         size_info = f"{best_size}x{best_size}" if best_size > 0 else "none found"
         print(f"  Skipping thumbnail: too small ({size_info}, need at least {COVER_IMAGE_MIN_SIZE}x{COVER_IMAGE_MIN_SIZE})")
@@ -321,16 +230,14 @@ def download_and_resize_thumbnail(video_id: str, slug: str) -> bool:
     # Crop to center square
     width, height = best_image.size
     if width > height:
-        # Landscape: crop sides
         left = (width - height) // 2
         best_image = best_image.crop((left, 0, left + height, height))
     elif height > width:
-        # Portrait: crop top/bottom
         top = (height - width) // 2
         best_image = best_image.crop((0, top, width, top + width))
 
-    # Determine output size: downscale if larger than max, otherwise keep original
-    current_size = best_image.size[0]  # It's square now
+    # Determine output size
+    current_size = best_image.size[0]
     if current_size > COVER_IMAGE_MAX_SIZE:
         output_size = COVER_IMAGE_MAX_SIZE
         best_image = best_image.resize((output_size, output_size), Image.Resampling.LANCZOS)
@@ -339,9 +246,7 @@ def download_and_resize_thumbnail(video_id: str, slug: str) -> bool:
         output_size = current_size
         print(f"  Downloaded cover image: {output_path.name} ({output_size}x{output_size})")
 
-    # Save as PNG
     best_image.save(output_path, 'PNG', optimize=True)
-
     return True
 
 
@@ -367,7 +272,6 @@ def create_music_entry(video: dict) -> Path:
     """
     Create a Jekyll music entry file for a video.
     Also downloads and resizes the YouTube thumbnail as cover art.
-    Matches the simple format used in existing entries.
     Returns the path to the created file.
     """
     # Generate a slug for the filename
@@ -377,31 +281,19 @@ def create_music_entry(video: dict) -> Path:
     pub_date = datetime.now()
     if video['published']:
         try:
-            pub_date = datetime.fromisoformat(video['published'].replace('Z', '+00:00'))
+            # Handle ISO format with timezone
+            published = video['published'].replace('Z', '+00:00')
+            pub_date = datetime.fromisoformat(published)
         except ValueError:
             pass
 
-    # Format the date for Jekyll
     date_str = pub_date.strftime('%Y-%m-%d')
-
-    # Use short youtu.be URL format (matching existing entries)
     youtube_short_url = f'https://youtu.be/{video["video_id"]}'
 
     # Download and resize the thumbnail
     download_and_resize_thumbnail(video['video_id'], slug)
 
-    # Build the file content in the simple format matching existing entries
-    # Example from be-still.md:
-    # ---
-    # title: "Be Still"
-    # date: 2025-02-27
-    # cover_image: "/assets/images/music/be-still.png"
-    # youtube: "https://youtu.be/RoFy80UpDV4"
-    # show_lyrics: false
-    # ---
-    #
-    # Inspired by Psalm 46.
-
+    # Build the file content
     content_lines = [
         '---',
         f'title: "{video["title"]}"',
@@ -415,7 +307,6 @@ def create_music_entry(video: dict) -> Path:
 
     # Add description as content if available
     if video['description']:
-        # Take first line of description (often the song inspiration/note)
         first_line = video['description'].split('\n')[0].strip()
         if first_line and len(first_line) < 300:
             content_lines.append(first_line)
@@ -452,15 +343,35 @@ def set_github_output(name: str, value: str):
 def main():
     print(f"Checking for new music from YouTube playlist: {YOUTUBE_PLAYLIST_ID}")
 
+    # Check for API key
+    if not YOUTUBE_API_KEY:
+        print("\n" + "="*60)
+        print("ERROR: YouTube API key not configured!")
+        print("="*60)
+        print("\nTo fix this:")
+        print("1. Go to https://console.cloud.google.com/")
+        print("2. Create a project and enable YouTube Data API v3")
+        print("3. Create an API key")
+        print("4. Add it as a GitHub Secret named YOUTUBE_API_KEY")
+        print("\nSee docs/MUSIC-AUTOMATION.md for detailed instructions.")
+        print("="*60 + "\n")
+        set_github_output('new_music', 'false')
+        return
+
     # Ensure music directory exists
     MUSIC_DIR.mkdir(parents=True, exist_ok=True)
 
-    # Fetch RSS feed from playlist
-    print("Fetching YouTube playlist RSS feed...")
-    videos = fetch_playlist_rss(YOUTUBE_PLAYLIST_ID)
+    # Fetch ALL videos from playlist using the API
+    print("Fetching YouTube playlist via Data API...")
+    videos = fetch_playlist_videos_api(YOUTUBE_PLAYLIST_ID, YOUTUBE_API_KEY)
     print(f"Found {len(videos)} videos in playlist")
 
-    # Load previously tracked videos from tracker file
+    if not videos:
+        print("No videos found or API error occurred.")
+        set_github_output('new_music', 'false')
+        return
+
+    # Load previously tracked videos
     tracked = load_tracked_videos()
     print(f"Previously tracked in tracker file: {len(tracked)} videos")
 
@@ -475,14 +386,9 @@ def main():
     new_videos = []
     for video in videos:
         if video['video_id'] not in already_processed:
-            if is_music_video(video):
-                new_videos.append(video)
-                tracked.add(video['video_id'])
-            else:
-                print(f"Skipping non-music video: {video['title']}")
-                tracked.add(video['video_id'])  # Still track it to avoid reprocessing
+            new_videos.append(video)
+            tracked.add(video['video_id'])
         else:
-            # Make sure tracker has all existing video IDs
             tracked.add(video['video_id'])
 
     print(f"New music videos to add: {len(new_videos)}")
@@ -502,7 +408,6 @@ def main():
     # Set outputs for GitHub Actions
     if created_titles:
         set_github_output('new_music', 'true')
-        # Truncate titles if too long for commit message
         titles_str = ', '.join(created_titles)
         if len(titles_str) > 100:
             titles_str = titles_str[:97] + '...'

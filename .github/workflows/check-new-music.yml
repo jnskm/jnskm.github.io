@@ -39,8 +39,8 @@ jobs:
         id: check_music
         run: python scripts/check_new_music.py
         env:
-          YOUTUBE_HANDLE: '@jnskm'
           YOUTUBE_PLAYLIST_ID: 'PLyxPXRjXeZFtRQQdEXH_pMndVzNPRDqkO'
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit new music entries
