@@ -1,0 +1,55 @@
+name: Check for New Music Releases
+
+on:
+  # Run daily at 9 AM UTC
+  schedule:
+    - cron: '0 9 * * *'
+  # Allow manual trigger
+  workflow_dispatch:
+    inputs:
+      force_check:
+        description: 'Force check even if no new videos'
+        required: false
+        default: 'false'
+        type: boolean
+
+permissions:
+  contents: write
+
+jobs:
+  check-youtube:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install requests pyyaml python-slugify Pillow
+
+      - name: Check for new music
+        id: check_music
+        run: python scripts/check_new_music.py
+        env:
+          YOUTUBE_HANDLE: '@jnskm'
+          YOUTUBE_PLAYLIST_ID: 'PLyxPXRjXeZFtRQQdEXH_pMndVzNPRDqkO'
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit new music entries
+        if: steps.check_music.outputs.new_music == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add _music/
+          git add assets/images/music/
+          git add .music-tracker.json
+          git diff --staged --quiet || git commit -m "Add new music: ${{ steps.check_music.outputs.titles }}"
+          git push

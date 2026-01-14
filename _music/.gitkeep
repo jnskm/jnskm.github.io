@@ -1,0 +1,2 @@
+# This file ensures the _music directory is tracked by git
+# Music entries will be automatically created here by the GitHub Action

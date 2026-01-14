@@ -1,0 +1,36 @@
+---
+# EXAMPLE TEMPLATE - Rename to your-song-name.md and fill in the details
+# This file shows all available fields for music entries
+
+title: Your Song Title
+date: 2024-01-15
+artist: JNSKM
+
+# Streaming platform links (leave empty if not available)
+youtube: "https://www.youtube.com/watch?v=VIDEO_ID"
+youtube_music: "https://music.youtube.com/watch?v=VIDEO_ID"
+spotify: "https://open.spotify.com/track/TRACK_ID"
+apple_music: "https://music.apple.com/album/ALBUM_ID"
+amazon_music: "https://music.amazon.com/albums/ALBUM_ID"
+
+# Album art (can be YouTube thumbnail or custom image)
+cover_image: "/assets/images/music/your-cover.jpg"
+
+# Lyrics (optional)
+show_lyrics: false
+lyrics: |
+  Verse 1:
+  Your lyrics here...
+
+  Chorus:
+  More lyrics...
+
+# Additional platforms (rendered as markdown)
+other_platforms: |
+  - [SoundCloud](https://soundcloud.com/jnskm/track)
+  - [Bandcamp](https://jnskm.bandcamp.com/track)
+---
+
+Write any additional notes, stories, or context about this track here.
+
+This content appears in the main body of the music page.
