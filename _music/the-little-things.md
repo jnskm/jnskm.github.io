@@ -1,5 +1,5 @@
 ---
-title: "Christian Songs - The Little Things (inspired by Psalm 103:2)"
+title: "The Little Things"
 date: 2026-01-13
 cover_image: "/assets/images/music/christian-songs-the-little-things-inspired-by-psal.png"
 youtube: "https://youtu.be/v2xaKxmfvcI"

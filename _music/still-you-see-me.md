@@ -1,5 +1,5 @@
 ---
-title: "Christian Songs - Still You See Me (inspired by Philippians 1:6)"
+title: "Still You See Me"
 date: 2025-11-13
 cover_image: "/assets/images/music/christian-songs-still-you-see-me-inspired-by-phili.png"
 youtube: "https://youtu.be/MtaVMnbZSsg"
