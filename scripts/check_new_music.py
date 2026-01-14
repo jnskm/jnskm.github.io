@@ -43,8 +43,113 @@ YOUTUBE_PLAYLIST_ID = os.environ.get('YOUTUBE_PLAYLIST_ID', 'PLyxPXRjXeZFtRQQdEX
 # YouTube Data API key (required for full playlist access)
 YOUTUBE_API_KEY = os.environ.get('YOUTUBE_API_KEY', '')
 
-# YouTube Data API endpoint
+# YouTube Data API endpoints
 YOUTUBE_API_PLAYLIST_ITEMS = 'https://www.googleapis.com/youtube/v3/playlistItems'
+YOUTUBE_API_VIDEOS = 'https://www.googleapis.com/youtube/v3/videos'
+
+
+def clean_title(title: str) -> str:
+    """
+    Clean up YouTube video title for display on the website.
+
+    Removes:
+    - "Christian Songs - " prefix
+    - " (inspired by ...)" suffix
+    """
+    # Remove "Christian Songs - " prefix (case insensitive)
+    cleaned = re.sub(r'^Christian Songs\s*[-–—]\s*', '', title, flags=re.IGNORECASE)
+
+    # Remove " (inspired by ...)" suffix
+    cleaned = re.sub(r'\s*\(inspired by [^)]+\)\s*$', '', cleaned, flags=re.IGNORECASE)
+
+    return cleaned.strip()
+
+
+def get_video_durations(video_ids: list[str], api_key: str) -> dict[str, int]:
+    """
+    Fetch video durations for a list of video IDs.
+    Returns a dict mapping video_id -> duration in seconds.
+    """
+    durations = {}
+
+    # Process in batches of 50 (API limit)
+    for i in range(0, len(video_ids), 50):
+        batch = video_ids[i:i+50]
+        ids_param = ','.join(batch)
+
+        url = (
+            f"{YOUTUBE_API_VIDEOS}"
+            f"?part=contentDetails"
+            f"&id={ids_param}"
+            f"&key={api_key}"
+        )
+
+        try:
+            req = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+            with urlopen(req, timeout=30) as response:
+                data = json.loads(response.read().decode('utf-8'))
+
+            for item in data.get('items', []):
+                video_id = item.get('id')
+                duration_str = item.get('contentDetails', {}).get('duration', 'PT0S')
+
+                # Parse ISO 8601 duration (e.g., "PT4M13S" -> 253 seconds)
+                duration_seconds = parse_iso_duration(duration_str)
+                durations[video_id] = duration_seconds
+
+        except (URLError, HTTPError) as e:
+            print(f"Error fetching video durations: {e}")
+        except json.JSONDecodeError as e:
+            print(f"Error parsing duration response: {e}")
+
+    return durations
+
+
+def parse_iso_duration(duration: str) -> int:
+    """
+    Parse ISO 8601 duration format (e.g., "PT4M13S") to seconds.
+    """
+    match = re.match(r'PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?', duration)
+    if not match:
+        return 0
+
+    hours = int(match.group(1) or 0)
+    minutes = int(match.group(2) or 0)
+    seconds = int(match.group(3) or 0)
+
+    return hours * 3600 + minutes * 60 + seconds
+
+
+def filter_duplicates_keep_longest(videos: list[dict], durations: dict[str, int]) -> list[dict]:
+    """
+    When multiple videos have the same cleaned title, keep only the longest one.
+    This filters out YouTube Shorts in favor of full songs.
+    """
+    # Group videos by cleaned title
+    by_title = {}
+    for video in videos:
+        cleaned = clean_title(video['title'])
+        if cleaned not in by_title:
+            by_title[cleaned] = []
+        by_title[cleaned].append(video)
+
+    # For each title, keep only the longest video
+    filtered = []
+    for cleaned_title, title_videos in by_title.items():
+        if len(title_videos) == 1:
+            filtered.append(title_videos[0])
+        else:
+            # Find the longest video
+            longest = max(title_videos, key=lambda v: durations.get(v['video_id'], 0))
+            duration = durations.get(longest['video_id'], 0)
+
+            # Log what we're doing
+            other_ids = [v['video_id'] for v in title_videos if v['video_id'] != longest['video_id']]
+            print(f"  Duplicate title '{cleaned_title}': keeping {longest['video_id']} ({duration}s), skipping {other_ids}")
+
+            filtered.append(longest)
+
+    return filtered
 
 
 def fetch_playlist_videos_api(playlist_id: str, api_key: str) -> list[dict]:
@@ -274,8 +379,11 @@ def create_music_entry(video: dict) -> Path:
     Also downloads and resizes the YouTube thumbnail as cover art.
     Returns the path to the created file.
     """
-    # Generate a slug for the filename
-    slug = slugify(video['title'], max_length=50)
+    # Clean the title for display
+    display_title = clean_title(video['title'])
+
+    # Generate a slug for the filename (use cleaned title)
+    slug = slugify(display_title, max_length=50)
 
     # Parse the published date
     pub_date = datetime.now()
@@ -293,10 +401,10 @@ def create_music_entry(video: dict) -> Path:
     # Download and resize the thumbnail
     download_and_resize_thumbnail(video['video_id'], slug)
 
-    # Build the file content
+    # Build the file content (use cleaned title)
     content_lines = [
         '---',
-        f'title: "{video["title"]}"',
+        f'title: "{display_title}"',
         f'date: {date_str}',
         f'cover_image: "/assets/images/music/{slug}.png"',
         f'youtube: "{youtube_short_url}"',
@@ -371,6 +479,16 @@ def main():
         set_github_output('new_music', 'false')
         return
 
+    # Fetch video durations to filter out shorts
+    print("Fetching video durations...")
+    video_ids = [v['video_id'] for v in videos]
+    durations = get_video_durations(video_ids, YOUTUBE_API_KEY)
+
+    # Filter duplicates (keep longest version of each song)
+    print("Filtering duplicates (keeping full songs over shorts)...")
+    videos = filter_duplicates_keep_longest(videos, durations)
+    print(f"After filtering: {len(videos)} unique songs")
+
     # Load previously tracked videos
     tracked = load_tracked_videos()
     print(f"Previously tracked in tracker file: {len(tracked)} videos")
@@ -398,7 +516,7 @@ def main():
     for video in new_videos:
         try:
             create_music_entry(video)
-            created_titles.append(video['title'])
+            created_titles.append(clean_title(video['title']))
         except Exception as e:
             print(f"Error creating entry for '{video['title']}': {e}")
 
