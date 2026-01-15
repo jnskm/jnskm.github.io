@@ -47,6 +47,66 @@ YOUTUBE_API_KEY = os.environ.get('YOUTUBE_API_KEY', '')
 YOUTUBE_API_PLAYLIST_ITEMS = 'https://www.googleapis.com/youtube/v3/playlistItems'
 YOUTUBE_API_VIDEOS = 'https://www.googleapis.com/youtube/v3/videos'
 
+# Songlink/Odesli API for finding streaming links
+SONGLINK_API = 'https://api.song.link/v1-alpha.1/links'
+
+
+def fetch_streaming_links(youtube_url: str) -> dict:
+    """
+    Use Songlink/Odesli API to find streaming links for a song.
+    Given a YouTube URL, returns links to Spotify, Apple Music, Amazon Music, etc.
+
+    Returns a dict with keys: spotify, apple_music, amazon_music, youtube_music
+    Values are URLs or empty strings if not found.
+    """
+    links = {
+        'spotify': '',
+        'apple_music': '',
+        'amazon_music': '',
+        'youtube_music': '',
+    }
+
+    try:
+        # URL encode the YouTube URL
+        from urllib.parse import quote
+        encoded_url = quote(youtube_url, safe='')
+        api_url = f"{SONGLINK_API}?url={encoded_url}"
+
+        req = Request(api_url, headers={'User-Agent': 'Mozilla/5.0'})
+        with urlopen(req, timeout=15) as response:
+            data = json.loads(response.read().decode('utf-8'))
+
+        # Extract links from the response
+        links_by_platform = data.get('linksByPlatform', {})
+
+        if 'spotify' in links_by_platform:
+            links['spotify'] = links_by_platform['spotify'].get('url', '')
+
+        if 'appleMusic' in links_by_platform:
+            links['apple_music'] = links_by_platform['appleMusic'].get('url', '')
+
+        if 'amazonMusic' in links_by_platform:
+            links['amazon_music'] = links_by_platform['amazonMusic'].get('url', '')
+
+        if 'youtubeMusic' in links_by_platform:
+            links['youtube_music'] = links_by_platform['youtubeMusic'].get('url', '')
+
+        # Log what we found
+        found = [k for k, v in links.items() if v]
+        if found:
+            print(f"  Found streaming links: {', '.join(found)}")
+        else:
+            print(f"  No streaming links found (song may not be on other platforms yet)")
+
+    except (URLError, HTTPError) as e:
+        print(f"  Could not fetch streaming links: {e}")
+    except json.JSONDecodeError as e:
+        print(f"  Error parsing Songlink response: {e}")
+    except Exception as e:
+        print(f"  Unexpected error fetching streaming links: {e}")
+
+    return links
+
 
 def clean_title(title: str) -> str:
     """
@@ -373,35 +433,31 @@ def save_tracked_videos(video_ids: set[str]):
         }, f, indent=2)
 
 
-def extract_inspiration(description: str) -> str:
+def extract_bible_verse(description: str) -> str:
     """
-    Extract inspiration text from YouTube video description.
-    Returns the description cleaned up for the Inspiration section.
+    Extract Bible verse from YouTube video description.
+    Looks for content after "## Bible Verse" marker.
+    Returns the Bible verse text, or empty string if not found.
     """
     if not description:
         return ""
 
-    # Use the full description, but clean it up
-    # Remove common YouTube noise (timestamps, links, etc.)
-    lines = description.split('\n')
-    cleaned_lines = []
+    # Look for ## Bible Verse section
+    match = re.search(r'##\s*Bible Verse\s*\n(.*?)(?=\n##|\Z)', description, re.DOTALL | re.IGNORECASE)
+    if match:
+        verse_text = match.group(1).strip()
+        # Clean up: remove links and timestamps
+        lines = []
+        for line in verse_text.split('\n'):
+            line = line.strip()
+            if line.startswith('http://') or line.startswith('https://'):
+                continue
+            if re.match(r'^\d+:\d+', line):
+                continue
+            lines.append(line)
+        return '\n'.join(lines).strip()
 
-    for line in lines:
-        line = line.strip()
-        # Skip empty lines at start
-        if not cleaned_lines and not line:
-            continue
-        # Skip lines that are just links
-        if line.startswith('http://') or line.startswith('https://'):
-            continue
-        # Skip timestamp lines (e.g., "0:00 Intro")
-        if re.match(r'^\d+:\d+', line):
-            continue
-        cleaned_lines.append(line)
-
-    # Join and return
-    result = '\n'.join(cleaned_lines).strip()
-    return result
+    return ""
 
 
 def create_music_entry(video: dict) -> Path:
@@ -412,9 +468,10 @@ def create_music_entry(video: dict) -> Path:
 
     Generated files match the template structure with:
     - Full front matter (all streaming platform fields)
-    - ## Inspiration section
+    - ## Bible Verse section (from YouTube description)
+    - ## Inspiration section (placeholder)
     - ## Lyrics section (placeholder)
-    - ## Listen On section
+    - ## Listen On section (placeholder)
     """
     # Clean the title for display
     display_title = clean_title(video['title'])
@@ -439,8 +496,19 @@ def create_music_entry(video: dict) -> Path:
     # Download and resize the thumbnail
     download_and_resize_thumbnail(video['video_id'], slug)
 
-    # Extract inspiration from description
-    inspiration = extract_inspiration(video.get('description', ''))
+    # Fetch streaming links from Songlink/Odesli
+    print(f"  Fetching streaming links for {display_title}...")
+    streaming_links = fetch_streaming_links(youtube_short_url)
+
+    # Use fetched links or fallback to defaults
+    spotify_url = streaming_links.get('spotify', '')
+    apple_music_url = streaming_links.get('apple_music', '')
+    amazon_music_url = streaming_links.get('amazon_music', '')
+    if streaming_links.get('youtube_music'):
+        youtube_music_url = streaming_links['youtube_music']
+
+    # Extract Bible verse from YouTube description
+    bible_verse = extract_bible_verse(video.get('description', ''))
 
     # Build the file content matching the template structure
     content_lines = [
@@ -453,34 +521,53 @@ def create_music_entry(video: dict) -> Path:
         '# File size should be under 100KB for best performance',
         f'youtube: "{youtube_short_url}"',
         f'youtube_music: "{youtube_music_url}"',
-        'spotify: ""',
-        'apple_music: ""',
-        'amazon_music: ""',
+        f'spotify: "{spotify_url}"',
+        f'apple_music: "{apple_music_url}"',
+        f'amazon_music: "{amazon_music_url}"',
         '---',
     ]
 
-    # Add Inspiration section
-    content_lines.append('## Inspiration')
-    content_lines.append('')
-    if inspiration:
-        content_lines.append(inspiration)
+    # Add Bible Verse section
+    content_lines.append('## Bible Verse')
+    if bible_verse:
+        content_lines.append(bible_verse)
     else:
-        content_lines.append('(Add inspiration and background for this song)')
+        content_lines.append('(Add Bible verse here)')
     content_lines.append('')
 
-    # Add Lyrics section (placeholder)
+    # Add Inspiration section (placeholder - to be filled manually)
+    content_lines.append('## Inspiration')
+    content_lines.append('')
+    content_lines.append('(Add inspiration and background for this song)')
+    content_lines.append('')
+
+    # Add Lyrics section (placeholder - to be filled manually)
     content_lines.append('## Lyrics')
-    content_lines.append('<pre class="lyrics-content">')
     content_lines.append('[Verse 1]')
     content_lines.append('(Add lyrics here)')
     content_lines.append('')
     content_lines.append('[Chorus]')
     content_lines.append('(Add lyrics here)')
-    content_lines.append('</pre>')
     content_lines.append('')
 
-    # Add Listen On section
+    # Add Listen On section with streaming links
     content_lines.append('## Listen On')
+    listen_on_links = []
+    if youtube_short_url:
+        listen_on_links.append(f'- [YouTube]({youtube_short_url})')
+    if youtube_music_url:
+        listen_on_links.append(f'- [YouTube Music]({youtube_music_url})')
+    if spotify_url:
+        listen_on_links.append(f'- [Spotify]({spotify_url})')
+    if apple_music_url:
+        listen_on_links.append(f'- [Apple Music]({apple_music_url})')
+    if amazon_music_url:
+        listen_on_links.append(f'- [Amazon Music]({amazon_music_url})')
+
+    if listen_on_links:
+        content_lines.extend(listen_on_links)
+    else:
+        content_lines.append('(Add streaming links here)')
     content_lines.append('')
 
     # Write the file
@@ -501,6 +588,168 @@ def create_music_entry(video: dict) -> Path:
     return filepath
 
 
+def build_listen_on_content(streaming_links: dict, youtube_url: str = "", youtube_music_url: str = "") -> str:
+    """
+    Build the Listen On section content with streaming links.
+    Returns markdown formatted links.
+    """
+    links = []
+
+    # Get URLs from streaming_links dict or use provided defaults
+    yt_url = youtube_url or streaming_links.get('youtube', '')
+    ytm_url = youtube_music_url or streaming_links.get('youtube_music', '')
+    spotify_url = streaming_links.get('spotify', '')
+    apple_music_url = streaming_links.get('apple_music', '')
+    amazon_music_url = streaming_links.get('amazon_music', '')
+
+    if yt_url:
+        links.append(f'- [YouTube]({yt_url})')
+    if ytm_url:
+        links.append(f'- [YouTube Music]({ytm_url})')
+    if spotify_url:
+        links.append(f'- [Spotify]({spotify_url})')
+    if apple_music_url:
+        links.append(f'- [Apple Music]({apple_music_url})')
+    if amazon_music_url:
+        links.append(f'- [Amazon Music]({amazon_music_url})')
+
+    return '\n'.join(links) if links else ''
+
+
+def update_existing_music_entry(filepath: Path, bible_verse: str = "", streaming_links: dict = None) -> bool:
+    """
+    Update an existing music entry file to add missing sections.
+    Preserves all existing content - only adds sections that don't exist.
+    Can also populate Listen On section with streaming links if empty.
+
+    Returns True if the file was modified, False otherwise.
+    """
+    if streaming_links is None:
+        streaming_links = {}
+
+    try:
+        content = filepath.read_text()
+    except Exception as e:
+        print(f"  Error reading {filepath}: {e}")
+        return False
+
+    modified = False
+    sections_to_check = ['## Bible Verse', '## Inspiration', '## Lyrics', '## Listen On']
+
+    # Check which sections are missing
+    missing_sections = []
+    for section in sections_to_check:
+        if section not in content:
+            missing_sections.append(section)
+
+    # Check if Listen On section exists but is empty (only has the header)
+    listen_on_empty = False
+    if '## Listen On' in content and '## Listen On' not in missing_sections:
+        # Find the Listen On section and check if it has any links
+        listen_match = re.search(r'## Listen On\s*\n(.*?)(?=\n## |\Z)', content, re.DOTALL)
+        if listen_match:
+            listen_content = listen_match.group(1).strip()
+            # Consider empty if no markdown links or just placeholder text
+            if not listen_content or listen_content == '(Add streaming links here)' or '](http' not in listen_content:
+                listen_on_empty = True
+
+    if not missing_sections and not listen_on_empty:
+        return False  # All sections present and Listen On has content
+
+    # Find the end of front matter (after second ---)
+    front_matter_end = content.find('---', content.find('---') + 3)
+    if front_matter_end == -1:
+        print(f"  Warning: Could not find front matter in {filepath}")
+        return False
+
+    # Position after the closing ---
+    insert_pos = front_matter_end + 3
+
+    # Find where the body content starts (skip newlines after front matter)
+    body_start = insert_pos
+    while body_start < len(content) and content[body_start] in '\n\r':
+        body_start += 1
+
+    # Get existing body content
+    body_content = content[body_start:] if body_start < len(content) else ""
+
+    # Build new content by adding missing sections in order
+    new_body_parts = []
+
+    # Bible Verse section
+    if '## Bible Verse' in missing_sections:
+        new_body_parts.append('## Bible Verse')
+        if bible_verse:
+            new_body_parts.append(bible_verse)
+        else:
+            new_body_parts.append('(Add Bible verse here)')
+        new_body_parts.append('')
+        modified = True
+
+    # Check if we need to add other sections at the end
+    sections_to_add_at_end = []
+
+    if '## Inspiration' in missing_sections:
+        sections_to_add_at_end.append(('## Inspiration', '\n(Add inspiration and background for this song)\n'))
+        modified = True
+
+    if '## Lyrics' in missing_sections:
+        sections_to_add_at_end.append(('## Lyrics', '[Verse 1]\n(Add lyrics here)\n\n[Chorus]\n(Add lyrics here)\n'))
+        modified = True
+
+    if '## Listen On' in missing_sections:
+        # Build Listen On content with streaming links
+        listen_content = build_listen_on_content(streaming_links)
+        sections_to_add_at_end.append(('## Listen On', listen_content))
+        modified = True
+
+    # Handle empty Listen On section - populate with streaming links
+    if listen_on_empty and streaming_links:
+        listen_content = build_listen_on_content(streaming_links)
+        if listen_content:
+            # Replace the empty Listen On section with populated one
+            content = re.sub(
+                r'## Listen On\s*\n.*?(?=\n## |\Z)',
+                f'## Listen On\n{listen_content}\n',
+                content,
+                flags=re.DOTALL
+            )
+            modified = True
+            print(f"  Populated Listen On section with streaming links")
+
+    if not modified:
+        return False
+
+    # Reconstruct the file
+    new_content = content[:insert_pos] + '\n'
+
+    # Add Bible Verse at the beginning if missing
+    if new_body_parts:
+        new_content += '\n'.join(new_body_parts) + '\n'
+
+    # Add existing body content
+    new_content += body_content
+
+    # Add missing sections at the end
+    for section_header, section_content in sections_to_add_at_end:
+        if not new_content.endswith('\n'):
+            new_content += '\n'
+        new_content += f'\n{section_header}\n{section_content}'
+
+    # Ensure file ends with newline
+    if not new_content.endswith('\n'):
+        new_content += '\n'
+
+    # Write the updated content
+    try:
+        filepath.write_text(new_content)
+        print(f"  Updated: {filepath.name} (added: {', '.join(missing_sections)})")
+        return True
+    except Exception as e:
+        print(f"  Error writing {filepath}: {e}")
+        return False
+
+
 def set_github_output(name: str, value: str):
     """Set a GitHub Actions output variable."""
     output_file = os.environ.get('GITHUB_OUTPUT')
@@ -509,6 +758,71 @@ def set_github_output(name: str, value: str):
             f.write(f'{name}={value}\n')
     else:
         print(f"Output: {name}={value}")
+
+
+def update_all_existing_files(videos: list[dict]) -> int:
+    """
+    Update all existing music files to add any missing sections.
+    Uses video data to populate Bible verses from YouTube descriptions.
+    Fetches streaming links via Songlink API for files with empty Listen On sections.
+
+    Returns the number of files updated.
+    """
+    updated_count = 0
+
+    # Build a mapping of video_id -> video data for Bible verse lookup
+    video_by_id = {v['video_id']: v for v in videos}
+
+    # Patterns to extract video ID from file content
+    video_id_patterns = [
+        r'youtu\.be/([a-zA-Z0-9_-]{11})',
+        r'youtube\.com/watch\?v=([a-zA-Z0-9_-]{11})',
+    ]
+
+    for filepath in MUSIC_DIR.glob('*.md'):
+        if filepath.name.startswith('_'):  # Skip templates
+            continue
+
+        try:
+            content = filepath.read_text()
+
+            # Find the video ID in this file
+            video_id = None
+            for pattern in video_id_patterns:
+                match = re.search(pattern, content)
+                if match:
+                    video_id = match.group(1)
+                    break
+
+            # Get Bible verse from YouTube if we have the video data
+            bible_verse = ""
+            if video_id and video_id in video_by_id:
+                bible_verse = extract_bible_verse(video_by_id[video_id].get('description', ''))
+
+            # Check if Listen On section needs streaming links
+            streaming_links = {}
+            listen_on_empty = False
+            if '## Listen On' in content:
+                listen_match = re.search(r'## Listen On\s*\n(.*?)(?=\n## |\Z)', content, re.DOTALL)
+                if listen_match:
+                    listen_content = listen_match.group(1).strip()
+                    if not listen_content or listen_content == '(Add streaming links here)' or '](http' not in listen_content:
+                        listen_on_empty = True
+
+            # Fetch streaming links if Listen On is empty and we have a video ID
+            if listen_on_empty and video_id:
+                youtube_url = f"https://youtu.be/{video_id}"
+                print(f"  Fetching streaming links for {filepath.name}...")
+                streaming_links = fetch_streaming_links(youtube_url)
+
+            # Update the file if needed
+            if update_existing_music_entry(filepath, bible_verse, streaming_links):
+                updated_count += 1
+
+        except Exception as e:
+            print(f"  Error processing {filepath}: {e}")
+
+    return updated_count
 
 
 def main():
@@ -552,9 +866,17 @@ def main():
     videos = filter_duplicates_keep_longest(videos, durations)
     print(f"After filtering: {len(videos)} unique songs")
 
+    # Update existing files with missing sections
+    print("\nChecking existing files for missing sections...")
+    updated_count = update_all_existing_files(videos)
+    if updated_count > 0:
+        print(f"Updated {updated_count} existing files with missing sections.")
+    else:
+        print("All existing files have complete sections.")
+
     # Load previously tracked videos
     tracked = load_tracked_videos()
-    print(f"Previously tracked in tracker file: {len(tracked)} videos")
+    print(f"\nPreviously tracked in tracker file: {len(tracked)} videos")
 
     # Also check existing _music/ files to avoid duplicates
     existing = get_existing_video_ids()
@@ -587,16 +909,19 @@ def main():
     save_tracked_videos(tracked)
 
     # Set outputs for GitHub Actions
-    if created_titles:
+    if created_titles or updated_count > 0:
         set_github_output('new_music', 'true')
-        titles_str = ', '.join(created_titles)
-        if len(titles_str) > 100:
-            titles_str = titles_str[:97] + '...'
-        set_github_output('titles', titles_str)
-        print(f"\nSuccessfully created {len(created_titles)} new music entries!")
+        if created_titles:
+            titles_str = ', '.join(created_titles)
+            if len(titles_str) > 100:
+                titles_str = titles_str[:97] + '...'
+            set_github_output('titles', titles_str)
+            print(f"\nSuccessfully created {len(created_titles)} new music entries!")
+        if updated_count > 0:
+            print(f"Updated {updated_count} existing files.")
     else:
         set_github_output('new_music', 'false')
-        print("\nNo new music found.")
+        print("\nNo new music found and no files needed updating.")
 
 
 if __name__ == '__main__':
