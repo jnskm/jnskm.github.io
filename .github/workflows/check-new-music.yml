@@ -51,5 +51,7 @@ jobs:
           git add _music/
           git add assets/images/music/
           git add .music-tracker.json
+          # Track streaming link retry queue (persists between runs for delayed platform availability)
+          git add .streaming-links-retry.json 2>/dev/null || true
           git diff --staged --quiet || git commit -m "Add new music: ${{ steps.check_music.outputs.titles }}"
           git push

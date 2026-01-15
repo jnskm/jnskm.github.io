@@ -5,6 +5,6 @@ _site
 vendor
 .DS_Store
 
-# Music automation tracking files
+# Music automation tracking file (video IDs already processed)
 .music-tracker.json
-.streaming-links-retry.json
+# Note: .streaming-links-retry.json is NOT ignored - it needs to persist between CI runs
