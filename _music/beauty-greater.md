@@ -30,95 +30,95 @@ The One through whom all things were made:
 Jesus.
 
 ## Lyrics
-[Verse 1]
-There’s beauty in the ocean
-Beauty in the air
-숨을 쉬는 이 순간
-Beauty everywhere
+[Verse 1]<br>
+There’s beauty in the ocean<br>
+Beauty in the air<br>
+숨을 쉬는 이 순간<br>
+Beauty everywhere<br>
 
-Mountains in the distance
-Trees older than time
-말없이 말해 주는
-Everything is fine
+Mountains in the distance<br>
+Trees older than time<br>
+말없이 말해 주는<br>
+Everything is fine<br>
 
-[Pre-Chorus]
-All these things catch my eye
-왔다가 사라져
-They don’t stay, they pass me by
-계속 흘러가
+[Pre-Chorus]<br>
+All these things catch my eye<br>
+왔다가 사라져<br>
+They don’t stay, they pass me by<br>
+계속 흘러가<br>
 
-[Chorus]
-There’s beauty everywhere
-Everywhere I go
-아름다움 everywhere
-Yeah, I know, I know
+[Chorus]<br>
+There’s beauty everywhere<br>
+Everywhere I go<br>
+아름다움 everywhere<br>
+Yeah, I know, I know<br>
 
-But there’s beauty greater
-더 큰 아름다움
-There’s beauty greater
-When I turn to You
+But there’s beauty greater<br>
+더 큰 아름다움<br>
+There’s beauty greater<br>
+When I turn to You<br>
 
-[Chorus Tag]
-더 큰 아름다움
-더 큰 아름다움
+[Chorus Tag]<br>
+더 큰 아름다움<br>
+더 큰 아름다움<br>
 
-[Verse 2]
-There’s beauty in a moment
-Beauty in a face
-눈을 돌리면 또 다른
-Kind of grace
+[Verse 2]<br>
+There’s beauty in a moment<br>
+Beauty in a face<br>
+눈을 돌리면 또 다른<br>
+Kind of grace<br>
 
-But the shine is always fading
-Every high comes down
-영원한 아름다움
-That’s what I’ve found
+But the shine is always fading<br>
+Every high comes down<br>
+영원한 아름다움<br>
+That’s what I’ve found<br>
 
-[Pre-Chorus]
-All these things catch my eye
-왔다가 사라져
-They don’t stay, they pass me by
-계속 흘러가
+[Pre-Chorus]<br>
+All these things catch my eye<br>
+왔다가 사라져<br>
+They don’t stay, they pass me by<br>
+계속 흘러가<br>
 
-[Chorus]
-There’s beauty everywhere
-Everywhere I go
-아름다움 everywhere
-Yeah, I know, I know
+[Chorus]<br>
+There’s beauty everywhere<br>
+Everywhere I go<br>
+아름다움 everywhere<br>
+Yeah, I know, I know<br>
 
-But there’s beauty greater
-더 큰 아름다움
-There’s beauty greater
-You’re the One I know
+But there’s beauty greater<br>
+더 큰 아름다움<br>
+There’s beauty greater<br>
+You’re the One I know<br>
 
-[Bridge]
-You came close
-내 곁으로
-You took my place
-십자가로
+[Bridge]<br>
+You came close<br>
+내 곁으로<br>
+You took my place<br>
+십자가로<br>
 
-Death let go
-끝이 아니야
-You’re alive
-지금 여기야
+Death let go<br>
+끝이 아니야<br>
+You’re alive<br>
+지금 여기야<br>
 
-[Bridge Tag]
-죽음을 이기신 분
+[Bridge Tag]<br>
+죽음을 이기신 분<br>
 
-[Final Chorus]
-There’s beauty everywhere
-Everywhere I go
-아름다움 everywhere
-Yeah, I know, I know
+[Final Chorus]<br>
+There’s beauty everywhere<br>
+Everywhere I go<br>
+아름다움 everywhere<br>
+Yeah, I know, I know<br>
 
-But there’s beauty greater
-더 큰 아름다움
-There’s beauty greater
-Jesus, You are Love
+But there’s beauty greater<br>
+더 큰 아름다움<br>
+There’s beauty greater<br>
+Jesus, You are Love<br>
 
-[Outro]
-나는 변해가
-주 닮아 가
-더 큰 아름다움
-Enough for me
+[Outro]<br>
+나는 변해가<br>
+주 닮아 가<br>
+더 큰 아름다움<br>
+Enough for me<br>
 
 ## Listen On
