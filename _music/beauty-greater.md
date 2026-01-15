@@ -30,6 +30,7 @@ The One through whom all things were made:
 Jesus.
 
 ## Lyrics
+<pre class="lyrics-content">
 [Verse 1]<br>
 There’s beauty in the ocean<br>
 Beauty in the air<br>
@@ -120,5 +121,6 @@ Jesus, You are Love<br>
 주 닮아 가<br>
 더 큰 아름다움<br>
 Enough for me<br>
+</pre>
 
 ## Listen On

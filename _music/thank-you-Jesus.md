@@ -11,9 +11,13 @@ spotify: "https://open.spotify.com/album/3sH1cMFa6Hy4ATWx8vJSvU?si=Fu51_Zx0TEKMo
 apple_music: "https://music.apple.com/us/album/thank-you-jesus-single/1861694052"
 amazon_music: "https://music.amazon.com/albums/B0G7BZ3TYJ?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_CPL86UB97Iyzf0SVP4yXpXfu9"
 ---
-## Inspiration
+## Bible Verse
 
-But God demonstrated His own love for us in this: While we were still sinners, Christ died for us. Romans 5:8.
+Romans 5:8
+
+But God demonstrated His own love for us in this: While we were still sinners, Christ died for us. 
+
+## Inspiration
 
 Today I found myself thinking about the birth, death, and resurrection of Jesus, and how impossible it is for me to fully understand what He gave up to save us. This side of heaven, there is no way to grasp the full punishment He took upon Himself. It was not only for a moment in history, but for every human being, from Adam to the very last person who will ever be born. I cannot imagine what it meant for His relationship with the Father and the Holy Spirit to be broken in that moment, or how much He truly suffered. And yet, because of Jesus, I am forgiven. Because of Jesus, the Holy Spirit lives in me. I am being changed, slowly and gently, from who I was into a child of God. And because of Him, I know I have a home waiting for me in heaven. One day, I will live as one with the Father, the Son, and the Holy Spirit. Tonight, all I can say is thank You, Jesus.
 
