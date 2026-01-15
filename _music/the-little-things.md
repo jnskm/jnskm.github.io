@@ -5,8 +5,11 @@ cover_image: "/assets/images/music/christian-songs-the-little-things-inspired-by
 youtube: "https://youtu.be/v2xaKxmfvcI"
 show_lyrics: false
 ---
+## Bible Verse
 
-Praise the LORD, my soul,
-and forget not all His benefits --
+Psalm 103:2<br>
 
-Psalm 103:2
+Praise the LORD, my soul,<br>
+and forget not all His benefits --<br>
+
+## Listen On
