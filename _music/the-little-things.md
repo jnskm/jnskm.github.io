@@ -6,4 +6,7 @@ youtube: "https://youtu.be/v2xaKxmfvcI"
 show_lyrics: false
 ---
 
-Pslam 103: 2
+Praise the LORD, my soul,
+and forget not all His benefits --
+
+Psalm 103:2

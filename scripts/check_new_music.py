@@ -373,11 +373,48 @@ def save_tracked_videos(video_ids: set[str]):
         }, f, indent=2)
 
 
+def extract_inspiration(description: str) -> str:
+    """
+    Extract inspiration text from YouTube video description.
+    Returns the description cleaned up for the Inspiration section.
+    """
+    if not description:
+        return ""
+
+    # Use the full description, but clean it up
+    # Remove common YouTube noise (timestamps, links, etc.)
+    lines = description.split('\n')
+    cleaned_lines = []
+
+    for line in lines:
+        line = line.strip()
+        # Skip empty lines at start
+        if not cleaned_lines and not line:
+            continue
+        # Skip lines that are just links
+        if line.startswith('http://') or line.startswith('https://'):
+            continue
+        # Skip timestamp lines (e.g., "0:00 Intro")
+        if re.match(r'^\d+:\d+', line):
+            continue
+        cleaned_lines.append(line)
+
+    # Join and return
+    result = '\n'.join(cleaned_lines).strip()
+    return result
+
+
 def create_music_entry(video: dict) -> Path:
     """
     Create a Jekyll music entry file for a video.
     Also downloads and resizes the YouTube thumbnail as cover art.
     Returns the path to the created file.
+
+    Generated files match the template structure with:
+    - Full front matter (all streaming platform fields)
+    - ## Inspiration section
+    - ## Lyrics section (placeholder)
+    - ## Listen On section
     """
     # Clean the title for display
     display_title = clean_title(video['title'])
@@ -397,28 +434,54 @@ def create_music_entry(video: dict) -> Path:
 
     date_str = pub_date.strftime('%Y-%m-%d')
     youtube_short_url = f'https://youtu.be/{video["video_id"]}'
+    youtube_music_url = f'https://music.youtube.com/watch?v={video["video_id"]}'
 
     # Download and resize the thumbnail
     download_and_resize_thumbnail(video['video_id'], slug)
 
-    # Build the file content (use cleaned title)
+    # Extract inspiration from description
+    inspiration = extract_inspiration(video.get('description', ''))
+
+    # Build the file content matching the template structure
     content_lines = [
         '---',
         f'title: "{display_title}"',
         f'date: {date_str}',
         f'cover_image: "/assets/images/music/{slug}.png"',
+        '# Recommended image dimensions: 300x300px (1:1 aspect ratio, square)',
+        '# This ensures optimal display and fast loading on all devices',
+        '# File size should be under 100KB for best performance',
         f'youtube: "{youtube_short_url}"',
-        'show_lyrics: false',
+        f'youtube_music: "{youtube_music_url}"',
+        'spotify: ""',
+        'apple_music: ""',
+        'amazon_music: ""',
         '---',
-        '',
     ]
 
-    # Add description as content if available
-    if video['description']:
-        first_line = video['description'].split('\n')[0].strip()
-        if first_line and len(first_line) < 300:
-            content_lines.append(first_line)
-            content_lines.append('')
+    # Add Inspiration section
+    content_lines.append('## Inspiration')
+    content_lines.append('')
+    if inspiration:
+        content_lines.append(inspiration)
+    else:
+        content_lines.append('(Add inspiration and background for this song)')
+    content_lines.append('')
+
+    # Add Lyrics section (placeholder)
+    content_lines.append('## Lyrics')
+    content_lines.append('<pre class="lyrics-content">')
+    content_lines.append('[Verse 1]')
+    content_lines.append('(Add lyrics here)')
+    content_lines.append('')
+    content_lines.append('[Chorus]')
+    content_lines.append('(Add lyrics here)')
+    content_lines.append('</pre>')
+    content_lines.append('')
+
+    # Add Listen On section
+    content_lines.append('## Listen On')
+    content_lines.append('')
 
     # Write the file
     filename = f'{slug}.md'
