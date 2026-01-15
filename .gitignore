@@ -4,4 +4,7 @@ _site
 .jekyll-metadata
 vendor
 .DS_Store
-.DS_Store
+
+# Music automation tracking files
+.music-tracker.json
+.streaming-links-retry.json

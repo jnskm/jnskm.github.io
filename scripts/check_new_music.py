@@ -32,6 +32,11 @@ REPO_ROOT = Path(__file__).parent.parent
 MUSIC_DIR = REPO_ROOT / '_music'
 IMAGES_DIR = REPO_ROOT / 'assets' / 'images' / 'music'
 TRACKER_FILE = REPO_ROOT / '.music-tracker.json'
+STREAMING_RETRY_FILE = REPO_ROOT / '.streaming-links-retry.json'
+
+# Streaming link retry settings
+STREAMING_RETRY_DAYS = 14  # Keep retrying for this many days
+REQUIRED_PLATFORMS = ['spotify', 'apple_music', 'amazon_music', 'youtube_music']
 
 # Cover image settings
 COVER_IMAGE_MAX_SIZE = 1080  # Maximum output size (won't upscale beyond source)
@@ -433,6 +438,229 @@ def save_tracked_videos(video_ids: set[str]):
         }, f, indent=2)
 
 
+def load_streaming_retry_queue() -> dict:
+    """
+    Load the streaming link retry queue.
+    Returns a dict mapping video_id -> {
+        'title': str,
+        'filepath': str,
+        'first_added': ISO date string,
+        'missing_platforms': list of platform names still missing
+    }
+    """
+    if STREAMING_RETRY_FILE.exists():
+        try:
+            with open(STREAMING_RETRY_FILE, 'r') as f:
+                return json.load(f)
+        except (json.JSONDecodeError, IOError):
+            return {}
+    return {}
+
+
+def save_streaming_retry_queue(queue: dict):
+    """Save the streaming link retry queue."""
+    with open(STREAMING_RETRY_FILE, 'w') as f:
+        json.dump(queue, f, indent=2)
+
+
+def add_to_streaming_retry_queue(video_id: str, title: str, filepath: str, missing_platforms: list):
+    """
+    Add a song to the streaming link retry queue.
+    Will be checked daily until all platforms have the song or STREAMING_RETRY_DAYS passes.
+    """
+    queue = load_streaming_retry_queue()
+
+    if video_id not in queue:
+        queue[video_id] = {
+            'title': title,
+            'filepath': str(filepath),
+            'first_added': datetime.utcnow().date().isoformat(),
+            'missing_platforms': missing_platforms,
+        }
+        save_streaming_retry_queue(queue)
+        print(f"  Added to streaming retry queue (will check for {STREAMING_RETRY_DAYS} days)")
+
+
+def update_streaming_retry_entry(video_id: str, missing_platforms: list):
+    """Update the missing platforms for an entry in the retry queue."""
+    queue = load_streaming_retry_queue()
+    if video_id in queue:
+        queue[video_id]['missing_platforms'] = missing_platforms
+        save_streaming_retry_queue(queue)
+
+
+def remove_from_streaming_retry_queue(video_id: str):
+    """Remove a song from the retry queue (all platforms found or expired)."""
+    queue = load_streaming_retry_queue()
+    if video_id in queue:
+        del queue[video_id]
+        save_streaming_retry_queue(queue)
+
+
+def get_missing_platforms(streaming_links: dict) -> list:
+    """Return list of platforms that don't have links yet."""
+    missing = []
+    for platform in REQUIRED_PLATFORMS:
+        if not streaming_links.get(platform):
+            missing.append(platform)
+    return missing
+
+
+def process_streaming_retry_queue() -> int:
+    """
+    Process the streaming link retry queue.
+    Checks each song for new streaming links and updates the music files.
+    Removes entries that are complete or have expired.
+
+    Returns the number of files updated.
+    """
+    queue = load_streaming_retry_queue()
+    if not queue:
+        return 0
+
+    print(f"\nChecking {len(queue)} song(s) in streaming retry queue...")
+    updated_count = 0
+    to_remove = []
+    today = datetime.utcnow().date()
+
+    for video_id, entry in queue.items():
+        title = entry['title']
+        filepath = Path(entry['filepath'])
+        first_added = datetime.fromisoformat(entry['first_added']).date()
+        days_elapsed = (today - first_added).days
+        missing_platforms = entry.get('missing_platforms', REQUIRED_PLATFORMS)
+
+        # Check if expired
+        if days_elapsed > STREAMING_RETRY_DAYS:
+            print(f"  {title}: Retry period expired ({days_elapsed} days), removing from queue")
+            to_remove.append(video_id)
+            continue
+
+        # Check if file still exists
+        if not filepath.exists():
+            print(f"  {title}: File no longer exists, removing from queue")
+            to_remove.append(video_id)
+            continue
+
+        print(f"  {title}: Day {days_elapsed}/{STREAMING_RETRY_DAYS}, missing: {', '.join(missing_platforms)}")
+
+        # Fetch current streaming links
+        youtube_url = f"https://youtu.be/{video_id}"
+        streaming_links = fetch_streaming_links(youtube_url)
+
+        # Check which platforms are still missing
+        still_missing = get_missing_platforms(streaming_links)
+
+        if not still_missing:
+            # All platforms found!
+            print(f"    ✓ All streaming platforms found!")
+            if update_music_file_streaming_links(filepath, streaming_links):
+                updated_count += 1
+            to_remove.append(video_id)
+        elif len(still_missing) < len(missing_platforms):
+            # Some new platforms found
+            newly_found = set(missing_platforms) - set(still_missing)
+            print(f"    + New platforms found: {', '.join(newly_found)}")
+            if update_music_file_streaming_links(filepath, streaming_links):
+                updated_count += 1
+            # Update the missing platforms list
+            update_streaming_retry_entry(video_id, still_missing)
+        else:
+            print(f"    - No new platforms found yet")
+
+    # Remove completed/expired entries
+    for video_id in to_remove:
+        remove_from_streaming_retry_queue(video_id)
+
+    return updated_count
+
+
+def update_music_file_streaming_links(filepath: Path, streaming_links: dict) -> bool:
+    """
+    Update a music file's front matter and Listen On section with new streaming links.
+    Only updates fields that are currently empty.
+
+    Returns True if the file was modified.
+    """
+    try:
+        content = filepath.read_text()
+    except Exception as e:
+        print(f"    Error reading {filepath}: {e}")
+        return False
+
+    modified = False
+
+    # Update front matter fields
+    for platform, url in streaming_links.items():
+        if not url:
+            continue
+
+        # Map platform names to front matter field names
+        field_map = {
+            'spotify': 'spotify',
+            'apple_music': 'apple_music',
+            'amazon_music': 'amazon_music',
+            'youtube_music': 'youtube_music',
+        }
+
+        field_name = field_map.get(platform)
+        if not field_name:
+            continue
+
+        # Check if field exists and is empty
+        pattern = rf'^({field_name}:\s*)""\s*$'
+        if re.search(pattern, content, re.MULTILINE):
+            content = re.sub(pattern, rf'\1"{url}"', content, flags=re.MULTILINE)
+            modified = True
+
+    # Update Listen On section if it exists
+    if '## Listen On' in content:
+        # Find the Listen On section
+        listen_match = re.search(r'(## Listen On\s*\n)(.*?)(?=\n## |\Z)', content, re.DOTALL)
+        if listen_match:
+            listen_content = listen_match.group(2)
+
+            # Add links for platforms not already in the section
+            new_links = []
+
+            # Get YouTube URL from front matter for the Listen On section
+            yt_match = re.search(r'^youtube:\s*"([^"]+)"', content, re.MULTILINE)
+            youtube_url = yt_match.group(1) if yt_match else ''
+
+            if streaming_links.get('youtube_music') and 'YouTube Music' not in listen_content:
+                new_links.append(f"- [YouTube Music]({streaming_links['youtube_music']})")
+            if streaming_links.get('spotify') and 'Spotify' not in listen_content:
+                new_links.append(f"- [Spotify]({streaming_links['spotify']})")
+            if streaming_links.get('apple_music') and 'Apple Music' not in listen_content:
+                new_links.append(f"- [Apple Music]({streaming_links['apple_music']})")
+            if streaming_links.get('amazon_music') and 'Amazon Music' not in listen_content:
+                new_links.append(f"- [Amazon Music]({streaming_links['amazon_music']})")
+
+            if new_links:
+                # Find where to insert (after existing links or at start of section)
+                existing_links = listen_content.strip()
+                if existing_links and '](http' in existing_links:
+                    # Append after existing links
+                    new_listen_content = existing_links + '\n' + '\n'.join(new_links)
+                else:
+                    # Replace placeholder or empty content
+                    new_listen_content = '\n'.join(new_links)
+
+                content = content[:listen_match.start(2)] + new_listen_content + '\n' + content[listen_match.end(2):]
+                modified = True
+
+    if modified:
+        try:
+            filepath.write_text(content)
+            print(f"    Updated: {filepath.name}")
+            return True
+        except Exception as e:
+            print(f"    Error writing {filepath}: {e}")
+            return False
+
+    return False
+
+
 def extract_bible_verse(description: str) -> str:
     """
     Extract Bible verse from YouTube video description.
@@ -585,6 +813,17 @@ def create_music_entry(video: dict) -> Path:
         f.write('\n'.join(content_lines))
 
     print(f"Created: {filepath}")
+
+    # Check if any streaming platforms are missing and add to retry queue
+    missing_platforms = get_missing_platforms(streaming_links)
+    if missing_platforms:
+        add_to_streaming_retry_queue(
+            video['video_id'],
+            display_title,
+            filepath,
+            missing_platforms
+        )
+
     return filepath
 
 
@@ -873,6 +1112,10 @@ def main():
         print(f"Updated {updated_count} existing files with missing sections.")
     else:
         print("All existing files have complete sections.")
+
+    # Process streaming link retry queue (check for newly available streaming links)
+    retry_updated = process_streaming_retry_queue()
+    updated_count += retry_updated
 
     # Load previously tracked videos
     tracked = load_tracked_videos()
