@@ -13,3 +13,14 @@ Praise the LORD, my soul,<br>
 and forget not all His benefits --<br>
 
 ## Listen On
+
+## Inspiration
+
+(Add inspiration and background for this song)
+
+## Lyrics
+[Verse 1]
+(Add lyrics here)
+
+[Chorus]
+(Add lyrics here)

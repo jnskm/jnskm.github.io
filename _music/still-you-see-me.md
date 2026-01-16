@@ -5,5 +5,20 @@ cover_image: "/assets/images/music/christian-songs-still-you-see-me-inspired-by-
 youtube: "https://youtu.be/MtaVMnbZSsg"
 show_lyrics: false
 ---
+## Bible Verse
+(Add Bible verse here)
 
 Philippians 1:6
+
+## Inspiration
+
+(Add inspiration and background for this song)
+
+## Lyrics
+[Verse 1]
+(Add lyrics here)
+
+[Chorus]
+(Add lyrics here)
+
+## Listen On

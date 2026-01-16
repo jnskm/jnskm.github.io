@@ -7,6 +7,8 @@ spotify: "https://open.spotify.com/album/6epcfaqfwrWaNqWB5soNmh?si=bOlKN3j1TPq3K
 apple_music: "https://music.apple.com/us/album/a-place-for-me-single/1821578312"
 show_lyrics: false
 ---
+## Bible Verse
+(Add Bible verse here)
 
 # Inspiration
 
@@ -64,3 +66,16 @@ He’s preparing a place for me
 </pre>
 
 # Listen On
+
+## Inspiration
+
+(Add inspiration and background for this song)
+
+## Lyrics
+[Verse 1]
+(Add lyrics here)
+
+[Chorus]
+(Add lyrics here)
+
+## Listen On

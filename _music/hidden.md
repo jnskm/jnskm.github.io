@@ -6,6 +6,8 @@ youtube: "https://youtu.be/i3ljv2atp24"
 spotify: "https://open.spotify.com/album/4BJh2NMsv0p2TiE4u4406h?si=iJfoISvvRDiXLTL2VJm7nw"
 show_lyrics: false
 ---
+## Bible Verse
+(Add Bible verse here)
 
 ## Inspiration
 

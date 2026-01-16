@@ -6,6 +6,21 @@ youtube: "https://youtu.be/cZ4RIYDBCMQ"
 spotify: "https://open.spotify.com/album/1ZBTfUqVsGySjn8FVj2ICd?si=BL3pQvLLRviFBMf6Smfogw"
 show_lyrics: false
 ---
+## Bible Verse
+(Add Bible verse here)
 
 Inspired by 2 Cor. 12:9.
 
+
+## Inspiration
+
+(Add inspiration and background for this song)
+
+## Lyrics
+[Verse 1]
+(Add lyrics here)
+
+[Chorus]
+(Add lyrics here)
+
+## Listen On
