@@ -11,6 +11,9 @@ spotify: ""
 apple_music: ""
 amazon_music: ""
 ---
+## Bible Verse
+(Add Bible verse here)
+
 ## Inspiration
 
 But seek first His kingdom and His righteousness, and all these things will be given to you as well. Matthew 6:33.

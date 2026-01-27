@@ -6,6 +6,21 @@ youtube: "https://youtu.be/H3S76JyJTh8"
 spotify: "https://open.spotify.com/album/3eAjok7enQ8tYVEi7BsxCH?si=iCieTDsaSY2uihRufu4AHg"
 show_lyrics: false
 ---
+## Bible Verse
+(Add Bible verse here)
 
 Inspired by Psalm 73:25-26.
 
+
+## Inspiration
+
+(Add inspiration and background for this song)
+
+## Lyrics
+[Verse 1]
+(Add lyrics here)
+
+[Chorus]
+(Add lyrics here)
+
+## Listen On

@@ -7,6 +7,8 @@ spotify: "https://open.spotify.com/album/0BGLmmFbVeN1s9Fx09j3PN?si=hJlZgUZPSXm8V
 apple_music: "https://music.apple.com/us/album/persist-single/1802387783"
 show_lyrics: false
 ---
+## Bible Verse
+(Add Bible verse here)
 
 # Inspiration
 
@@ -78,3 +80,16 @@ I'm still loving, I'm persisting
 </pre>
 
 # Listen On
+
+## Inspiration
+
+(Add inspiration and background for this song)
+
+## Lyrics
+[Verse 1]
+(Add lyrics here)
+
+[Chorus]
+(Add lyrics here)
+
+## Listen On
