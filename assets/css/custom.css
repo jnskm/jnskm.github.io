@@ -712,7 +712,7 @@ pre.lyrics-content {
 /* Lyrics section headers styling - [Verse 1], [Chorus], etc. */
 .lyrics-content .lyrics-section-header {
   font-family: 'Courier Prime Code', monospace;
-  font-weight: bold;
+  font-weight: normal;
   display: block;
   margin-top: 1.5rem;
   margin-bottom: 0.5rem;
