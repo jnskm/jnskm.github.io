@@ -31,8 +31,8 @@ Jesus.
 
 ## Lyrics
 <pre class="lyrics-content">
-[Verse 1]<br>
-There’s beauty in the ocean
+<span class="lyrics-section-header">[Verse 1]</span>
+There's beauty in the ocean
 Beauty in the air
 숨을 쉬는 이 순간
 Beauty everywhere
@@ -42,29 +42,29 @@ Trees older than time
 말없이 말해 주는
 Everything is fine
 
-[Pre-Chorus]<br>
+<span class="lyrics-section-header">[Pre-Chorus]</span>
 All these things catch my eye
 왔다가 사라져
-They don’t stay, they pass me by
+They don't stay, they pass me by
 계속 흘러가
 
-[Chorus]<br>
-There’s beauty everywhere
+<span class="lyrics-section-header">[Chorus]</span>
+There's beauty everywhere
 Everywhere I go
 아름다움 everywhere
 Yeah, I know, I know
 
-But there’s beauty greater
+But there's beauty greater
 더 큰 아름다움
-There’s beauty greater
+There's beauty greater
 When I turn to You
 
-[Chorus Tag]<br>
+<span class="lyrics-section-header">[Chorus Tag]</span>
 더 큰 아름다움
 더 큰 아름다움
 
-[Verse 2]<br>
-There’s beauty in a moment
+<span class="lyrics-section-header">[Verse 2]</span>
+There's beauty in a moment
 Beauty in a face
 눈을 돌리면 또 다른
 Kind of grace
@@ -72,26 +72,26 @@ Kind of grace
 But the shine is always fading
 Every high comes down
 영원한 아름다움
-That’s what I’ve found
+That's what I've found
 
-[Pre-Chorus]<br>
+<span class="lyrics-section-header">[Pre-Chorus]</span>
 All these things catch my eye
 왔다가 사라져
-They don’t stay, they pass me by
+They don't stay, they pass me by
 계속 흘러가
 
-[Chorus]<br>
-There’s beauty everywhere
+<span class="lyrics-section-header">[Chorus]</span>
+There's beauty everywhere
 Everywhere I go
 아름다움 everywhere
 Yeah, I know, I know
 
-But there’s beauty greater
+But there's beauty greater
 더 큰 아름다움
-There’s beauty greater
-You’re the One I know
+There's beauty greater
+You're the One I know
 
-[Bridge]<br>
+<span class="lyrics-section-header">[Bridge]</span>
 You came close
 내 곁으로
 You took my place
@@ -99,24 +99,24 @@ You took my place
 
 Death let go
 끝이 아니야
-You’re alive
+You're alive
 지금 여기야
 
-[Bridge Tag]<br>
+<span class="lyrics-section-header">[Bridge Tag]</span>
 죽음을 이기신 분
 
-[Final Chorus]<br>
-There’s beauty everywhere
+<span class="lyrics-section-header">[Final Chorus]</span>
+There's beauty everywhere
 Everywhere I go
 아름다움 everywhere
 Yeah, I know, I know
 
-But there’s beauty greater
+But there's beauty greater
 더 큰 아름다움
-There’s beauty greater
+There's beauty greater
 Jesus, You are Love
 
-[Outro]<br>
+<span class="lyrics-section-header">[Outro]</span>
 나는 변해가
 주 닮아 가
 더 큰 아름다움

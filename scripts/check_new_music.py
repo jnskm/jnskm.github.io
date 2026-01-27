@@ -770,12 +770,15 @@ def create_music_entry(video: dict) -> Path:
     content_lines.append('')
 
     # Add Lyrics section (placeholder - to be filled manually)
+    # Uses <pre> for formatting and <span> for section headers styled with Courier Prime Code
     content_lines.append('## Lyrics')
-    content_lines.append('[Verse 1]')
+    content_lines.append('<pre class="lyrics-content">')
+    content_lines.append('<span class="lyrics-section-header">[Verse 1]</span>')
     content_lines.append('(Add lyrics here)')
     content_lines.append('')
-    content_lines.append('[Chorus]')
+    content_lines.append('<span class="lyrics-section-header">[Chorus]</span>')
     content_lines.append('(Add lyrics here)')
+    content_lines.append('</pre>')
     content_lines.append('')
 
     # Add Listen On section with streaming links
@@ -933,7 +936,15 @@ def update_existing_music_entry(filepath: Path, bible_verse: str = "", streaming
         modified = True
 
     if '## Lyrics' in missing_sections:
-        sections_to_add_at_end.append(('## Lyrics', '[Verse 1]\n(Add lyrics here)\n\n[Chorus]\n(Add lyrics here)\n'))
+        lyrics_placeholder = '''<pre class="lyrics-content">
+<span class="lyrics-section-header">[Verse 1]</span>
+(Add lyrics here)
+
+<span class="lyrics-section-header">[Chorus]</span>
+(Add lyrics here)
+</pre>
+'''
+        sections_to_add_at_end.append(('## Lyrics', lyrics_placeholder))
         modified = True
 
     if '## Listen On' in missing_sections:
