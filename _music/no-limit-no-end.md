@@ -25,8 +25,8 @@ His love leaves traces everywhere. We feel it in the warmth of the morning sun a
 Mercy without measure. Grace without end. God who loves us and remains with us.
 
 ## Lyrics
-
-[Verse 1]
+<pre class="lyrics-content">
+<span class="lyrics-section-header">[Verse 1]</span>
 Before the stars
 Before the light
 You were love
@@ -37,11 +37,11 @@ In human skin
 You came close
 To save us
 
-[Pre-Chorus]
+<span class="lyrics-section-header">[Pre-Chorus]</span>
 From forever
 Into time
 
-[Chorus]
+<span class="lyrics-section-header">[Chorus]</span>
 No limit, no end
 Your mercy again
 You pull me close
@@ -52,7 +52,7 @@ You pull me close
 저를 부르세요
 저를 안으세요
 
-[Verse 2]
+<span class="lyrics-section-header">[Verse 2]</span>
 You didn’t stay
 So far away
 You made a home
@@ -63,11 +63,11 @@ No more shame
 I am Yours
 I am changed
 
-[Pre-Chorus]
+<span class="lyrics-section-header">[Pre-Chorus]</span>
 From forever
 Into time
 
-[Chorus]
+<span class="lyrics-section-header">[Chorus]</span>
 No limit, no end
 Your mercy again
 You pull me close
@@ -78,7 +78,7 @@ You pull me close
 저를 부르세요
 저를 안으세요
 
-[Bridge]
+<span class="lyrics-section-header">[Bridge]</span>
 Morning sun
 On my face
 Every sky
@@ -93,7 +93,7 @@ Sings of You
 온 세상에
 속삭여요
 
-[Final Chorus]
+<span class="lyrics-section-header">[Final Chorus]</span>
 No limit, no end
 Your mercy again
 You pull me close
@@ -104,12 +104,13 @@ You pull me close
 예수님 안에서
 저는 살아가요
 
-[Outro]
+<span class="lyrics-section-header">[Outro]</span>
 No limit
 No end
 
 끝이 없는 사랑
 멈추지 않는 은혜
+</pre>
 
 ## Listen On
 - [YouTube](https://youtu.be/Q8CI_kJ_P6A)
