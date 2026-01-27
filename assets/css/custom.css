@@ -81,7 +81,7 @@ body.site {
 }
 
 .site-name {
-  font-family: 'EB Garamond', serif;
+  font-family: 'EB Garamond', 'Noto Serif KR', serif;
   font-size: 1.5rem;
   line-height: 1;
   margin: 0;
@@ -247,21 +247,21 @@ body.site:has(.home-intro) .site-main .content {
 
 /* === TYPOGRAPHY === */
 h1 {
-  font-family: 'EB Garamond', serif;
+  font-family: 'EB Garamond', 'Noto Serif KR', serif;
   font-size: 1.75rem;
   font-weight: bold;
   line-height: 1.3;
 }
 
 h2 {
-  font-family: 'EB Garamond', serif;
+  font-family: 'EB Garamond', 'Noto Serif KR', serif;
   font-size: 1.5rem;
   font-weight: bold;
   line-height: 1.3;
 }
 
 h3 {
-  font-family: 'EB Garamond', serif;
+  font-family: 'EB Garamond', 'Noto Serif KR', serif;
   font-size: 1.25rem;
   font-weight: bold;
   line-height: 1.3;
@@ -643,19 +643,19 @@ img {
 
 /* Lyrics section styling - use EB Garamond for more compact display */
 .lyrics-section {
-  font-family: 'EB Garamond', serif;
+  font-family: 'EB Garamond', 'Noto Serif KR', serif;
   margin-top: 2rem;
 }
 
 .lyrics-section h2 {
-  font-family: 'EB Garamond', serif;
+  font-family: 'EB Garamond', 'Noto Serif KR', serif;
   font-size: 1.5rem;
   font-weight: bold;
   margin-bottom: 1rem;
 }
 
 .lyrics-content {
-  font-family: 'EB Garamond', serif;
+  font-family: 'EB Garamond', 'Noto Serif KR', serif;
   font-size: 1rem;
   line-height: 1.6;
   word-wrap: break-word;
@@ -780,7 +780,7 @@ pre.lyrics-content {
 }
 
 .home-verse p {
-  font-family: 'EB Garamond', serif;
+  font-family: 'EB Garamond', 'Noto Serif KR', serif;
   font-size: 1.25rem;
   line-height: 1.6;
   margin: 0;
@@ -798,7 +798,7 @@ pre.lyrics-content {
 }
 
 .home-intro p {
-  font-family: 'EB Garamond', serif;
+  font-family: 'EB Garamond', 'Noto Serif KR', serif;
   font-size: 1rem;
   line-height: 1.6;
   margin: 0;
@@ -826,7 +826,7 @@ pre.lyrics-content {
 
 /* === ABOUT PAGE === */
 body.site.about-page .site-main .content {
-  font-family: 'EB Garamond', serif;
+  font-family: 'EB Garamond', 'Noto Serif KR', serif;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -847,7 +847,7 @@ body.site.about-page .about-container {
 }
 
 body.site.about-page .about-container p {
-  font-family: 'EB Garamond', serif;
+  font-family: 'EB Garamond', 'Noto Serif KR', serif;
   font-size: 1rem;
   line-height: 1.6;
   margin-bottom: 1rem;
@@ -860,7 +860,7 @@ body.site.about-page .about-container strong {
 
 /* === CONTACT PAGE === */
 body.site.contact-page .site-main .content {
-  font-family: 'EB Garamond', serif;
+  font-family: 'EB Garamond', 'Noto Serif KR', serif;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -881,7 +881,7 @@ body.site.contact-page .contact-container {
 }
 
 body.site.contact-page .contact-label {
-  font-family: 'EB Garamond', serif;
+  font-family: 'EB Garamond', 'Noto Serif KR', serif;
   font-size: 1rem;
   line-height: 1.6;
   margin-bottom: 1rem;
