@@ -1,8 +1,16 @@
 <footer>
-  <div class="footer-links">
-    <a href="/contact">Contact</a>
-  </div>
   <div class="footer-copyright">
-    &copy; 2022 - {{ site.time | date: "%Y" }} JNSKM
+    &copy; 2022 - {{ site.time | date: "%Y" }} <a href="#" id="contact-link">JNSKM</a>
   </div>
 </footer>
+<script>
+(function() {
+  var a = 'hello';
+  var b = 'jnskm';
+  var c = 'com';
+  var link = document.getElementById('contact-link');
+  if (link) {
+    link.href = 'mai' + 'lto:' + a + '@' + b + '.' + c;
+  }
+})();
+</script>
