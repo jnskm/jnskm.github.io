@@ -35,22 +35,22 @@ layout: default
     {% endif %}
     
     <div class="music-links">
-      {% if page.youtube %}
+      {% if page.youtube and page.youtube != "" %}
       <a href="{{ page.youtube }}" target="_blank" rel="noopener noreferrer" class="music-link">YouTube</a>
       {% endif %}
-      {% if page.youtube_music %}
+      {% if page.youtube_music and page.youtube_music != "" %}
       <a href="{{ page.youtube_music }}" target="_blank" rel="noopener noreferrer" class="music-link">YouTube Music</a>
       {% endif %}
-      {% if page.spotify %}
+      {% if page.spotify and page.spotify != "" %}
       <a href="{{ page.spotify }}" target="_blank" rel="noopener noreferrer" class="music-link">Spotify</a>
       {% endif %}
-      {% if page.apple_music %}
+      {% if page.apple_music and page.apple_music != "" %}
       <a href="{{ page.apple_music }}" target="_blank" rel="noopener noreferrer" class="music-link">Apple Music</a>
       {% endif %}
-      {% if page.amazon_music %}
+      {% if page.amazon_music and page.amazon_music != "" %}
       <a href="{{ page.amazon_music }}" target="_blank" rel="noopener noreferrer" class="music-link">Amazon Music</a>
       {% endif %}
-      {% if page.other_platforms %}
+      {% if page.other_platforms and page.other_platforms != "" %}
       <div class="other-platforms">
         <h3>Other Platforms</h3>
         {{ page.other_platforms | markdownify }}
