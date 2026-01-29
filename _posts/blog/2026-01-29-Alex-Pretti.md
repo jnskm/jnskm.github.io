@@ -106,7 +106,7 @@ The scriptures call believers to expose wrongdoing and bring hidden deeds into t
 
 * "Speak up for those who cannot speak for themselves, for the rights of all who are destitute. Speak up and judge fairly; defend the rights of the poor and needy." (Proverbs 31:8-9) Alex Pretti can no longer speak for himself. Christians are called to be his voice in seeking truth and justice, upholding the rights of the vulnerable.
 
-# Brothers and Sisters in Christ: Our Call to Love Through Justice**
+# Brothers and Sisters in Christ: Our Call to Love Through Justice
 
 As followers of Jesus, we are called to a love that is active and transformational. The situation in Minneapolis challenges us to live out our faith in practical ways that honor both God and our neighbors.
 
@@ -121,7 +121,11 @@ True Christian love sometimes requires us to speak uncomfortable truths and chal
 # A Prayer for Action
 
 Heavenly Father,
-We pray for wisdom to discern truth from falsehood in a world often clouded by deception. Grant us courage to speak for those who cannot speak for themselves and to advocate for the rights of the oppressed. Help us to love justice as You love justice, and to pursue it with both boldness and humility. May our response to this tragedy draw others to see Your heart for the vulnerable and Your unwavering commitment to truth. Use us as instruments of Your peace and agents of Your justice. Help us to love You more deeply by loving our neighbors more completely—including Alex Pretti's family and all who suffer under the weight of misused power. In Jesus' name, Amen.
+
+We pray for wisdom to discern truth from falsehood in a world often clouded by deception. Grant us courage to speak for those who cannot speak for themselves and to advocate for the rights of the oppressed. Help us to love justice as You love justice, and to pursue it with both boldness and humility. May our response to this tragedy draw others to see Your heart for the vulnerable and Your unwavering commitment to truth. Use us as instruments of Your peace and agents of Your justice. Help us to love You more deeply by loving our neighbors more completely—including Alex Pretti's family and all who suffer under the weight of misused power.
+
+In Jesus' name,
+Amen.
 
 # The Great Commandment in Practice
 
