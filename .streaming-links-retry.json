@@ -6,8 +6,7 @@
     "missing_platforms": [
       "spotify",
       "apple_music",
-      "amazon_music",
-      "youtube_music"
+      "amazon_music"
     ]
   }
 }
