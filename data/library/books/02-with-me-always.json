@@ -1,0 +1,981 @@
+{
+  "book_id": "02-with-me-always",
+  "title": "With Me Always",
+  "subtitle": "",
+  "authors": [
+    "Kyung Suk Yi",
+    "Jin Sung Kim"
+  ],
+  "source_pdf": "02_With_Me_Always/With_Me_Always_v03.pdf",
+  "cover_image": "/assets/images/books/book-cover-02-with-me-always.jpg",
+  "amazon_url": "",
+  "total_pages": 33,
+  "total_chunks": 63,
+  "chunks": [
+    {
+      "id": "02-with-me-always-001",
+      "lesson_number": null,
+      "lesson_title": null,
+      "section": null,
+      "page": 1,
+      "word_count": 118,
+      "text": "With Me Always Twelve Lessons From Dogs About Grace In Hard Places By Kyung Suk Yi and Jin Sung Kim © Kyung Suk Yi and Jin Sung Kim A book about theology, this is not. It’s a book about dogs. And sometimes when we look at what they do, and think about it a while, they remind us of the truths of our God. Through twelve simple lessons, With Me Always shares stories drawn from a life with dogs. One thing worth mentioning is that they don’t worry much about anything, because most things don’t matter to them. But the one thing that do matter to them? Their people, and we have seen that they always stayed near.",
+      "keep": false,
+      "themes": []
+    },
+    {
+      "id": "02-with-me-always-002",
+      "lesson_number": null,
+      "lesson_title": null,
+      "section": null,
+      "page": 2,
+      "word_count": 82,
+      "text": "We are not pastors: a deacon and a layperson. One walking through cancer, both walking with God. We are learning to closely follow the Shepherd in hard places. These reflections are for everyone, but especially for those who are quietly faithful, hurting, struggling but hopeful, and anyone still learning that Grace shows up… even while we watch a dog wagging his tail. The proceeds from this book goes to: The Never Alone Mission c/o A&K 440 N. Wolfe Rd. Sunnyvale, CA 94085",
+      "keep": false,
+      "themes": []
+    },
+    {
+      "id": "02-with-me-always-003",
+      "lesson_number": null,
+      "lesson_title": null,
+      "section": "introduction",
+      "page": 4,
+      "word_count": 93,
+      "text": "We didn’t set out to write a book about God. We were just paying attention to dogs. Kyung Yi has been living with dogs almost all his life. Big ones, little ones, mutts, purebreds, floppy ears, crooked tails. Over the years, he started jotting down little notes, sometimes long notes: funny things they did, odd behaviors, little moments that somehow felt more profound than they should’ve been. Notebooks full of quirks and tails and barked wisdom. Then one day, we started to realize: these dogs weren’t just amusing us. They were teaching us.",
+      "keep": false,
+      "themes": []
+    },
+    {
+      "id": "02-with-me-always-004",
+      "lesson_number": null,
+      "lesson_title": null,
+      "section": "introduction",
+      "page": 4,
+      "word_count": 85,
+      "text": "And the lessons started lining up. Strangely and beautifully, with the very truths we’d been reading in God’s Word. Jin Kim is walking through stage 4 colon cancer. A season when life slows down whether you want it to or not. When the world turns a little slower, unimportant things go out of focus and certain important things come into focus. You start to notice what really matters. And often, it’s presence: the presence of God. God’s love. God’s grace. Everywhere, especially in unexpected places.",
+      "keep": true,
+      "themes": [
+        "weary",
+        "grieving",
+        "loved",
+        "hopeful"
+      ]
+    },
+    {
+      "id": "02-with-me-always-005",
+      "lesson_number": null,
+      "lesson_title": null,
+      "section": "introduction",
+      "page": 4,
+      "word_count": 64,
+      "text": "Dogs seem to know some things instinctively. Things God, in His mercy and grace, keeps showing us through them. We’re just two ordinary believers. One deacon. One layperson. Trying to love God well. Trying to walk faithfully. Still learning what it means to stay close to the Lord. And if you are too, this book is for you. He is with you. Always. 4",
+      "keep": true,
+      "themes": [
+        "weary",
+        "lonely",
+        "trusting",
+        "loved"
+      ]
+    },
+    {
+      "id": "02-with-me-always-006",
+      "lesson_number": 1,
+      "lesson_title": "Sit Still",
+      "section": null,
+      "page": 5,
+      "word_count": 115,
+      "text": "One time, a dog sat on someone’s foot. Not next to it. Not near it. Right on top of it. He was standing in the kitchen, waiting for water to boil. The dog walked in, looked around, gave one of those long, deep dog sighs, and sat. Right there, on his foot. Like it was the most normal thing in the world to do. “Excuse me, that’s my foot,” he said, trying not to spill his tea. He didn’t move one bit. He wasn’t asking for anything. He didn’t want food or attention. He just wanted to be right there, really close to his person. And sitting there was his way of saying, I’m here.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "02-with-me-always-007",
+      "lesson_number": 1,
+      "lesson_title": "Sit Still",
+      "section": null,
+      "page": 5,
+      "word_count": 93,
+      "text": "Good dogs know how to sit. They don’t rush things. They don’t panic; well most don’t. They just wait. And when they’re told to sit, they usually do. Not always right away. Sometimes they squirm a little. But in the end, they stay. Oddly enough, that, for a lot of us human beings, is really hard to do. When life gets hard, we want to fix it. We want to do something about it, anything, to make it better. But maybe sometimes, what God wants from us is something quite different, much smaller.",
+      "keep": true,
+      "themes": [
+        "anxious",
+        "striving",
+        "weary",
+        "resting"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "02-with-me-always-008",
+      "lesson_number": 1,
+      "lesson_title": "Sit Still",
+      "section": null,
+      "page": 5,
+      "word_count": 81,
+      "text": "Maybe God want us to sit. To be still. And stay close. 5 There was a man from a shelter. He had very little. Just a plastic bag with some clothes and an old Bible with pages missing. He did not even have a phone. Every morning, he sat on the same bench. He was in no rush to do anything or go anywhere. He was just sitting. One day, he was asked, “What are you doing out here every day?”",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "02-with-me-always-009",
+      "lesson_number": 1,
+      "lesson_title": "Sit Still",
+      "section": null,
+      "page": 6,
+      "word_count": 115,
+      "text": "He looked up, smiled, and answered, “Waiting on the Lord. He’s almost never early. But He’s never late either.” He wasn’t doing nothing. He was waiting, with hope. He was still, but not because he had given up. Because he had hope and believed help was coming. The Bible says, “Be still, and know that I am God.” That doesn’t mean we stop caring. It means we stop trying to be in control. That verse isn’t just for people who live quiet lives. It’s for people like us. The ones who are tired. The ones who are hurting. The ones who’ve tried everything, and now… maybe it’s time to stop and sit for a while.",
+      "keep": true,
+      "themes": [
+        "weary",
+        "anxious",
+        "waiting",
+        "trusting"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "02-with-me-always-010",
+      "lesson_number": 1,
+      "lesson_title": "Sit Still",
+      "section": null,
+      "page": 6,
+      "word_count": 60,
+      "text": "We don’t know what that looks like for you. But we are learning that being still doesn’t mean we have failed. It just means we are learning to trust. Trust in the Lord. Trust that the Lord will take care of us. And maybe, when life feels too hard, trusting the Lord and being still is enough for today. 6",
+      "keep": true,
+      "themes": [
+        "weary",
+        "anxious",
+        "trusting",
+        "resting"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "02-with-me-always-011",
+      "lesson_number": 2,
+      "lesson_title": "Follow Closely",
+      "section": null,
+      "page": 7,
+      "word_count": 108,
+      "text": "If you’ve ever walked a dog, you know how it goes. Some dogs pull ahead. Some stop every two feet to sniff a leaf or inspect a stick. And some, usually after some training, walk right beside you. He doesn’t walk too fast, not too slow. Just right, matching your speed, close, right next to you. The good ones trust you to lead them. We’ve had both kinds of dogs. The ones who dart ahead and drag us into puddles, and the ones who stay right next to us and keep pace, even when they’re excited. And we have to admit, we’ve been both kinds of people, too.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "02-with-me-always-012",
+      "lesson_number": 2,
+      "lesson_title": "Follow Closely",
+      "section": null,
+      "page": 7,
+      "word_count": 99,
+      "text": "We are sure there have been times in our lives when we have ran ahead of God. We have hastedly made decisions before we prayed. We have tried to fix things on our own. We tell ourselves we were being “proactive,” but really, we were impatient and maybe a little scared to wait. We lacked patience. We lacked trust. And then there were other times when we stopped walking altogether. We got stuck. Completely lost. We didn’t know where to go, so we just sat down, like a dog that refuses to move in the middle of a sidewalk.",
+      "keep": true,
+      "themes": [
+        "striving",
+        "anxious",
+        "discouraged",
+        "confused"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "02-with-me-always-013",
+      "lesson_number": 2,
+      "lesson_title": "Follow Closely",
+      "section": null,
+      "page": 7,
+      "word_count": 81,
+      "text": "But the times we remember best were the times we followed the Lord closely. Not perfectly; we are human after all. And not always happily. But we stayed near the Lord as best as we could. We didn’t try to control everything. We can’t anyway. We just walked, one step at a time, next to the One who knew the way. 7 Dogs don’t need to know where we’re going. They just need to know we know. That’s enough for them.",
+      "keep": true,
+      "themes": [
+        "trusting",
+        "peaceful",
+        "surrendered",
+        "resting"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "02-with-me-always-014",
+      "lesson_number": 2,
+      "lesson_title": "Follow Closely",
+      "section": null,
+      "page": 8,
+      "word_count": 84,
+      "text": "Faith is like that. It’s not about having our own map, figuring out our destination, and then coming up with a plan to get there. Sure, we need to do our part, but faith is about knowing and trusting the One who’s leading. And us following. There was a woman who was going through something really difficult. She was homeless and sick, but she still came to church on Sundays. She said she felt safer there, even if it was just for an hour.",
+      "keep": true,
+      "themes": [
+        "anxious",
+        "trusting",
+        "surrendered",
+        "hopeful"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "02-with-me-always-015",
+      "lesson_number": 2,
+      "lesson_title": "Follow Closely",
+      "section": null,
+      "page": 8,
+      "word_count": 100,
+      "text": "One day, she was asked how she kept showing up with such peace. She said, “I just try to stay close to the Lord. God walks ahead of me. I just follow.” The Bible says, “My sheep hear My voice, and I know them, and they follow Me.” That’s from Jesus. He’s asking us to stay close to Him. To listen to His voice. To follow His lead. That’s what we see in good dogs, the ones who walk right beside us, matching our pace, keeping their eyes on us, trusting that wherever we’re going… it’s going to be okay.",
+      "keep": true,
+      "themes": [
+        "trusting",
+        "peaceful",
+        "loved",
+        "called"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "02-with-me-always-016",
+      "lesson_number": 2,
+      "lesson_title": "Follow Closely",
+      "section": null,
+      "page": 8,
+      "word_count": 71,
+      "text": "Don’t we want to live like that? To walk like that. Close to the Lord. Quietly. Trusting in the Lord. Faithfully. Not trying to rush off somewhere. Not running away. Just following the Lord. Right next to the Lord. 8 Because honestly, we don’t need to know everything about the road ahead. We just need to know the Lord knows the road ahead and that we are not walking alone. 9",
+      "keep": true,
+      "themes": [
+        "anxious",
+        "trusting",
+        "peaceful",
+        "resting"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "02-with-me-always-017",
+      "lesson_number": 3,
+      "lesson_title": "Speak When It Matters",
+      "section": null,
+      "page": 10,
+      "word_count": 99,
+      "text": "Some dogs bark at everything. A leaf blows across the sidewalk. Bark. The wind moves the curtains. Bark. A shadow shifts on the wall. Bark, bark, bark. And then there are dogs who hardly make a sound. They don’t bark when someone knocks. They don’t bark at squirrels. They don’t even bark when the food bowl is empty. But if something’s really wrong, they let you know. We think the loud dogs are the brave ones. But over time we realize that quiet dogs are often the wisest. They’re watching. Listening. And when they finally speak, we pay attention.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "02-with-me-always-018",
+      "lesson_number": 3,
+      "lesson_title": "Speak When It Matters",
+      "section": null,
+      "page": 10,
+      "word_count": 102,
+      "text": "There was a dog who almost never barked. Days would go by without a peep. But one night, in the middle of the night, she stood at the door and barked just once. She did not bark really loud. Nor was it in panick. Just one low, sharp bark. That bark woke enough to wake up her person. He turned on the lights and realized something was off. There was a strange noise outside. Metal scraping on the back fence. He never figured out exactly what it was, but that one little bark told him enough: “Something’s not right. You should look.”",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "02-with-me-always-019",
+      "lesson_number": 3,
+      "lesson_title": "Speak When It Matters",
+      "section": null,
+      "page": 10,
+      "word_count": 118,
+      "text": "It reminded us that sometimes, saying less makes the moment more important. Not everything needs to be barked about. Not every thought needs to be shared. But when something really matters, it’s okay to speak up. We should speak up. 10 All of us had moments in life where we stayed silent when we should’ve spoken. We probably also had moments where we said too much when we should’ve stayed quiet. Neither one felt good. We learn, especially from mistakes. Most of us slowly. Not every fight is ours to fight. Not every opinion needs to be shared. But when it’s time to say something true, something kind, something needed, we want to have the courage to speak.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "02-with-me-always-020",
+      "lesson_number": 3,
+      "lesson_title": "Speak When It Matters",
+      "section": null,
+      "page": 11,
+      "word_count": 94,
+      "text": "There’s a verse that says, “Let your words be few.” Another says, “A gentle answer turns away anger.” Jesus Himself often stayed silent when people attacked Him. But when He did speak it was always on purpose. Always with truth. Always with love. That’s what we must learn. To stay quiet when words would only add noise. But to speak, clearly, purposefully, with love, when it helps someone else see what’s true. A good dog doesn’t bark to show off. A good dog barks to protect. To warn. To say, “Hey, something’s not right.”",
+      "keep": true,
+      "themes": [
+        "striving",
+        "called",
+        "trusting",
+        "surrendered"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "02-with-me-always-021",
+      "lesson_number": 4,
+      "lesson_title": "Come When Called",
+      "section": null,
+      "page": 12,
+      "word_count": 93,
+      "text": "Some dogs take off the moment the door opens. They chase squirrels, sniff trees, follow smells halfway down the block. But here’s the thing: the good ones come back when you call. Even if they got distracted. Even if they ran too far. Even if it took them a while to hear you, they come back. There was a dog who did exactly that. Every time he went to the park, he’d run wild for a while. Eyes full of excitement. He wasn’t being bad, of course not. He just liked to explore.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "Learning to Return — No Matter How Far We've Wandered"
+    },
+    {
+      "id": "02-with-me-always-022",
+      "lesson_number": 4,
+      "lesson_title": "Come When Called",
+      "section": null,
+      "page": 12,
+      "word_count": 125,
+      "text": "But when his name was called, even from way across the field, he’d pause. Sometimes he’d hesitate. Sometimes he’d give that look. Really? Right now? But then, every time, he’d come running. That’s the kind of heart we want to have with God. One that hears His voice, even when we’ve wandered far. A heart that turns back, even if it takes a second. The truth is, we have had seasons where we didn’t respond right away. Where we ignored the gentle nudge. Where we told ourselves we’d come back later. But the longer we waited, the harder it felt to return. Not because God had changed his mind or moved away; He is always waiting for us to return, with arms wide open. Always.",
+      "keep": true,
+      "themes": [
+        "guilty",
+        "ashamed",
+        "restored",
+        "loved"
+      ],
+      "lesson_subtitle": "Learning to Return — No Matter How Far We've Wandered"
+    },
+    {
+      "id": "02-with-me-always-023",
+      "lesson_number": 4,
+      "lesson_title": "Come When Called",
+      "section": null,
+      "page": 12,
+      "word_count": 93,
+      "text": "12 God never stops calling. Even when we mess up. Even when we shut ourselves in. Even when we go too far. He calls us by name. Not with anger, but with kindness. Not to shame us, but to bring us back to Him. Jesus once told a story about a lost sheep. It wandered off. And instead of yelling at it or waiting for it to return on its own, the shepherd went after it. When he found it, he didn’t scold it. With relief, thankfulness, and gladness, he brought it home.",
+      "keep": true,
+      "themes": [
+        "guilty",
+        "ashamed",
+        "forgotten",
+        "loved"
+      ],
+      "lesson_subtitle": "Learning to Return — No Matter How Far We've Wandered"
+    },
+    {
+      "id": "02-with-me-always-024",
+      "lesson_number": 4,
+      "lesson_title": "Come When Called",
+      "section": null,
+      "page": 13,
+      "word_count": 93,
+      "text": "That’s what God does. He calls us. And when we come, even with our heads down and feeling sorry, He gives us the biggest, warmest bear hug. He does not guilt trip us. He does not lecture us. He just embraces us with a love we will not fully understand this side of heaven. Dogs instinctively know something about that. Probably. They might wander. But when they hear their name, they come running. Let’s be like that. Because no matter how far we’ve gone, wouldn’t we rather be near Him than anywhere else?",
+      "keep": true,
+      "themes": [
+        "ashamed",
+        "guilty",
+        "restored",
+        "forgiven"
+      ],
+      "lesson_subtitle": "Learning to Return — No Matter How Far We've Wandered"
+    },
+    {
+      "id": "02-with-me-always-025",
+      "lesson_number": 5,
+      "lesson_title": "Wag Anyway",
+      "section": null,
+      "page": 14,
+      "word_count": 90,
+      "text": "We’ve seen dogs wag their tails in some strange moments. A dog had just come back from the vet. He is sore. There’s a cone on his head. Every step is painful. But call his name, and you’ll see him wagging his tail. He was hurting. He was probably quite confused. But something in him still lit up at the sound of a familiar voice. Wag. It wasn’t a big, wild tail spin. Just a soft thump, thump, thump on the floor. A quiet little, “I’m still glad you’re here.”",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "02-with-me-always-026",
+      "lesson_number": 5,
+      "lesson_title": "Wag Anyway",
+      "section": null,
+      "page": 14,
+      "word_count": 95,
+      "text": "Life can be challenging. Life can hurt. Not all the time, maybe, but often enough. Things go wrong. Bodies break down. Plans fall apart. People let us down. And yet, somehow, we’re still here. And if we’re still here, maybe there’s a way to show a little joy. A little hope. Even if it’s just a small wag. Many of us have experienced or are currently experiencing challenging situations. We are living in shelters. Or are at hospitals recovering. Some of us are living in tents or in our cars. Yet, we can still smile.",
+      "keep": true,
+      "themes": [
+        "weary",
+        "grieving",
+        "discouraged",
+        "hopeful"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "02-with-me-always-027",
+      "lesson_number": 5,
+      "lesson_title": "Wag Anyway",
+      "section": null,
+      "page": 14,
+      "word_count": 106,
+      "text": "14 Not because everything is fine. But because we can decide not to let the pain take away everything good. We can decide that we will continue to be joyful. Be kind. Be joyful. To laugh. That doesn’t mean we pretend everything’s okay when it’s not. It doesn’t mean we fake a smile or hide how we feel. It just means… even here, even now, we can still be thankful. For something. Like a warm cup of coffee. A friend who visits us at the hospital. A place to sit, rest, and just breathe. A word from Scripture that reminds us that we are still loved.",
+      "keep": true,
+      "themes": [
+        "weary",
+        "grieving",
+        "joyful",
+        "grateful"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "02-with-me-always-028",
+      "lesson_number": 5,
+      "lesson_title": "Wag Anyway",
+      "section": null,
+      "page": 15,
+      "word_count": 107,
+      "text": "Dogs wag when they’re happy, yes. But sometimes they wag when they’re hurting, too. They wag because they know that the person who is near them cares for them. Because they trust the one who is with them. That’s the kind of joy. Not a loud kind of joy. And it does not have to be perfect, at first. But it does need to be real. The Bible says, “Rejoice in the Lord always.” Impossible? Think of it as more like wagging. Even in the middle of all the mess, all the pain, we can be glad that the Lord is here with us through it all.",
+      "keep": true,
+      "themes": [
+        "weary",
+        "grieving",
+        "joyful",
+        "trusting"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "02-with-me-always-029",
+      "lesson_number": 5,
+      "lesson_title": "Wag Anyway",
+      "section": null,
+      "page": 15,
+      "word_count": 74,
+      "text": "Let’s learn. To look for the small things, the things that we take for granted that are still good. Like the sun on our face. The air we breathe. The fact that we can actually breathe. That we have an appetite. Are able to taste good food and say, “Oh, that’s good.” Joy can live alongside pain. Even on the hardest days. Go ahead and wag anyway. Because the Lord is with us. 15",
+      "keep": true,
+      "themes": [
+        "weary",
+        "grieving",
+        "joyful",
+        "loved"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "02-with-me-always-030",
+      "lesson_number": 6,
+      "lesson_title": "Guard The Weak",
+      "section": null,
+      "page": 16,
+      "word_count": 81,
+      "text": "A dog blocked traffic for a squirrel. The squirrel was frozen in the middle of a quiet street. Unsurprising. Squirrels tend to do that. It was too scared to move. And a car was slowly coming. Not fast, but fast enough. What was suprising was that a dog ran out and just stood in front of the squirrel. His tail was stiff. His body was still. His eyes were locked. He was telling the approaching car: “Not this one. Not today.”",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "02-with-me-always-031",
+      "lesson_number": 6,
+      "lesson_title": "Guard The Weak",
+      "section": null,
+      "page": 16,
+      "word_count": 107,
+      "text": "The driver stopped. The squirrel blinked, then scurried off. And the dog trotted back to the sidewalk like it was no big deal. That’s not something we can train a dog to do. (Well, maybe, some special dogs with very special training can do that.) But in general, this kind of behavior comes from something they just know: protect the small ones. Watch out for the weak ones. Step in when someone’s in trouble. Big dogs curled around small puppies during a thunderstorm. Older dogs walking slow beside a younger one that’s limping. Stray dogs sticking together in the cold. These are examples of loyalty and love.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "02-with-me-always-032",
+      "lesson_number": 6,
+      "lesson_title": "Guard The Weak",
+      "section": null,
+      "page": 16,
+      "word_count": 82,
+      "text": "Maybe that’s what God wants from us too. The Bible says that real religion, the kind God cares about, is looking after orphans and widows. It’s about helping those who can’t help themselves. It’s about caring for people most others ignore. 16 People in shelters and on sidewalks don’t have much, but they still look out for one another. They share food. Sometimes they even take turns keeping watch at night. They remember who’s sick, who’s scared, who needs an extra blanket.",
+      "keep": true,
+      "themes": [
+        "lonely",
+        "forgotten",
+        "called",
+        "loved"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "02-with-me-always-033",
+      "lesson_number": 6,
+      "lesson_title": "Guard The Weak",
+      "section": null,
+      "page": 17,
+      "word_count": 99,
+      "text": "Jesus did the same. He was always stopping for the ones no one noticed: the blind man calling from the side of the road, the woman who touched His robe in a crowd, the children the disciples tried to keep quiet. Jesus saw them. He saw their hearts. He stood with them. He shared in their suffering. He guarded them, even when others didn’t. Let’s be more like that. Let’s be someone who sees those who are invisible to the world. Someone who steps in to protect those who are weak. Someone who says, “Not this one. Not today.”",
+      "keep": true,
+      "themes": [
+        "lonely",
+        "forgotten",
+        "loved",
+        "called"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "02-with-me-always-034",
+      "lesson_number": 6,
+      "lesson_title": "Guard The Weak",
+      "section": null,
+      "page": 17,
+      "word_count": 65,
+      "text": "We live in a world that forgets the weak. But dogs remind us and Jesus shows us that grace is never just for the strong. Grace is all the more for the weak, those who are hurting. They are the ones who appreciate grace down to their aching hearts. Let’s slow down. Notice the invisibles. Guard the weak, the way the Lord guards us. 17",
+      "keep": true,
+      "themes": [
+        "weary",
+        "forgotten",
+        "loved",
+        "hopeful"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "02-with-me-always-035",
+      "lesson_number": 7,
+      "lesson_title": "Stay With Me",
+      "section": null,
+      "page": 18,
+      "word_count": 93,
+      "text": "There’s something about a dog that just knows when to stay. We have all been sick before, the kind of sick where all we can do is lie still for a long time and everything feels off. Nothing tastes right. Nothing sounds right. The day moves slowly. And we feel far away from the world. And on those days, wouldn’t it be nice if a dog curled up beside us. And not move. For hours. If he didn’t bark and remained quiet. And just breathed, while we breathed. Just stayed there with us.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "02-with-me-always-036",
+      "lesson_number": 7,
+      "lesson_title": "Stay With Me",
+      "section": null,
+      "page": 18,
+      "word_count": 109,
+      "text": "Dogs are good at just being near us. They don’t try to cheer us up with advice. They don’t leave when things get awkward or strange. They simply stay. A dog that quietly stays with us is a gift, especially when we’re hurting. I remember sitting beside someone in a hospital once. There wasn’t much I could do. There was absolutely nothing I could do. No way to make the situation better. No perfect words. Not one. Just a chair and a little bit of time. I sat. I stayed. I prayed in my heart. And when I got up to leave, he said quietly, “Thanks for being here.”",
+      "keep": true,
+      "themes": [
+        "grieving",
+        "lonely",
+        "loved",
+        "peaceful"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "02-with-me-always-037",
+      "lesson_number": 7,
+      "lesson_title": "Stay With Me",
+      "section": null,
+      "page": 18,
+      "word_count": 80,
+      "text": "Sometimes what people need most isn’t a solution. It’s not the right words or an action plan. It’s just someone who doesn’t walk away. 18 Jesus did that. He stayed with people who were hurting. He touched the ones everyone else avoided. He cried with His friends. He didn’t run from pain. Not their pain, and not ours. The Bible says, “The Lord is close to the brokenhearted.” It doesn’t say He fixes everything right away. It says He’s close.",
+      "keep": true,
+      "themes": [
+        "grieving",
+        "lonely",
+        "loved",
+        "forgotten"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "02-with-me-always-038",
+      "lesson_number": 7,
+      "lesson_title": "Stay With Me",
+      "section": null,
+      "page": 19,
+      "word_count": 121,
+      "text": "Don’t we all want to be like that? Stay close when someone feels alone. Even if we can’t fix the situation. Even if we don’t know what to say. Even if we can’t do anything to make things better. Dogs don’t always understand what we’re going through. But they know when to stay close. That’s a kind of love. Not just showing up when it’s easy, but sticking around when it is difficult. We don’t have to have all the answers. We don’t need answers at all. When things get hard, it’s easy to disappear, but if we want to love we need to stick around. We need to stay, just like the Lord stays with us, especially through hard times.",
+      "keep": true,
+      "themes": [
+        "lonely",
+        "grieving",
+        "loved",
+        "trusting"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "02-with-me-always-039",
+      "lesson_number": 8,
+      "lesson_title": "Trust The Hand That Feeds",
+      "section": null,
+      "page": 20,
+      "word_count": 117,
+      "text": "Some dogs stare at you while you eat. They have their eyes wide open. And their tails? Absolutely still. Just hoping for a bite. For a tiny morsel to drop on the floor. And some others wait patiently near their bowl. They don’t make a sound. They just sit there, trusting their owners (assuming they are good owners) will take care of them. And you know what? Good owners do. We feed them. We fill their bowl. Most of the time. We have to admit that we have forgotten a few times. We give them what they need. Definitely not always what they want. But we give them enough, and on time. Usually. We are only human.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "02-with-me-always-040",
+      "lesson_number": 8,
+      "lesson_title": "Trust The Hand That Feeds",
+      "section": null,
+      "page": 20,
+      "word_count": 96,
+      "text": "That the dogs trust their owners is admirable. Because we don’t always trust like that. We worry God might have forgotten about us. Might not take care of our needs. So we make backup plans. We check our wallets even when we just checked it five minutes ago. We worry. We want to believe God will take care of us, but sometimes it’s hard. Especially when things don’t go the way we think they should. When things run low. Our checking accounts. Food in the fridge. Time. Energy. Hope. Especially when I’ve been waiting a while.",
+      "keep": true,
+      "themes": [
+        "anxious",
+        "doubting",
+        "afraid",
+        "trusting"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "02-with-me-always-041",
+      "lesson_number": 8,
+      "lesson_title": "Trust The Hand That Feeds",
+      "section": null,
+      "page": 20,
+      "word_count": 81,
+      "text": "20 But then we remember: dogs don’t stock the pantry. They don’t carry cash or write grocery lists. They trust their owners, the ones who fill their bowls morning and night. There was a man who lived under a bridge. Unfortunately, there are too many. He had nothing. He had no job. He had no car. He didn’t even have an ID. But every morning, he prayed. Just a simple one: “God, feed me today.” And somehow he was always fed.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "02-with-me-always-042",
+      "lesson_number": 8,
+      "lesson_title": "Trust The Hand That Feeds",
+      "section": null,
+      "page": 21,
+      "word_count": 139,
+      "text": "One morning, he was asked how he stayed so calm. He said, “I’ve gone to bed hungry plenty of times. But God hasn’t forgotten me.” That is trust. In the Bible, Jesus tells His followers not to worry about food or clothes. He says the birds don’t store up food, and the flowers don’t work for beauty. But God feeds and clothes them anyway. Then He says, “Aren’t you worth more than they are?” God tells us we are. It’s not always easy to believe that. But don’t we believe what Jesus is saying is true? God gives us what we need. Maybe not everything we ask for, but enough to keep going. Not as soon as possible, but in God’s perfect timing. He gives us enough to remind us we’re not forgotten. And sometimes much more than enough.",
+      "keep": true,
+      "themes": [
+        "anxious",
+        "afraid",
+        "trusting",
+        "hopeful"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "02-with-me-always-043",
+      "lesson_number": 8,
+      "lesson_title": "Trust The Hand That Feeds",
+      "section": null,
+      "page": 21,
+      "word_count": 105,
+      "text": "Dogs trust their person to care for them. They sit near the bowl. They wait. Sometimes patiently and for longer than they would like. They don’t understand where the food comes from. But they know who gives it. Who fills up their bowl with good food. 21 Isn’t that the kind of trusting heart we want? A simple heart full of thanksgiving. A trusting heart that trusts the Hand that feeds us. We are all learning. To worry less. To ask simply. To wait with hope. Because even when we don’t see it yet, we believe the bowl will be filled by our good Lord.",
+      "keep": true,
+      "themes": [
+        "anxious",
+        "waiting",
+        "trusting",
+        "grateful"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "02-with-me-always-044",
+      "lesson_number": 9,
+      "lesson_title": "Sleep In Peace",
+      "section": null,
+      "page": 23,
+      "word_count": 81,
+      "text": "Dogs can sleep almost anywhere. Haven’t we seen them stretched out on sidewalks? Curled up in noisy shelters. Tucked under tables during thunderstorms. Sometimes they sleep with one eye open, but still they sleep. And I’ve wondered how they do that. How can they rest in places that feel so uncertain? Part of the answer is simple: they trust who they’re with. They know someone is watching over them. And that’s enough. More than enough for them to sleep in peace.",
+      "keep": true,
+      "themes": [
+        "anxious",
+        "afraid",
+        "resting",
+        "trusting"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "02-with-me-always-045",
+      "lesson_number": 9,
+      "lesson_title": "Sleep In Peace",
+      "section": null,
+      "page": 23,
+      "word_count": 114,
+      "text": "There are dogs that sometimes sleep at our feet. Whenever we move, they lift their heads. Just a little, to see if we were still there. Then they would sigh and settle back down. As long as we were near, they could sleep. Haven’t there been been plenty of nights in our lives when we just couldn’t fall sleep? It might have been stress. Fear. Pain. Pain in our hearts. Pain in our bodies. Thoughts that run wild after the lights go out. The body might have been tired, but the mind kept spinning. It’s hard to rest when the world feels like it’s falling apart. Or when our own lives feel too uncertain.",
+      "keep": true,
+      "themes": [
+        "anxious",
+        "afraid",
+        "weary",
+        "resting"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "02-with-me-always-046",
+      "lesson_number": 9,
+      "lesson_title": "Sleep In Peace",
+      "section": null,
+      "page": 23,
+      "word_count": 108,
+      "text": "23 But in the Psalms, there’s a verse that says, “I will lie down and sleep in peace, for You alone, Lord, make me dwell in safety.” It doesn’t say the Lord made the world a peaceful place. It doesn’t say the problems went away. It just says: the Lord is with us. We are safe. We can rest now. Dogs understand this in their own way. They don’t control much. They don’t know what tomorrow holds. But when they know they’re cared for, they are able to sleep. Not because their lives are perfect. But because they believe they’re protected and taken care of by their person.",
+      "keep": true,
+      "themes": [
+        "anxious",
+        "afraid",
+        "resting",
+        "trusting"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "02-with-me-always-047",
+      "lesson_number": 9,
+      "lesson_title": "Sleep In Peace",
+      "section": null,
+      "page": 24,
+      "word_count": 90,
+      "text": "Rest is not just something the body needs. It’s something the heart needs, too. And sometimes, the bravest thing we can do at the end of a hard day is to close our eyes and trust that God will take care of whatever we are worrying about. So, let’s stop carrying everything and put our worries down, at the foot of our Lord. Let’s stop rehearsing all the what-ifs. Instead, let’s breathe. Physically and spiritually. And be still. And sleep, like someone who is safely loved. Because we are loved.",
+      "keep": true,
+      "themes": [
+        "anxious",
+        "weary",
+        "resting",
+        "surrendered"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "02-with-me-always-048",
+      "lesson_number": 10,
+      "lesson_title": "Leave The Past",
+      "section": null,
+      "page": 25,
+      "word_count": 121,
+      "text": "Ever seen a dog sit around feeling sorry for something it did yesterday? They don’t lie on the floor thinking, “I shouldn’t have chewed that shoe…” Or, “I can’t believe I barked at the mailman…” Or, “Why did I eat that sock?” Dogs mess up. Some dogs almost everyday. But they move on. Now, sure, they may look guilty in the moment. We walk into the room, and there’s trash everywhere, and they give us that look. You know the one: their ears are low, eyes are wide, their tails doing a tiny slow wag, like they’re saying, “Yeah… I did that. Sorry.” But five minutes later? They’re fine. They’re back to playing, napping, or just following you around like normal.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "Learning to Move On from What We Can't Change"
+    },
+    {
+      "id": "02-with-me-always-049",
+      "lesson_number": 10,
+      "lesson_title": "Leave The Past",
+      "section": null,
+      "page": 25,
+      "word_count": 85,
+      "text": "They don’t carry their regrets. They don’t replay it. They leave the past behind. And they keep walking. Don’t we all wish we were more like that? We carry things. Sometimes more than we should. Old regrets. Words we said and wish we hadn’t. Moments we replay over and over, trying to fix what’s already finished. But the past doesn’t change, no matter how long we carry it with us. And the more we stare at it, the harder it is to see what’s ahead.",
+      "keep": true,
+      "themes": [
+        "guilty",
+        "ashamed",
+        "discouraged",
+        "striving"
+      ],
+      "lesson_subtitle": "Learning to Move On from What We Can't Change"
+    },
+    {
+      "id": "02-with-me-always-050",
+      "lesson_number": 10,
+      "lesson_title": "Leave The Past",
+      "section": null,
+      "page": 25,
+      "word_count": 107,
+      "text": "25 There’s a verse in the Bible that says, “Forget the former things. Do not dwell on the past. See, I am doing a new thing.” Dwell. That word means to live in something. To stay there. And we don’t want to live in old mistakes anymore. We want to live in what God is doing now. Let’s learn how to let go. Not to forget completely, but to stop holding on so tight. To trust that God’s mercy and grace really does mean we are forgiven and loved. And that even when we mess up, God doesn’t walk away. He still calls us with open arms.",
+      "keep": true,
+      "themes": [
+        "guilty",
+        "ashamed",
+        "forgiven",
+        "restored"
+      ],
+      "lesson_subtitle": "Learning to Move On from What We Can't Change"
+    },
+    {
+      "id": "02-with-me-always-051",
+      "lesson_number": 10,
+      "lesson_title": "Leave The Past",
+      "section": null,
+      "page": 26,
+      "word_count": 58,
+      "text": "Dogs live in the moment. They mess up, but then after a little while they look for what’s next. They keep wagging. They keep walking. Leave the past with the One who can carry it. Stop staring backward. Look forward. Walk ahead. We are forgiven. We have been unchained. We are loved. And we are not alone. 26",
+      "keep": true,
+      "themes": [
+        "guilty",
+        "ashamed",
+        "forgiven",
+        "loved"
+      ],
+      "lesson_subtitle": "Learning to Move On from What We Can't Change"
+    },
+    {
+      "id": "02-with-me-always-052",
+      "lesson_number": 11,
+      "lesson_title": "Chase What Matters",
+      "section": null,
+      "page": 27,
+      "word_count": 98,
+      "text": "Dogs chase things. They chase balls. They chase cats. They chase their own tails. Ever see a dog chase a falling leaf for a full minute like it was the most important mission of his life? But some dogs don’t chase everything. They choose. There was a dog who ignored everything. There was one thing he did not ignore though: his favorite toy, being picked up by his person. He didn’t care about squirrels, visitors, or even snacks. He’d lock his eyes on that toy and wait like it was the only thing in the world that mattered.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "Learning to Focus on What's Worth Following"
+    },
+    {
+      "id": "02-with-me-always-053",
+      "lesson_number": 11,
+      "lesson_title": "Chase What Matters",
+      "section": null,
+      "page": 27,
+      "word_count": 88,
+      "text": "Ever wonder what that is for us? Some days, we seek comfort. Other days, it’s control. Sometimes we go after people’s approval. Hoping they’ll like us or notice what we’ve done. And there are days we don’t even know what we want. We just feel tired from all the running after things. But deep down, we all want something real. Something that lasts. Something that’s worth the effort. Jesus said, “Seek first the kingdom of God and His righteousness, and all these things will be added to you.”",
+      "keep": true,
+      "themes": [
+        "striving",
+        "weary",
+        "called",
+        "surrendered"
+      ],
+      "lesson_subtitle": "Learning to Focus on What's Worth Following"
+    },
+    {
+      "id": "02-with-me-always-054",
+      "lesson_number": 11,
+      "lesson_title": "Chase What Matters",
+      "section": null,
+      "page": 27,
+      "word_count": 89,
+      "text": "27 He wasn’t saying we can’t care about other things like food, clothes, and what will happen tomorrow. But what Jesus was saying is: run after the right thing first. Dogs know how to run. Unleash them at a park and most dogs run. But the best ones know when to run and where to run. Go after what really matters. Not just what’s in front of us. Spend our time and energy on the things that bring life. Loving people. Serving others and serving God. Walking with God.",
+      "keep": true,
+      "themes": [
+        "striving",
+        "called",
+        "surrendered",
+        "trusting"
+      ],
+      "lesson_subtitle": "Learning to Focus on What's Worth Following"
+    },
+    {
+      "id": "02-with-me-always-055",
+      "lesson_number": 11,
+      "lesson_title": "Chase What Matters",
+      "section": null,
+      "page": 28,
+      "word_count": 65,
+      "text": "There’s so much in the world pulling for our attention: screens, headlines, pressure to do more, have more, be more, and more screens. But peace comes when we follow the One who gives real peace. Slow down. Look at what we are chasing after. If it isn’t something that will give us what really matters, stop. And then run after God and His kingdom. 28",
+      "keep": true,
+      "themes": [
+        "striving",
+        "anxious",
+        "peaceful",
+        "surrendered"
+      ],
+      "lesson_subtitle": "Learning to Focus on What's Worth Following"
+    },
+    {
+      "id": "02-with-me-always-056",
+      "lesson_number": 12,
+      "lesson_title": "Go Home",
+      "section": null,
+      "page": 29,
+      "word_count": 93,
+      "text": "Dogs always know where home is. Even if they wander. Even if they get lost for a while. Even if they chase a squirrel across the street and forget for a moment. When it’s time, they know how to get back. Not all dogs can do this, but most dogs who are gone for days can find their way back to their front porch. Have you heard of stories where dogs who traveled miles to return to their family they loved? Somehow, they just know that this is where they’re meant to be.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "Learning Where We Belong and Who's Waiting There"
+    },
+    {
+      "id": "02-with-me-always-057",
+      "lesson_number": 12,
+      "lesson_title": "Go Home",
+      "section": null,
+      "page": 29,
+      "word_count": 94,
+      "text": "And when they arrive, they don’t knock. They don’t ask if it’s okay. They come in, wag their tail, curl up in their bed, and fall asleep like they never left. That’s a kind of trust we see often with dogs, but us? Not as often. Life can feel like wandering. Like walking through places that aren’t home. Like seeking things that we thought was going to fill us with joy, and peace, and love, but does the complete opposite: leave us empty. Waiting for a voice to say, “You can stop running now.”",
+      "keep": true,
+      "themes": [
+        "lonely",
+        "weary",
+        "lost",
+        "hopeful"
+      ],
+      "lesson_subtitle": "Learning Where We Belong and Who's Waiting There"
+    },
+    {
+      "id": "02-with-me-always-058",
+      "lesson_number": 12,
+      "lesson_title": "Go Home",
+      "section": null,
+      "page": 29,
+      "word_count": 118,
+      "text": "Jesus told a story about a son who ran away. He spent everything he had. He made a mess of his life. And when he finally decided to go back home, tired, scared, and not sure what to expect, his father ran out to meet him. 29 His father didn’t yell at him. He wasn’t mad at him. He didn’t punish him. He threw his arms around him and said, “Welcome home.” That’s what God is like. No matter how far we’ve gone, He still wants us home. And not just someday. He wants us home right now. He wants to give us His peace, now. He gives us a deep sense that we are not lost anymore.",
+      "keep": true,
+      "themes": [
+        "ashamed",
+        "guilty",
+        "restored",
+        "loved"
+      ],
+      "lesson_subtitle": "Learning Where We Belong and Who's Waiting There"
+    },
+    {
+      "id": "02-with-me-always-059",
+      "lesson_number": 12,
+      "lesson_title": "Go Home",
+      "section": null,
+      "page": 30,
+      "word_count": 107,
+      "text": "Home isn’t always a place. But it’s always a Person. It’s where love meets us at the door, of a place, of our hearts, and says, “You’re safe here.” And when this life is done , when all the noise fades and the walking is over, He will meet us again. And even if we have a long list of things we got wrong, He will remind us that He forgave us, for every item on that list and a whole bunch more that we forgot about. He will take us in with open arms and a smile that says, “Welcome. You made it. I love you.”",
+      "keep": true,
+      "themes": [
+        "ashamed",
+        "guilty",
+        "forgiven",
+        "loved"
+      ],
+      "lesson_subtitle": "Learning Where We Belong and Who's Waiting There"
+    },
+    {
+      "id": "02-with-me-always-060",
+      "lesson_number": 12,
+      "lesson_title": "Go Home",
+      "section": null,
+      "page": 30,
+      "word_count": 106,
+      "text": "Dogs know something about that. They don’t worry about what they’ve done. They just run home. Stop running in circles. Listen for His call. Go home, to the One who’s been waiting all along. 30 Final Thoughts The Walk Isn’t Over If you’ve made it to the end of these lessons, thank you. That means you stayed. You listened. You walked a little further with us. We didn’t write this book because we had all the answers. We wrote it because we’re still learning, too. Learning how to trust. How to rest. How to follow. How to stay close to the One who never leaves us.",
+      "keep": true,
+      "themes": [
+        "weary",
+        "striving",
+        "trusting",
+        "hopeful"
+      ],
+      "lesson_subtitle": "Learning Where We Belong and Who's Waiting There"
+    },
+    {
+      "id": "02-with-me-always-061",
+      "lesson_number": 12,
+      "lesson_title": "Go Home",
+      "section": null,
+      "page": 31,
+      "word_count": 91,
+      "text": "Dogs have taught us more than we expected. Not through big moments, but in the small ones. In the way they wait. In the way they stay close. In the way they forgive easily and love without holding back. We believe God does that, too. Only deeper. Only truer. And if you’re reading this while walking through something hard such as sickness, loss, fear, loneliness we hope these simple stories reminded you of something real: You are not forgotten. You are not too far gone. And you are never, ever alone.",
+      "keep": true,
+      "themes": [
+        "grieving",
+        "lonely",
+        "forgotten",
+        "loved"
+      ],
+      "lesson_subtitle": "Learning Where We Belong and Who's Waiting There"
+    },
+    {
+      "id": "02-with-me-always-062",
+      "lesson_number": 12,
+      "lesson_title": "Go Home",
+      "section": null,
+      "page": 31,
+      "word_count": 44,
+      "text": "31 The walk isn’t over yet. There’s more to learn. More to love. More to seek. But for now, we pray you find peace in the presence of the One who walks beside you. Step by step. Wag by wag. Grace upon grace. 32",
+      "keep": true,
+      "themes": [
+        "weary",
+        "lonely",
+        "peaceful",
+        "hopeful"
+      ],
+      "lesson_subtitle": "Learning Where We Belong and Who's Waiting There"
+    },
+    {
+      "id": "02-with-me-always-063",
+      "lesson_number": null,
+      "lesson_title": null,
+      "section": "about the authors",
+      "page": 33,
+      "word_count": 77,
+      "text": "We are just a regular person and a local church deacon. The only thing truly worth mentioning is this: we’ve been forgiven. God has given us His Spirit to walk through this life and to slowly, steadily become more like Jesus. He gave His life for us on the cross, and in doing so, gave us life, now and forever. Jesus is our Savior, our Lord, and the reason we get out of bed every morning. 33",
+      "keep": false,
+      "themes": []
+    }
+  ]
+}

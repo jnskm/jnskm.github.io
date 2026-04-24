@@ -1,9 +1,10 @@
 ---
 title: "Beyond"
-date: 2025-03-13
+date: "2025-03-13"
 cover_image: "/assets/images/music/beyond.png"
 youtube: "https://youtu.be/8bXS6Y-tn6o"
-show_lyrics: false
+show_lyrics: "false"
+youtube_music: "https://music.youtube.com/watch?v=8bXS6Y-tn6o"
 ---
 ## Bible Verse
 (Add Bible verse here)

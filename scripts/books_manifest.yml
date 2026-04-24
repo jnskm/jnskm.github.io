@@ -1,0 +1,105 @@
+# Manifest for the Tails of Grace book extraction.
+#
+# Each entry defines one finished book whose PDF will be extracted into
+# paragraph-level JSON chunks for the jnskm.com encouragement library.
+#
+# To add a new book when finished:
+#   1. Add an entry below with its slug, title, source_pdf, and cover_image.
+#   2. Run: python3 scripts/extract_book.py <slug>
+#
+# Paths are relative:
+#   - source_pdf is relative to books_root below
+#   - cover_image is relative to the repo root (Jekyll path)
+
+books_root: "/Users/jnskm/Documents/J&K/Tails_Of_Grace"
+
+books:
+  - slug: 01-sit-stay-preach
+    title: "Sit. Stay. Preach."
+    subtitle: "Twelve Lessons From Dogs About Loving God"
+    authors:
+      - "Kyung Suk Yi"
+      - "Jin Sung Kim"
+    source_pdf: "01_Sit_Stay_Preach/Sit_Stay_Preach_v03d.pdf"
+    cover_image: "/assets/images/books/book-cover-01-sit-stay-preach.jpg"
+    amazon_url: ""  # TODO fill in
+
+  - slug: 02-with-me-always
+    title: "With Me Always"
+    subtitle: ""
+    authors:
+      - "Kyung Suk Yi"
+      - "Jin Sung Kim"
+    source_pdf: "02_With_Me_Always/With_Me_Always_v03.pdf"
+    cover_image: "/assets/images/books/book-cover-02-with-me-always.jpg"
+    amazon_url: ""  # TODO fill in
+
+  - slug: 03-one-voice-one-leash-one-lord
+    title: "One Voice, One Leash, One Lord"
+    subtitle: ""
+    authors:
+      - "Kyung Suk Yi"
+      - "Jin Sung Kim"
+    source_pdf: "03_Once_Voice_One_Leash_One_Lord/One_Voice_One_Leash_One_Lord_content.pdf"
+    cover_image: "/assets/images/books/book-cover-03-one-voice.jpg"
+    amazon_url: ""  # TODO fill in
+
+  - slug: 04-on-business
+    title: "On Business"
+    subtitle: ""
+    authors:
+      - "Kyung Suk Yi"
+      - "Jin Sung Kim"
+    source_pdf: "04_On_Business/On_Business_v04.pdf"
+    cover_image: "/assets/images/books/book-cover-04-on-business.jpg"
+    amazon_url: ""  # TODO fill in
+
+  - slug: 05-without-a-place-not-without-a-shepherd
+    title: "Without a Place, Not Without a Shepherd"
+    subtitle: ""
+    authors:
+      - "Kyung Suk Yi"
+      - "Jin Sung Kim"
+    source_pdf: "05_Without_a_Place_Not_Without_a_Shepherd/Without_a_Place_Not_Without_a_Shepherd.pdf"
+    cover_image: "/assets/images/books/book-cover-05-without-a-place.jpg"
+    amazon_url: ""  # TODO fill in
+
+  - slug: 06-paws-and-reflect
+    title: "Paws and Reflect"
+    subtitle: ""
+    authors:
+      - "Kyung Suk Yi"
+      - "Jin Sung Kim"
+    source_pdf: "06_Paws_And_Reflect/06_Paws_And_Reflect_v02.pdf"
+    cover_image: "/assets/images/books/book-cover-06-paws-and-reflect.jpg"
+    amazon_url: ""  # TODO fill in
+
+  - slug: 07-torn-but-still-loved
+    title: "Torn But Still Loved"
+    subtitle: ""
+    authors:
+      - "Kyung Suk Yi"
+      - "Jin Sung Kim"
+    source_pdf: "07_Torn_But_Still_Loved/07_Torn_But_Still_Loved_v03.pdf"
+    cover_image: "/assets/images/books/book-cover-07-torn-but-still-loved.jpg"
+    amazon_url: ""  # TODO fill in
+
+  - slug: 08-not-just-pedigree-part-1
+    title: "Not Just Pedigree, Part 1"
+    subtitle: ""
+    authors:
+      - "Kyung Suk Yi"
+      - "Jin Sung Kim"
+    source_pdf: "08_Not_Just_Pedigree/08_Not_Just_Pedigree_Part_1_v02.pdf"
+    cover_image: "/assets/images/books/book-cover-08-not-just-pedigree.jpg"
+    amazon_url: ""  # TODO fill in
+
+  - slug: 08-not-just-pedigree-part-2
+    title: "Not Just Pedigree, Part 2"
+    subtitle: ""
+    authors:
+      - "Kyung Suk Yi"
+      - "Jin Sung Kim"
+    source_pdf: "08_Not_Just_Pedigree/08_Not_Just_Pedigree_Part_2.pdf"
+    cover_image: "/assets/images/books/book-cover-08-not-just-pedigree.jpg"
+    amazon_url: ""  # TODO fill in

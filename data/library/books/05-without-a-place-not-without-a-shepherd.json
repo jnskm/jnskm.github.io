@@ -1,0 +1,912 @@
+{
+  "book_id": "05-without-a-place-not-without-a-shepherd",
+  "title": "Without a Place, Not Without a Shepherd",
+  "subtitle": "",
+  "authors": [
+    "Kyung Suk Yi",
+    "Jin Sung Kim"
+  ],
+  "source_pdf": "05_Without_a_Place_Not_Without_a_Shepherd/Without_a_Place_Not_Without_a_Shepherd.pdf",
+  "cover_image": "/assets/images/books/book-cover-05-without-a-place.jpg",
+  "amazon_url": "",
+  "total_pages": 38,
+  "total_chunks": 60,
+  "chunks": [
+    {
+      "id": "05-without-a-place-not-without-a-shepherd-001",
+      "lesson_number": null,
+      "lesson_title": null,
+      "section": null,
+      "page": 1,
+      "word_count": 84,
+      "text": "Without a Place, Not Without a Shepherd Twelve Lessons on Homelessness from Good Dogs and Our Faithful God By Jin Sung Kim and Kyung Suk Yi 1 © Jin Sung Kim and Kyung Suk Yi This isn’t a book about theology. Nope. It’s a book about good dogs — and our God they pointed us to. Through twelve simple stories, we share lessons learned from many good dogs who didn’t care much for things that didn’t matter, but always stayed close to loved ones.",
+      "keep": false,
+      "themes": []
+    },
+    {
+      "id": "05-without-a-place-not-without-a-shepherd-002",
+      "lesson_number": null,
+      "lesson_title": null,
+      "section": null,
+      "page": 2,
+      "word_count": 91,
+      "text": "We are not pastors. We are one deacon and one lay person trying to love God well. These reflections are for anyone walking quietly, faithfully — still learning how to stay close to the Shepherd. Proceeds will support: The Never Alone Mission c/o A&K 440 N. Wolfe Rd. Sunnyvale, CA 94085 Front Cover Photo: Oliver unsplash.com/@oliverpbeagle 2 For the ones the world forgets — but Heaven never does. For every soul who’s waited at the edge of hope, slept beneath stars not by choice, and wondered if anyone still sees them.",
+      "keep": false,
+      "themes": []
+    },
+    {
+      "id": "05-without-a-place-not-without-a-shepherd-003",
+      "lesson_number": null,
+      "lesson_title": null,
+      "section": null,
+      "page": 3,
+      "word_count": 136,
+      "text": "For those who’ve walked the long roads, shared the last crust, and carried the weight of being human with quiet courage. This book is for you. To the Shepherd who never leaves — and to all the sheep still finding their way home. 3 Introduction Finding Home. Not everyone has an address. But everyone needs a home. Not just a roof or four walls — but a place where they’re remembered, called by name, and welcomed without condition. We don’t always think of homelessness that way. We think of tents beneath freeways, or men on street corners with signs. And those are real. But homelessness can wear many faces — a teenage runaway, a single parent sleeping in her car, a man sitting on the edge of his own life wondering when it all slipped away.",
+      "keep": false,
+      "themes": []
+    },
+    {
+      "id": "05-without-a-place-not-without-a-shepherd-004",
+      "lesson_number": null,
+      "lesson_title": null,
+      "section": null,
+      "page": 4,
+      "word_count": 95,
+      "text": "Sometimes it looks like losing everything. Sometimes it just feels like no one sees you anymore. Sometimes both. This book is a collection of twelve simple stories. Each one is about a good dog and a greater God. Each one points to a deeper truth: that even when we are without a place, we are never without a Shepherd. You’ll meet strays who waited at doors. People who were left behind but not forgotten. You’ll see how a crust of bread, a bowl of water, or a quiet word can mean more than we think.",
+      "keep": false,
+      "themes": []
+    },
+    {
+      "id": "05-without-a-place-not-without-a-shepherd-005",
+      "lesson_number": null,
+      "lesson_title": null,
+      "section": null,
+      "page": 4,
+      "word_count": 93,
+      "text": "Some of these stories come from the streets. Some from shelters. Some from our own lives. All of them carry the gentle weight of grace. 4 If you’re someone who’s struggling — this is for you. If you’ve ever needed to be reminded that God doesn’t walk past the broken — this is for you. You only need a little space in your heart to read this book. We’ll walk slowly. We’ll listen together. And maybe, by the end, we’ll see that home was closer than we thought. Because the Shepherd never left.",
+      "keep": false,
+      "themes": [
+        "lonely",
+        "forgotten",
+        "grieving",
+        "discouraged"
+      ],
+      "keep_override": "front-back-matter"
+    },
+    {
+      "id": "05-without-a-place-not-without-a-shepherd-006",
+      "lesson_number": 1,
+      "lesson_title": "Always Looking For Home",
+      "section": null,
+      "page": 6,
+      "word_count": 106,
+      "text": "There was a little dog that wandered into the church parking lot one winter morning. He didn’t have a collar. There was no name tag. You could count the ribs. He was in bad shape. At first, we thought someone must be missing him. But as days passed and no one came looking, we realized — he didn’t have a home to return to. He slept curled under the bush by the fellowship hall, always watching. Every time a door opened, his ears lifted. Every time footsteps approached, he sat up. Always looking. Always listening. Waiting for someone who might recognize him and take him home.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "05-without-a-place-not-without-a-shepherd-007",
+      "lesson_number": 1,
+      "lesson_title": "Always Looking For Home",
+      "section": null,
+      "page": 6,
+      "word_count": 90,
+      "text": "Jesus knew what it was like to be without a place. “Foxes have dens and birds have nests, but the Son of Man has no place to lay his head.” — Luke 9:58 The Son of God walked this earth with nowhere to settle. He belonged everywhere and nowhere at once. And yet He came — for us. He gave up everything for us, for the overlooked, for those still searching for home. 6 One man shared: “I’m not just homeless. I’m human. I lost my house, not my heart.”",
+      "keep": true,
+      "themes": [
+        "lonely",
+        "forgotten",
+        "grieving",
+        "hopeful"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "05-without-a-place-not-without-a-shepherd-008",
+      "lesson_number": 1,
+      "lesson_title": "Always Looking For Home",
+      "section": null,
+      "page": 7,
+      "word_count": 85,
+      "text": "He hadn’t always lived on the street. He used to run a business. Had a family. A reputation. Then it all fell apart — one piece at a time. A string of losses, mistakes, and sickness left him cold, hungry, and invisible. But even then, he said, “I kept looking up. Because somewhere, I still believed I belonged.” That dog in the parking lot never gave up watching the door. Even after being turned away or ignored, he still believed someone might see him differently.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "05-without-a-place-not-without-a-shepherd-009",
+      "lesson_number": 1,
+      "lesson_title": "Always Looking For Home",
+      "section": null,
+      "page": 7,
+      "word_count": 73,
+      "text": "And isn’t that what we all hope for? “I have called you by name. You are mine.” — Isaiah 43:1 God sees who we are and whose we are. Even without a place, we are not without a Shepherd. The dog didn’t ask for much. A name. A little food. A place to lie down. And someone to stay with. That’s all most people need, too. And that’s what the Shepherd gives. 7",
+      "keep": true,
+      "themes": [
+        "forgotten",
+        "lonely",
+        "loved",
+        "hopeful"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "05-without-a-place-not-without-a-shepherd-010",
+      "lesson_number": 2,
+      "lesson_title": "The Cold Doesn't Care",
+      "section": null,
+      "page": 8,
+      "word_count": 108,
+      "text": "One night, the temperature dropped so low it froze the water bowl by the shelter gate. A dog lay curled beside it, shivering beneath a thin blanket someone had left behind. Her nose was pressed into her paws. She wasn’t sleeping; she was just trying to survive. She didn’t have much energy, let alone to bark. Didn’t move much either. But you could tell, she wasn’t going to give up. Someone saw her from across the lot and came close. They just knelt, slowly, and covered her with a thicker towel. They didn’t fix everything. But they stayed with her for a while. And sometimes, that is enough.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "When the world is indifferent, God draws near."
+    },
+    {
+      "id": "05-without-a-place-not-without-a-shepherd-011",
+      "lesson_number": 2,
+      "lesson_title": "The Cold Doesn't Care",
+      "section": null,
+      "page": 8,
+      "word_count": 80,
+      "text": "The cold doesn’t care who you are. The cold affects everyone and doesn’t care if you were once a business owner, a teacher, a nurse, someone who worked for a big company, or a child. It wraps around anyone it finds—without kindness or memory. But God is not like the cold. “He will cover you with His feathers, and under His wings you will find refuge.” — Psalm 91:4 When the cold starts to freeze your veins, God comes near.",
+      "keep": true,
+      "themes": [
+        "afraid",
+        "weary",
+        "lonely",
+        "loved"
+      ],
+      "lesson_subtitle": "When the world is indifferent, God draws near."
+    },
+    {
+      "id": "05-without-a-place-not-without-a-shepherd-012",
+      "lesson_number": 2,
+      "lesson_title": "The Cold Doesn't Care",
+      "section": null,
+      "page": 8,
+      "word_count": 87,
+      "text": "8 There was a man who shared how he nearly froze one winter. He’d been outside all night, soaked from the rain. He found shelter behind a dumpster and prayed for morning. He told us, “I didn’t need advice. I didn’t need a miracle. I just needed someone to care.” Jesus did more than talk about love. He lived it. He fed the hungry. He touched and healed the sick. He wrapped His arms around the forgotten. “I was naked, and you clothed me…” — Matthew 25:36",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "When the world is indifferent, God draws near."
+    },
+    {
+      "id": "05-without-a-place-not-without-a-shepherd-013",
+      "lesson_number": 2,
+      "lesson_title": "The Cold Doesn't Care",
+      "section": null,
+      "page": 9,
+      "word_count": 88,
+      "text": "This verse isn’t just about clothes. It’s about seeing people — the way Jesus sees them — especially when the world turns away. Maybe you know what it feels like to be cold. Not just your skin, but your soul. Maybe life has numbed you. Maybe you’ve been brushed past or spoken over. Maybe you’re still trying to warm up after a long winter of loss. Please know this: “The Lord is close to the brokenhearted.” — Psalm 34:18 The cold may not care. But the Shepherd does.",
+      "keep": true,
+      "themes": [
+        "lonely",
+        "grieving",
+        "forgotten",
+        "loved"
+      ],
+      "lesson_subtitle": "When the world is indifferent, God draws near."
+    },
+    {
+      "id": "05-without-a-place-not-without-a-shepherd-014",
+      "lesson_number": 3,
+      "lesson_title": "Someone Stopped for Me",
+      "section": null,
+      "page": 10,
+      "word_count": 100,
+      "text": "She didn’t look like much. Matted fur. Limp in one leg. Ears that had long since drooped from years of infection. She was lying under the bench near the train station, curled so tightly it looked like she was trying to disappear. People passed her all day. Some slowed. Most didn’t. One even said, “Poor thing,” and kept walking. But then someone stopped. They knelt beside her. Gently said hi. Waited. You could tell they were not in a hurry. They just sat there for a while. Long enough for her to uncurl a bit. Long enough to feel safe.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "05-without-a-place-not-without-a-shepherd-015",
+      "lesson_number": 3,
+      "lesson_title": "Someone Stopped for Me",
+      "section": null,
+      "page": 10,
+      "word_count": 103,
+      "text": "There are moments when what we need most isn’t a solution. Nor advice. It’s presence. A quiet reminder that we are worth stopping for. Jesus once told a story about that. “A man was going down from Jerusalem to Jericho when he was attacked by robbers…” — Luke 10:30 You might know the story already. He was beaten, stripped, and left for dead. Religious people walked by. People who should have helped. But they didn’t. 10 Then a stranger came. A Samaritan. Someone from the wrong side of town. He stopped. He stayed. He carried the man. And he paid for his healing.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "05-without-a-place-not-without-a-shepherd-016",
+      "lesson_number": 3,
+      "lesson_title": "Someone Stopped for Me",
+      "section": null,
+      "page": 11,
+      "word_count": 94,
+      "text": "Jesus said: “Go and do likewise.” Someone once showed us a letter from a prisoner. He had no one left. He was sick. He was hungry. He just wanted to buy a little snack. Nothing big. Just enough to feel human. Someone read the letter — and stopped. They wrote back. Sent a small check. And prayed. It didn’t take much. But it mattered. Because when the world forgets you, even a little kindness is everything. “The Lord is close to the brokenhearted and saves those who are crushed in spirit.” — Psalm 34:18",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "05-without-a-place-not-without-a-shepherd-017",
+      "lesson_number": 3,
+      "lesson_title": "Someone Stopped for Me",
+      "section": null,
+      "page": 11,
+      "word_count": 85,
+      "text": "You might be reading this and feel like no one sees you. Like you’ve been passed by more times than you can count. Maybe your life feels like a mess. Maybe you’ve been hurt by people who were supposed to help. Please hear this: God has never walked past you. Not once. He sees you. He stops. And He stays. 11 And if you’ve been the one to stop — maybe in a small way, maybe with tears in your own eyes — thank you.",
+      "keep": true,
+      "themes": [
+        "forgotten",
+        "lonely",
+        "discouraged",
+        "loved"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "05-without-a-place-not-without-a-shepherd-018",
+      "lesson_number": 3,
+      "lesson_title": "Someone Stopped for Me",
+      "section": null,
+      "page": 12,
+      "word_count": 65,
+      "text": "Every time we pause for someone in pain, every time we sit and wait without judgment, every time we let our hearts be interrupted, we echo the heart of Jesus. Some dogs survive because someone stopped. Some people do, too. And maybe that’s part of how the Shepherd works. Through the slow hands of those who are willing to stop. To listen. To love. 12",
+      "keep": true,
+      "themes": [
+        "lonely",
+        "forgotten",
+        "called",
+        "hopeful"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "05-without-a-place-not-without-a-shepherd-019",
+      "lesson_number": 4,
+      "lesson_title": "Left Behind, Not Forgotten",
+      "section": null,
+      "page": 13,
+      "word_count": 85,
+      "text": "Some dogs don’t run away. They’re left behind. Some are tied to a fence post. Others are abandoned by a dumpster. Some are dropped off at the edge of a road with no reason why. And still — they wait. They wait for their people, who aren’t coming back. There’s a kind of heartbreak you only see in the eyes of a dog that’s been left behind. Quiet. Confused. Loyal, even when he shouldn’t be. But he knows how to wait. Because he remembers love.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "05-without-a-place-not-without-a-shepherd-020",
+      "lesson_number": 4,
+      "lesson_title": "Left Behind, Not Forgotten",
+      "section": null,
+      "page": 13,
+      "word_count": 84,
+      "text": "A man at a shelter said something similar. He said, “I thought I had my people. But when I lost my job, when the bills piled up, when I got sick… they stopped answering.” There was no bitterness in his words, just sadness. “Turns out,” he said, “I was easy to walk away from.” How do you explain that kind of pain? It’s not just about being alone. It’s about being left behind — by the very ones you believed would stay, help, love.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "05-without-a-place-not-without-a-shepherd-021",
+      "lesson_number": 4,
+      "lesson_title": "Left Behind, Not Forgotten",
+      "section": null,
+      "page": 13,
+      "word_count": 98,
+      "text": "13 But here’s what Scripture says: “Though my father and mother forsake me, the Lord will receive me.” — Psalm 27:10 When everyone else walks away, God does not. God draws closer. He does not leave when things get hard. He does not pull back when we are messed up, weak, or not who we used to be. He stays, close to us. And He carries us through. “Even to your old age and gray hairs I am He, I am He who will sustain you. I have made you and I will carry you.” — Isaiah 46:4",
+      "keep": true,
+      "themes": [
+        "lonely",
+        "grieving",
+        "forgotten",
+        "loved"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "05-without-a-place-not-without-a-shepherd-022",
+      "lesson_number": 4,
+      "lesson_title": "Left Behind, Not Forgotten",
+      "section": null,
+      "page": 14,
+      "word_count": 103,
+      "text": "Maybe you’ve been left behind. Maybe by family, friends, or by your church. Maybe by a system that should have helped. Maybe by the version of life you once hoped for. But remember, you’re not forgotten. Not to God. He sees where you are hurting. He knows what you’ve lost. And He’s not waiting for you to be better. He moves toward you. Actually, He’s already here. God is saying to us, “Come to me. Come home.” God’s door is always open. All we have to do is open our own hearts, walk through, and be embraced by God. And we are home.",
+      "keep": true,
+      "themes": [
+        "forgotten",
+        "lonely",
+        "grieving",
+        "restored"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "05-without-a-place-not-without-a-shepherd-023",
+      "lesson_number": 5,
+      "lesson_title": "Sharing A Crust",
+      "section": null,
+      "page": 15,
+      "word_count": 103,
+      "text": "Some dogs will guard their food. It makes sense — when you’ve lived without food, you learn to hold on really tight to what little you have. But every once in a while, you’ll see something different. A crust of bread on the sidewalk. A scrap of meat someone tossed aside. And instead of growling or running off with it, one dog nudges it toward another. Two hungry dogs. One piece of food. And still — sometimes they share. Definitely not because they have enough. They don’t. But because they’ve learned what it feels like to have absolutely nothing. And that changes everything.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "05-without-a-place-not-without-a-shepherd-024",
+      "lesson_number": 5,
+      "lesson_title": "Sharing A Crust",
+      "section": null,
+      "page": 15,
+      "word_count": 87,
+      "text": "At a shelter, there was a man who saved half his sandwich every Thursday. He knew someone else would come in hungrier than he was. He didn’t make a show of it. He just wrapped it in a napkin and waited. When asked why, he answered, “Because once, someone did that for me.” Jesus saw this kind of generosity, too. One day, He watched as a poor widow dropped two tiny coins into the offering box. It was barely anything. But He stopped the crowd and said:",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "05-without-a-place-not-without-a-shepherd-025",
+      "lesson_number": 5,
+      "lesson_title": "Sharing A Crust",
+      "section": null,
+      "page": 15,
+      "word_count": 84,
+      "text": "“She gave more than all the others.” — Luke 21:3 15 Why? Because she gave from her need. Not her extra. She gave out of love. There’s a myth we sometimes believe — that we need to have more than what we need before we can give. More money than we need. More time than we need. More security than we need. But the heart of God often works through what seems not much at all. “Five loaves and two fish.” — John 6:9",
+      "keep": true,
+      "themes": [
+        "weary",
+        "discouraged",
+        "trusting",
+        "hopeful"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "05-without-a-place-not-without-a-shepherd-026",
+      "lesson_number": 5,
+      "lesson_title": "Sharing A Crust",
+      "section": null,
+      "page": 16,
+      "word_count": 98,
+      "text": "That’s all one boy had. And it was more than enough for thousands — when placed in the hands of Jesus. Maybe all you have today is half a sandwich. Maybe just a kind word. Maybe a quiet moment to sit beside someone who is struggling, in pain, and suffering. It might not feel like much. But in a world where people are passed over who have nothing, even crumbs can taste like a feast. “Whoever gives even a cup of cold water to one of these little ones… will surely not lose their reward.” — Matthew 10:42",
+      "keep": true,
+      "themes": [
+        "weary",
+        "discouraged",
+        "called",
+        "grateful"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "05-without-a-place-not-without-a-shepherd-027",
+      "lesson_number": 5,
+      "lesson_title": "Sharing A Crust",
+      "section": null,
+      "page": 16,
+      "word_count": 57,
+      "text": "16 A man used to say, “You’re never too poor to give something. Even if it’s just your place in line.” Because sometimes the greatest generosity isn’t what we give — but how we give it. Give without fear. Give without keeping score. Give without waiting to have more. With open hands. And an open heart. 17",
+      "keep": true,
+      "themes": [
+        "weary",
+        "striving",
+        "surrendered",
+        "trusting"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "05-without-a-place-not-without-a-shepherd-028",
+      "lesson_number": 6,
+      "lesson_title": "He Will Be Back",
+      "section": null,
+      "page": 18,
+      "word_count": 120,
+      "text": "Some dogs stay. They wait. They sit by the door, or at the edge of the sidewalk, or in front of a gas station where someone told them to “stay.” And they do. They wait through the rain. Through long nights. Through the ache of hunger or the cold of a concrete slab. They wait because they believe something most of the world has forgotten: “He’ll be back.” There was a man in a shelter who did the same. Every afternoon, he sat on the same curb with a small grocery bag beside him. He wasn’t panhandling. He wasn’t talking to anyone. He was waiting. When asked why, he simply said, “My son said he might come by one day.”",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "05-without-a-place-not-without-a-shepherd-029",
+      "lesson_number": 6,
+      "lesson_title": "He Will Be Back",
+      "section": null,
+      "page": 18,
+      "word_count": 88,
+      "text": "That was years ago. But he still sat there — every afternoon — just in case. Faith doesn’t always look bold. Sometimes it looks like sitting, still. Like hoping when everyone else tells you to give up. Like believing love remembers you — even when you’ve been left in silence. 18 Jesus told a story about that kind of waiting. “But while he was still a long way off, his father saw him and was filled with compassion for him; he ran to his son…” — Luke 15:20",
+      "keep": true,
+      "themes": [
+        "waiting",
+        "hopeful",
+        "lonely",
+        "trusting"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "05-without-a-place-not-without-a-shepherd-030",
+      "lesson_number": 6,
+      "lesson_title": "He Will Be Back",
+      "section": null,
+      "page": 19,
+      "word_count": 112,
+      "text": "The prodigal son had wandered far. But the father had never stopped watching the road. That’s what love does. It waits. It looks out the window. It keeps a light on. There’s a deeper kind of waiting, too. The kind that says: “Even if the person I long for never returns… I will still be ready to forgive. To welcome. To try again.” A woman once told us, “I’ve waited my whole life for someone to come back. But somewhere along the way, I realized… it’s God who’s been waiting for me.” That shift in perspective, toward the truth of God, the heart of God — that quiet awakening — changed her.",
+      "keep": true,
+      "themes": [
+        "waiting",
+        "lonely",
+        "hopeful",
+        "loved"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "05-without-a-place-not-without-a-shepherd-031",
+      "lesson_number": 6,
+      "lesson_title": "He Will Be Back",
+      "section": null,
+      "page": 19,
+      "word_count": 80,
+      "text": "Not all waiting ends with a reunion. But all waiting can lead us back to the One who never stopped hoping for us. “The Lord is good to those who wait for Him, to the soul who seeks Him.” — Lamentations 3:25 19 The little dog on the side of the road hadn’t moved in hours. People said he’d been sitting there since morning. Someone must have promised to come back. And maybe they didn’t. But that dog still believed.",
+      "keep": true,
+      "themes": [
+        "waiting",
+        "lonely",
+        "hopeful",
+        "trusting"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "05-without-a-place-not-without-a-shepherd-032",
+      "lesson_number": 7,
+      "lesson_title": "Fur and Flesh",
+      "section": null,
+      "page": 21,
+      "word_count": 92,
+      "text": "He came into the shelter limping. A big black dog with cloudy eyes and scars across his ears. He didn’t growl. His tail didn’t wag. He just stood there, waiting to see if anyone would notice him for more than his wounds. One volunteer knelt beside him and whispered, “You’ve been through quite a bit, haven’t you?” She didn’t pull away from his smell or flinch at his scrapes. She just ran her hand slowly down his side. And for the first time in a long while, he let himself lean in.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "05-without-a-place-not-without-a-shepherd-033",
+      "lesson_number": 7,
+      "lesson_title": "Fur and Flesh",
+      "section": null,
+      "page": 21,
+      "word_count": 101,
+      "text": "Some people only see the outside. The tangled hair. Rips in the clothes. Or the broken places. They see what’s missing. What’s wrong. What doesn’t look clean or safe or presentable. But God sees deeper. “The Lord does not look at the things people look at. People look at the outward appearance, but the Lord looks at the heart.” — 1 Samuel 16:7 21 There was a man who had lost most of his teeth. His skin was worn, and his eyes were tired. People avoided him in public. He told us, “Sometimes I go days without hearing my own name.”",
+      "keep": true,
+      "themes": [
+        "ashamed",
+        "forgotten",
+        "lonely",
+        "loved"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "05-without-a-place-not-without-a-shepherd-034",
+      "lesson_number": 7,
+      "lesson_title": "Fur and Flesh",
+      "section": null,
+      "page": 22,
+      "word_count": 91,
+      "text": "But one afternoon, a child came in with a meal for the shelter. And that child looked him in the eyes, smiled wide, and said, “Hi.” That child had no fear. He had no hesitation. All he had was kindness. He said later, “That one moment reminded me I’m still a person.” Jesus did that all the time. He touched lepers. He dined with outcasts. He called people by name when others called them unclean. He never saw people as problems to be fixed — but as souls to be loved.",
+      "keep": true,
+      "themes": [
+        "ashamed",
+        "lonely",
+        "forgotten",
+        "loved"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "05-without-a-place-not-without-a-shepherd-035",
+      "lesson_number": 7,
+      "lesson_title": "Fur and Flesh",
+      "section": null,
+      "page": 22,
+      "word_count": 89,
+      "text": "“You knit me together in my mother’s womb… I am fearfully and wonderfully made.” — Psalm 139:13–14 We are not accidents. We are not our bruises. We are not what we’ve lost. We are not less human because we hurt. That black dog didn’t wag his tail for almost a week. He just watched. Waited. Listened. But the first time someone said, “You’re safe here,” something seemed to have changed. He curled up that night, not just because he was tired, but because he finally believed — he belonged.",
+      "keep": true,
+      "themes": [
+        "ashamed",
+        "forgotten",
+        "loved",
+        "restored"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "05-without-a-place-not-without-a-shepherd-036",
+      "lesson_number": 8,
+      "lesson_title": "A Bowl of Water and a Name",
+      "section": null,
+      "page": 24,
+      "word_count": 96,
+      "text": "It was a hot afternoon, and a tan mutt lay on the edge of the sidewalk, tongue out, too tired to move. Cars passed. People walked by. But then someone came out from a nearby store, set down a bowl of water, and said softly, “There you go, buddy.” Just that. It was nothing dramatic. It was not a rescue mission. It was just a bowl of water. And a word that meant more than most would realize. “Buddy.” A name, even if it was made up on the spot. Something that says, “I see you.”",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "05-without-a-place-not-without-a-shepherd-037",
+      "lesson_number": 8,
+      "lesson_title": "A Bowl of Water and a Name",
+      "section": null,
+      "page": 24,
+      "word_count": 80,
+      "text": "A volunteer at a shelter once made it a habit to learn everyone’s name. Even if someone had only been there one night, even if they didn’t want to talk, she’d remember. One man said, “You know what makes this place feel different? They don’t just serve soup. They remember and say my name.” We were never meant to live as nameless bodies moving through the world. We were created to be known — by God and by one another.",
+      "keep": true,
+      "themes": [
+        "lonely",
+        "forgotten",
+        "loved",
+        "hopeful"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "05-without-a-place-not-without-a-shepherd-038",
+      "lesson_number": 8,
+      "lesson_title": "A Bowl of Water and a Name",
+      "section": null,
+      "page": 24,
+      "word_count": 89,
+      "text": "“Fear not, for I have redeemed you; I have called you by name; you are mine.” — Isaiah 43:1 24 There is power in being called by your name. In being reminded that you are not invisible. Not forgotten. Not “just another homeless man.” Not “just a stray.” But someone. Someone worth remembering. One day Jesus passed through a crowd and stopped beneath a tree. There was a man hiding there — a tax collector named Zacchaeus, hated and avoided by many. But Jesus didn’t scold him. He said:",
+      "keep": true,
+      "themes": [
+        "forgotten",
+        "lonely",
+        "loved",
+        "hopeful"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "05-without-a-place-not-without-a-shepherd-039",
+      "lesson_number": 8,
+      "lesson_title": "A Bowl of Water and a Name",
+      "section": null,
+      "page": 25,
+      "word_count": 89,
+      "text": "“Zacchaeus, come down immediately. I must stay at your house today.” — Luke 19:5 He said his name. That was the beginning of Zacchaeus’ healing. Not the end of the story — but the start of coming home to God. Maybe you’ve gone a long time without hearing your name in a gentle voice. Maybe you’ve been called things that have hurt you. Maybe you’ve been overlooked, passed by, or treated like you don’t matter. But the Shepherd knows your name. And even now He is calling your name.",
+      "keep": true,
+      "themes": [
+        "forgotten",
+        "lonely",
+        "ashamed",
+        "loved"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "05-without-a-place-not-without-a-shepherd-040",
+      "lesson_number": 8,
+      "lesson_title": "A Bowl of Water and a Name",
+      "section": null,
+      "page": 25,
+      "word_count": 82,
+      "text": "Sometimes it’s not the big gestures that carry the most weight. It’s a bowl of water on a hot day. It’s someone remembering you like you matter. It’s being called “friend,” or “sir,” or “ma’am,” when the world expects no one to look you in the eye. 25 “And if anyone gives even a cup of cold water to one of these little ones because he is My disciple, truly I tell you, he will never lose his reward.” — Matthew 10:42",
+      "keep": true,
+      "themes": [
+        "lonely",
+        "forgotten",
+        "loved",
+        "called"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "05-without-a-place-not-without-a-shepherd-041",
+      "lesson_number": 8,
+      "lesson_title": "A Bowl of Water and a Name",
+      "section": null,
+      "page": 26,
+      "word_count": 48,
+      "text": "That tan mutt came back the next day, and the next. Not for the water, really. But because someone saw him. Remembered him. Someone cared. Sometimes that’s all it takes — a name, a bowl of water, and the love of a God who remembers your name. 26",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "05-without-a-place-not-without-a-shepherd-042",
+      "lesson_number": 9,
+      "lesson_title": "No Collar, Still Beloved",
+      "section": null,
+      "page": 27,
+      "word_count": 102,
+      "text": "She wandered into the church parking lot during a rainstorm. Soaked to the bone, shaking. There was no collar. Just fur and fear and eyes that scanned every doorway like she was looking for a reason not to keep walking. There was no name. No record of where she came from or who she belonged to. But someone brought out a towel. Someone said, “Come here, sweetheart.” And someone decided — she was worth keeping. At the shelter, there are many like her. No ID. No emergency contact. No proof of anything that says, “I matter.” And yet — they do matter.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "We don't need tags to be claimed by grace."
+    },
+    {
+      "id": "05-without-a-place-not-without-a-shepherd-043",
+      "lesson_number": 9,
+      "lesson_title": "No Collar, Still Beloved",
+      "section": null,
+      "page": 27,
+      "word_count": 124,
+      "text": "We live in a world that often ties worth to paperwork. To housing status. To appearance. To whether we have a place to return to. But grace doesn’t require credentials. Jesus never said, “Show Me your résumé.” He said: “Come to Me, all who are weary and burdened, and I will give you rest.” — Matthew 11:28 27 All. No collar required. There was a man who spent months trying to get his ID back. He’d lost it in the shuffle — a shelter here, a hospital there, a bag stolen while he was asleep on the sidewalk. He told us, “It’s like the world forgot I exist.” But then someone called him by name. Someone said, “You’re on the list.” And he wept.",
+      "keep": true,
+      "themes": [
+        "weary",
+        "forgotten",
+        "ashamed",
+        "loved"
+      ],
+      "lesson_subtitle": "We don't need tags to be claimed by grace."
+    },
+    {
+      "id": "05-without-a-place-not-without-a-shepherd-044",
+      "lesson_number": 9,
+      "lesson_title": "No Collar, Still Beloved",
+      "section": null,
+      "page": 28,
+      "word_count": 116,
+      "text": "Not because of the paperwork. But because someone still saw him as someone worth counting. “I will not forget you. See, I have engraved you on the palms of My hands.” — Isaiah 49:15–16 Even when the world loses track of us, God does not. Even if we’re undocumented, displaced, or unnamed, He knows exactly where we are — and to Him, we are not missing. We are beloved. The little dog with no collar? She never left. She didn’t need an owner’s permission to be accepted. She just needed someone to care. And now, years later, she still sleeps on the welcome mat at the church door. Because someone made space. And someone welcomed her.",
+      "keep": true,
+      "themes": [
+        "forgotten",
+        "lonely",
+        "loved",
+        "restored"
+      ],
+      "lesson_subtitle": "We don't need tags to be claimed by grace."
+    },
+    {
+      "id": "05-without-a-place-not-without-a-shepherd-045",
+      "lesson_number": 10,
+      "lesson_title": "Every Step Counts",
+      "section": null,
+      "page": 29,
+      "word_count": 96,
+      "text": "He didn’t walk in a straight line. One leg dragged just a bit behind the others, and his paws were worn from too many miles on sidewalks that never led anywhere. Still, the old dog walked. Every morning, same path. From the corner near the soup kitchen to the empty lot behind the church. And every evening, back again. We never knew exactly what he was looking for. Maybe a familiar face. Maybe a scrap of food. Maybe just a reason to keep going. But he kept walking. And to anyone paying attention, that was enough.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "05-without-a-place-not-without-a-shepherd-046",
+      "lesson_number": 10,
+      "lesson_title": "Every Step Counts",
+      "section": null,
+      "page": 29,
+      "word_count": 88,
+      "text": "There’s something about steps that keep going even when they hurt. Something holy about a journey that no one else sees — but God does. One man said, “I used to think I had to clean myself up before I could be worth anything again. But now I think — maybe the fact that I’m still walking is the miracle.” Still walking. It is a miracle indeed. Sometimes we think healing has to be quick. That faith has to look strong. That only progress counts if it’s measurable.",
+      "keep": true,
+      "themes": [
+        "weary",
+        "discouraged",
+        "hopeful",
+        "trusting"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "05-without-a-place-not-without-a-shepherd-047",
+      "lesson_number": 10,
+      "lesson_title": "Every Step Counts",
+      "section": null,
+      "page": 29,
+      "word_count": 98,
+      "text": "29 But the Shepherd sees every step. Even the shaky ones. Even the ones that double back. Even the ones where we fall. “The steps of a good man are ordered by the Lord, and He delights in his way. Though he fall, he shall not be utterly cast down, for the Lord upholds him with His hand.” — Psalm 37:23–24 You might not be where you hoped you’d be by now. You might have taken more wrong turns than you can count. But if you’re still trying — still walking — God hasn’t given up on you.",
+      "keep": true,
+      "themes": [
+        "weary",
+        "discouraged",
+        "hopeful",
+        "loved"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "05-without-a-place-not-without-a-shepherd-048",
+      "lesson_number": 10,
+      "lesson_title": "Every Step Counts",
+      "section": null,
+      "page": 30,
+      "word_count": 103,
+      "text": "The prodigal son didn’t run home. He limped. He had dust on his feet, shame on his shoulders, a speech in his mouth he never had to finish. Because even though he was still far away, his father had already run out to meet him. “While he was still a long way off…” — Luke 15:20 God doesn’t wait at the finish line. He meets us on the road. 30 That old dog eventually stopped walking. But not because he gave up. He stopped because someone opened their door. They said, “You’ve been looking for something. You don’t have to anymore. You’re home.”",
+      "keep": true,
+      "themes": [
+        "ashamed",
+        "weary",
+        "discouraged",
+        "loved"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "05-without-a-place-not-without-a-shepherd-049",
+      "lesson_number": 10,
+      "lesson_title": "Every Step Counts",
+      "section": null,
+      "page": 31,
+      "word_count": 56,
+      "text": "And for the first time in a long time, he lay down for the night without needing to go anywhere tomorrow. Every step you’ve taken — yes, even the wrong ones — have brought you here. And He’s still walking with you. Every mile. Every moment. You are not lost. You are on your way. 31",
+      "keep": true,
+      "themes": [
+        "weary",
+        "discouraged",
+        "hopeful",
+        "trusting"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "05-without-a-place-not-without-a-shepherd-050",
+      "lesson_number": 11,
+      "lesson_title": "He Found Me First",
+      "section": null,
+      "page": 32,
+      "word_count": 106,
+      "text": "He showed up behind the dumpster. He had mud all over his legs. His fur was falling out in clumps. And his eyes. They were full of sadness, showing that he wasn’t expecting kindness. Someone stepped outside with a broom. To sweep. He didn’t try to run away. But he looked up, not with fear, but with something like hope. Maybe somewhere in his long-lost past, someone had come for him once. And maybe, just maybe, someone would again. The man who spotted him knelt down. He was not sure what to say. The dog inched toward him. And just like that, something started to heal.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "05-without-a-place-not-without-a-shepherd-051",
+      "lesson_number": 11,
+      "lesson_title": "He Found Me First",
+      "section": null,
+      "page": 32,
+      "word_count": 93,
+      "text": "We often talk about “finding God.” As if we’ve been out searching for Him. But the truth is — we were the ones behind the dumpster. And He was the one who came looking. “The Son of Man came to seek and to save the lost.” — Luke 19:10 A man at a shelter once said, “I didn’t walk into that church looking for anything. I just wanted to warm up. But now I know — it was God who brought me there. He found me long before I knew I was missing.”",
+      "keep": true,
+      "themes": [
+        "lost",
+        "lonely",
+        "forgotten",
+        "loved"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "05-without-a-place-not-without-a-shepherd-052",
+      "lesson_number": 11,
+      "lesson_title": "He Found Me First",
+      "section": null,
+      "page": 32,
+      "word_count": 95,
+      "text": "32 Jesus told a story about a shepherd. One sheep had wandered away. Just one. But the shepherd didn’t say, “Ninety-nine is good enough.” He left the others and went after the one that was lost. “If a man has a hundred sheep and one of them gets lost, what will he do? Won’t he leave the ninety-nine others in the wilderness and go to search for the one that is lost until he finds it?” — Luke 15:4 Not if he finds it. Until. Because that’s who God is. He does not stop searching.",
+      "keep": true,
+      "themes": [
+        "forgotten",
+        "lonely",
+        "hopeful",
+        "loved"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "05-without-a-place-not-without-a-shepherd-053",
+      "lesson_number": 11,
+      "lesson_title": "He Found Me First",
+      "section": null,
+      "page": 33,
+      "word_count": 122,
+      "text": "Maybe you didn’t come looking for Him today. Maybe you’ve spent years feeling like you’re beyond reach, beyond grace, beyond the kind of rescue songs are written about. But the Shepherd sees where you are. And He’s already walking your way. “I will answer them before they even call to me. While they are still talking about their needs, I will go ahead and answer their prayers!” — Isaiah 65:24 That dog behind the dumpster never asked to be seen. He didn’t have the courage. He didn’t even know how to ask. But someone saw him anyway. Someone leaned down, came down to where he was. And that’s how healing began. Not because he went looking. But because love found him first.",
+      "keep": true,
+      "themes": [
+        "ashamed",
+        "forgotten",
+        "hopeful",
+        "loved"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "05-without-a-place-not-without-a-shepherd-054",
+      "lesson_number": 12,
+      "lesson_title": "The Shepherd Is Our Home",
+      "section": null,
+      "page": 34,
+      "word_count": 88,
+      "text": "There was a dog who lived at a shelter. Not officially. She was no one’s dog. She just never left. She used to roam from block to block, sleeping wherever was dry, eating whatever was offered, and trusting no one. But one day, someone let her inside. Not just for that one night — but again the next day, and the day after that. She started waiting by the door in the morning, following the staff around during lunch, and curling up on the same blanket every evening.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "Real home is not a place — it's a Person."
+    },
+    {
+      "id": "05-without-a-place-not-without-a-shepherd-055",
+      "lesson_number": 12,
+      "lesson_title": "The Shepherd Is Our Home",
+      "section": null,
+      "page": 34,
+      "word_count": 96,
+      "text": "She found what she’d been looking for. Safety. Food. Consistency. Care. In other words — home. We often think of “home” as a roof and four walls. And it can be. But there’s another kind of home. The kind we carry. The kind we find when we are known, loved, and not sent away. That kind of home doesn’t depend on real estate. It depends on relationships. 34 “Surely Your goodness and mercy will follow me all the days of my life, and I will dwell in the house of the Lord forever.” — Psalm 23:6",
+      "keep": true,
+      "themes": [
+        "lonely",
+        "weary",
+        "hopeful",
+        "resting"
+      ],
+      "lesson_subtitle": "Real home is not a place — it's a Person."
+    },
+    {
+      "id": "05-without-a-place-not-without-a-shepherd-056",
+      "lesson_number": 12,
+      "lesson_title": "The Shepherd Is Our Home",
+      "section": null,
+      "page": 35,
+      "word_count": 83,
+      "text": "The house of the Lord is not a place you visit. It’s a place where you are invited to stay, forever. Not because you earned it. Not because you’ve fixed everything about yourself and your life. But because the Shepherd lives there — and He wants you with Him. A guests at a shelter once said, “I’ve lived under porches and overpasses. But the first time someone remembered my name two weeks in a row… that’s when I felt like I’d come home.”",
+      "keep": true,
+      "themes": [
+        "lonely",
+        "forgotten",
+        "loved",
+        "restored"
+      ],
+      "lesson_subtitle": "Real home is not a place — it's a Person."
+    },
+    {
+      "id": "05-without-a-place-not-without-a-shepherd-057",
+      "lesson_number": 12,
+      "lesson_title": "The Shepherd Is Our Home",
+      "section": null,
+      "page": 35,
+      "word_count": 98,
+      "text": "He smiled. Then added, “I think God might’ve been following me this whole time.” Jesus didn’t come to give us only shelter. He came to give us Himself. “Remain in me, and I will remain in you.” — John 15:4 Abide. Remain. Stay. Dwell. That’s home. 35 Maybe you’re still searching. Maybe your life has been filled with too many goodbyes, too many doors that didn’t open, too many nights alone. But the Shepherd never left. He’s been walking beside you, even when you didn’t know it. And today, He’s not just offering a place. He’s offering Himself.",
+      "keep": true,
+      "themes": [
+        "lonely",
+        "weary",
+        "hopeful",
+        "loved"
+      ],
+      "lesson_subtitle": "Real home is not a place — it's a Person."
+    },
+    {
+      "id": "05-without-a-place-not-without-a-shepherd-058",
+      "lesson_number": 12,
+      "lesson_title": "The Shepherd Is Our Home",
+      "section": null,
+      "page": 36,
+      "word_count": 130,
+      "text": "That dog at the shelter still follows the staff around. Still curls up in the same spot every night. Still greets everyone like they are family. Here’s the thing: she’s not wandering anymore. Because now she knows where she belongs. And so do we. 36 Final Thoughts We Are Not Forgotten. We Are Not Alone. If you’ve made it this far — thank you. This book wasn’t written for people who have everything together. It was written for the ones who have slept in their car, or stared at a cracked ceiling, or weathered the storms of life inside a tent. For those who have felt left behind. It’s for anyone who has ever been overlooked. It’s for the wanderers. The ones who keep walking. And the ones still waiting.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "Real home is not a place — it's a Person."
+    },
+    {
+      "id": "05-without-a-place-not-without-a-shepherd-059",
+      "lesson_number": 12,
+      "lesson_title": "The Shepherd Is Our Home",
+      "section": null,
+      "page": 37,
+      "word_count": 92,
+      "text": "We’ve told stories about good but hurting dogs. But they were never the main character. They were there to remind us of something greater — of Someone greater. Because if a dog can wait at the door for someone who might never return, how much more does God wait for us? If a stray can offer the last crust to a friend, how much more does the Shepherd give? If a nameless dog with no collar can be welcomed with a bowl of water, how much more are you seen? Known? Loved?",
+      "keep": true,
+      "themes": [
+        "forgotten",
+        "lonely",
+        "hopeful",
+        "loved"
+      ],
+      "lesson_subtitle": "Real home is not a place — it's a Person."
+    },
+    {
+      "id": "05-without-a-place-not-without-a-shepherd-060",
+      "lesson_number": 12,
+      "lesson_title": "The Shepherd Is Our Home",
+      "section": null,
+      "page": 37,
+      "word_count": 91,
+      "text": "“I am the good shepherd. The good shepherd lays down His life for the sheep.” — John 10:11 37 You don’t have to earn your way into His flock. You can’t. You don’t have to fix everything first. You can’t. You don’t even have to know where you’re going. Because He knows. And He’s already moving towards you. Actually, He’s right there beside you. If today you’re without a place, please know — you are not without a Shepherd. You are not forgotten. You are not alone. Not now. Not ever.",
+      "keep": true,
+      "themes": [
+        "lonely",
+        "forgotten",
+        "weary",
+        "loved"
+      ],
+      "lesson_subtitle": "Real home is not a place — it's a Person."
+    }
+  ]
+}

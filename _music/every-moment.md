@@ -1,9 +1,10 @@
 ---
 title: "Every Moment"
-date: 2025-04-01
+date: "2025-04-01"
 cover_image: "/assets/images/music/every-moment.png"
 youtube: "https://youtu.be/khOHhvp-40k"
-show_lyrics: false
+show_lyrics: "false"
+youtube_music: "https://music.youtube.com/watch?v=khOHhvp-40k"
 ---
 ## Bible Verse
 (Add Bible verse here)

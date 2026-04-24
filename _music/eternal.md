@@ -1,9 +1,10 @@
 ---
 title: "Eternal"
-date: 2025-03-01
+date: "2025-03-01"
 cover_image: "/assets/images/music/eternal.png"
 youtube: "https://youtu.be/_avOIbESHIQ?si=zGskufxb6hm5sBmv"
-show_lyrics: false
+show_lyrics: "false"
+youtube_music: "https://music.youtube.com/watch?v=_avOIbESHIQ"
 ---
 ## Bible Verse
 (Add Bible verse here)

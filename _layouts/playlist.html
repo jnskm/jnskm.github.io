@@ -1,0 +1,71 @@
+---
+layout: default
+---
+
+<article class="playlist-page">
+  <header class="playlist-header">
+    <p class="playlist-eyebrow">Playlist</p>
+    <h1 class="playlist-title">{{ page.title }}</h1>
+    {% if page.description %}
+    <p class="playlist-description">{{ page.description }}</p>
+    {% endif %}
+  </header>
+
+  {% assign songs_lite = site.data.songs_lite %}
+  {% assign playlists_data = site.data.playlists %}
+
+  {% comment %} Find this playlist's entry in playlists_data {% endcomment %}
+  {% assign this_playlist = nil %}
+  {% for p in playlists_data %}
+    {% if p.slug == page.slug %}
+      {% assign this_playlist = p %}
+    {% endif %}
+  {% endfor %}
+
+  {% if this_playlist %}
+    {% assign streaming = this_playlist.streaming_playlists %}
+    {% assign has_streaming = false %}
+    {% if streaming.youtube or streaming.youtube_music or streaming.spotify or streaming.apple_music or streaming.amazon_music %}
+      {% assign has_streaming = true %}
+    {% endif %}
+
+    {% if has_streaming %}
+    <section class="playlist-streaming">
+      <p class="playlist-streaming-label">Listen on:</p>
+      <div class="playlist-streaming-links">
+        {% if streaming.youtube %}<a href="{{ streaming.youtube }}" target="_blank" rel="noopener">YouTube</a>{% endif %}
+        {% if streaming.youtube_music %}<a href="{{ streaming.youtube_music }}" target="_blank" rel="noopener">YouTube Music</a>{% endif %}
+        {% if streaming.spotify %}<a href="{{ streaming.spotify }}" target="_blank" rel="noopener">Spotify</a>{% endif %}
+        {% if streaming.apple_music %}<a href="{{ streaming.apple_music }}" target="_blank" rel="noopener">Apple Music</a>{% endif %}
+        {% if streaming.amazon_music %}<a href="{{ streaming.amazon_music }}" target="_blank" rel="noopener">Amazon Music</a>{% endif %}
+      </div>
+    </section>
+    {% endif %}
+
+    <ol class="playlist-songs">
+      {% for slug in this_playlist.song_slugs %}
+        {% assign song = songs_lite[slug] %}
+        {% if song %}
+          <li class="playlist-song">
+            <div class="playlist-song-info">
+              <p class="playlist-song-title">
+                {{ song.title }}
+                {% if song.collaboration %}<span class="playlist-song-qualifier"> · {{ song.collaboration }}</span>{% endif %}
+                {% if song.is_remix %}<span class="playlist-song-qualifier"> · Remix</span>{% endif %}
+                {% if song.is_korean %}<span class="playlist-song-qualifier"> · Korean</span>{% endif %}
+              </p>
+              <p class="playlist-song-scripture">inspired by {{ song.scripture_ref }}</p>
+            </div>
+            <div class="playlist-song-links">
+              {% if song.streaming.youtube %}<a href="{{ song.streaming.youtube }}" target="_blank" rel="noopener">YouTube</a>{% endif %}
+              {% if song.streaming.youtube_music %}<a href="{{ song.streaming.youtube_music }}" target="_blank" rel="noopener">YouTube Music</a>{% endif %}
+              {% if song.streaming.spotify %}<a href="{{ song.streaming.spotify }}" target="_blank" rel="noopener">Spotify</a>{% endif %}
+              {% if song.streaming.apple_music %}<a href="{{ song.streaming.apple_music }}" target="_blank" rel="noopener">Apple Music</a>{% endif %}
+              {% if song.streaming.amazon_music %}<a href="{{ song.streaming.amazon_music }}" target="_blank" rel="noopener">Amazon Music</a>{% endif %}
+            </div>
+          </li>
+        {% endif %}
+      {% endfor %}
+    </ol>
+  {% endif %}
+</article>

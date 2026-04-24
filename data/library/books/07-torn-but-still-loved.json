@@ -1,0 +1,1754 @@
+{
+  "book_id": "07-torn-but-still-loved",
+  "title": "Torn But Still Loved",
+  "subtitle": "",
+  "authors": [
+    "Kyung Suk Yi",
+    "Jin Sung Kim"
+  ],
+  "source_pdf": "07_Torn_But_Still_Loved/07_Torn_But_Still_Loved_v03.pdf",
+  "cover_image": "/assets/images/books/book-cover-07-torn-but-still-loved.jpg",
+  "amazon_url": "",
+  "total_pages": 76,
+  "total_chunks": 118,
+  "chunks": [
+    {
+      "id": "07-torn-but-still-loved-001",
+      "lesson_number": null,
+      "lesson_title": null,
+      "section": null,
+      "page": 1,
+      "word_count": 96,
+      "text": "Torn But Still Loved Twelve Lessons From Good Dogs About Worth After Our Worst Moments By Kyung Yi and Jin Sung Kim © Kyung Yi and Jin Sung Kim A book about theology, this is not. It’s a book about dogs. And sometimes when we look at what they do, and think about it a while, they remind us of the truths of our God. We are two ordinary people: a deacon and a layperson. One walking through cancer, both walking with God. We are learning to closely follow the Shepherd through all walks of life.",
+      "keep": false,
+      "themes": []
+    },
+    {
+      "id": "07-torn-but-still-loved-002",
+      "lesson_number": null,
+      "lesson_title": null,
+      "section": null,
+      "page": 2,
+      "word_count": 81,
+      "text": "These reflections are for everyone, but especially for people who have made mistakes. Big mistakes. But still willing to learn. To have hope. To be faithful. Struggling but not giving up. Believing that we are forgiven and loved by others and by God. The proceeds from this book go to: The Never Alone Mission c/o A&K 440 N. Wolfe Rd. Sunnyvale, CA 94085 Front Cover Photo: Ryan Walton unsplash.com/@rwltn1 2 To everyone who has ever felt torn apart by their mistakes…",
+      "keep": false,
+      "themes": []
+    },
+    {
+      "id": "07-torn-but-still-loved-003",
+      "lesson_number": null,
+      "lesson_title": null,
+      "section": null,
+      "page": 3,
+      "word_count": 57,
+      "text": "You are seen. You are loved. You are still whole in God’s eyes. And to all the dogs who taught us that being torn doesn’t mean being worthless, that second chances are real, and that the best families often choose the ones with the most complicated stories. Thank you for showing us how God sees us. 3",
+      "keep": false,
+      "themes": [
+        "ashamed",
+        "guilty",
+        "forgotten",
+        "loved"
+      ],
+      "keep_override": "front-back-matter"
+    },
+    {
+      "id": "07-torn-but-still-loved-004",
+      "lesson_number": null,
+      "lesson_title": null,
+      "section": "introduction",
+      "page": 4,
+      "word_count": 131,
+      "text": "We didn’t set out to write a book about shame and redemption. We were just paying attention to dogs. Kyung has been watching dogs for years. Big ones, little ones, mixed breeds, purebreds, young and old. He started keeping notes. Funny things they did. Strange behaviors. Moments that somehow felt more important than they should have been. Then one day, he started to realize something. These dogs weren’t just entertaining us. They were teaching us. Jin has walked through some hard seasons. Made some big mistakes. Felt the weight of shame that comes when we have hurt people we love. In those dark times, God shows us what things to focus on. God points us to what really matters: His grace. His mercy. Even when you believe you don’t deserve it.",
+      "keep": false,
+      "themes": []
+    },
+    {
+      "id": "07-torn-but-still-loved-005",
+      "lesson_number": null,
+      "lesson_title": null,
+      "section": "introduction",
+      "page": 4,
+      "word_count": 149,
+      "text": "Dogs seem to know some of these things instinctively. Things God keeps showing us through them. This book came together when we realized that the lessons we were learning from dogs lined up with the 4 truths we were discovering in God’s Word. Not the easy truths about God loving good people who make good choices. But the harder truths about God loving people who’ve torn their lives apart by making terrible mistakes. Kingsman was labeled dangerous after one scared moment in his own yard. Rico was a stray learning to trust that daily food would keep coming. Luna had been returned twice by families who gave up on her. Tank and Peanut faced scarcity during a hurricane that brought out both the worst and best in others. Diesel lost his voice after a career-ending mistake. Caesar had to start over when his whole world changed at age nine.",
+      "keep": false,
+      "themes": []
+    },
+    {
+      "id": "07-torn-but-still-loved-006",
+      "lesson_number": null,
+      "lesson_title": null,
+      "section": "introduction",
+      "page": 5,
+      "word_count": 82,
+      "text": "Every dog has also been lovable at their core. They were not perfect. Quite imperfect in fact. They were not without problems to work through. They had more than a few. But they were fundamentally worthy of love, capable of healing, ready for someone to see their heart. Just like us. We know what it feels like to have our lives be torn up. Carrying guilt from a divorce that was mostly our fault? Made choices that cost our job, our reputation,",
+      "keep": false,
+      "themes": []
+    },
+    {
+      "id": "07-torn-but-still-loved-007",
+      "lesson_number": null,
+      "lesson_title": null,
+      "section": "introduction",
+      "page": 5,
+      "word_count": 90,
+      "text": "5 or our family’s trust? Dealing with addiction that has destroyed relationships? Betrayed someone who loved us? Hurt our children through our poor decisions? Feel torn apart…? Like being ripped from the life we once knew, like we have too much baggage, like our mistakes have made us unlovable. We want you to know something before you read these twelve lessons: You are still loved. Not because our mistakes don’t matter. They do. Not because consequences aren’t real. They are. Not because we don’t have work to do. We do.",
+      "keep": true,
+      "themes": [
+        "ashamed",
+        "guilty",
+        "discouraged",
+        "loved"
+      ]
+    },
+    {
+      "id": "07-torn-but-still-loved-008",
+      "lesson_number": null,
+      "lesson_title": null,
+      "section": "introduction",
+      "page": 6,
+      "word_count": 83,
+      "text": "But because being torn doesn’t make us worthless. Because people can make terrible choices and still be people who need love, forgiveness, and second chances. Because love doesn’t depend on having a perfect, untorn life. The dogs in this book taught us that being in an impossibly difficult place doesn’t erase our value. It just means we are in need of care, patience, and knowing that Someone does see our heart instead of just our history. We believe God sees us that way.",
+      "keep": true,
+      "themes": [
+        "ashamed",
+        "guilty",
+        "forgotten",
+        "loved"
+      ]
+    },
+    {
+      "id": "07-torn-but-still-loved-009",
+      "lesson_number": null,
+      "lesson_title": null,
+      "section": "introduction",
+      "page": 6,
+      "word_count": 135,
+      "text": "6 These are not complicated theology lessons. These are simple stories about hope finding dogs in challenging situations. Love founding their torn-up lives. People who wanted them exactly as they were and taking them home. If that sounds like something you need to hear, this book is for you. We are all torn in some way. But we are still loved by God. And that makes all the difference. 7 A Note About These Stories The dogs and people in this book are based on real dogs and real people. We have observed these behaviors, situations, and outcomes at shelters and in life. However, all names have been changed to protect privacy. Some details have been combined or adjusted to better illustrate the lessons, but every story is grounded in actual experiences we have witnessed.",
+      "keep": true,
+      "themes": [
+        "ashamed",
+        "discouraged",
+        "loved",
+        "hopeful"
+      ]
+    },
+    {
+      "id": "07-torn-but-still-loved-010",
+      "lesson_number": 1,
+      "lesson_title": "Good Dogs Don't Stop Being Good",
+      "section": null,
+      "page": 9,
+      "word_count": 103,
+      "text": "Kingsman had been the perfect family dog for three years. A beautiful German Shorthaired Pointer with gentle eyes and endless patience with the children. But one terrible afternoon, everything changed. The neighbor’s toddler wandered into their yard, and Kingsman, startled while protecting his food bowl, snapped. There was no serious injury, but enough to terrify a two-year-old and horrify two families. The Matthews family was devastated. “We can’t believe this happened,” Mrs. Matthews said through tears. “Kingsman has never shown aggression before.” The neighbor was understanding but firm: something had to change. The local animal control officer was called to file a report.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "On Keeping Your Character"
+    },
+    {
+      "id": "07-torn-but-still-loved-011",
+      "lesson_number": 1,
+      "lesson_title": "Good Dogs Don't Stop Being Good",
+      "section": null,
+      "page": 9,
+      "word_count": 99,
+      "text": "Now Kingsman wears a “bite history” tag on his collar and has restricted access to the front yard. He sees the fear in visitors’ eyes when they read the warning signs posted on the family’s gates. The happy, confident 9 dog has become cautious and withdrawn, as if he knows he’s carrying the weight of one terrible moment. The animal control officer recommended behavioral training and stricter supervision. Some neighbors whisper when Kingsman walks by on his leash. The Matthews family debates whether they can keep him, not because they don’t love him, but because the liability feels overwhelming.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "On Keeping Your Character"
+    },
+    {
+      "id": "07-torn-but-still-loved-012",
+      "lesson_number": 1,
+      "lesson_title": "Good Dogs Don't Stop Being Good",
+      "section": null,
+      "page": 10,
+      "word_count": 106,
+      "text": "Mrs. Matthews watches Kingsman interact gently with her own children, notices how he still moves carefully around smaller dogs at the park, sees the remorse in his eyes. “He’s not a dangerous dog,” she tells her husband. “He’s a good dog who had a scared moment.” But the red warning on his file feels like a scarlet letter, marking him as forever dangerous because of one moment when fear overcame training. Three months later, a professional dog behaviorist visits their home. She reads Kingsman’s incident report, then spends two hours observing him with the family. She sees past the warning label to the gentle soul underneath.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "On Keeping Your Character"
+    },
+    {
+      "id": "07-torn-but-still-loved-013",
+      "lesson_number": 1,
+      "lesson_title": "Good Dogs Don't Stop Being Good",
+      "section": null,
+      "page": 10,
+      "word_count": 104,
+      "text": "10 “This dog isn’t aggressive,” she tells the Matthews family. “He had a resource-guarding response to an unexpected situation. With proper management and some retraining, he can absolutely remain a safe family pet.” “Everyone makes mistakes,” she adds. “Even good dogs. That doesn’t erase who they really are.” We’ve all had our Kingsman moment. That one terrible decision, that moment when fear or anger or weakness took over and we did something that horrified even ourselves. Maybe we lost our temper and said unforgivable words. Maybe we made a choice that destroyed a marriage. Maybe we betrayed someone’s trust or hurt someone we love.",
+      "keep": true,
+      "themes": [
+        "ashamed",
+        "guilty",
+        "discouraged",
+        "loved"
+      ],
+      "lesson_subtitle": "On Keeping Your Character"
+    },
+    {
+      "id": "07-torn-but-still-loved-014",
+      "lesson_number": 1,
+      "lesson_title": "Good Dogs Don't Stop Being Good",
+      "section": null,
+      "page": 11,
+      "word_count": 119,
+      "text": "Now we carry our own warning label. Every time we meet someone new, we wonder if they know. Every time we look in the mirror, we see that red flag. We’ve convinced ourselves that one terrible moment defines our entire worth. But God doesn’t see us that way. 11 “The Lord does not look at the things people look at. People look at the outward appearance, but the Lord looks at the heart.” — 1 Samuel 16:7 God spoke these words when everyone was judging by external appearances, by past performance, by what seemed obvious on the surface. But God sees deeper. He sees our heart, not just the moment when it failed, but what it’s truly made of.",
+      "keep": true,
+      "themes": [
+        "ashamed",
+        "guilty",
+        "loved",
+        "forgiven"
+      ],
+      "lesson_subtitle": "On Keeping Your Character"
+    },
+    {
+      "id": "07-torn-but-still-loved-015",
+      "lesson_number": 1,
+      "lesson_title": "Good Dogs Don't Stop Being Good",
+      "section": null,
+      "page": 12,
+      "word_count": 99,
+      "text": "We live in a world that loves to label people by their worst moment. One mistake becomes our permanent identity. One failure defines our future. One bad decision erases years of good character. But God’s perspective is different. He sees Kingsman as a good dog who had a scared moment, not a dangerous dog who occasionally acts nice. He sees us as His beloved children who stumbled, not as failures who occasionally do something right. Kingsman’s worth wasn’t determined by that one afternoon in the yard. Three years of gentleness, patience, and love couldn’t be erased by one moment",
+      "keep": true,
+      "themes": [
+        "ashamed",
+        "guilty",
+        "loved",
+        "forgiven"
+      ],
+      "lesson_subtitle": "On Keeping Your Character"
+    },
+    {
+      "id": "07-torn-but-still-loved-016",
+      "lesson_number": 1,
+      "lesson_title": "Good Dogs Don't Stop Being Good",
+      "section": null,
+      "page": 12,
+      "word_count": 85,
+      "text": "12 of fear. The behaviorist helped him see his true character. And that’s exactly how God sees us. Our identity isn’t our worst decision. Our worth isn’t our biggest failure. Our future isn’t imprisoned by our past. We are who God says we are: loved, valuable, worthy of second chances. The warning label feels permanent, but it’s not. Reputations can be rebuilt. Hearts can heal. Good dogs who make mistakes are still good dogs. They just need proper support and people who see their heart.",
+      "keep": true,
+      "themes": [
+        "ashamed",
+        "guilty",
+        "hopeful",
+        "restored"
+      ],
+      "lesson_subtitle": "On Keeping Your Character"
+    },
+    {
+      "id": "07-torn-but-still-loved-017",
+      "lesson_number": 1,
+      "lesson_title": "Good Dogs Don't Stop Being Good",
+      "section": null,
+      "page": 13,
+      "word_count": 57,
+      "text": "God is like that experienced behaviorist. He sees our whole history, not just our worst moment. He looks at our heart and says, “That’s my child who had a bad moment. That doesn’t erase who they really are.” Our warning label doesn’t have to be permanent. We’re still worthy of love. We’re still valuable to God. 13",
+      "keep": true,
+      "themes": [
+        "ashamed",
+        "guilty",
+        "loved",
+        "forgiven"
+      ],
+      "lesson_subtitle": "On Keeping Your Character"
+    },
+    {
+      "id": "07-torn-but-still-loved-018",
+      "lesson_number": 2,
+      "lesson_title": "Every Day is Feeding Time",
+      "section": null,
+      "page": 14,
+      "word_count": 109,
+      "text": "Rico was a stray who had been wandering the streets for months before Maria found him digging through her garbage. The Pit Bull mix was skin and bones, clearly hadn’t eaten regularly in weeks. When Maria first put food out for him, Rico ate so fast he made himself sick. “Slow down, buddy,” she said gently. “There’s more where that came from.” But Rico didn’t believe her. He wolfed down every meal like it might be his last. He licked the bowl so clean it looked like it had been washed. When he saw Maria coming with food, he would whine with worry that she might forget him today.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "On God's Unchanging Faithfulness"
+    },
+    {
+      "id": "07-torn-but-still-loved-019",
+      "lesson_number": 2,
+      "lesson_title": "Every Day is Feeding Time",
+      "section": null,
+      "page": 14,
+      "word_count": 90,
+      "text": "Maria worked different shifts at the hospital, so Rico never knew exactly when she’d appear. Sometimes she came in the morning before work. Sometimes she stopped by during lunch. Sometimes it was late evening after a double shift. But the food always came. Every single day for eight months. 14 Rico watched other people in the neighborhood come and go. The family next door moved away. The man who used to jog past every morning stopped showing up. Even some of Maria’s friends visited less frequently as time went on.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "On God's Unchanging Faithfulness"
+    },
+    {
+      "id": "07-torn-but-still-loved-020",
+      "lesson_number": 2,
+      "lesson_title": "Every Day is Feeding Time",
+      "section": null,
+      "page": 15,
+      "word_count": 123,
+      "text": "One morning, Rico realized something important while eating his breakfast. Everyone else’s schedule changed. But Maria’s commitment to feeding him never did. Through rain and snow, good days and bad days, busy weeks and quiet weeks, this one thing remained absolutely consistent. Maria noticed Rico’s more relaxed eating pace. “You’re figuring it out, aren’t you, buddy?” she said softly. “People’s schedules change, but some things never do. I’m going to take care of you no matter what.” It took Rico three more months to trust enough to let Maria pet him while he ate. It took another month before he’d come inside during storms. But the daily feeding had taught him something essential: some promises are kept even when everything else feels uncertain.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "On God's Unchanging Faithfulness"
+    },
+    {
+      "id": "07-torn-but-still-loved-021",
+      "lesson_number": 2,
+      "lesson_title": "Every Day is Feeding Time",
+      "section": null,
+      "page": 15,
+      "word_count": 83,
+      "text": "When we’re dealing with the aftermath of our big mistakes, it feels like everything reliable in our life 15 disappears. Friends distance themselves. Family members lose trust. Opportunities vanish. The future we planned crumbles. We feel abandoned by everyone who once mattered to us. But in the middle of all this loss and change, God’s faithfulness remains absolutely constant. His love doesn’t depend on our performance. His provision doesn’t fluctuate with our failures. His care for us isn’t conditional on our track record.",
+      "keep": true,
+      "themes": [
+        "lonely",
+        "forgotten",
+        "discouraged",
+        "loved"
+      ],
+      "lesson_subtitle": "On God's Unchanging Faithfulness"
+    },
+    {
+      "id": "07-torn-but-still-loved-022",
+      "lesson_number": 2,
+      "lesson_title": "Every Day is Feeding Time",
+      "section": null,
+      "page": 16,
+      "word_count": 83,
+      "text": "“Because of the Lord’s great love, we are not consumed, for His compassion never fails. They are new every morning; great is Your faithfulness.” — Lamentations 3:22-23 The prophet Jeremiah wrote these words during the darkest period of his life. His nation was destroyed, his people were in exile, and everything he had worked for was in ruins. He had every reason to believe God had abandoned him. But in the middle of his despair, Jeremiah remembered this truth: God’s compassion never fails.",
+      "keep": true,
+      "themes": [
+        "discouraged",
+        "forgotten",
+        "grieving",
+        "trusting"
+      ],
+      "lesson_subtitle": "On God's Unchanging Faithfulness"
+    },
+    {
+      "id": "07-torn-but-still-loved-023",
+      "lesson_number": 2,
+      "lesson_title": "Every Day is Feeding Time",
+      "section": null,
+      "page": 16,
+      "word_count": 84,
+      "text": "16 Never. Every morning brings fresh mercy, renewed grace, constant faithfulness. Notice that God’s faithfulness isn’t dependent on our circumstances improving. Jeremiah was still in exile when he wrote these words. His situation hadn’t changed. But what did change was his perspective on God’s unchanging character. Rico’s daily bread wasn’t dependent on his adoptability, his behavior, or his popularity with visitors. It came because the shelter had committed to caring for him, period. The feeding schedule didn’t change based on Rico’s performance or prospects.",
+      "keep": true,
+      "themes": [
+        "discouraged",
+        "forgotten",
+        "trusting",
+        "hopeful"
+      ],
+      "lesson_subtitle": "On God's Unchanging Faithfulness"
+    },
+    {
+      "id": "07-torn-but-still-loved-024",
+      "lesson_number": 2,
+      "lesson_title": "Every Day is Feeding Time",
+      "section": null,
+      "page": 17,
+      "word_count": 130,
+      "text": "God’s daily provision works the same way. His love for us isn’t performance-based. His care isn’t conditional on our success in rebuilding our lives. His faithfulness doesn’t waver when we have setbacks or when healing takes longer than expected. The people in our lives may come and go. Some relationships may never recover from our mistakes. But God’s commitment to us is like that 7:15 a.m. feeding schedule: absolutely reliable, completely consistent, never dependent on external circumstances. 17 When relationships feel unstable and your future feels uncertain, remind yourself: the feeding schedule hasn’t changed. God’s commitment to caring for you is not dependent on other people’s commitment to forgiving you. God’s faithfulness can be your constant, too. People may leave, but His love keeps showing up at 7:15 every morning.",
+      "keep": true,
+      "themes": [
+        "lonely",
+        "forgotten",
+        "discouraged",
+        "trusting"
+      ],
+      "lesson_subtitle": "On God's Unchanging Faithfulness"
+    },
+    {
+      "id": "07-torn-but-still-loved-025",
+      "lesson_number": 3,
+      "lesson_title": "Visitors Come Looking",
+      "section": null,
+      "page": 19,
+      "word_count": 99,
+      "text": "Every Saturday, families come to the humane society with purpose. They’ve done their research, prepared their homes, saved their money. They’re not just browsing; they’re looking for their new dog, a new family member. Today, the Martinez family walks slowly through the rows of kennels, studying each face carefully. Luna, a Beagle mix, has been through this routine dozens of times over the past four months. She’s learned to read the signs: which visitors are serious adopters versus casual browsers, which families are looking for specific breeds versus open hearts. She’s watched other dogs get chosen while she remains.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-026",
+      "lesson_number": 3,
+      "lesson_title": "Visitors Come Looking",
+      "section": null,
+      "page": 19,
+      "word_count": 99,
+      "text": "Luna’s kennel card tells a story she can’t change: “Returned twice. Escape artist. Needs an experienced owner.” The first family brought her back after she dug under their fence. The second returned her when she chewed through a screen door trying to follow them to work. Each return added another note to her file, another reason for families to keep walking. 19 The Martinez family pauses at her kennel. Eight-year- old Sofia reads the card aloud, her voice faltering at “returned twice.” Luna’s heart sinks. Here we go again. Another family who sees her failures instead of her heart.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-027",
+      "lesson_number": 3,
+      "lesson_title": "Visitors Come Looking",
+      "section": null,
+      "page": 20,
+      "word_count": 89,
+      "text": "But Mr. Martinez does something different. He reads the entire file, including the notes from her foster families. “High energy but extremely loyal. Bonds deeply with family. Separation anxiety due to abandonment issues. Needs patient training, not punishment.” “She’s not bad,” he tells Sofia. “She’s scared. She keeps trying to escape because she’s afraid people will leave her. But if we never leave her, she won’t need to escape.” Sofia kneels down and lets Luna lick her hand through the fence. “We won't leave you,” she whispers. “We promise.”",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-028",
+      "lesson_number": 3,
+      "lesson_title": "Visitors Come Looking",
+      "section": null,
+      "page": 20,
+      "word_count": 90,
+      "text": "The adoption counselor honestly presents Luna’s challenges. “She'll need training. She might test your boundaries at first. There are easier dogs available.” She gestures toward the kennels with first-time- owner-friendly dogs who have clean records. 20 The Martinez family could choose a puppy with no baggage, a dog whose past won’t require extra patience and understanding. It would be simpler, safer, more predictable. Instead, Mr. Martinez fills out Luna’s adoption paperwork. “The easy dogs will find homes,” he says. “This one needs a family who won’t give up on her.”",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-029",
+      "lesson_number": 3,
+      "lesson_title": "Visitors Come Looking",
+      "section": null,
+      "page": 21,
+      "word_count": 80,
+      "text": "We all have a kennel card that tells our story. Divorced. Fired. Bankrupted. Relapsed. Failed. The list of our returns and mistakes feels like a permanent record that disqualifies us from being chosen by anyone worthwhile. When people get to know us, we brace for the moment they discover our history. We watch their faces change when they learn about our bankruptcy, our addiction, our infidelity, our arrest record. We’ve been returned before, and we expect it to happen again.",
+      "keep": true,
+      "themes": [
+        "ashamed",
+        "guilty",
+        "lonely",
+        "discouraged"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-030",
+      "lesson_number": 3,
+      "lesson_title": "Visitors Come Looking",
+      "section": null,
+      "page": 21,
+      "word_count": 100,
+      "text": "But God doesn’t choose people based on clean records. 21 “But God chose the foolish things of the world to shame the wise; God chose the weak things of the world to shame the strong. God chose the lowly things of this world and the despised things, and the things that are not, to nullify the things that are.” — 1 Corinthians 1:27-28 Paul wrote this to people who felt unqualified for God’s love. They looked around at successful, respectable, religious people and assumed God preferred that type. They read their own kennel cards and assumed they were damaged goods.",
+      "keep": true,
+      "themes": [
+        "ashamed",
+        "guilty",
+        "loved",
+        "forgiven"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-031",
+      "lesson_number": 3,
+      "lesson_title": "Visitors Come Looking",
+      "section": null,
+      "page": 22,
+      "word_count": 118,
+      "text": "But Paul explains that God’s selection process is backwards from human logic. He doesn’t choose people in spite of their failures - He often chooses them because of their failures. Broken people understand grace in ways that successful people never do. The word “chose” here is active and intentional. God didn’t settle for us because the good people weren’t available. He specifically selected us, knowing our full history, because He saw something He wanted. 22 The Martinez family didn’t choose Luna despite her past. They chose her because they understood what her past meant. Her escape attempts weren’t rebellion; they were evidence of how deeply she loves and how desperately she fears abandonment. Her “failures” revealed her heart.",
+      "keep": true,
+      "themes": [
+        "ashamed",
+        "guilty",
+        "loved",
+        "called"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-032",
+      "lesson_number": 3,
+      "lesson_title": "Visitors Come Looking",
+      "section": null,
+      "page": 23,
+      "word_count": 89,
+      "text": "God reads our whole story the same way. Our mistakes don’t disqualify us from His love. They qualify us to understand His grace. Our failures don’t make us undesirable. They make us precisely the kind of people He’s looking for. When God looks at our kennel card, He doesn’t see damaged goods. He sees someone who will understand mercy because they’ve needed it. He sees someone who will love deeply because they know what it costs. He sees someone whose story of redemption will encourage others who feel unredeemable.",
+      "keep": true,
+      "themes": [
+        "ashamed",
+        "guilty",
+        "loved",
+        "forgiven"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-033",
+      "lesson_number": 3,
+      "lesson_title": "Visitors Come Looking",
+      "section": null,
+      "page": 23,
+      "word_count": 53,
+      "text": "When you’re tempted to settle for relationships with people who will accept you “despite” your past, hold out for people who love you “because of” your whole story, including the broken parts. Someone is looking for you. Someone who will read your whole story and say, “That’s exactly the person I want.” 23",
+      "keep": true,
+      "themes": [
+        "ashamed",
+        "lonely",
+        "hopeful",
+        "loved"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-034",
+      "lesson_number": 4,
+      "lesson_title": "The Best Dogs Share",
+      "section": null,
+      "page": 24,
+      "word_count": 109,
+      "text": "When Hurricane Maria hit the coastal town, the Rodriguez family had three hours to evacuate. They grabbed their important papers, some clothes, and their two dogs: Tank, a massive Rottweiler, and Peanut, a Chihuahua mix who weighed less than Tank’s head. The emergency shelter allowed pets, but supplies were limited. For the first week, the Red Cross provided basic dog food, but portions were small. Each family got one small bag per day to split between all their pets. Tank could have easily eaten Peanut’s entire portion in two bites, and everyone would have understood. Survival situations bring out both the best and worst in people and their pets.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-035",
+      "lesson_number": 4,
+      "lesson_title": "The Best Dogs Share",
+      "section": null,
+      "page": 24,
+      "word_count": 97,
+      "text": "The shelter was crowded, stressful, and filled with worried families. Other dogs fought over food scraps. Some owners hoarded their portions, trying to make them last longer. The Rodriguez children worried about their pets. Would there be enough food? Would Tank push little Peanut away from the bowl? 24 Instead, something remarkable happened. Tank began eating only after Peanut finished. When portions were especially small, Tank would nudge his share toward the little dog with his massive nose. Peanut tried to reciprocate by leaving Tank the last few bites, but Tank would gently push the food back.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-036",
+      "lesson_number": 4,
+      "lesson_title": "The Best Dogs Share",
+      "section": null,
+      "page": 25,
+      "word_count": 101,
+      "text": "After two weeks, supply trucks arrived with plenty of pet food. The Rodriguez family watched carefully to see if Tank would change his behavior now that scarcity was over. Would he finally claim his full share? Would the generosity disappear when it was no longer necessary? Tank’s behavior didn’t change. Even with full portions, he continued letting Peanut eat first. Even with plenty for everyone, he remained gentle and sharing. The crisis had revealed his character, not created it. Tank was the kind of dog who shared not because resources were limited, but because caring for others was who he was.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-037",
+      "lesson_number": 4,
+      "lesson_title": "The Best Dogs Share",
+      "section": null,
+      "page": 25,
+      "word_count": 102,
+      "text": "Every day, Tank faced the temptation to prioritize his own needs. He was ten times Peanut’s size and needed more calories. He could have easily justified taking the bigger portion. “I’m larger, I need more food. Survival of the fittest. Look out for yourself first.” 25 The Rodriguez family would have understood. Other pet owners made that choice without anyone blaming them. Tank could have been selfish and still been considered a “good dog” under the circumstances. But Tank chose a different path. He decided that protecting Peanut was more important than protecting himself. He chose character over comfort, generosity over self-preservation.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-038",
+      "lesson_number": 4,
+      "lesson_title": "The Best Dogs Share",
+      "section": null,
+      "page": 26,
+      "word_count": 86,
+      "text": "When our life falls apart, when we lose our job, our marriage, our reputation, everything feels scarce. Money, opportunities, support, hope. It all seems less now. We’re living with smaller portions of everything we once took for granted. In this scarcity, we face Tank’s choice. Do we hoard what little we have left? Do we pull back from helping others because we don’t have enough for ourselves? Do we use our crisis as an excuse to become selfish? Or do we become more generous, not less?",
+      "keep": true,
+      "themes": [
+        "weary",
+        "discouraged",
+        "striving",
+        "afraid"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-039",
+      "lesson_number": 4,
+      "lesson_title": "The Best Dogs Share",
+      "section": null,
+      "page": 26,
+      "word_count": 114,
+      "text": "“All they asked was that we should continue to remember the poor, the very thing I had been eager to do.” — Galatians 2:10 26 Paul wrote this while describing a meeting with church leaders about his ministry. Even though Paul was facing persecution, financial hardship, and constant danger, the one thing the leaders emphasized was continuing to help others who had even less. Notice they didn’t say “help the poor when your life is stable” or “be generous when you have plenty.” They said continue to remember the poor even when you’re struggling, even when your own resources are limited, even when it would be understandable to focus only on your own survival.",
+      "keep": true,
+      "themes": [
+        "weary",
+        "discouraged",
+        "called",
+        "surrendered"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-040",
+      "lesson_number": 4,
+      "lesson_title": "The Best Dogs Share",
+      "section": null,
+      "page": 27,
+      "word_count": 95,
+      "text": "True generosity isn’t giving when we have excess. It’s sharing when we have little. Tank’s generosity meant more during the rationing than it would have during abundance. When food was plentiful, sharing was easy. When it was limited, sharing was costly. And therefore more meaningful. Our generosity means more now, in our season of loss and limitation, than it did when we had plenty. When people see us sharing our limited resources, caring for others despite our own struggles, choosing to help even when we need help ourselves… That reveals character that abundance never could.",
+      "keep": true,
+      "themes": [
+        "weary",
+        "grateful",
+        "called",
+        "forgiven"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-041",
+      "lesson_number": 4,
+      "lesson_title": "The Best Dogs Share",
+      "section": null,
+      "page": 27,
+      "word_count": 114,
+      "text": "27 The person who gives generously when they’re wealthy might just have good financial planning. The person who shares their last twenty dollars with someone hungrier than they are? That’s someone whose heart has been changed by understanding what it means to receive mercy. Let others go first: in conversations, in opportunities, in receiving help or attention. Use your strength, whatever form it takes, to create space for those who are smaller or weaker. If or when abundance returns to your life, remember the lessons you learned during rationing. Character built in scarcity doesn’t have to disappear in prosperity. Let your current difficulties reveal the best parts of who you are, not the worst.",
+      "keep": true,
+      "themes": [
+        "weary",
+        "discouraged",
+        "called",
+        "hopeful"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-042",
+      "lesson_number": 5,
+      "lesson_title": "Some Barking is Good",
+      "section": null,
+      "page": 29,
+      "word_count": 100,
+      "text": "Diesel used to be a police dog: a German Shepherd whose bark was his most trusted tool. For five years, his voice had been perfectly calibrated: barking to alert his handler to danger, staying silent during stealth operations, using different tones to communicate different threats. His handler, Officer Martinez, trusted Diesel’s judgment completely. Then came the night that changed everything. During a domestic violence call, Diesel heard sounds from inside the house that triggered every instinct he had: breaking glass, raised voices, what sounded like someone in distress. He barked urgently to alert Martinez that they needed to enter immediately.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-043",
+      "lesson_number": 5,
+      "lesson_title": "Some Barking is Good",
+      "section": null,
+      "page": 29,
+      "word_count": 109,
+      "text": "But Diesel was wrong. The sounds were from a television drama playing too loudly. The family was safe, just watching a movie with the volume up. When Martinez broke down the door based on Diesel’s alert, the situation became a lawsuit, a media incident, and a departmental investigation. Martinez was reprimanded, and Diesel was retired early. Not 29 because he was a bad dog, but because his judgment was now considered unreliable. The report read: “Dog showed poor assessment skills, created unnecessary public safety incident.” Diesel’s confidence was shattered. If he couldn’t trust his own instincts about when to use his voice, maybe it was safer to stay silent.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-044",
+      "lesson_number": 5,
+      "lesson_title": "Some Barking is Good",
+      "section": null,
+      "page": 30,
+      "word_count": 83,
+      "text": "Now at the shelter three months later, the intake notes read: “Excellent training, responds to commands, very quiet.” What they didn’t say was that Diesel had learned to doubt himself so completely that he’d stopped barking altogether. The other dogs at the shelter have learned that Diesel doesn’t make noise. He doesn’t bark when strangers approach, doesn’t alert to unusual sounds, doesn’t join the evening chorus when the dogs get excited about dinner. His silence, once a professional asset, has become complete withdrawal.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-045",
+      "lesson_number": 5,
+      "lesson_title": "Some Barking is Good",
+      "section": null,
+      "page": 30,
+      "word_count": 92,
+      "text": "One morning at 6:30 a.m., an hour before staff usually arrives, Diesel notices something the other dogs miss. Water is seeping under the door from a broken pipe in the next room. Several kennels are starting to flood, and some of the older dogs are 30 standing in rising water, too stiff from arthritis to jump to higher surfaces. For ten crucial minutes, Diesel wrestles with himself. Should he bark? What if he’s wrong? What if it’s not really an emergency? What if no one listens? What if he causes unnecessary alarm?",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-046",
+      "lesson_number": 5,
+      "lesson_title": "Some Barking is Good",
+      "section": null,
+      "page": 31,
+      "word_count": 83,
+      "text": "Diesel sees old Sophie, a blind senior dog, standing confused in two inches of cold water. That decides it. His career might be over, his confidence might be shattered, but Sophie needs help she can’t ask for herself. Diesel begins barking. Not the aggressive alert bark of his police days, but a sustained, urgent call for help. He barks until his throat is hoarse, until the early volunteer arrives and discovers the flood, until Sophie and the other dogs are moved to safety.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-047",
+      "lesson_number": 5,
+      "lesson_title": "Some Barking is Good",
+      "section": null,
+      "page": 31,
+      "word_count": 119,
+      "text": "Later, the shelter manager tells the story to anyone who’ll listen. “Diesel saved lives today. He found his voice again when it really mattered.” After the incident that ended his police career, Diesel learned that his judgment could be wrong, that his voice could cause problems, that maybe it was safer to 31 let others make the decisions. Staying quiet meant avoiding the risk of being wrong again. Even when he saw the flooding, Diesel was tempted to wait for someone else to notice, someone else to take responsibility, someone else to risk being wrong. It would have been easier to stay silent and let others decide whether this was worth responding to. But silence would have cost lives.",
+      "keep": true,
+      "themes": [
+        "ashamed",
+        "discouraged",
+        "afraid",
+        "called"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-048",
+      "lesson_number": 5,
+      "lesson_title": "Some Barking is Good",
+      "section": null,
+      "page": 32,
+      "word_count": 91,
+      "text": "When we make a big mistake that damages our credibility, when we’re wrong about something important, when our judgment fails us, when our voice leads to harm, we often overcorrect by going completely silent. We stop offering opinions, stop taking leadership, stop speaking up even when we see problems. But sometimes our voice is exactly what someone else needs to survive. “Speak up for those who cannot speak for themselves, for the rights of all who are destitute. Speak up and judge fairly; defend the rights of the poor and needy.”",
+      "keep": true,
+      "themes": [
+        "ashamed",
+        "discouraged",
+        "afraid",
+        "called"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-049",
+      "lesson_number": 5,
+      "lesson_title": "Some Barking is Good",
+      "section": null,
+      "page": 32,
+      "word_count": 101,
+      "text": "— Proverbs 31:8-9 32 These words were written as advice for leaders, but they apply to anyone who has a voice and sees injustice. Notice that the command isn’t to speak up for yourself, but for those who cannot speak for themselves. Our voice matters most when it’s used to protect others, not defend ourselves. The passage doesn’t say “speak up when you’re confident you won’t make mistakes” or “speak up when your credibility is perfect.” It says speak up for those who need an advocate, period. Sometimes being wrong about smaller things prepares us to be right about bigger things.",
+      "keep": true,
+      "themes": [
+        "ashamed",
+        "discouraged",
+        "called",
+        "hopeful"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-050",
+      "lesson_number": 5,
+      "lesson_title": "Some Barking is Good",
+      "section": null,
+      "page": 33,
+      "word_count": 90,
+      "text": "Diesel’s past mistake made him doubt his judgment about everything. But the flooding wasn’t about his career or his confidence; it was about Sophie standing helpless in rising water. When he focused on someone else’s need instead of his own fear of being wrong again, he found his voice. We may have lost credibility in some areas of our life due to past failures. People might not trust our judgment about certain topics anymore. We might not trust our own judgment. But that doesn’t mean our voice has no value.",
+      "keep": true,
+      "themes": [
+        "ashamed",
+        "discouraged",
+        "afraid",
+        "called"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-051",
+      "lesson_number": 5,
+      "lesson_title": "Some Barking is Good",
+      "section": null,
+      "page": 33,
+      "word_count": 89,
+      "text": "33 There are people who need someone to speak up for them: people facing injustice, people being taken advantage of, people who can’t advocate for themselves. Our past mistakes don’t disqualify us from defending others; they might actually qualify us to recognize when someone needs help. Finding your voice again isn’t about restoring your reputation; it’s about being useful to others. Your voice might be exactly what someone needs to hear today. Don’t let fear of being wrong again keep you silent when someone is standing in rising water.",
+      "keep": true,
+      "themes": [
+        "ashamed",
+        "afraid",
+        "called",
+        "hopeful"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-052",
+      "lesson_number": 6,
+      "lesson_title": "You Can't See the Whole Yard",
+      "section": null,
+      "page": 35,
+      "word_count": 122,
+      "text": "Ziggy has been waiting by the front window for six hours. His owner, Mrs. Chen, left this morning saying she’d “be back soon,” but from Ziggy’s perspective as a Boxer mix, she’s been gone forever. His view is limited to what he can see through the living room window: the driveway, the mailbox, and part of the neighbor’s yard. What Ziggy can’t see is Mrs. Chen at the unemployment office, then the pharmacy for her mother’s medication, then the long line at the food bank. He doesn’t know that her car broke down in the parking lot and she’s waiting for her brother to pick her up. He can’t see her making phone calls, trying to arrange a ride home to him.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "On Trusting Beyond Your Limited View"
+    },
+    {
+      "id": "07-torn-but-still-loved-053",
+      "lesson_number": 6,
+      "lesson_title": "You Can't See the Whole Yard",
+      "section": null,
+      "page": 35,
+      "word_count": 103,
+      "text": "From Ziggy’s limited viewpoint, Mrs. Chen has simply disappeared. He sees neighbors come and go. He watches the mail truck drive by without stopping. He notices that it’s getting dark and she still hasn’t 35 returned. His anxiety builds as he interprets everything through his narrow window view. What looks like abandonment to Ziggy is actually Mrs. Chen fighting to keep their life together. She’s at the emergency vet clinic now because she found an injured stray cat on her way to the bus stop. She couldn’t just leave it there, even though helping it means being even later getting home to Ziggy.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "On Trusting Beyond Your Limited View"
+    },
+    {
+      "id": "07-torn-but-still-loved-054",
+      "lesson_number": 6,
+      "lesson_title": "You Can't See the Whole Yard",
+      "section": null,
+      "page": 36,
+      "word_count": 108,
+      "text": "At 8 p.m., Ziggy sees headlights in the driveway. But it’s not Mrs. Chen’s car. It’s her brother’s truck. Through the window, Ziggy watches Mrs. Chen get out, carrying grocery bags and what looks like a new dog bed. His tail starts wagging before she even reaches the door. “I’m so sorry, buddy,” she says as she comes in. “I know you were worried. But look what I got for you.” She pulls out a new toy and some special treats. Ziggy had no idea that while he was worrying, she was thinking about him, planning ways to make him happy, working to provide for both of them.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "On Trusting Beyond Your Limited View"
+    },
+    {
+      "id": "07-torn-but-still-loved-055",
+      "lesson_number": 6,
+      "lesson_title": "You Can't See the Whole Yard",
+      "section": null,
+      "page": 36,
+      "word_count": 91,
+      "text": "During those eight hours, Ziggy often considered giving up hope. From his limited view, nothing seemed to be happening. No one appeared to be working on his behalf. His situation looked hopeless, and the temptation was to stop watching the window, 36 stop believing she would return, stop trusting that anyone cared. If Ziggy had known about Mrs. Chen’s job interviews, her errands, her car trouble, and her detour to help an injured animal, he might have felt differently. But he could only see what was directly in front of him.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "On Trusting Beyond Your Limited View"
+    },
+    {
+      "id": "07-torn-but-still-loved-056",
+      "lesson_number": 6,
+      "lesson_title": "You Can't See the Whole Yard",
+      "section": null,
+      "page": 37,
+      "word_count": 80,
+      "text": "When our life implodes from a major mistake, our perspective becomes very narrow. We see the immediate consequences: the disappointed faces, the closed doors, the opportunities that disappear. We can’t see the conversations happening behind the scenes, the people working on our behalf, the possibilities being created outside our limited view. We assume that if we can’t see progress being made, no progress is being made. We give up hope because our small window doesn’t show us the whole picture.",
+      "keep": true,
+      "themes": [
+        "discouraged",
+        "forgotten",
+        "anxious",
+        "hopeful"
+      ],
+      "lesson_subtitle": "On Trusting Beyond Your Limited View"
+    },
+    {
+      "id": "07-torn-but-still-loved-057",
+      "lesson_number": 6,
+      "lesson_title": "You Can't See the Whole Yard",
+      "section": null,
+      "page": 37,
+      "word_count": 81,
+      "text": "37 “‘For My thoughts are not your thoughts, neither are your ways My ways,’ declares the Lord. ‘As the heavens are higher than the earth, so are My ways higher than your ways and My thoughts than your thoughts.’” — Isaiah 55:8-9 God spoke these words to people who felt abandoned and hopeless. From their limited perspective, it looked like God had forgotten them, like their situation would never improve, like they were stuck forever in the consequences of past mistakes.",
+      "keep": true,
+      "themes": [
+        "forgotten",
+        "discouraged",
+        "anxious",
+        "trusting"
+      ],
+      "lesson_subtitle": "On Trusting Beyond Your Limited View"
+    },
+    {
+      "id": "07-torn-but-still-loved-058",
+      "lesson_number": 6,
+      "lesson_title": "You Can't See the Whole Yard",
+      "section": null,
+      "page": 38,
+      "word_count": 86,
+      "text": "But God was working in ways and places they couldn’t see. His thoughts were operating on a completely different level than their thoughts. His ways of solving problems were beyond their ability to imagine or perceive. The distance between Earth and Heaven isn’t just physical; it’s a metaphor for how much bigger God’s perspective is than ours. We see our kennel view; He sees the whole yard and everything beyond it. Ziggy’s anxiety and despair were based on incomplete information. He couldn’t see Maria’s office where",
+      "keep": true,
+      "themes": [
+        "forgotten",
+        "discouraged",
+        "anxious",
+        "trusting"
+      ],
+      "lesson_subtitle": "On Trusting Beyond Your Limited View"
+    },
+    {
+      "id": "07-torn-but-still-loved-059",
+      "lesson_number": 6,
+      "lesson_title": "You Can't See the Whole Yard",
+      "section": null,
+      "page": 38,
+      "word_count": 104,
+      "text": "38 grant applications were being written. He couldn’t hear the phone calls to rescue organizations. He couldn’t witness the board meetings where she fought for his life. Our despair is often based on incomplete information too. We can’t see the conversations happening on our behalf. We can’t witness the doors that are opening in places we’d never expect. We can’t perceive the ways God is working to create opportunities we can’t imagine. Maria’s work for Ziggy was most intense during the period when he felt most hopeless. God’s work in our situation might be most active during the times when we feel most forgotten.",
+      "keep": true,
+      "themes": [
+        "forgotten",
+        "discouraged",
+        "hopeful",
+        "trusting"
+      ],
+      "lesson_subtitle": "On Trusting Beyond Your Limited View"
+    },
+    {
+      "id": "07-torn-but-still-loved-060",
+      "lesson_number": 6,
+      "lesson_title": "You Can't See the Whole Yard",
+      "section": null,
+      "page": 39,
+      "word_count": 77,
+      "text": "Practice gratitude for work being done that you can’t witness. Thank God not just for visible progress, but for the invisible work He’s doing in hearts, minds, and circumstances beyond your view. The most important work often happens out of sight. God’s most significant work in your situation might be happening in places and ways you’ll never see. Your rescue might be closer than you think, orchestrated by hands you can’t see working on your behalf. 39",
+      "keep": true,
+      "themes": [
+        "forgotten",
+        "discouraged",
+        "grateful",
+        "trusting"
+      ],
+      "lesson_subtitle": "On Trusting Beyond Your Limited View"
+    },
+    {
+      "id": "07-torn-but-still-loved-061",
+      "lesson_number": 7,
+      "lesson_title": "Old Dogs Can Learn New Tricks",
+      "section": null,
+      "page": 40,
+      "word_count": 125,
+      "text": "Caesar thought his life was over at age nine. The 180- pound Mastiff had lived with the same family since he was a puppy, sleeping on the same bed, walking the same routes, following the same comfortable routines for nearly a decade. Then his elderly owner, Mr. Peterson, died suddenly of a heart attack, and Caesar’s world collapsed. Mr. Peterson’s adult children lived in apartments that didn’t allow large dogs. The family lawyer explained that Caesar would need to be rehomed. At nine years old with some arthritis and deeply ingrained habits, Caesar seemed impossible to place. Most people want puppies or young dogs with decades ahead of them. Who adopts a senior dog with potential health issues and an unknown amount of time left?",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-062",
+      "lesson_number": 7,
+      "lesson_title": "Old Dogs Can Learn New Tricks",
+      "section": null,
+      "page": 40,
+      "word_count": 120,
+      "text": "Caesar’s first weeks with the Peterson family were devastating as they tried to figure out what to do with him. He had never lived anywhere else, never been 40 away from Mr. Peterson, never had to learn new rules or adapt to new people. He refused to eat, wouldn’t walk on a leash for anyone else, and spent most of his time lying by the front door waiting for his owner to come home. The family worried about depression, the condition where older dogs simply give up when their whole world changes. Caesar seemed to be deciding that he was too old to start over, too set in his ways to learn a new life, too tired to try again.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-063",
+      "lesson_number": 7,
+      "lesson_title": "Old Dogs Can Learn New Tricks",
+      "section": null,
+      "page": 41,
+      "word_count": 102,
+      "text": "After two months of searching, they found Eleanor, a 67-year-old widow who had recently lost her own elderly dog. She didn’t want a puppy. “I want a dog who understands that life isn’t always easy,” she told the Peterson family, “who won’t expect me to be energetic all the time, who knows that starting over is hard but still possible.” When Eleanor met Caesar, she didn’t see a hopeless case. She saw a fellow survivor. “We’re both learning how to live without the people we loved most,” she said, sitting on the floor beside him. “Maybe we can figure it out together.”",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-064",
+      "lesson_number": 7,
+      "lesson_title": "Old Dogs Can Learn New Tricks",
+      "section": null,
+      "page": 41,
+      "word_count": 97,
+      "text": "Caesar had every reason to give up. Nine years of habits don’t change easily. His body hurt in ways it 41 never had before. Learning new routines at his age felt impossible. The temptation was to decide that his good years were behind him, that adaptation was for younger dogs, that he should just wait quietly for the end. Eleanor faced similar temptations. At 67, recently widowed, she could have concluded that her chapter of loving and being loved was over. Starting a new relationship, even with a dog, felt overwhelming when grief was still so raw.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-065",
+      "lesson_number": 7,
+      "lesson_title": "Old Dogs Can Learn New Tricks",
+      "section": null,
+      "page": 42,
+      "word_count": 98,
+      "text": "But both chose to try again. Some of us make our biggest mistakes later in life, when it feels like we should have known better. The 45-year-old who destroys a 20-year marriage. The 55- year-old who makes a career-ending ethical lapse. The 35-year-old parent whose addiction costs them custody of their children. When we fail after we’re supposed to be mature and wise, it feels like we’ve missed our chance for redemption. Starting over seems impossible when we’re no longer young, when our mistakes have gray hair, when everyone expects us to have figured out life by now.",
+      "keep": true,
+      "themes": [
+        "ashamed",
+        "discouraged",
+        "guilty",
+        "hopeful"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-066",
+      "lesson_number": 7,
+      "lesson_title": "Old Dogs Can Learn New Tricks",
+      "section": null,
+      "page": 42,
+      "word_count": 104,
+      "text": "42 But God specializes in second chapters. “Therefore, if anyone is in Christ, The new creation has come: The old has gone, the new is here!” — 2 Corinthians 5:17 Paul wrote this to people who thought their past disqualified them from God’s love. Some were former criminals, some were former addicts, some were former religious zealots who had persecuted Christians. Many were middle-aged or older when they encountered Jesus. The word “new” doesn’t mean young. It means fresh, different, unprecedented. God doesn’t make us younger; He makes us newer. Our chronological age doesn’t limit His ability to give us a completely fresh start.",
+      "keep": true,
+      "themes": [
+        "ashamed",
+        "discouraged",
+        "restored",
+        "hopeful"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-067",
+      "lesson_number": 7,
+      "lesson_title": "Old Dogs Can Learn New Tricks",
+      "section": null,
+      "page": 43,
+      "word_count": 88,
+      "text": "Caesar, at nine years old, was just as capable of becoming a “new creation” as a puppy would be. Eleanor, at 67, was just as ready for a new beginning as someone half her age. Age doesn’t disqualify us from transformation. 43 Caesar’s second chapter with Eleanor was different from his first life, but it was just as meaningful. He learned new routines, new ways of showing affection, new reasons to wag his tail. His arthritis didn’t disappear, but it didn’t prevent him from loving and being loved.",
+      "keep": true,
+      "themes": [
+        "discouraged",
+        "ashamed",
+        "hopeful",
+        "restored"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-068",
+      "lesson_number": 7,
+      "lesson_title": "Old Dogs Can Learn New Tricks",
+      "section": null,
+      "page": 44,
+      "word_count": 120,
+      "text": "Our second chapter after a major failure won’t be identical to our first chapter, but it can be just as significant. We’ll carry some scars, some limitations, some consequences from our mistakes. But those don’t prevent us from building something new and meaningful. Caesar didn’t become a puppy again. He became a wiser, gentler version of himself. Our redemption doesn’t erase our history; it transforms our future. Wisdom gained through mistakes can make our second chapter richer than our first. Our failures can give us empathy and insight that make our new beginning more meaningful. Love after loss is still love. Starting over after many years is still starting over. Second chapters can be just as precious as first ones.",
+      "keep": true,
+      "themes": [
+        "ashamed",
+        "guilty",
+        "restored",
+        "hopeful"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-069",
+      "lesson_number": 8,
+      "lesson_title": "Good Dogs Wait Well",
+      "section": null,
+      "page": 45,
+      "word_count": 106,
+      "text": "Rosie has been waiting for fourteen months. The Border Collie belongs to Staff Sergeant Martinez, who deployed to Afghanistan when Rosie was two years old. The military family housing office told his wife that pets couldn’t accompany spouses during deployment, so Rosie moved in with Maria’s parents while they waited for his return. Every morning Rosie wakes up hoping this will be the day Sergeant Martinez comes home. Every evening she settles into her temporary bed having spent another day scanning the horizon for his familiar silhouette. The hardest part isn’t the waiting itself; it’s not knowing when the deployment will end or if he’s safe.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "On Enduring When There's No Timeline"
+    },
+    {
+      "id": "07-torn-but-still-loved-070",
+      "lesson_number": 8,
+      "lesson_title": "Good Dogs Wait Well",
+      "section": null,
+      "page": 45,
+      "word_count": 97,
+      "text": "Border Collies are working dogs, bred to solve problems and accomplish tasks. Rosie’s instincts scream at her to do something, fix something, make something happen. But there’s nothing she can do to bring Sergeant Martinez home faster. Her fate is entirely in the hands of military schedules and global conflicts she can’t understand. 45 The first few months, Rosie spent her energy pacing, whining, and wearing herself out with anxiety. She watched other military families reunite when their soldiers returned. She couldn’t understand why some deployments lasted six months while others stretched to fifteen months or longer.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "On Enduring When There's No Timeline"
+    },
+    {
+      "id": "07-torn-but-still-loved-071",
+      "lesson_number": 8,
+      "lesson_title": "Good Dogs Wait Well",
+      "section": null,
+      "page": 46,
+      "word_count": 96,
+      "text": "Around month six, Rosie made a crucial decision. She couldn’t control when Sergeant Martinez would come home, but she could control who she became while waiting. Instead of letting worry consume her, she chose to use this time productively. She began helping Maria’s elderly father with his daily walks, something she’d never done before. She learned to be gentle with their cat, practicing the patience she’d need when she and Sergeant Martinez eventually had children. She mastered new commands from online videos that Maria’s daughter showed her, skills that would make their reunion even more joyful.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "On Enduring When There's No Timeline"
+    },
+    {
+      "id": "07-torn-but-still-loved-072",
+      "lesson_number": 8,
+      "lesson_title": "Good Dogs Wait Well",
+      "section": null,
+      "page": 46,
+      "word_count": 97,
+      "text": "Every time another military family celebrated a homecoming, Rosie faced a choice. She could become bitter, “Why them and not us?” Angry, “This isn’t fair.” Or hopeless, “What if he never comes back?” These would have been understandable responses to the uncertainty and repeated disappointments when expected return dates got extended. 46 Instead, Rosie chose to celebrate with each returning soldier and use their success as evidence that deployments do end. If it happened for them, it could happen for Sergeant Martinez. Their good fortune didn’t decrease her chances; it proved that good things were still possible.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "On Enduring When There's No Timeline"
+    },
+    {
+      "id": "07-torn-but-still-loved-073",
+      "lesson_number": 8,
+      "lesson_title": "Good Dogs Wait Well",
+      "section": null,
+      "page": 47,
+      "word_count": 103,
+      "text": "When we’re dealing with the aftermath of a major mistake, we enter a season of indefinite waiting. Waiting for trust to be rebuilt. Waiting for consequences to resolve. Waiting for opportunities to return. Waiting for forgiveness, from others and from ourselves. The hardest part is that no one can give us a timeline. We can’t know when our spouse will be ready to work on the marriage again, when employers will be willing to hire us, when our family or friends will want a relationship with us again. We have to learn to wait well without knowing how long the waiting will last.",
+      "keep": true,
+      "themes": [
+        "waiting",
+        "anxious",
+        "discouraged",
+        "hopeful"
+      ],
+      "lesson_subtitle": "On Enduring When There's No Timeline"
+    },
+    {
+      "id": "07-torn-but-still-loved-074",
+      "lesson_number": 8,
+      "lesson_title": "Good Dogs Wait Well",
+      "section": null,
+      "page": 47,
+      "word_count": 109,
+      "text": "“Wait for the Lord; be strong and take heart and wait for the Lord.” — Psalm 27:14 47 David wrote this during a period when his life was in danger and his future was uncertain. He didn’t know when his circumstances would change, but he knew that passive waiting would destroy him. So he chose active waiting: waiting with strength, waiting with courage, waiting with purpose. The phrase “take heart” means to be firm, to be established, to find courage. David’s waiting wasn’t passive resignation; it was determined hope. He was going to wait, but he was going to wait like someone who believed good things were still possible.",
+      "keep": true,
+      "themes": [
+        "waiting",
+        "anxious",
+        "weary",
+        "trusting"
+      ],
+      "lesson_subtitle": "On Enduring When There's No Timeline"
+    },
+    {
+      "id": "07-torn-but-still-loved-075",
+      "lesson_number": 8,
+      "lesson_title": "Good Dogs Wait Well",
+      "section": null,
+      "page": 48,
+      "word_count": 92,
+      "text": "Rosie’s fourteen months of waiting weren’t wasted time; they were preparation time. Every skill she learned, every improvement in her behavior, every choice to hope instead of despair was making her ready for Sergeant Martinez who would eventually return. Our waiting periods aren’t dead time either. They’re development time. The patience we’re learning, the character we’re building, the skills we’re developing while we wait… these are preparing us for the opportunities that are coming. Rosie couldn’t rush the return of Sergeant Martinez, but she could be ready when it happened. We can’t",
+      "keep": true,
+      "themes": [
+        "waiting",
+        "weary",
+        "hopeful",
+        "trusting"
+      ],
+      "lesson_subtitle": "On Enduring When There's No Timeline"
+    },
+    {
+      "id": "07-torn-but-still-loved-076",
+      "lesson_number": 8,
+      "lesson_title": "Good Dogs Wait Well",
+      "section": null,
+      "page": 48,
+      "word_count": 47,
+      "text": "48 force forgiveness or fast-track consequences, but we can become the kind of person who’s ready when second chances arrive. Good waiting produces character. Shortcuts do not. Our extended waiting period is developing qualities in us that instant restoration couldn’t create. Wait. He is preparing us. 49",
+      "keep": true,
+      "themes": [
+        "waiting",
+        "weary",
+        "hopeful",
+        "trusting"
+      ],
+      "lesson_subtitle": "On Enduring When There's No Timeline"
+    },
+    {
+      "id": "07-torn-but-still-loved-077",
+      "lesson_number": 9,
+      "lesson_title": "Every Dog Gets Walked",
+      "section": null,
+      "page": 50,
+      "word_count": 103,
+      "text": "Bruno’s file at the shelter read like a warning label: “Aggressive toward strangers. Possible bite history. Experienced handlers only.” The massive Cane Corso had arrived after attacking a meter reader who entered his yard unexpectedly. His previous owner, facing a lawsuit, surrendered Bruno rather than fight for a dog with a “dangerous” reputation. For three weeks, Bruno sat in isolation kennel 9, watching life happen around him but not participating. Volunteers were afraid to walk him. Potential adopters avoided his kennel after reading his warnings. Bruno began to believe that his cage might be permanent, that dogs like him don’t get second chances.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-078",
+      "lesson_number": 9,
+      "lesson_title": "Every Dog Gets Walked",
+      "section": null,
+      "page": 50,
+      "word_count": 85,
+      "text": "The shelter policy was clear: every dog gets daily exercise, regardless of temperament or bite history. But Bruno’s size and reputation made volunteers nervous. Day after day, he watched other dogs get leashed up for walks while he remained locked up, his energy and frustration building. 50 Some staff members quietly suggested that Bruno was too dangerous to handle safely. Maybe they should make an exception to the walking policy. Maybe some dogs were better left in their kennels. Maybe the risk wasn’t worth it.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-079",
+      "lesson_number": 9,
+      "lesson_title": "Every Dog Gets Walked",
+      "section": null,
+      "page": 51,
+      "word_count": 84,
+      "text": "On week four, Jake, an experienced volunteer and former military dog handler, read Bruno’s file and made a decision. “Policy says every dog gets walked,” he told the staff. “That includes this one.” Jake spent an hour planning Bruno’s first walk - proper equipment, safe route, careful timing when other dogs weren’t around. When he clipped the leash to Bruno’s collar, the big dog was so shocked that he stood frozen for a full minute. Someone was actually taking him out of this cage?",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-080",
+      "lesson_number": 9,
+      "lesson_title": "Every Dog Gets Walked",
+      "section": null,
+      "page": 51,
+      "word_count": 89,
+      "text": "Everyone would have understood if the shelter had quietly stopped walking Bruno. He was dangerous, difficult, possibly not able to be rehabilitated. The easy solution was to make an exception, bend the policy, prioritize safety over fairness. Bruno had even stopped expecting walks. After weeks of watching others leave while he stayed, he’d given up hoping for his turn. It would have been easier for everyone if he’d just accepted that some dogs don’t 51 deserve the same treatment as others. But Jake refused to make exceptions to grace.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-081",
+      "lesson_number": 9,
+      "lesson_title": "Every Dog Gets Walked",
+      "section": null,
+      "page": 52,
+      "word_count": 83,
+      "text": "When we’ve done something that puts us in the “dangerous” category - when we’ve hurt someone, broken trust, or made choices that scare people. It’s easy to believe we’ve lost our right to kindness. We assume we don’t deserve the same grace that others receive. We might even stop expecting good things. After enough doors close, enough people distance themselves, enough opportunities disappear, we start believing that mercy has limits and we’ve exceeded ours. But God’s grace doesn’t have a “dangerous dog” exception.",
+      "keep": true,
+      "themes": [
+        "ashamed",
+        "guilty",
+        "forgotten",
+        "loved"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-082",
+      "lesson_number": 9,
+      "lesson_title": "Every Dog Gets Walked",
+      "section": null,
+      "page": 52,
+      "word_count": 108,
+      "text": "“But God demonstrates his own love for us in this: While we were still sinners, Christ died for us.” — Romans 5:8 Paul wrote this to people who thought they had to clean up their act before God would love them. They assumed that grace was only for “good people” who 52 made minor mistakes, not for “dangerous people” who’d caused serious harm. But God’s love isn’t based on our safety rating. Christ died for us while we were still sinners. Not after we proved we’d changed, not after we demonstrated we were safe, not after we earned the right to be loved. While we were still dangerous.",
+      "keep": true,
+      "themes": [
+        "ashamed",
+        "guilty",
+        "loved",
+        "forgiven"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-083",
+      "lesson_number": 9,
+      "lesson_title": "Every Dog Gets Walked",
+      "section": null,
+      "page": 53,
+      "word_count": 127,
+      "text": "The word ‘demonstrates’ means to prove or show clearly. God wanted to make absolutely sure we understood that His love doesn’t have exceptions for people with warning labels. Bruno’s first walk didn’t erase his bite history or instantly make him safe. But it proved that the policy of care applied to him too, that isolation wasn’t his permanent sentence, that someone was willing to follow the rules of compassion even when it was difficult. God’s daily mercies work the same way. They don’t instantly erase our past or immediately resolve all consequences of our actions. But they prove that His policy of love applies to us too, that isolation from His care isn’t our permanent sentence, that He’s willing to extend grace even when we seem dangerous.",
+      "keep": true,
+      "themes": [
+        "ashamed",
+        "guilty",
+        "loved",
+        "forgiven"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-084",
+      "lesson_number": 9,
+      "lesson_title": "Every Dog Gets Walked",
+      "section": null,
+      "page": 53,
+      "word_count": 105,
+      "text": "53 Every morning Bruno got a walk was a reminder that he was still worth the effort, still deserving of basic dignity, still capable of rehabilitation. Every mercy God shows us is the same reminder. Practice gratitude for basic dignities you might be taking for granted. Bruno was amazed by a simple walk that other dogs considered routine. What ordinary mercies in your life deserve more appreciation? Receiving grace when you don’t deserve it is exactly how grace works. If you deserved it, it would be payment, not grace. The fact that you feel unworthy is actually evidence that what you’re receiving is genuine mercy.",
+      "keep": true,
+      "themes": [
+        "ashamed",
+        "guilty",
+        "grateful",
+        "forgiven"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-085",
+      "lesson_number": 10,
+      "lesson_title": "The Sick Dogs Get Extra Care",
+      "section": null,
+      "page": 55,
+      "word_count": 113,
+      "text": "Bella had been the picture of health for her first year at the shelter: a golden retriever mix with a shiny coat and boundless energy. Then one morning she woke up limping. By afternoon, she couldn’t put weight on her left hind leg. The veterinary exam revealed an old injury that had never healed properly, now causing significant pain. Surgery would be expensive. Money the shelter didn’t have in abundance. Some staff members quietly wondered if it made financial sense to invest in a dog who might not get adopted quickly with a medical history. Bella could hear the whispered conversations and sensed that her injury had changed something fundamental about her situation.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-086",
+      "lesson_number": 10,
+      "lesson_title": "The Sick Dogs Get Extra Care",
+      "section": null,
+      "page": 55,
+      "word_count": 98,
+      "text": "In the days following her diagnosis, Bella discovered something unexpected. Instead of becoming less valuable because of her injury, she became more precious. Staff members who barely had time for 55 healthy dogs suddenly spent extra minutes sitting with her. Volunteers fought over who got to hand- feed her medications and speak gentle words during her recovery. Dr. Martinez, the shelter veterinarian, could have recommended euthanasia as the economical choice. Instead, she donated her surgical services and personally supervised Bella’s eight-week recovery. “The hurt ones need us most,” she explained to anyone who questioned the expense and effort.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-087",
+      "lesson_number": 10,
+      "lesson_title": "The Sick Dogs Get Extra Care",
+      "section": null,
+      "page": 56,
+      "word_count": 96,
+      "text": "During her recovery, Bella realized that her pain had unlocked a level of tenderness she’d never experienced when she was strong and independent. The same people who’d given her routine care when she was healthy now gave her intensive attention when she was broken. Her kennel was moved to a quieter area where she could rest without disturbance. Her meals were upgraded to help with healing. Volunteers took turns checking on her throughout the day, not because they had to, but because they wanted to. Bella’s brokenness hadn’t made her unwanted; it had made her beloved.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-088",
+      "lesson_number": 10,
+      "lesson_title": "The Sick Dogs Get Extra Care",
+      "section": null,
+      "page": 56,
+      "word_count": 81,
+      "text": "Bella’s first instinct when the pain started was to hide it. Dogs in shelters know that appearing weak or 56 damaged can be dangerous. She tried to walk normally, play energetically, act like nothing was wrong. Showing weakness felt like risking rejection. But hiding her injury only made it worse. The pain grew more severe, the damage more extensive. It wasn’t until she couldn’t pretend anymore, couldn’t maintain the appearance of perfect health, that she received the help she desperately needed.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-089",
+      "lesson_number": 10,
+      "lesson_title": "The Sick Dogs Get Extra Care",
+      "section": null,
+      "page": 57,
+      "word_count": 89,
+      "text": "When our life breaks apart from our mistakes, we often assume that our brokenness makes us less valuable to others and to God. We think that admitting our pain, showing our wounds, or acknowledging our need for help will drive people away. We try to appear strong and put-together when we’re actually falling apart inside. But sometimes our most broken moments are when we become most precious to the people who truly love us. “The Lord is close to the brokenhearted and saves those who are crushed in spirit.”",
+      "keep": true,
+      "themes": [
+        "ashamed",
+        "grieving",
+        "lonely",
+        "loved"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-090",
+      "lesson_number": 10,
+      "lesson_title": "The Sick Dogs Get Extra Care",
+      "section": null,
+      "page": 57,
+      "word_count": 93,
+      "text": "— Psalm 34:18 57 David wrote this after experiencing deep personal pain and public failure. He discovered that God doesn’t maintain emotional distance from people who are falling apart. Instead, God moves closer to us when we’re most broken, most vulnerable, most in need of intensive care. The word ‘close’ here means intimate, personal, nearby. When our heart is shattered by the consequences of our actions, guilt over our choices, or grief over what we’ve lost, God doesn’t observe our pain from a safe distance. He gets close enough to touch our wounds.",
+      "keep": true,
+      "themes": [
+        "grieving",
+        "ashamed",
+        "lonely",
+        "loved"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-091",
+      "lesson_number": 10,
+      "lesson_title": "The Sick Dogs Get Extra Care",
+      "section": null,
+      "page": 58,
+      "word_count": 99,
+      "text": "‘Saves’ doesn’t just mean rescue from danger. It means heal, restore, make whole again. God’s response to our brokenness isn’t just to pull us out of trouble, but to carefully rehabilitate what’s been damaged. Bella’s injury didn’t make her less adoptable. It revealed how much love was available to her when she needed it most. The same people who’d given her routine care became passionately invested in her healing when they saw how much she was hurting. Our brokenness from major mistakes works similarly. The people who truly love us don’t distance themselves when we’re wounded. They move closer.",
+      "keep": true,
+      "themes": [
+        "grieving",
+        "ashamed",
+        "lonely",
+        "restored"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-092",
+      "lesson_number": 10,
+      "lesson_title": "The Sick Dogs Get Extra Care",
+      "section": null,
+      "page": 58,
+      "word_count": 90,
+      "text": "58 Our pain doesn’t make us less valuable to God; it makes us the focus of His most intensive care. Bella received more personal attention during her eight weeks of recovery than she’d gotten in her previous year of good health. Sometimes our seasons of brokenness become our seasons of experiencing the deepest love. Look for evidence of “intensive care” in your life. People who are showing you extra kindness during this difficult season. Unexpected sources of help and comfort. Moments when you feel especially cared for despite your circumstances.",
+      "keep": true,
+      "themes": [
+        "grieving",
+        "ashamed",
+        "loved",
+        "hopeful"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-093",
+      "lesson_number": 10,
+      "lesson_title": "The Sick Dogs Get Extra Care",
+      "section": null,
+      "page": 59,
+      "word_count": 82,
+      "text": "Don’t rush your healing process. Emotional and spiritual healing from major mistakes often takes longer than we expect and requires patience with the process. Use your experience of receiving extra care to become someone who gives extra care to others who are broken. Your healing can prepare you to help others who are going through similar pain. Needing intensive care doesn’t mean you’re weak or defective. It means you’re valuable enough to invest in. God doesn’t give His most careful attention to",
+      "keep": true,
+      "themes": [
+        "weary",
+        "ashamed",
+        "called",
+        "resting"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-094",
+      "lesson_number": 10,
+      "lesson_title": "The Sick Dogs Get Extra Care",
+      "section": null,
+      "page": 59,
+      "word_count": 55,
+      "text": "59 things He doesn’t love. Your broken heart is precious to Him. When you’re tempted to hide your pain or tough it out alone, remember that those who are hurting get extra care, not less care. Your wounds don’t make you less valuable. They make you the focus of the most tender love available. 60",
+      "keep": true,
+      "themes": [
+        "ashamed",
+        "grieving",
+        "loved",
+        "hopeful"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-095",
+      "lesson_number": 11,
+      "lesson_title": "Some Dogs Help Others",
+      "section": null,
+      "page": 61,
+      "word_count": 95,
+      "text": "Rex arrived at the shelter as a broken dog. The Giant Schnauzer had been rescued from a hoarding situation where dozens of dogs lived in terrible conditions, competing for scarce resources and learning that survival meant fighting for everything. Rex was aggressive, resource-guarding, and deeply suspicious of both humans and other dogs. Six months of patient rehabilitation had transformed Rex from a fighter into a gentle giant. But the real change came when shelter staff noticed something remarkable: Rex had made himself an unofficial counselor to the other traumatized dogs who arrived at the facility.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-096",
+      "lesson_number": 11,
+      "lesson_title": "Some Dogs Help Others",
+      "section": null,
+      "page": 61,
+      "word_count": 89,
+      "text": "When Spike, a young Pitbull rescued from a fighting ring, arrived terrified and reactive, most dogs avoided him. His fear made him unpredictable; his aggression made him dangerous. Volunteers were afraid to put him in the shared play area with other dogs. 61 Rex, however, saw something different in Spike. He saw himself six months earlier: scared, defensive, convinced that every interaction was a potential threat. Instead of avoiding the newcomer, Rex deliberately positioned himself near Spike’s kennel, demonstrating through his calm presence that this place could be safe.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-097",
+      "lesson_number": 11,
+      "lesson_title": "Some Dogs Help Others",
+      "section": null,
+      "page": 62,
+      "word_count": 96,
+      "text": "Rex began what could only be called mentorship. When Spike got aggressive over food, Rex would simply walk away, teaching him that aggression ended interactions rather than securing resources. When Spike got scared, for no reason, from volunteers, Rex would approach those same humans calmly, showing that these particular people could be trusted. Slowly, carefully, Rex shared every lesson he’d learned during his own rehabilitation. He taught Spike that play could be gentle, that humans could be kind, that other dogs could be friends rather than competitors. Rex had become living proof that transformation was possible.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-098",
+      "lesson_number": 11,
+      "lesson_title": "Some Dogs Help Others",
+      "section": null,
+      "page": 62,
+      "word_count": 96,
+      "text": "Rex could have focused entirely on maintaining his own progress. After six months of hard work, he was finally stable, calm, and ready for adoption. Getting involved with other damaged dogs meant risking his 62 own peace, potentially triggering his old defensive behaviors. The safe choice would have been to avoid difficult cases like Spike, to protect the progress he’d made by staying away from situations that might test his new skills. Rex could have minded his own business and focused on his own healing. Instead, Rex chose to use his healing to help others heal.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-099",
+      "lesson_number": 11,
+      "lesson_title": "Some Dogs Help Others",
+      "section": null,
+      "page": 63,
+      "word_count": 119,
+      "text": "After we’ve done significant work to rebuild our life following a major mistake, we face Rex’s choice. Do we focus entirely on protecting our own progress, or do we use our experience to help others who are earlier in the process? There’s wisdom in being protective of our recovery. But there’s also profound purpose in using our story of transformation to offer hope to people who are where we used to be. 63 “Praise be to the God and Father of our Lord Jesus Christ, the Father of compassion and the God of all comfort, who comforts us in all our troubles, so that we can comfort those in any trouble with the comfort we ourselves receive from God.”",
+      "keep": true,
+      "themes": [
+        "ashamed",
+        "restored",
+        "called",
+        "hopeful"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-100",
+      "lesson_number": 11,
+      "lesson_title": "Some Dogs Help Others",
+      "section": null,
+      "page": 64,
+      "word_count": 81,
+      "text": "— 2 Corinthians 1:3-4 Paul wrote this to people who had experienced significant hardship and healing. He explained that God’s comfort isn’t just for our personal relief. It’s meant to flow through us to others who need the same healing we’ve received. The phrase “so that we can” indicates purpose. God doesn’t allow us to go through difficult experiences just for our own growth. He intends for our healing to become a resource for others who are struggling with similar issues.",
+      "keep": true,
+      "themes": [
+        "ashamed",
+        "restored",
+        "called",
+        "hopeful"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-101",
+      "lesson_number": 11,
+      "lesson_title": "Some Dogs Help Others",
+      "section": null,
+      "page": 64,
+      "word_count": 86,
+      "text": "Notice that Paul doesn’t say we should help others after we’re completely healed. He says we should comfort others with the comfort we ourselves are receiving. Rex was still in the shelter, still working on 64 his own issues, but that didn’t disqualify him from helping Spike. Rex’s ability to help Spike came directly from his own experience of fear, aggression, and eventual healing. He couldn’t have taught what he hadn’t learned, couldn’t have offered hope he hadn’t experienced, couldn’t have demonstrated transformation he hadn’t undergone.",
+      "keep": true,
+      "themes": [
+        "ashamed",
+        "discouraged",
+        "called",
+        "restored"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-102",
+      "lesson_number": 11,
+      "lesson_title": "Some Dogs Help Others",
+      "section": null,
+      "page": 65,
+      "word_count": 94,
+      "text": "Our greatest qualifications for helping others often come from our greatest failures and recoveries. The person who’s overcome addiction understands recovery in ways that textbooks never could. The person who’s rebuilt a marriage after infidelity knows what forgiveness actually requires. The person who’s restored their relationship with their children after major mistakes understands both the damage and the possibility. Our scars become our credentials for ministry to others with similar wounds. Share our story carefully and appropriately. Model better ways of responding to stress and fear. Sometimes our example speaks louder than our advice.",
+      "keep": true,
+      "themes": [
+        "ashamed",
+        "restored",
+        "called",
+        "hopeful"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-103",
+      "lesson_number": 12,
+      "lesson_title": "Going Home Day",
+      "section": null,
+      "page": 67,
+      "word_count": 126,
+      "text": "Charlie’s adoption day didn’t feel real until the very last moment. After eight months at the shelter, he’d watched so many other dogs leave. He’d stopped believing his turn would come. But here was Mrs. Williams. She was filling out paperwork with his name on it. She promised to love him for the rest of his life. Charlie was a yellow Labrador mix. He had been returned twice before. The first family said he was “too energetic.” The second family returned him for being too attached. Each return had added another note to his file. Each note gave families another reason to choose easier dogs. But the Williams family had read his whole story. They decided they wanted him because of his history, not despite it.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-104",
+      "lesson_number": 12,
+      "lesson_title": "Going Home Day",
+      "section": null,
+      "page": 67,
+      "word_count": 114,
+      "text": "For eight months, Charlie had to balance hope with being realistic. He needed to believe that someone would choose him. But he also couldn’t let disappointment destroy him every time he wasn’t picked. He’d learned to be excited when families 67 visited. But he tried not to be crushed when they chose other dogs. The hardest part was watching his friends leave while he stayed. Duke got adopted after only two weeks. Sophie found a family in her third month. Each goodbye was both happy and sad. Charlie was glad for his friends. But each goodbye reminded him that he was still waiting. Still hoping. Still believing that his family was out there somewhere.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-105",
+      "lesson_number": 12,
+      "lesson_title": "Going Home Day",
+      "section": null,
+      "page": 68,
+      "word_count": 95,
+      "text": "What Charlie didn’t know was simple. The Williams family had been looking for his exact type of dog for six months. They wanted a medium-sized, gentle dog. They wanted a dog with some maturity and life experience. They didn’t want a puppy. They understood that older dogs often make the most grateful and loyal companions. When they read about Charlie’s separation anxiety, Mrs. Williams said something surprising. “That means he knows how to love deeply. We want a dog who will miss us when we’re gone. That means he’ll be excited when we come home.”",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-106",
+      "lesson_number": 12,
+      "lesson_title": "Going Home Day",
+      "section": null,
+      "page": 68,
+      "word_count": 103,
+      "text": "After his second return, Charlie faced a big temptation. He could protect his heart by giving up hope completely. It would have been easier to assume 68 that no one would ever want him permanently. Maybe he was meant to spend his life in kennels. Maybe hoping for a family just led to disappointment. Some of the long-term dogs at the shelter had made that choice. They’d stopped going to the fence when visitors came. They’d stopped wagging for potential adopters. They’d stopped believing that anything would change. Charlie understood the temptation. But Charlie chose to keep hoping even when hope felt foolish.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-107",
+      "lesson_number": 12,
+      "lesson_title": "Going Home Day",
+      "section": null,
+      "page": 69,
+      "word_count": 88,
+      "text": "Every story of major failure and brokenness needs an ending. There needs to be a moment when we finally come home to the life that’s been waiting for us. Maybe it’s making up with family who won’t talk to us. Maybe it’s finding work that gives us purpose again. Maybe it’s the ultimate homecoming when we see Jesus face to face. The question is this: will we keep believing that our “going home day” is real? Will we keep believing when the waiting stretches longer than we expected?",
+      "keep": true,
+      "themes": [
+        "waiting",
+        "hopeful",
+        "discouraged",
+        "trusting"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-108",
+      "lesson_number": 12,
+      "lesson_title": "Going Home Day",
+      "section": null,
+      "page": 69,
+      "word_count": 80,
+      "text": "“And if I go and prepare a place for you, I will come back and take you to be with me that you also may be where I am.” — John 14:3 69 Jesus spoke these words to His disciples the night before He was killed. He was about to go through the worst experience of His life. But He wanted them to know that wasn’t the end of the story. He was going ahead to prepare for their reunion.",
+      "keep": true,
+      "themes": [
+        "waiting",
+        "grieving",
+        "hopeful",
+        "trusting"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-109",
+      "lesson_number": 12,
+      "lesson_title": "Going Home Day",
+      "section": null,
+      "page": 70,
+      "word_count": 97,
+      "text": "Notice what Jesus didn’t say. He didn’t say, “if you qualify.” He didn’t say, “if you clean up your mistakes.” He didn’t say, “if you prove you're worthy.” He said, “I will come back and take you to be with me.” The promise isn’t based on our performance. It’s guaranteed by His character. Jesus understands what it feels like to be separated from the people and place we love most. He understands waiting for restoration that sometimes feels like it will never come. And He promises that our going home day is not just possible. It’s certain.",
+      "keep": true,
+      "themes": [
+        "ashamed",
+        "guilty",
+        "loved",
+        "hopeful"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-110",
+      "lesson_number": 12,
+      "lesson_title": "Going Home Day",
+      "section": null,
+      "page": 70,
+      "word_count": 123,
+      "text": "Charlie’s adoption day happened for a reason. Someone had been preparing for him long before he knew they existed. The Williams family had been looking for exactly the kind of dog Charlie was. This included his history of abandonment and return. His past wasn’t something that disqualified him. It was part of what made him perfect for them. 70 God has been preparing for our homecoming since before we knew we needed one. Our history of mistakes and returns doesn’t disqualify us from His love. It’s part of what makes His grace so perfect for exactly who we are. We don’t have to earn our place in God’s family. We just need to be ready to say yes when He comes for us.",
+      "keep": true,
+      "themes": [
+        "ashamed",
+        "guilty",
+        "loved",
+        "forgiven"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-111",
+      "lesson_number": 12,
+      "lesson_title": "Going Home Day",
+      "section": null,
+      "page": 71,
+      "word_count": 100,
+      "text": "Our ultimate going-home day isn’t dependent on earthly circumstances. We might experience restoration in this life or the next. Relationships might heal quickly or only in eternity. Either way, our place in God’s family is secure. Our home is being prepared. Someone loves us because of our whole story, including the broken parts. Keep our tail wagging. Keep our hope alive. Our going-home day is coming. 71 Final Thoughts If you’ve made it to the end of these twelve lessons, thank you for staying. Thank you for listening. Thank you for walking a little further with us on this journey.",
+      "keep": true,
+      "themes": [
+        "waiting",
+        "hopeful",
+        "loved",
+        "trusting"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-112",
+      "lesson_number": 12,
+      "lesson_title": "Going Home Day",
+      "section": null,
+      "page": 72,
+      "word_count": 116,
+      "text": "We didn’t write this book because we have all the answers. We wrote it because we’re still learning, too. Still learning how to trust when it feels impossible to trust. Still learning how to hope when it feels foolish to hope. Still learning how to believe we’re loved when we feel unlovable. Dogs have taught us more than we expected. Not through big moments or dramatic rescues. But in the small and quiet ones. In the way they wait without giving up. In the way they love without keeping score. In the way they forgive quickly and completely. In the way they see the good in people even when those people can’t see it in themselves.",
+      "keep": true,
+      "themes": [
+        "weary",
+        "waiting",
+        "hopeful",
+        "loved"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-113",
+      "lesson_number": 12,
+      "lesson_title": "Going Home Day",
+      "section": null,
+      "page": 72,
+      "word_count": 116,
+      "text": "We believe God works the same way. Only deeper. Only truer. Only more completely than we can ever imagine. If you’re reading this while carrying the weight of a terrible mistake, we hope these simple stories 72 reminded you of something important. We are not our worst moment. We are not forgotten. We are not too damaged to be loved. We are not beyond redemption. Maybe we lost everything in a divorce that was our fault. Maybe we are carrying guilt from hurting our children through our choices. Maybe we destroyed a career through poor decisions. Maybe we betrayed someone who trusted us. Maybe we are struggling with addiction that has cost us relationships and respect.",
+      "keep": true,
+      "themes": [
+        "ashamed",
+        "guilty",
+        "forgotten",
+        "loved"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-114",
+      "lesson_number": 12,
+      "lesson_title": "Going Home Day",
+      "section": null,
+      "page": 73,
+      "word_count": 111,
+      "text": "Whatever brought you to feel ‘damaged,’ we want you to know: you are still loved. We, of course, are not perfect. Far from it. We have consequences to face. We have work to do. Lots of work. But we are still loved to our core. Still worthy of love. Still capable of change. Still valuable to God. Kingsman learned that his worth wasn’t determined by one scared moment in the yard. Rico discovered that faithfulness shows up every day, no matter what. Luna found out that someone was looking for her whole story, not just the easy parts. Tank proved that real character shows up in challenging times, not easy ones.",
+      "keep": true,
+      "themes": [
+        "ashamed",
+        "guilty",
+        "loved",
+        "hopeful"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-115",
+      "lesson_number": 12,
+      "lesson_title": "Going Home Day",
+      "section": null,
+      "page": 73,
+      "word_count": 98,
+      "text": "73 Diesel found his voice again when someone else needed help. Ziggy learned that a limited view doesn’t mean limited possibilities. Caesar discovered it’s never too late for a second chapter. Rosie mastered the art of waiting well. Bruno experienced grace that has no exceptions. Bella received the most tender care when she was most broken. Rex used his healing to help others heal. And Charlie never stopped believing that his going-home day was real. These are not just dog stories. They are our stories. The stories of anyone who has ever felt lost, broken, returned, or forgotten.",
+      "keep": true,
+      "themes": [
+        "ashamed",
+        "discouraged",
+        "hopeful",
+        "restored"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-116",
+      "lesson_number": 12,
+      "lesson_title": "Going Home Day",
+      "section": null,
+      "page": 74,
+      "word_count": 81,
+      "text": "We have seen people love these dogs with tenderness; God loves us the same way, but unimaginably and infinitely more. People see potential in damaged animals; God sees potential in damaged people. Some good people never give up on good dogs who’ve had bad days; God never gives up on His people who’ve made mistakes. Our doors will open. Our restoration day will come. Someone is preparing a place for us. Someone who knows our whole story and wants us anyway.",
+      "keep": true,
+      "themes": [
+        "ashamed",
+        "discouraged",
+        "loved",
+        "hopeful"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-117",
+      "lesson_number": 12,
+      "lesson_title": "Going Home Day",
+      "section": null,
+      "page": 74,
+      "word_count": 57,
+      "text": "Until then, let’s keep wagging our tails even when it feels foolish. Keep believing that we are loved. We are 74 valuable because God values us. Know that we are going home because God will take us there. We are all damaged. But we are all still loved by God. And that makes all the difference. 75",
+      "keep": true,
+      "themes": [
+        "ashamed",
+        "weary",
+        "loved",
+        "hopeful"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "07-torn-but-still-loved-118",
+      "lesson_number": null,
+      "lesson_title": null,
+      "section": "about the authors",
+      "page": 76,
+      "word_count": 92,
+      "text": "We are just a regular person and a local church deacon. The only thing truly worth mentioning is this: we’ve been forgiven by what Jesus did on the cross. He overcame death and sent us His Spirit to us. We walk this life empowered by the Holy Spirit who steadily transforms us to become more like Jesus. He gave His life for us on the cross, and in doing so, gave us life, now and forever. Jesus is our Savior, our Lord, and the reason we get out of bed every morning.",
+      "keep": false,
+      "themes": [
+        "loved",
+        "forgiven",
+        "grateful",
+        "hopeful"
+      ],
+      "keep_override": "front-back-matter"
+    }
+  ]
+}

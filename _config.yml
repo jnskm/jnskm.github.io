@@ -2,7 +2,7 @@ title: JNSKM
 description: >-
   Simple Jekyll site.
 baseurl: ""         # Leave blank when deploying to root domain
-url: "https://jnskm.github.io"  # Update to your GitHub Pages URL or custom domain
+url: "https://jnskm.com"  # Custom domain (CNAME); update only if you change the public URL
 
 theme: null         # Disables default theme so we can use our custom layout
 
@@ -20,6 +20,9 @@ collections:
   bible_studies:
     output: true
     permalink: /bible-studies/:name/
+  playlists:
+    output: true
+    permalink: /music/playlist/:name/
 
 # Front matter defaults for easier content creation
 defaults:
@@ -50,6 +53,11 @@ defaults:
     values:
       layout: "bible_study"
   - scope:
+      path: "_playlists"
+      type: "playlists"
+    values:
+      layout: "playlist"
+  - scope:
       path: "_posts"
       type: "posts"
     values:
@@ -57,3 +65,18 @@ defaults:
 
 plugins:
   - jekyll-feed
+
+# Keep the extracted book library and serverless functions in the repo for
+# the Netlify function to read at runtime, but don't publish them on the
+# public static site.
+exclude:
+  - data/library/
+  - scripts/
+  - vendor/
+  - netlify/
+  - netlify.toml
+  - .env
+  - .env.local
+  - CONTENT_GUIDE.md
+  - MIGRATION_GUIDE.md
+  - site-steward/

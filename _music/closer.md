@@ -1,9 +1,10 @@
 ---
 title: "Closer"
-date: 2025-03-19
+date: "2025-03-19"
 cover_image: "/assets/images/music/closer.png"
 youtube: "https://youtu.be/h2SwqHq3s3s"
-show_lyrics: false
+show_lyrics: "false"
+youtube_music: "https://music.youtube.com/watch?v=h2SwqHq3s3s"
 ---
 ## Bible Verse
 (Add Bible verse here)

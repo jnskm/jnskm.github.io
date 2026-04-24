@@ -7,6 +7,7 @@
   <title>Home | JNSKM</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/stay-a-moment.css' | relative_url }}">
   <link rel="alternate" type="application/rss+xml" title="RSS Feed" href="{{ '/feed.xml' | relative_url }}">
 </head>
 <body class="site">
@@ -33,8 +34,40 @@
           All of it is meant to give glory to God.
         </p>
       </section>
+
+      <section class="stay-a-moment" id="sam-card">
+        <div id="sam-prompt">
+          <h2 class="sam-heading">Stay a moment</h2>
+          <p class="sam-sub">How is your heart today?</p>
+          <form class="sam-form" id="sam-form" novalidate>
+            <textarea
+              class="sam-input"
+              id="sam-input"
+              rows="2"
+              maxlength="2000"
+              placeholder="Share whatever comes to mind, or tap a feeling below…"
+              aria-label="How is your heart today?"></textarea>
+            <button type="submit" class="sam-submit" id="sam-submit">Share</button>
+          </form>
+          <p class="sam-or">or</p>
+          <div class="sam-chips" id="sam-chips">
+            <button type="button" class="sam-chip" data-feeling="I feel anxious today.">anxious</button>
+            <button type="button" class="sam-chip" data-feeling="I feel weary today.">weary</button>
+            <button type="button" class="sam-chip" data-feeling="I am grieving.">grieving</button>
+            <button type="button" class="sam-chip" data-feeling="I feel lonely.">lonely</button>
+            <button type="button" class="sam-chip" data-feeling="I feel ashamed.">ashamed</button>
+            <button type="button" class="sam-chip" data-feeling="I am doubting.">doubting</button>
+            <button type="button" class="sam-chip" data-feeling="I feel hopeful.">hopeful</button>
+            <button type="button" class="sam-chip" data-feeling="I am grateful today.">grateful</button>
+          </div>
+        </div>
+        <div class="sam-loading" id="sam-loading" hidden>Listening</div>
+        <div class="sam-result" id="sam-result" hidden></div>
+        <div class="sam-crisis" id="sam-crisis" hidden></div>
+      </section>
     </div>
   </main>
+  <script src="{{ '/assets/js/stay-a-moment.js' | relative_url }}" defer></script>
 
   <footer class="site-footer">
     <footer>

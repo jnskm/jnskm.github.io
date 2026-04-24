@@ -1,0 +1,49 @@
+{
+  "notes": "Configuration for the crisis fast-path in listen.ts. If ANY keyword pattern matches the visitor's message, the function skips Claude and returns the pre-written crisis card below. Conservative by design — better a false-positive crisis card (easily dismissed) than a false-negative in a true emergency. Review carefully before changing.",
+
+  "keyword_patterns": [
+    "\\bkill (?:myself|me)\\b",
+    "\\b(?:end|ending) (?:my|it all|my life)\\b",
+    "\\bsuicid(?:e|al)\\b",
+    "\\b(?:want|wanna|going) to die\\b",
+    "\\bdon'?t want to (?:live|be here|exist)\\b",
+    "\\bhurt(?:ing)? myself\\b",
+    "\\bself[- ]?harm(?:ing)?\\b",
+    "\\bcut(?:ting)? myself\\b",
+    "\\btake (?:my|an) (?:own life|overdose)\\b",
+    "\\boverdos(?:e|ing)\\b",
+    "\\bno (?:reason|point) (?:to (?:live|go on)|in living)\\b",
+    "\\bbetter off (?:dead|without me)\\b"
+  ],
+
+  "response": {
+    "kind": "crisis",
+    "message": "Please stay with someone who can be with you right now. What you are feeling is heavy, and you do not have to carry it alone. Reach out to one of the lines below — they are free, they are confidential, and they will listen.",
+    "resources": [
+      {
+        "label": "988 Suicide & Crisis Lifeline (US)",
+        "url": "https://988lifeline.org",
+        "phone": "988",
+        "note": "Call or text 988 — 24 hours a day"
+      },
+      {
+        "label": "Crisis Text Line (US / CA / UK / IE)",
+        "url": "https://www.crisistextline.org",
+        "phone": "Text HOME to 741741",
+        "note": "Free, 24/7"
+      },
+      {
+        "label": "International Association for Suicide Prevention",
+        "url": "https://www.iasp.info/resources/Crisis_Centres/",
+        "note": "Directory of crisis lines by country"
+      },
+      {
+        "label": "If you are in immediate danger",
+        "url": "tel:911",
+        "phone": "911",
+        "note": "Call emergency services (911 in the US)"
+      }
+    ],
+    "closing": "If you can, tell one person near you what you are feeling. You matter to God, and you matter here."
+  }
+}

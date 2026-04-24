@@ -1,0 +1,682 @@
+{
+  "book_id": "03-one-voice-one-leash-one-lord",
+  "title": "One Voice, One Leash, One Lord",
+  "subtitle": "",
+  "authors": [
+    "Kyung Suk Yi",
+    "Jin Sung Kim"
+  ],
+  "source_pdf": "03_Once_Voice_One_Leash_One_Lord/One_Voice_One_Leash_One_Lord_content.pdf",
+  "cover_image": "/assets/images/books/book-cover-03-one-voice.jpg",
+  "amazon_url": "",
+  "total_pages": 33,
+  "total_chunks": 45,
+  "chunks": [
+    {
+      "id": "03-one-voice-one-leash-one-lord-001",
+      "lesson_number": null,
+      "lesson_title": null,
+      "section": null,
+      "page": 1,
+      "word_count": 84,
+      "text": "One Voice. One Leash. One Lord. Twelve Lessons from Good Dogs in a Divided World By Jin Sung Kim and Kyung Suk Yi 1 © Jin Sung Kim and Kyung Suk Yi This isn’t a book about theology. Nope. It’s a book about dogs — and our God they pointed us to. Through twelve simple stories, One Voice. One Leash. One Lord. shares lessons learned from many dogs who didn’t care much for things that didn’t matter, but always stayed close to loved ones.",
+      "keep": false,
+      "themes": []
+    },
+    {
+      "id": "03-one-voice-one-leash-one-lord-002",
+      "lesson_number": null,
+      "lesson_title": null,
+      "section": null,
+      "page": 2,
+      "word_count": 71,
+      "text": "We are not pastors. We are one deacon and one lay person trying to love God well. These reflections are for anyone walking quietly, faithfully — still learning how to stay close to the Shepherd. The Never Alone Mission c/o A&K 440 N. Wolfe Rd. Sunnyvale, CA 94085 Front Cover Photo: Chris Arthur-Collins unsplash.com/@anotherleaf 2 For those who want to speak gently, watch carefully, and love without needing to win. 3",
+      "keep": false,
+      "themes": []
+    },
+    {
+      "id": "03-one-voice-one-leash-one-lord-003",
+      "lesson_number": null,
+      "lesson_title": null,
+      "section": "introduction",
+      "page": 4,
+      "word_count": 103,
+      "text": "This is not a book about who you should vote for. It’s not about parties, platforms, or policies. It’s not about winning debates or proving your point. And it’s definitely not about telling you which side is right. It’s about being faithful. Politics can be loud, messy, and confusing. So can people. So can dogs. Not every dog is a role model. Some bark too much. Some guard the wrong things. Some chase everything that moves just because they can. If you’ve seen a dog like that, then you already know — not all instincts are wise, and not all leaders lead well.",
+      "keep": false,
+      "themes": []
+    },
+    {
+      "id": "03-one-voice-one-leash-one-lord-004",
+      "lesson_number": null,
+      "lesson_title": null,
+      "section": "introduction",
+      "page": 4,
+      "word_count": 96,
+      "text": "But there are good dogs, too. The ones who stay close to you and your loved ones. Who wait patiently without needing attention. Who speak up only when it matters. Who know when to sit still and when to stand. Those are the ones we’re learning from here. This book is a collection of twelve lessons — short, simple, and honest — drawn from the quiet wisdom of good dogs and the even better truth of God’s Word. It’s not a plan to fix politics. It’s a path to stay faithful in the middle of it.",
+      "keep": false,
+      "themes": []
+    },
+    {
+      "id": "03-one-voice-one-leash-one-lord-005",
+      "lesson_number": null,
+      "lesson_title": null,
+      "section": "introduction",
+      "page": 4,
+      "word_count": 88,
+      "text": "4 Some chapters may make you laugh. Others might stir something deeper. All of them are here to remind you that the way of Jesus is still possible, even in a world that often forgets Him. So take your time. Read slowly. Or fast if you want to. But let these little stories settle into your mind and into your heart. And remember: we don’t need to become louder to be faithful. We just need to stay close to the One who leads with truth, grace, and peace.",
+      "keep": true,
+      "themes": [
+        "weary",
+        "confused",
+        "trusting"
+      ]
+    },
+    {
+      "id": "03-one-voice-one-leash-one-lord-006",
+      "lesson_number": 1,
+      "lesson_title": "Loyalty Over Party",
+      "section": null,
+      "page": 6,
+      "word_count": 91,
+      "text": "I once watched a dog sit by the front door for hours. His tail didn’t wag. He didn’t bark. He just waited. The family had left for the weekend, and he didn’t understand that. All he knew was that his people weren’t home — and he wasn’t going anywhere until they came back. There were other houses. Other people. One neighbor even tried to coax him over with a treat. But he didn’t move. His eyes stayed on the door. It didn’t matter how long it took — he was loyal.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "03-one-voice-one-leash-one-lord-007",
+      "lesson_number": 1,
+      "lesson_title": "Loyalty Over Party",
+      "section": null,
+      "page": 6,
+      "word_count": 102,
+      "text": "Not to whoever had the best snack. Not to whoever seemed more fun. Not to the loudest voice. Or the sweetest voice. But to his people. In politics that kind of loyalty is almost exinct. These days, we’re trained to treat loyalty like a party favor. Easy to give. Easy to take back. It shifts with the headlines, bends with the polling numbers, and disappears the moment it’s inconvenient. 6 But the loyalty God calls us to is different. It doesn’t bow to platforms. It doesn’t pledge allegiance to personalities. It stands still — eyes on the door — no matter what.",
+      "keep": true,
+      "themes": [
+        "confused",
+        "striving",
+        "trusting"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "03-one-voice-one-leash-one-lord-008",
+      "lesson_number": 1,
+      "lesson_title": "Loyalty Over Party",
+      "section": null,
+      "page": 7,
+      "word_count": 93,
+      "text": "In the Bible, we meet people like Daniel who served in a pagan government yet refused to abandon his devotion to God. When the law said “worship the king,” Daniel went home, opened his windows, and prayed anyway. Not as a protest. Not to make a scene. But because he was loyal — to the One who had never left him. We need more Daniels. Not more partisans. Not more tribalists. Not more people addicted to “our side winning.” We need people who stay loyal to God, even when their party forgets Him.",
+      "keep": true,
+      "themes": [
+        "confused",
+        "trusting",
+        "called"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "03-one-voice-one-leash-one-lord-009",
+      "lesson_number": 1,
+      "lesson_title": "Loyalty Over Party",
+      "section": null,
+      "page": 7,
+      "word_count": 113,
+      "text": "Let’s be honest — no political party owns the truth. No candidate is perfect. Far from. Every human system is flawed. That’s why God didn’t ask us to pledge allegiance to a governmetn system or to a party. He commanded us to follow Him. To be holy. To love mercy. To act justly. To walk humbly. That kind of loyalty is hard, in fact impossible without God. But it’s the only kind that lasts. 7 Just like that dog at the door — still, quiet, focused — the world may not understand why we don’t jump at every command or chase every treat. But we’re not here for applause. We’re here for faithfulness.",
+      "keep": true,
+      "themes": [
+        "confused",
+        "striving",
+        "trusting",
+        "surrendered"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "03-one-voice-one-leash-one-lord-010",
+      "lesson_number": 2,
+      "lesson_title": "Barking For The Right Reasons",
+      "section": null,
+      "page": 9,
+      "word_count": 90,
+      "text": "Not every bark is helpful. Some dogs bark because someone’s at the door. Others bark because a leaf moved. We’ve all known the difference. One kind snaps you to attention. The other just makes you roll your eyes. In the same way, not every noise in politics deserves a microphone. These days, it feels like everyone is barking. The news, the influencers, the politicians, the preachers — even the quiet ones have something to shout now. It’s constant. Exhausting. And worst of all, it’s hard to tell what actually matters.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "03-one-voice-one-leash-one-lord-011",
+      "lesson_number": 2,
+      "lesson_title": "Barking For The Right Reasons",
+      "section": null,
+      "page": 9,
+      "word_count": 80,
+      "text": "That’s why good dogs are worth learning from. They don’t bark at everything. But when they do — you listen. 9 I knew a golden retriever once who almost never made a sound. You could walk in, walk out, and she’d barely lift her head. But one day, she stood between a child and a man at the gate who wasn’t supposed to be there. She didn’t growl. She didn’t lunge. Just stood there and barked — low, firm, steady.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "03-one-voice-one-leash-one-lord-012",
+      "lesson_number": 2,
+      "lesson_title": "Barking For The Right Reasons",
+      "section": null,
+      "page": 10,
+      "word_count": 84,
+      "text": "It was the kind of bark that meant something. She wasn’t afraid. She wasn’t panicking. She just knew what was right. We need that kind of bark today. The book of Proverbs says, “A gentle answer turns away wrath, but a harsh word stirs up anger.” (Proverbs 15:1) And yet, many of us have gotten used to harsh words. Loud tweets. Angry headlines. Pretend rage dressed up as passion for justice. But yelling isn’t the same as righteousness. And barking doesn’t mean you’re right.",
+      "keep": true,
+      "themes": [
+        "proud",
+        "striving",
+        "called"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "03-one-voice-one-leash-one-lord-013",
+      "lesson_number": 2,
+      "lesson_title": "Barking For The Right Reasons",
+      "section": null,
+      "page": 10,
+      "word_count": 90,
+      "text": "Jesus didn’t waste words. He spoke clearly, truthfully — and always for the right reasons. When He overturned the tables in the temple, it wasn’t out of outrage addiction. It was holy zeal. It was love defending holiness. That’s the difference. 10 Dogs don’t bark for attention. They bark because they care. They bark because something isn’t right. They bark because someone they love might be in danger. So ask yourself: When I speak up, am I doing it out of love or pride? Is it conviction — or ego?",
+      "keep": true,
+      "themes": [
+        "proud",
+        "striving",
+        "called"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "03-one-voice-one-leash-one-lord-014",
+      "lesson_number": 3,
+      "lesson_title": "Guarding the Gates",
+      "section": null,
+      "page": 12,
+      "word_count": 83,
+      "text": "The dog didn’t care about fetch. He didn’t care about tricks. But every night, like clockwork, he walked the fence line. Back and forth. Quiet. Watchful. He wasn’t showing off. He wasn’t afraid. He was doing what he knew to do — guarding what was his. In the Bible, God talks about watchmen. These were people who stood on the wall and looked out. Their job wasn’t to decide what the town should do. Their job was to watch — and to warn.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "03-one-voice-one-leash-one-lord-015",
+      "lesson_number": 3,
+      "lesson_title": "Guarding the Gates",
+      "section": null,
+      "page": 12,
+      "word_count": 96,
+      "text": "If danger came, the watchman would sound the alarm. If danger came and he stayed silent, people would get hurt. If he spoke up, even if no one listened, he had done his part. Some of us have stopped watching. 12 We think someone else will guard the gate. Someone smarter. Louder. More important. But what if God placed you where you are for a reason? You don’t have to guard everything. But you do need to stay alert. In your home. Your school. Your church. Watch what comes in. And pay attention to what lingers.",
+      "keep": true,
+      "themes": [
+        "called",
+        "discouraged",
+        "afraid"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "03-one-voice-one-leash-one-lord-016",
+      "lesson_number": 4,
+      "lesson_title": "Knowing The Master's Voice",
+      "section": null,
+      "page": 14,
+      "word_count": 105,
+      "text": "Some dogs will come running for anyone who whistles. Others only move when they hear one voice. I used to walk past a neighbor’s yard every morning. Their dog would lie in the shade, eyes half-closed, completely still — until his owner called. Then, in a blink, he was on his feet, tail wagging, ready to go. It didn’t matter who else was around. It didn’t matter what else was offered. He knew who he belonged to. These days, a lot of voices are calling. Some are kind. Some are clever. Some sound almost right. But if you follow every voice, you’ll end up lost.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "Don't follow the loudest voice — follow the true voice. A political parallel about not being swayed by charisma."
+    },
+    {
+      "id": "03-one-voice-one-leash-one-lord-017",
+      "lesson_number": 4,
+      "lesson_title": "Knowing The Master's Voice",
+      "section": null,
+      "page": 14,
+      "word_count": 80,
+      "text": "Jesus once said, “My sheep listen to my voice; I know them, and they follow me.” (John 10:27) He was talking about us. He wanted us to know Him well enough that when He speaks — we recognize it. And when He doesn’t — we wait. 14 In politics, this is hard. Every side says they speak for truth. Every leader says they care. But the more we listen to the crowd, the harder it is to hear the Shepherd.",
+      "keep": true,
+      "themes": [
+        "confused",
+        "trusting",
+        "waiting"
+      ],
+      "lesson_subtitle": "Don't follow the loudest voice — follow the true voice. A political parallel about not being swayed by charisma."
+    },
+    {
+      "id": "03-one-voice-one-leash-one-lord-018",
+      "lesson_number": 4,
+      "lesson_title": "Knowing The Master's Voice",
+      "section": null,
+      "page": 15,
+      "word_count": 91,
+      "text": "So how do we tell the difference? A stranger’s voice will always pull you away. God’s voice draws you near. The stranger rushes. Pressures. Flatters. The Shepherd leads. Gently. Firmly. Always with love. You don’t need to know every answer. But you do need to know the One who does. And that means spending time with Him. Listening in to His voice, quietly. Reading His words. Chewing on the meaning. Letting the Holy Spirit shape your heart. The better you know His voice, the less tempted you’ll be to follow another.",
+      "keep": true,
+      "themes": [
+        "confused",
+        "trusting",
+        "resting",
+        "waiting"
+      ],
+      "lesson_subtitle": "Don't follow the loudest voice — follow the true voice. A political parallel about not being swayed by charisma."
+    },
+    {
+      "id": "03-one-voice-one-leash-one-lord-019",
+      "lesson_number": 5,
+      "lesson_title": "Don't Chase Every Squirrel",
+      "section": null,
+      "page": 16,
+      "word_count": 93,
+      "text": "The squirrel wasn’t even in the yard. It was up a tree, far away, doing nothing important. But that didn’t stop the dog. He launched after it like the world depended on it — barking, spinning, kicking up dirt. By the time he stopped, he didn’t know why he was barking anymore. The squirrel had vanished. The yard was a mess. And everyone was tired. It happens every day in politics. Someone says something outrageous. A headline lights up your phone. A video goes viral. And just like that — we’re chasing squirrels.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "Distraction is the enemy of discernment. Politicians thrive on distraction; Christians must stay focused."
+    },
+    {
+      "id": "03-one-voice-one-leash-one-lord-020",
+      "lesson_number": 5,
+      "lesson_title": "Don't Chase Every Squirrel",
+      "section": null,
+      "page": 16,
+      "word_count": 89,
+      "text": "We argue. We worry. We pick sides. And before long, we’ve forgotten what we were supposed to be doing in the first place. The Bible says, “Set your minds on things above, not on earthly things.” (Colossians 3:2) That’s hard to do when you’re sprinting after every distraction. But staying focused doesn’t mean you don’t care. It means you care enough not to waste your energy on noise. 16 Dogs chase squirrels because it’s instinct. People chase them because it feels like action; we feel like we’re doing something.",
+      "keep": true,
+      "themes": [
+        "anxious",
+        "striving",
+        "weary"
+      ],
+      "lesson_subtitle": "Distraction is the enemy of discernment. Politicians thrive on distraction; Christians must stay focused."
+    },
+    {
+      "id": "03-one-voice-one-leash-one-lord-021",
+      "lesson_number": 5,
+      "lesson_title": "Don't Chase Every Squirrel",
+      "section": null,
+      "page": 17,
+      "word_count": 87,
+      "text": "But real wisdom isn’t about reacting to everything. It’s about knowing what matters — and letting the rest go. Jesus wasn’t easily distracted. When people tried to trap Him with clever questions or emotional arguments, He didn’t take the bait. He saw right through the noise and spoke to the heart of the issue. Every time. You don’t have to respond to everything. You don’t have to fix every argument. And you definitely don’t have to chase every squirrel. Some things are better left in the tree.",
+      "keep": true,
+      "themes": [
+        "anxious",
+        "striving",
+        "resting",
+        "trusting"
+      ],
+      "lesson_subtitle": "Distraction is the enemy of discernment. Politicians thrive on distraction; Christians must stay focused."
+    },
+    {
+      "id": "03-one-voice-one-leash-one-lord-022",
+      "lesson_number": 6,
+      "lesson_title": "Don't Roll In The Mud",
+      "section": null,
+      "page": 18,
+      "word_count": 100,
+      "text": "He came back filthy. We had just cleaned him the day before — brushed, bathed, dried. He looked perfect. But the next morning, he found a patch of mud behind the shed and rolled in it like it was the best decision he’d ever made. When he trotted inside, proud and wagging, he had no idea why we looked so disappointed. That’s what politics can do if we’re not careful. You start off clean. Clear-headed. Hopeful. But then someone throws a jab. Someone lies. Someone wins by playing dirty. And it’s tempting to think, “Well, if that’s what it takes…”",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "Engage, but don't get filthy. A lesson in clean confrontation — truth with grace."
+    },
+    {
+      "id": "03-one-voice-one-leash-one-lord-023",
+      "lesson_number": 6,
+      "lesson_title": "Don't Roll In The Mud",
+      "section": null,
+      "page": 18,
+      "word_count": 92,
+      "text": "But the moment you roll in the mud, you lose more than your position — you lose your integrity, your witness. 18 The apostle Paul once wrote, “Do not be overcome by evil, but overcome evil with good.” (Romans 12:21) That’s not a slogan. That’s a command. The world already has enough mud. What it needs are people willing to stay clean — even when it’s messy. That doesn’t mean you need to always stay quiet. It doesn’t mean you ignore injustice. It means you answer with truth — not with tricks.",
+      "keep": true,
+      "themes": [
+        "tempted",
+        "ashamed",
+        "called"
+      ],
+      "lesson_subtitle": "Engage, but don't get filthy. A lesson in clean confrontation — truth with grace."
+    },
+    {
+      "id": "03-one-voice-one-leash-one-lord-024",
+      "lesson_number": 6,
+      "lesson_title": "Don't Roll In The Mud",
+      "section": null,
+      "page": 19,
+      "word_count": 71,
+      "text": "Jesus could’ve out-argued every Pharisee. Easily. But He never stooped to their level. He didn’t roll in their mud. He humbly and gently stood firm in the light of truth. When the world plays dirty, shine brighter. When politics gets ugly, speak with grace. You don’t have to match the mess to make a difference. You just have to stay clean — even if you’re the only one who does. 19",
+      "keep": true,
+      "themes": [
+        "tempted",
+        "ashamed",
+        "trusting",
+        "called"
+      ],
+      "lesson_subtitle": "Engage, but don't get filthy. A lesson in clean confrontation — truth with grace."
+    },
+    {
+      "id": "03-one-voice-one-leash-one-lord-025",
+      "lesson_number": 7,
+      "lesson_title": "Be Watchful, Not Fearful",
+      "section": null,
+      "page": 20,
+      "word_count": 90,
+      "text": "Some dogs bark at everything — the mail, the wind, a falling leaf. Others just watch. The good ones don’t panic. They don’t pace. They sit still. Their eyes focused, steady. And when something really is wrong, you know by the way they move. There’s a difference between being alert and being afraid. In the world of politics, that line gets blurry. Every headline says the sky is falling. Every voice shouts, “If we don’t act now, everything will be lost.” It’s easy to get swept up in the noise.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "There's a difference between vigilance and paranoia. A good dog does not panic — it watches and waits."
+    },
+    {
+      "id": "03-one-voice-one-leash-one-lord-026",
+      "lesson_number": 7,
+      "lesson_title": "Be Watchful, Not Fearful",
+      "section": null,
+      "page": 20,
+      "word_count": 91,
+      "text": "But choices made out of fear are almost always bad choices. It rushes. It exaggerates. It forgets that God is still in charge. He has always been and will always be. Jesus once told His followers to stay awake — to be ready. But He never told them to panic. In fact, again and again, He said, “Do not be afraid.” 20 We were never meant to live with our hearts clenched. Being faithful doesn’t mean being frightened. Quite the opposite: it means keeping your eyes open and your feet steady.",
+      "keep": true,
+      "themes": [
+        "anxious",
+        "afraid",
+        "trusting",
+        "resting"
+      ],
+      "lesson_subtitle": "There's a difference between vigilance and paranoia. A good dog does not panic — it watches and waits."
+    },
+    {
+      "id": "03-one-voice-one-leash-one-lord-027",
+      "lesson_number": 7,
+      "lesson_title": "Be Watchful, Not Fearful",
+      "section": null,
+      "page": 21,
+      "word_count": 52,
+      "text": "Like a good dog watching the gate — not pacing, not growling, just… watching. Trust that when it’s time to act, the Master will let you know. And until then, you can sit quietly. Because you’re not guarding the world on your own. You’re just doing your part. And that’s enough. 21",
+      "keep": true,
+      "themes": [
+        "anxious",
+        "afraid",
+        "trusting",
+        "resting"
+      ],
+      "lesson_subtitle": "There's a difference between vigilance and paranoia. A good dog does not panic — it watches and waits."
+    },
+    {
+      "id": "03-one-voice-one-leash-one-lord-028",
+      "lesson_number": 8,
+      "lesson_title": "Who Is Holding The Leash?",
+      "section": null,
+      "page": 22,
+      "word_count": 106,
+      "text": "He was strong — too strong for the little boy holding his leash. The dog meant well. He wasn’t aggressive. Just excited. A squirrel darted across the path, and in one sharp tug, the boy lost control. The leash slipped, the boy stumbled, and the dog took off. It didn’t take long to catch him. But that wasn’t the point. A dog that doesn’t know who’s in charge can get into trouble — even with the best of intentions. Politics is full of people who think they’re leading, when really, they’re being pulled. Pulled by power. Pulled by pride. Pulled by whatever’s popular at the moment.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "03-one-voice-one-leash-one-lord-029",
+      "lesson_number": 8,
+      "lesson_title": "Who Is Holding The Leash?",
+      "section": null,
+      "page": 22,
+      "word_count": 94,
+      "text": "And sometimes, we do the same. We say we’re serving God, but deep down we’re really serving ourselves. We want approval. Or control. Or just the thrill of being important and everyone listening to you. 22 But the leash tells the truth. In the end, someone is guiding you — shaping your choices, steering your reactions, leading your heart. Jesus said, “No one can serve two masters.” (Matthew 6:24) You can’t follow God and follow your ego. You can’t walk in truth and be led by fear. Sooner or later, one will pull harder.",
+      "keep": true,
+      "themes": [
+        "proud",
+        "striving",
+        "surrendered"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "03-one-voice-one-leash-one-lord-030",
+      "lesson_number": 8,
+      "lesson_title": "Who Is Holding The Leash?",
+      "section": null,
+      "page": 23,
+      "word_count": 65,
+      "text": "That’s why it matters who’s holding the leash. Let it be the One who loves you. The One who doesn’t yank you or trick you or push you. The One who walks beside you and knows where you’re suppose to be going — even when you have no clue. Because when God leads, you don’t have to run wild. You just have to follow. 23",
+      "keep": true,
+      "themes": [
+        "striving",
+        "trusting",
+        "surrendered",
+        "resting"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "03-one-voice-one-leash-one-lord-031",
+      "lesson_number": 9,
+      "lesson_title": "When To Sit And When To Stand",
+      "section": null,
+      "page": 24,
+      "word_count": 83,
+      "text": "He sat when told. Every time. Even with people walking by. Even with loud trucks rumbling past. Even with another dog barking across the street — he stayed put. His eyes were on his person, focused, and waiting for the next command. But one day, something changed. A man approached the child he was guarding. The man didn’t smile. He didn’t speak kindly. And before anyone gave a word, the dog stood. No one had to tell him. Some things you just know.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "03-one-voice-one-leash-one-lord-032",
+      "lesson_number": 9,
+      "lesson_title": "When To Sit And When To Stand",
+      "section": null,
+      "page": 24,
+      "word_count": 118,
+      "text": "There are times in life when obedience means sitting still. But there are also times when faithfulness means standing up. 24 In politics, people argue about when to resist and when to comply. Some shout at every little thing. Others stay silent, even when something deeply wrong is happening. But wisdom is not about picking a side. Wisdom is about listening to God. Shadrach, Meshach, and Abednego didn’t stand up to everything. They served a foreign king. They did their work. But when they were told to bow to a false god, they stood. Quietly and calmly. It was not about hate, but about love for God. They knew who they served. And that made the choice simple.",
+      "keep": true,
+      "themes": [
+        "confused",
+        "trusting",
+        "called"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "03-one-voice-one-leash-one-lord-033",
+      "lesson_number": 9,
+      "lesson_title": "When To Sit And When To Stand",
+      "section": null,
+      "page": 25,
+      "word_count": 72,
+      "text": "Sometimes faith looks like waiting patiently. Other times it looks like refusing to move. The difference isn’t pride. It’s purpose. A dog doesn’t stand to prove something. He stands to protect. So before you act, ask: “Is this about me — or about what’s right?” If you walk closely with the Lord, you’ll know when to sit. And when it’s time to stand. You won’t need anyone’s permission. You’ll just know. 25",
+      "keep": true,
+      "themes": [
+        "confused",
+        "waiting",
+        "trusting",
+        "called"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "03-one-voice-one-leash-one-lord-034",
+      "lesson_number": 10,
+      "lesson_title": "Be A Shepherd, Not A Politician",
+      "section": null,
+      "page": 26,
+      "word_count": 123,
+      "text": "The dog didn’t ask for attention. He didn’t pose for pictures or bark to be noticed. But he kept an eye on the little ones — always. At the park, when the kids ran too far, he followed them. When one of them fell, he stood right beside her until help came. He wasn’t pushy. He didn’t try to lead. He certainly did not do any of that to perform. He simply cared. That’s what a shepherd does. But in our world — especially in politics — it’s easy to forget that. A politician asks, “What will they think of me?” A shepherd asks, “What do they need?” One is focused on himself, on being seen. The other is focused on seeing others.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "Care for the flock — don't just court votes. Pastoral responsibility over political ambition."
+    },
+    {
+      "id": "03-one-voice-one-leash-one-lord-035",
+      "lesson_number": 10,
+      "lesson_title": "Be A Shepherd, Not A Politician",
+      "section": null,
+      "page": 26,
+      "word_count": 112,
+      "text": "Jesus said, “The good shepherd lays down his life for the sheep.” (John 10:11) Was Jesus talking about a job? No. He was talking about love. A love that stems from deep within the heart. A love that is steady, watchful, protective. The kind of love that doesn’t quit when it gets hard. 26 Too many leaders today chase approval instead of people. They run campaigns, not care. They protect their positions, not the vulnerable. But shepherding doesn’t need a title. You don’t have to be famous, have lots of important-sounding titles or degrees to watch over the ones near you. You just need to notice them. And stay close to them.",
+      "keep": true,
+      "themes": [
+        "called",
+        "loved",
+        "trusting"
+      ],
+      "lesson_subtitle": "Care for the flock — don't just court votes. Pastoral responsibility over political ambition."
+    },
+    {
+      "id": "03-one-voice-one-leash-one-lord-036",
+      "lesson_number": 10,
+      "lesson_title": "Be A Shepherd, Not A Politician",
+      "section": null,
+      "page": 27,
+      "word_count": 45,
+      "text": "The best dogs never look like they’re doing much. But they’re always aware. Always ready. Always nearby. You don’t have to win arguments or gather votes to make a difference. Just look after the ones God gave you. That’s what a good shepherd does. 27",
+      "keep": true,
+      "themes": [
+        "called",
+        "discouraged",
+        "trusting"
+      ],
+      "lesson_subtitle": "Care for the flock — don't just court votes. Pastoral responsibility over political ambition."
+    },
+    {
+      "id": "03-one-voice-one-leash-one-lord-037",
+      "lesson_number": 11,
+      "lesson_title": "Wagging Tails And Wounded Hearts",
+      "section": null,
+      "page": 28,
+      "word_count": 87,
+      "text": "He greeted everyone with a wag. Didn’t matter who you were, or how your day had gone. If you walked through that door, you were met with kindness. That wag wasn’t just excitement. Yes, he was excited, but it was also a welcome. There’s something healing about being seen, welcomed — not for what you’ve done, not for what you believe, not for how smart you are or how much you have, but simply because you’re human. Dogs seem to understand that much better than we do.",
+      "keep": true,
+      "themes": [
+        "lonely",
+        "loved",
+        "forgotten"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "03-one-voice-one-leash-one-lord-038",
+      "lesson_number": 11,
+      "lesson_title": "Wagging Tails And Wounded Hearts",
+      "section": null,
+      "page": 28,
+      "word_count": 111,
+      "text": "Politics, on the other hand, tends to sort people into camps: Us versus Them. Right versus. Wrong. Blue versus. Red. Win versus Lose. But people aren’t sides. People are souls, precious souls. And many of them are wounded. 28 They’ve been hurt by words, or the lack of words, left out of conversations, judged by labels. Some… many don’t trust anymore. And some are just tired. When Jesus walked the earth, He didn’t check credentials before healing. He didn’t quiz people on what they understood. He didn’t require that you be on this side or that side. He saw the heart first. He saw the wound — and moved toward it.",
+      "keep": true,
+      "themes": [
+        "lonely",
+        "ashamed",
+        "loved",
+        "weary"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "03-one-voice-one-leash-one-lord-039",
+      "lesson_number": 11,
+      "lesson_title": "Wagging Tails And Wounded Hearts",
+      "section": null,
+      "page": 29,
+      "word_count": 74,
+      "text": "That’s what mercy does. It doesn’t mean we ignore the truth. It means we carry the truth but with gentleness and humility. The world doesn’t need more shouting. It needs more wagging — small signs of welcome. A look that says, “You matter.” A tone that says, “You’re safe here, even if we disagree.” Kindness won’t fix everything. But it opens the door. And sometimes, that’s all we need for healing to begin. 29",
+      "keep": true,
+      "themes": [
+        "lonely",
+        "weary",
+        "loved",
+        "hopeful"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "03-one-voice-one-leash-one-lord-040",
+      "lesson_number": 12,
+      "lesson_title": "Faithful In The Fog",
+      "section": null,
+      "page": 30,
+      "word_count": 88,
+      "text": "There was nothing to see. Just thick fog that did not move. The dog stood near the edge of the trail. He kept his nose to the air. He couldn’t see far ahead, but he didn’t panic. He waited for the sound of footsteps. Just waiting. He knew his person would come. Sometimes life feels like that. We squint into the future and everything’s cloudy. No clear path. No easy answers. And in politics, that feeling often grows louder — confusion, division, promises that shift with the wind.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "God's truth is still truth, even when visibility is low."
+    },
+    {
+      "id": "03-one-voice-one-leash-one-lord-041",
+      "lesson_number": 12,
+      "lesson_title": "Faithful In The Fog",
+      "section": null,
+      "page": 30,
+      "word_count": 92,
+      "text": "It’s hard to know who to trust when you can’t see what’s next. But God isn’t lost in the fog. He’s still guiding us, and the entire universe. We may not feel Him, but God is still near. And as He has always been, He is still good, and good to us. The Bible says, “We walk by faith, not by sight.” (2 Corinthians 5:7) That isn’t just about believing big things — it’s about trusting God for all the small things in our lives, especially when the way forward isn’t clear.",
+      "keep": true,
+      "themes": [
+        "confused",
+        "afraid",
+        "trusting",
+        "waiting"
+      ],
+      "lesson_subtitle": "God's truth is still truth, even when visibility is low."
+    },
+    {
+      "id": "03-one-voice-one-leash-one-lord-042",
+      "lesson_number": 12,
+      "lesson_title": "Faithful In The Fog",
+      "section": null,
+      "page": 30,
+      "word_count": 90,
+      "text": "30 You don’t need to see everything to stay faithful. Often it’s just the opposite: our faith grows when we don’t see much at all. You just need to know Who you’re walking with. Or Who is walking with us. Sometimes that means standing still. Sometimes that means taking one small, careful step. But always, it means listening for His voice. The world will try to rush you. Push you. Confuse you. But you don’t have to move until the Shepherd puts out His hand for yours and says, “Come.”",
+      "keep": true,
+      "themes": [
+        "confused",
+        "anxious",
+        "waiting",
+        "trusting"
+      ],
+      "lesson_subtitle": "God's truth is still truth, even when visibility is low."
+    },
+    {
+      "id": "03-one-voice-one-leash-one-lord-043",
+      "lesson_number": 12,
+      "lesson_title": "Faithful In The Fog",
+      "section": null,
+      "page": 31,
+      "word_count": 95,
+      "text": "So wait in the fog if you have to. Not with fear, but with faith. Because He hasn’t forgotten you. And He’s never late. 31 Final Thoughts Politics can make us feel like we always have to pick a side, raise our voice, or brace for a fight. But maybe that’s not the only way. Maybe we don’t have to match the noise. Maybe we don’t have to chase every issue, prove every point, or win every argument. Maybe what the world really needs — what God is asking of us — is something simpler.",
+      "keep": true,
+      "themes": [
+        "anxious",
+        "forgotten",
+        "waiting",
+        "trusting"
+      ],
+      "lesson_subtitle": "God's truth is still truth, even when visibility is low."
+    },
+    {
+      "id": "03-one-voice-one-leash-one-lord-044",
+      "lesson_number": 12,
+      "lesson_title": "Faithful In The Fog",
+      "section": null,
+      "page": 32,
+      "word_count": 94,
+      "text": "Loyalty that doesn’t shift with the headlines. Kindness that continues, even when people disagree. A voice that speaks truth, in love, and onlywhen it’s needed. And the courage to stand still when the fog is thick. We’ve learned a lot from dogs in these pages. They don’t pretend to know everything. They’re not experts or influencers. But they know how to stay close by. They know how to listen, carefully. They know how to wait, sometimes for a long time. They know how to be welcoming. And some it seems know how to love.",
+      "keep": true,
+      "themes": [
+        "weary",
+        "confused",
+        "trusting",
+        "called"
+      ],
+      "lesson_subtitle": "God's truth is still truth, even when visibility is low."
+    },
+    {
+      "id": "03-one-voice-one-leash-one-lord-045",
+      "lesson_number": 12,
+      "lesson_title": "Faithful In The Fog",
+      "section": null,
+      "page": 32,
+      "word_count": 107,
+      "text": "They guard what matters. They don’t give up when things get tough. And they’re don’t distracted by the crowd. Well, the good ones anyway. That’s what we’re called to be — faithful. Not loud, but quiet and steady. Not driven by fear, but filled by His love and led by the One who sees clearly, even when we can’t. 32 So if you ever feel overwhelmed by the state of the world, take a breath. Look up. Remember who you belong to. You don’t have to carry it all. You can’t, even if you tried. But you can be faithful with what’s right in front of you.",
+      "keep": true,
+      "themes": [
+        "weary",
+        "anxious",
+        "trusting",
+        "resting"
+      ],
+      "lesson_subtitle": "God's truth is still truth, even when visibility is low."
+    }
+  ]
+}

@@ -1,11 +1,12 @@
 ---
 title: "A Place For Me"
-date: 2025-06-19
+date: "2025-06-19"
 cover_image: "/assets/images/music/a-place-for-me.png"
 youtube: "https://youtu.be/Em0wm9sSyuw"
 spotify: "https://open.spotify.com/album/6epcfaqfwrWaNqWB5soNmh?si=bOlKN3j1TPq3KLkQ-WQuhg"
 apple_music: "https://music.apple.com/us/album/a-place-for-me-single/1821578312"
-show_lyrics: false
+show_lyrics: "false"
+youtube_music: "https://music.youtube.com/watch?v=Em0wm9sSyuw"
 ---
 ## Bible Verse
 (Add Bible verse here)

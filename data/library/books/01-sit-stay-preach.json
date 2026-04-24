@@ -1,0 +1,1828 @@
+{
+  "book_id": "01-sit-stay-preach",
+  "title": "Sit. Stay. Preach.",
+  "subtitle": "Twelve Lessons From Dogs About Loving God",
+  "authors": [
+    "Kyung Suk Yi",
+    "Jin Sung Kim"
+  ],
+  "source_pdf": "01_Sit_Stay_Preach/Sit_Stay_Preach_v03d.pdf",
+  "cover_image": "/assets/images/books/book-cover-01-sit-stay-preach.jpg",
+  "amazon_url": "",
+  "total_pages": 75,
+  "total_chunks": 132,
+  "chunks": [
+    {
+      "id": "01-sit-stay-preach-001",
+      "lesson_number": null,
+      "lesson_title": null,
+      "section": null,
+      "page": 1,
+      "word_count": 110,
+      "text": "Sit. Stay. Preach. Twelve Lessons From Dogs About Loving God By Kyung Suk Yi and Jin Sung Kim © Kyung Suk Yi and Jin Sung Kim This isn’t a book about theology. It’s a book about dogs and the God they quietly pointed us to. Through twelve simple stories, Sit. Stay. Preach. shares lessons learned from faithful companions who didn’t care much for things that didn’t matter, but always stayed close to the ones they loved. We are not pastors. We are one deacon and one lay person trying to love God well. These reflections are for anyone walking quietly, faithfully, still learning how to stay close to the Shepherd.",
+      "keep": false,
+      "themes": []
+    },
+    {
+      "id": "01-sit-stay-preach-002",
+      "lesson_number": null,
+      "lesson_title": null,
+      "section": null,
+      "page": 2,
+      "word_count": 84,
+      "text": "The Never Alone Mission ℅ A&K 440 N. Wolfe Rd. Sunnyvale, CA 94085 Front Cover Photo: unsplash.com/@fattycorgi To every tired, unseen follower of Jesus still showing up, still walking, still believing… this book is for you. Introduction ........................................................... 5 Lesson 1: Faithful in the Shade .............................. 7 Lesson 2: The Dog Who Waited .......................... 13 Lesson 3: The Dog at the Door ............................ 19 Lesson 4: The Nap in the Sun .............................. 26 Lesson 5: Not Every Dog Wins Best in Show ...... 32",
+      "keep": false,
+      "themes": []
+    },
+    {
+      "id": "01-sit-stay-preach-003",
+      "lesson_number": null,
+      "lesson_title": null,
+      "section": null,
+      "page": 4,
+      "word_count": 74,
+      "text": "Lesson 6: The Bark That Wasn’t Needed ............ 38 Lesson 7: The Dog Who Didn’t Leave ................ 44 Lesson 8: The Dog at the Door (Again) .............. 50 Lesson 9: The Joy in a Tennis Ball ....................... 55 Lesson 10: Still Welcome on the Porch ................ 60 Lesson 11: The Name You Answer To ................ 64 Lesson 12: The Dog at Your Feet ......................... 68 Last Thoughts ....................................................... 73 About the Authors ............................................... 75",
+      "keep": false,
+      "themes": []
+    },
+    {
+      "id": "01-sit-stay-preach-004",
+      "lesson_number": null,
+      "lesson_title": null,
+      "section": "introduction",
+      "page": 5,
+      "word_count": 120,
+      "text": "We’ve never met someone in ministry who didn’t need a good dog. Some need one to walk with in the early mornings before the world gets demanding. Some need one to listen, really listen, without interrupting, correcting, or offering ministry advice. Some just need the reminder that joy doesn’t come from metrics, but from a wagging tail and someone who is glad that you came home. Over the years, we’ve had many dogs. Some were loyal. Some were stubborn. One barked at shadows for reasons known only to God. But each one, in their own doggish way, taught us something we didn’t expect to learn: patience, presence, joy, grief, and what it means to be faithful when no one’s watching.",
+      "keep": true,
+      "themes": [
+        "weary",
+        "discouraged",
+        "lonely"
+      ]
+    },
+    {
+      "id": "01-sit-stay-preach-005",
+      "lesson_number": null,
+      "lesson_title": null,
+      "section": "introduction",
+      "page": 5,
+      "word_count": 92,
+      "text": "A note about what you’ll read: The lessons in this book come from real dogs we’ve known and real moments we’ve witnessed. The behaviors, the insights, the spiritual connections — those are genuine observations from years of watching how dogs reflect God’s heart. However, we’ve changed names, locations, and specific circumstances to protect the privacy of the people and places involved, and to weave these lessons into stories that serve our teaching purpose. The dogs taught us these truths; we’ve simply given them new settings in which to share what we learned.",
+      "keep": false,
+      "themes": []
+    },
+    {
+      "id": "01-sit-stay-preach-006",
+      "lesson_number": null,
+      "lesson_title": null,
+      "section": "introduction",
+      "page": 6,
+      "word_count": 111,
+      "text": "This isn’t a how-to book on church growth. This won’t fix your elders, your deacons, or your sound system. It’s not even a book of polished answers. It’s more like a box of dog biscuits: some soft, some crunchy, and a few that might need chewing on before the goodness comes through. Sit. Stay. Preach. is about noticing. Noticing the things we often overlook in ministry and in life. It’s about finding God in the everyday moments. About knowing when to speak and when to stay silent. About remembering that even the Good Shepherd lets His sheep rest beside still waters. And maybe it’s okay if the pastor lies down too.",
+      "keep": true,
+      "themes": [
+        "weary",
+        "striving",
+        "resting"
+      ]
+    },
+    {
+      "id": "01-sit-stay-preach-007",
+      "lesson_number": null,
+      "lesson_title": null,
+      "section": "introduction",
+      "page": 6,
+      "word_count": 62,
+      "text": "We are not pastors. We are one deacon and one lay person trying to love God well. These reflections are for anyone walking quietly, faithfully, still learning how to stay close to the Shepherd. In a world that spans many cultures, languages, and traditions, we’ve discovered that dogs speak a universal language of love, and God’s grace translates perfectly into every heart.",
+      "keep": true,
+      "themes": [
+        "loved",
+        "trusting"
+      ]
+    },
+    {
+      "id": "01-sit-stay-preach-008",
+      "lesson_number": 1,
+      "lesson_title": "Faithful in the Shade",
+      "section": null,
+      "page": 7,
+      "word_count": 84,
+      "text": "Mrs. Chen and Min-jung have been neighbors for over a decade. When Mrs. Chen first moved to the neighborhood, Min-jung was one of the first people to welcome her, with homemade kimchi. They bonded over shared experiences as Asian immigrants, despite coming from different countries. Five years ago, Mrs. Chen decided to adopt a dog from the local shelter. She invited Min-jung to come along for moral support. At the shelter, they fell in love with a cream-colored Labrador puppy who had just arrived.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "01-sit-stay-preach-009",
+      "lesson_number": 1,
+      "lesson_title": "Faithful in the Shade",
+      "section": null,
+      "page": 7,
+      "word_count": 106,
+      "text": "The shelter staff said, “She needs a name for the paperwork. What would you like to call her?” Mrs. Chen looked at Min-jung and said, “I don’t know. She’s so cute, so perfect. I can’t think of anything that fits.” Min-jung smiled and suggsted, “Well… ‘I don’t know’ in Korean is ‘mola’…” They both started laughing, and the puppy’s tail wagged as if she approved. Mrs. Chen often tells people that Mola’s name reminds her that “not knowing” can lead to beautiful discoveries, just like how moving to a new neighborhood where she did not know anyone led to finding a wonderful friend in Min- jung.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "01-sit-stay-preach-010",
+      "lesson_number": 1,
+      "lesson_title": "Faithful in the Shade",
+      "section": null,
+      "page": 8,
+      "word_count": 101,
+      "text": "Min-jung had been leading the women’s ministry at her church for eight years. She loved serving, but lately, she felt exhausted. Between planning events, organizing Bible studies, coordinating volunteers, and making sure everything ran smoothly, she rarely had a quiet moment. Even when she tried to pray, her mind raced with her endless to-do list. One day, her neighbor Mrs. Chen came to visit. Mrs. Chen explained that she needed to go out of town for a week, so she asked Min-jung if she would watch Mola while she was away. Mola had grown into a calm, quiet, and gentle dog,",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "01-sit-stay-preach-011",
+      "lesson_number": 1,
+      "lesson_title": "Faithful in the Shade",
+      "section": null,
+      "page": 8,
+      "word_count": 100,
+      "text": "Min-jung was grateful for the request. She thought having Mola around might be relaxing. On the first morning, Sarah stepped into Mrs. Chen’s backyard with her coffee, hoping to have a few peaceful minutes before starting her busy day. Mola followed her outside, tail wagging softly. But instead of running around or exploring the yard like Min-jung expected, Mola walked straight to the shade under the old oak tree, circled three times, and lay down with a contented sigh. Min-jung waited for Mola to get up and do something. Anything. But Mola just stayed there, watching Min-jung with peaceful eyes.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "01-sit-stay-preach-012",
+      "lesson_number": 1,
+      "lesson_title": "Faithful in the Shade",
+      "section": null,
+      "page": 9,
+      "word_count": 89,
+      "text": "“Come on, Mola,” Min-jung called gently. Mola lifted her head, gave Min-jung a look that seemed to say, “I’m good here, thanks,” and settled back down. Hours passed as Min-jung worked in the garden, watered the plants, and cleaned up the patio. Sometimes she called over to Mola, hoping she’d join her. But Mola stayed in her spot under the tree. Birds came and went. The mailman rattled the gate. A bold squirrel chattered from the branch above. Through it all, Mola remained perfectly still, watching and waiting quietly.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "01-sit-stay-preach-013",
+      "lesson_number": 1,
+      "lesson_title": "Faithful in the Shade",
+      "section": null,
+      "page": 9,
+      "word_count": 107,
+      "text": "At first, Min-jung felt a little frustrated. She was used to being busy, to accomplishing things, to having purpose in every moment. Mola’s stillness seemed almost lazy. But on the third day, something changed Sarah’s perspective. She had been struggling with her Bible study for the upcoming women’s retreat. The theme was “Finding Rest in God,” but Min-jung felt like a fraud trying to teach about rest when she couldn’t remember the last time she had truly rested herself. She sat on the back steps, frustrated with notes that wouldn’t come together and feeling overwhelmed by the weight of leading so many women in their spiritual growth.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "01-sit-stay-preach-014",
+      "lesson_number": 1,
+      "lesson_title": "Faithful in the Shade",
+      "section": null,
+      "page": 10,
+      "word_count": 118,
+      "text": "That’s when she really noticed Mola for the first time. The dog wasn’t just lying there doing nothing. Her ears were alert. Her eyes were bright. She was completely present and peaceful, but also watchful and ready. And most importantly, her eyes were focused on Min-jung. Mola hadn’t been lazy at all. She had been keeping Min-jung company. Being present. Staying close. Min-jung understood something important. As a ministry leader, she had spent years believing that faithfulness meant constant motion. If she wasn’t organizing, planning, serving, or solving problems, she felt like she wasn’t really serving God. She had forgotten that sometimes the most important ministry isn’t about what we do, but about where we choose to be.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "01-sit-stay-preach-015",
+      "lesson_number": 1,
+      "lesson_title": "Faithful in the Shade",
+      "section": null,
+      "page": 10,
+      "word_count": 90,
+      "text": "Mola had mastered something Min-jung had lost in all her busyness: the art of staying close. Min-jung remembered Jesus’s words: “Remain in me, and I will remain in you.” Not “work for me” or “impress me with your programs.” Remain. Stay close. Be near. She thought about Mary and Martha in the Bible. Martha had been busy serving Jesus, worried about getting everything perfect. But Mary had chosen to sit at Jesus’s feet, simply being with Him. And Jesus had gently told Martha that Mary had chosen the better way.",
+      "keep": true,
+      "themes": [
+        "weary",
+        "striving",
+        "resting"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "01-sit-stay-preach-016",
+      "lesson_number": 1,
+      "lesson_title": "Faithful in the Shade",
+      "section": null,
+      "page": 11,
+      "word_count": 107,
+      "text": "Min-jung realized she had been living like Martha for years. Always busy, always worried about the next event or meeting or problem to solve. She had been so focused on serving Jesus that she had forgotten to simply be with Him. There’s a reason Scripture describes God as our shelter, our refuge, our hiding place. And there’s a reason Jesus calls us to remain in Him. We dash in and out of God’s presence like we’re picking up dry cleaning. We offer quick prayers between meetings and squeeze in hurried devotions before bed. But dwelling isn’t a drive-thru. It’s sitting down in the shade and staying there.",
+      "keep": true,
+      "themes": [
+        "weary",
+        "striving",
+        "resting"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "01-sit-stay-preach-017",
+      "lesson_number": 1,
+      "lesson_title": "Faithful in the Shade",
+      "section": null,
+      "page": 11,
+      "word_count": 94,
+      "text": "That afternoon, Min-jung made a decision. She closed her notes and walked over to the oak tree. She sat down next to Mola in the shade. Mola opened one eye, saw her there, and her tail gave a single, satisfied thump against the ground. They sat there together for an hour. Min-jung didn’t try to plan or organize or solve anything. She didn’t even try to pray in any formal way. She simply stayed there with Mola, letting her soul breathe and allowing God to just be with her while she was with Him.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "01-sit-stay-preach-018",
+      "lesson_number": 1,
+      "lesson_title": "Faithful in the Shade",
+      "section": null,
+      "page": 11,
+      "word_count": 100,
+      "text": "And somehow, in that quiet space, the lesson she had been wrestling with began to write itself. Not because she was working harder, but because she had finally stopped working and started trusting. Mola had taught her something that church leaders often forget: sometimes the most spiritual thing we can do is sit down, stay close to God, and let His presence work in us. We don’t have to carry the weight of ministry on our shoulders. We don’t have to have all the answers or solve every problem. We just need to remain close to the One who does.",
+      "keep": true,
+      "themes": [
+        "weary",
+        "striving",
+        "trusting",
+        "resting"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "01-sit-stay-preach-019",
+      "lesson_number": 1,
+      "lesson_title": "Faithful in the Shade",
+      "section": null,
+      "page": 12,
+      "word_count": 99,
+      "text": "When Mrs. Chen returned and asked how things had gone, Min-jung smiled. “Everything went great,” she said. “You know, Mola is such a peaceful dog. She actually helped me slow down and rest for the first time in months. I really needed that.” From that week forward, Min-jung started each day differently. Instead of jumping immediately into her busy schedule, she spent time simply being with God. Not asking for anything, not planning anything, just staying close. And she found that this quiet time gave her more peace and energy for ministry than all her previous busyness ever had.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "01-sit-stay-preach-020",
+      "lesson_number": 2,
+      "lesson_title": "The Dog Who Waited",
+      "section": null,
+      "page": 13,
+      "word_count": 118,
+      "text": "Neil could see so many needs in their community, and it frustrated him that the church seemed to move so slowly. As a deacon, he organized outreach programs, coordinated community service projects, and helped manage daily operations. There was a homeless shelter that needed volunteers, a food bank that was understaffed, and several church families struggling financially. Neil wanted to jump into action and start new programs to address all these needs. The problem was that Pastor Moonsamy kept saying, “Let’s wait and pray about it.” Every time Neil brought up a new ministry idea, the pastor would smile and say, “That sounds like it could be from God, but let’s spend more time seeking His direction first.”",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "Learning to Trust God's Timing"
+    },
+    {
+      "id": "01-sit-stay-preach-021",
+      "lesson_number": 2,
+      "lesson_title": "The Dog Who Waited",
+      "section": null,
+      "page": 13,
+      "word_count": 88,
+      "text": "Neil didn’t understand the delay. These were good things, helpful things. Why couldn’t they just start serving? One Saturday, Neil was visiting his friend Alan, who had recently adopted a dog from the shelter. Alan had invited him over to meet Asante, a mixed-breed dog with intelligent eyes and a calm personality. “Watch this,” Alan said as he prepared Asante’s dinner. He set down a bowl of food that smelled delicious. Asante sat perfectly still beside the bowl, his tail wagging slightly, but he didn’t touch the food.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "Learning to Trust God's Timing"
+    },
+    {
+      "id": "01-sit-stay-preach-022",
+      "lesson_number": 2,
+      "lesson_title": "The Dog Who Waited",
+      "section": null,
+      "page": 14,
+      "word_count": 101,
+      "text": "“Go ahead, Asante,” Marcus said. “You can eat.” Only then did Asante begin eating, his tail wagging with satisfaction. Neil was intrigued. “He must be hungry, but he doesn’t just eat. Even though the food is right there.” Alan laughed. “Asante has quite a story. When I got him from the shelter, they told me he’d been living on the streets for months. He was so thin you could see his ribs. The first few days here, whenever I put food down, he would gulp it down so fast he’d make himself sick. He was afraid someone would take it away.”",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "Learning to Trust God's Timing"
+    },
+    {
+      "id": "01-sit-stay-preach-023",
+      "lesson_number": 2,
+      "lesson_title": "The Dog Who Waited",
+      "section": null,
+      "page": 14,
+      "word_count": 87,
+      "text": "Alan paused, watching Asante wait patiently by his bowl. “But I kept putting his food down and saying ‘wait’ before I said ‘okay.’ At first, he’d only wait a few seconds. But gradually, he learned that the food wasn’t going anywhere and that I wasn’t going to let anyone take it. Now look at him - he can wait as long as needed because he trusts that I’ll take care of him.” Neil watched Asante’s calm confidence. “So he learned that waiting actually led to better things?”",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "Learning to Trust God's Timing"
+    },
+    {
+      "id": "01-sit-stay-preach-024",
+      "lesson_number": 2,
+      "lesson_title": "The Dog Who Waited",
+      "section": null,
+      "page": 15,
+      "word_count": 105,
+      "text": "“Exactly,” Marcus said. “When he rushed and panicked, he got sick. When he learned to wait for my signal, he could actually enjoy his food.” As Neil watched Asante eat peacefully, he started thinking about his own situation. Maybe there was something to learn here. Over the next few weeks, Neil paid more attention to how Pastor Moonsamy approached ministry decisions. He noticed that when the pastor said “let’s wait and pray,” he wasn’t being lazy or indifferent. He was actually spending time in prayer, talking to other church leaders, and carefully considering how new ministries would fit with the church’s current resources and calling.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "Learning to Trust God's Timing"
+    },
+    {
+      "id": "01-sit-stay-preach-025",
+      "lesson_number": 2,
+      "lesson_title": "The Dog Who Waited",
+      "section": null,
+      "page": 15,
+      "word_count": 96,
+      "text": "One morning, Neil decided to ask Pastor Moonsamy directly about his approach. “Pastor, I’ve been wondering about the timing for new ministries. I see so many needs, and I want to help right away. But you often suggest we wait. Can you help me understand why?” Pastor Moonsamy smiled. “Neil, I appreciate your heart for service. But I’ve learned that just because something is good doesn’t mean it’s God’s timing for us to do it. When we rush ahead without seeking God’s direction, we can actually get in the way of what He wants to accomplish.”",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "Learning to Trust God's Timing"
+    },
+    {
+      "id": "01-sit-stay-preach-026",
+      "lesson_number": 2,
+      "lesson_title": "The Dog Who Waited",
+      "section": null,
+      "page": 16,
+      "word_count": 111,
+      "text": "He continued, “There’s a difference between being obedient by avoiding bad things and being obedient by waiting for God’s green light to do good things. The second kind is much harder, especially when we’re hungry to serve.” Neil nodded, thinking of Asante waiting patiently beside his food bowl. A few weeks later, Pastor Moonsamy called Neil into his office. “I’ve been praying about that homeless shelter ministry you mentioned,” he said. “I believe God is opening that door now. But here’s the interesting part: two other churches in town have been praying about the same thing. Instead of starting three separate programs, God seems to be leading us to work together.”",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "Learning to Trust God's Timing"
+    },
+    {
+      "id": "01-sit-stay-preach-027",
+      "lesson_number": 2,
+      "lesson_title": "The Dog Who Waited",
+      "section": null,
+      "page": 16,
+      "word_count": 91,
+      "text": "Neil was amazed. If they had rushed ahead with their own program months earlier, they would have missed this opportunity to partner with other churches and have a much greater impact. “How did you know to wait?” Neil asked. Pastor Moonsamy explained, “I’ve learned that God’s timing is always perfect, even when it doesn’t make sense to us. When we wait for His signal, we receive His best plans. Scripture doesn’t say those who hurry will renew their strength. It says those who wait on the Lord will renew their strength.”",
+      "keep": true,
+      "themes": [
+        "waiting",
+        "trusting",
+        "anxious"
+      ],
+      "lesson_subtitle": "Learning to Trust God's Timing"
+    },
+    {
+      "id": "01-sit-stay-preach-028",
+      "lesson_number": 2,
+      "lesson_title": "The Dog Who Waited",
+      "section": null,
+      "page": 17,
+      "word_count": 81,
+      "text": "Neil thought about Asante again. The dog didn’t wait because he didn’t want the food. He waited because he trusted his master more than he trusted his own hunger. Over the following months, Neil began to approach ministry differently. Instead of immediately jumping into action when he saw a need, he started by praying and seeking God’s timing. He found that when ministries launched at God’s timing rather than his own, they were more successful and brought more glory to God.",
+      "keep": true,
+      "themes": [
+        "waiting",
+        "trusting",
+        "striving"
+      ],
+      "lesson_subtitle": "Learning to Trust God's Timing"
+    },
+    {
+      "id": "01-sit-stay-preach-029",
+      "lesson_number": 2,
+      "lesson_title": "The Dog Who Waited",
+      "section": null,
+      "page": 17,
+      "word_count": 84,
+      "text": "When the homeless shelter ministry finally began, it was better than anything Neil could have planned on his own. The three churches working together had more volunteers, more resources, and more wisdom than any one church could have provided. Neil learned that waiting on God isn’t wasted time. It’s worship. It’s a way of saying, “I trust You more than I trust my own desire to serve.” And when God finally gives the signal to move forward, the results are always worth the wait.",
+      "keep": true,
+      "themes": [
+        "waiting",
+        "trusting",
+        "surrendered"
+      ],
+      "lesson_subtitle": "Learning to Trust God's Timing"
+    },
+    {
+      "id": "01-sit-stay-preach-030",
+      "lesson_number": 3,
+      "lesson_title": "The Dog at the Door",
+      "section": null,
+      "page": 19,
+      "word_count": 102,
+      "text": "Pastor Kim had been serving at his church for twelve years. He loved preaching and caring for his congregation, but lately he felt discouraged. Church attendance had been slowly declining. Several long-time members had moved away. The offerings weren’t keeping up with the building expenses. Some weeks, Pastor Kim wondered if he was failing as a shepherd. One Thursday morning, Pastor Kim was preparing for a funeral service when he noticed something unusual. An old Border Collie was sitting by the church’s front doors. The dog wasn’t barking or causing trouble. He was just sitting there quietly, as if waiting for someone.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "Learning About God's Faithful Love"
+    },
+    {
+      "id": "01-sit-stay-preach-031",
+      "lesson_number": 3,
+      "lesson_title": "The Dog at the Door",
+      "section": null,
+      "page": 19,
+      "word_count": 130,
+      "text": "The funeral was for Mr. Henderson, an elderly man who had lived alone most of his life. He wasn’t a deacon or an elder. He had never taught Sunday school or served on any committees. Most Sundays, he would slip into the back pew just as the service started and leave quietly when it ended. After church, he would sit on the bench by the church office for a few minutes before walking home with his dog. Pastor Kim had always felt a little guilty about Mr. Henderson. He had meant to visit him more often, to get to know him better, to involve him in church activities. But Mr. Henderson seemed content to stay in the background, and Pastor Kim had focused his attention on the more active members.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "Learning About God's Faithful Love"
+    },
+    {
+      "id": "01-sit-stay-preach-032",
+      "lesson_number": 3,
+      "lesson_title": "The Dog at the Door",
+      "section": null,
+      "page": 20,
+      "word_count": 83,
+      "text": "Now, as Pastor Kim unlocked the church doors, the old Border Collie looked up at him hopefully. “Sorry, boy,” Pastor Kim said gently. “He’s not here anymore.” The dog didn’t move. During the funeral service, Pastor Kim kept glancing toward the front doors. The Border Collie remained in the same spot. He didn’t bark when the organ played. He didn’t move when people walked by. He didn’t even shift when the small group of mourners filed past him to leave for the cemetery.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "Learning About God's Faithful Love"
+    },
+    {
+      "id": "01-sit-stay-preach-033",
+      "lesson_number": 3,
+      "lesson_title": "The Dog at the Door",
+      "section": null,
+      "page": 20,
+      "word_count": 87,
+      "text": "After the burial, Pastor Kim returned to lock up the church. The dog was still there. As Pastor Kim approached the front steps, he noticed a middle-aged man walking toward the church from the parking lot. The man looked tired and was carrying a small box of what appeared to be personal items. When the man saw the Border Collie by the church doors, he stopped and sighed deeply. “There you are,” he said softly. Pastor Kim walked over to them. “I’m Pastor Kim. Are you family?”",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "Learning About God's Faithful Love"
+    },
+    {
+      "id": "01-sit-stay-preach-034",
+      "lesson_number": 3,
+      "lesson_title": "The Dog at the Door",
+      "section": null,
+      "page": 21,
+      "word_count": 110,
+      "text": "“Yes, I’m Robert, James Henderson’s nephew.” He knelt down beside the dog and gently stroked his gray fur. The dog’s tail wagged slightly, but he didn’t move from his spot. “You must be Charlie,” he said to the dog. Robert stood up and turned to Pastor Kim. “Uncle James talked about him all the time. He told me they walked together every morning for twelve years. They always took the same route at the same time. They would end up sitting on that bench by your office.” Robert gestured toward the bench near the church entrance. “Uncle James said it was the quietest place in town where he could pray.”",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "Learning About God's Faithful Love"
+    },
+    {
+      "id": "01-sit-stay-preach-035",
+      "lesson_number": 3,
+      "lesson_title": "The Dog at the Door",
+      "section": null,
+      "page": 21,
+      "word_count": 127,
+      "text": "Pastor Kim felt a knot form in his stomach. Mr. Henderson had been praying outside his church every day, and he had barely noticed. “What will happen to Charlie now?” Pastor Kim asked. The nephew shook his head sadly. “Even though I would love to take Charlie, I can’t. I live in a small apartment in the city, and my lease doesn’t allow pets. I’ve already called our other relatives, but my sister is allergic to dogs, and my elderly parents can’t handle taking care of a dog this size.” Robert looked down at Charlie with genuine sadness. “I’ve been trying to think of options all week, but I don’t know anyone else who could take him. I’m afraid I’ll have to call the animal shelter tomorrow.”",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "Learning About God's Faithful Love"
+    },
+    {
+      "id": "01-sit-stay-preach-036",
+      "lesson_number": 3,
+      "lesson_title": "The Dog at the Door",
+      "section": null,
+      "page": 22,
+      "word_count": 110,
+      "text": "Pastor Kim looked at Charlie, then at Robert. “He shouldn’t stay here alone overnight. Why don’t I take him home with me for now? That will give us a day or two to see if we can find someone in the congregation who might want to adopt him before you have to call the shelter.” Robert’s face showed relief. “That would be wonderful. Thank you, Pastor. I’ll bring his food and leash from Uncle James’s house.” That evening, Charlie sat by Pastor Kim’s front door, looking toward the direction of the church. Pastor Kim sat down on his front steps beside him. “He’s not coming back, boy,” Pastor Kim whispered.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "Learning About God's Faithful Love"
+    },
+    {
+      "id": "01-sit-stay-preach-037",
+      "lesson_number": 3,
+      "lesson_title": "The Dog at the Door",
+      "section": null,
+      "page": 22,
+      "word_count": 103,
+      "text": "Charlie looked at him and then back toward the direction of the church. His loyalty broke Pastor Kim’s heart. As he sat there with Charlie, Pastor Kim began to understand something important. He had been measuring his ministry by the wrong things. He worried about attendance numbers and offering amounts and program participation. But Mr. Henderson had shown him a different kind of faithfulness. For many years, Mr. Henderson had walked to this church every morning. Not to serve on committees or teach classes or organize events. Just to sit quietly and pray. His faithfulness had been simple and constant, just like Charlie’s.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "Learning About God's Faithful Love"
+    },
+    {
+      "id": "01-sit-stay-preach-038",
+      "lesson_number": 3,
+      "lesson_title": "The Dog at the Door",
+      "section": null,
+      "page": 23,
+      "word_count": 104,
+      "text": "Pastor Kim thought about God’s love. God doesn’t love His people because they’re impressive or talented or useful in ministry programs. He loves them because He chooses to love them. His love isn’t based on what they accomplish. It’s based on His character. Just like Charlie waiting at the door, God’s love is patient and constant. He doesn’t give up on His people when they’re late to church or struggling with faith. He doesn’t stop loving them when they mess up or fail to serve. He keeps showing up, keeps waiting, keeps loving them with the kind of faithful heart that never lets go.",
+      "keep": true,
+      "themes": [
+        "loved",
+        "ashamed",
+        "discouraged",
+        "forgotten"
+      ],
+      "lesson_subtitle": "Learning About God's Faithful Love"
+    },
+    {
+      "id": "01-sit-stay-preach-039",
+      "lesson_number": 3,
+      "lesson_title": "The Dog at the Door",
+      "section": null,
+      "page": 23,
+      "word_count": 111,
+      "text": "The next morning, Pastor Kim woke up early and found Charlie sitting by the front door again, looking toward the church. Pastor Kim made a decision. He had been watching Charlie’s faithful waiting, and he talked to his wife about keeping Charlie permanently. She agreed they had room in their hearts and their backyard for him. Pastor Kim called Robert early that morning, before Robert left the city to pick up Charlie. “I’ve been thinking about Charlie,” he said. “If you’re agreeable, my wife and I would like to adopt him. He’s already settling in here, and I think Uncle James would have liked knowing Charlie stayed close to the church.”",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "Learning About God's Faithful Love"
+    },
+    {
+      "id": "01-sit-stay-preach-040",
+      "lesson_number": 3,
+      "lesson_title": "The Dog at the Door",
+      "section": null,
+      "page": 24,
+      "word_count": 84,
+      "text": "Robert’s voice was filled with relief and gratitude. “Pastor, that would be perfect. I was dreading this trip to pick him up for the shelter. Uncle James always spoke so highly of you. I think he’d be happy knowing Charlie found a good home with someone who understood how special their daily routine was.” After Pastor Kim hung up the phone, he looked at Charlie, who was still sitting by the front door. “Well, boy,” he said gently, “looks like you’re staying with us.”",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "Learning About God's Faithful Love"
+    },
+    {
+      "id": "01-sit-stay-preach-041",
+      "lesson_number": 3,
+      "lesson_title": "The Dog at the Door",
+      "section": null,
+      "page": 24,
+      "word_count": 129,
+      "text": "Charlie’s tail wagged slightly, but he remained in his spot, still looking toward the church. Pastor Kim sat down beside him. “I know you miss him. But I think Mr. Henderson would be happy knowing you found a family who understands how important the morning prayers were.” Over the following weeks, Pastor Kim continued the routine that Charlie knew so well. Every morning, they would walk to the church together. Charlie would sit on the bench where he used to sit with Mr. Henderson, and Pastor Kim would spend a few quiet minutes in prayer before starting his day. Pastor Kim realized that Charlie had taught him what faithful love looks like. It doesn’t give up. It doesn’t walk away. It stays close, even when it’s hard to do.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "Learning About God's Faithful Love"
+    },
+    {
+      "id": "01-sit-stay-preach-042",
+      "lesson_number": 3,
+      "lesson_title": "The Dog at the Door",
+      "section": null,
+      "page": 25,
+      "word_count": 116,
+      "text": "Some kinds of love are worth waiting for. And Charlie’s faithfulness changed Pastor Kim. Charlie found a new home that day. But more importantly, Pastor Kim found a new understanding of how much God loves His people. The kind of love that waits at the door, no matter how long it takes for them to come home. Pastor Kim began to see his congregation differently. Instead of focusing on who was missing, he started noticing who was faithfully showing up. Instead of worrying about declining numbers, he started celebrating the steady hearts like Mr. Henderson who came quietly to pray. Instead of measuring success by programs and activities, he started measuring it by faithfulness and love.",
+      "keep": true,
+      "themes": [
+        "discouraged",
+        "forgotten",
+        "loved"
+      ],
+      "lesson_subtitle": "Learning About God's Faithful Love"
+    },
+    {
+      "id": "01-sit-stay-preach-043",
+      "lesson_number": 3,
+      "lesson_title": "The Dog at the Door",
+      "section": null,
+      "page": 25,
+      "word_count": 40,
+      "text": "And every morning when Pastor Kim saw Charlie in their backyard, he was reminded that the best ministry isn’t always the most visible. Sometimes it’s just showing up, staying close, and trusting that God sees every act of quiet faithfulness.",
+      "keep": true,
+      "themes": [
+        "discouraged",
+        "forgotten",
+        "trusting"
+      ],
+      "lesson_subtitle": "Learning About God's Faithful Love"
+    },
+    {
+      "id": "01-sit-stay-preach-044",
+      "lesson_number": 4,
+      "lesson_title": "The Nap in the Sun",
+      "section": null,
+      "page": 26,
+      "word_count": 101,
+      "text": "Elena had been serving as the church secretary for six years. She handled everything from answering phones and managing schedules to coordinating volunteers and organizing church events. She loved serving, but lately she felt exhausted. Between preparing bulletins, updating the website, managing the prayer request list, and helping with multiple committees, she barely had time to breathe. Even at home, Elena’s mind raced with church responsibilities. She would lie in bed thinking about the upcoming missions conference, the youth retreat registration, and whether she had remembered to order supplies for the children’s ministry. Rest felt like a luxury she couldn’t afford.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "01-sit-stay-preach-045",
+      "lesson_number": 4,
+      "lesson_title": "The Nap in the Sun",
+      "section": null,
+      "page": 26,
+      "word_count": 143,
+      "text": "When her neighbor Mrs. Rodriguez asked her to care for Bella while she visited family for a week, Elena almost said no. She was already overwhelmed. But Mrs. Rodriguez was elderly and had been so kind over the years, so Elena agreed. Mrs. Rodriguez brought Bella over on Sunday evening. Bella was a Basenji. She had eyes that were alert and intelligent, with a calm personality. “She’s very easy,” Mrs. Rodriguez assured Elena. “She mostly just likes to rest in sunny spots.” The next morning, Elena rushed around getting ready for another busy day at the church office. She let Bella out into the backyard, expecting the dog to run around or play. Instead, Bella walked slowly around the yard, sniffed a few spots, and then found the sunniest patch of grass. She circled three times and lay down with a contented sigh.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "01-sit-stay-preach-046",
+      "lesson_number": 4,
+      "lesson_title": "The Nap in the Sun",
+      "section": null,
+      "page": 27,
+      "word_count": 99,
+      "text": "Elena checked on Bella throughout the morning as she worked from her home office, answering emails and updating the church calendar. Each time she looked out, Bella was in the same spot, completely relaxed. Her eyes were half-closed, her paws occasionally twitched as she dozed, and her ears moved slightly when she heard sounds. She looked like she had discovered the secret to peace. At first, Elena felt a little envious watching Bella. Here she was, stressed about deadlines and responsibilities, while this dog was completely at ease. Elena couldn’t remember the last time she had felt that relaxed.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "01-sit-stay-preach-047",
+      "lesson_number": 4,
+      "lesson_title": "The Nap in the Sun",
+      "section": null,
+      "page": 27,
+      "word_count": 92,
+      "text": "What amazed Elena most was how Bella could rest no matter what was happening around her. A garbage truck rumbled down the street, and Bella barely lifted her head. The neighbor’s lawnmower started up, but Bella stayed peaceful. A squirrel ran across the fence just feet from her nose, but Bella simply opened one eye, looked, and went back to resting. Elena realized that Bella somehow knew she was safe. The yard was secure. Her food bowl was full. Elena was watching over her. That was enough for Bella to rest completely.",
+      "keep": true,
+      "themes": [
+        "anxious",
+        "weary",
+        "trusting",
+        "resting"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "01-sit-stay-preach-048",
+      "lesson_number": 4,
+      "lesson_title": "The Nap in the Sun",
+      "section": null,
+      "page": 28,
+      "word_count": 99,
+      "text": "That afternoon, Elena had a video call with the church’s ministry team about the upcoming Easter services. The meeting ran long, with everyone discussing logistics, schedules, and what seemed like a hundred small details that needed attention. Elena found herself getting more and more tense as the to-do list grew longer. After the call ended, Elena walked outside to check on Bella. She had moved with the sun and was now in a different part of the yard, napping peacefully in the afternoon warmth. Elena sat down on her back steps, feeling overwhelmed by everything she needed to accomplish.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "01-sit-stay-preach-049",
+      "lesson_number": 4,
+      "lesson_title": "The Nap in the Sun",
+      "section": null,
+      "page": 28,
+      "word_count": 108,
+      "text": "As she watched Bella sleep so peacefully, Elena began to think about her own relationship with rest. Elena realized she had been serving at the church for years, always busy, always working on something. She felt guilty whenever she wasn’t being productive, as if resting meant she wasn’t doing her part. Watching Bella, Elena realized something important. Bella wasn’t resting because she was lazy or didn’t care. She was resting because she felt completely safe. Her food bowl was full, the yard was secure, and Elena was watching over her. That complete trust allowed Bella to rest peacefully. Elena understood that rest wasn’t laziness - it was trust.",
+      "keep": true,
+      "themes": [
+        "weary",
+        "striving",
+        "trusting",
+        "resting"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "01-sit-stay-preach-050",
+      "lesson_number": 4,
+      "lesson_title": "The Nap in the Sun",
+      "section": null,
+      "page": 29,
+      "word_count": 120,
+      "text": "Elena remembered Jesus’s words: “Come to me and I will give you rest.” Not “work harder for me” or “prove your worth to me.” Come and rest. She thought about how Jesus himself had rested. He slept in a boat during a storm while His disciples worried and panicked. That wasn’t because Jesus didn’t care about the danger. It was because He trusted His Father completely. Elena realized she had been carrying burdens that weren’t meant for her shoulders. She worried about every administrative detail as if the church would fall apart without her constant attention. She stressed about events as if their success was her responsibility alone. She had forgotten that the church belonged to God, not to her.",
+      "keep": true,
+      "themes": [
+        "anxious",
+        "weary",
+        "striving",
+        "trusting"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "01-sit-stay-preach-051",
+      "lesson_number": 4,
+      "lesson_title": "The Nap in the Sun",
+      "section": null,
+      "page": 29,
+      "word_count": 86,
+      "text": "That evening, Elena made a decision she hadn’t made in months. She closed her laptop at 6 PM and didn’t open it again that night. Instead, she sat outside with Bella as the sun set. She didn’t try to pray about church business or plan the next day’s tasks. She just sat quietly, letting her soul breathe. Bella opened one eye when Elena sat down, saw her there, and her tail gave a gentle thump against the ground. Then she went back to her peaceful rest.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "01-sit-stay-preach-052",
+      "lesson_number": 4,
+      "lesson_title": "The Nap in the Sun",
+      "section": null,
+      "page": 30,
+      "word_count": 87,
+      "text": "They sat together for almost an hour. Elena felt her shoulders relax for the first time in weeks. Her mind slowly stopped racing through her mental to-do list. And in that quiet space, she remembered why she loved serving at the church in the first place. It wasn’t about the busy work or the endless tasks. It was about participating in God’s work and trusting Him with the results. When Mrs. Rodriguez returned the following Sunday, she found Elena looking more rested than she had in months.",
+      "keep": true,
+      "themes": [
+        "weary",
+        "striving",
+        "resting",
+        "grateful"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "01-sit-stay-preach-053",
+      "lesson_number": 4,
+      "lesson_title": "The Nap in the Sun",
+      "section": null,
+      "page": 30,
+      "word_count": 82,
+      "text": "“How did everything go with Bella?” Mrs. Rodriguez asked. Elena smiled. “She was wonderful. So peaceful and easy to care for. Most of the time she rested in the backyard.” “Yes, she loves to find sunny spots and rest,” Mrs. Rodriguez said with a chuckle. “You know, watching her actually helped me,” Elena said. “I’ve been so stressed with work lately, always feeling like I have to be busy. But Bella just rested without any guilt about it. She seemed so… content.”",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "01-sit-stay-preach-054",
+      "lesson_number": 4,
+      "lesson_title": "The Nap in the Sun",
+      "section": null,
+      "page": 31,
+      "word_count": 116,
+      "text": "Mrs. Rodriguez nodded knowingly. “Ah, yes. Sometimes we can learn from our furry friends, can’t we? They don’t worry about tomorrow’s problems like we do.” From that week forward, Elena began to approach her church work differently. She still served faithfully and worked hard, but she also built regular times of rest into her schedule. She learned to trust that God could handle the church’s needs even when she took breaks. And every time Elena felt the old anxiety creeping back, she remembered Bella sleeping peacefully in the sunshine, completely trusting that everything important was taken care of. If a dog could rest in such trust, surely she could learn to rest in God’s care too.",
+      "keep": true,
+      "themes": [
+        "anxious",
+        "weary",
+        "trusting",
+        "resting"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "01-sit-stay-preach-055",
+      "lesson_number": 4,
+      "lesson_title": "The Nap in the Sun",
+      "section": null,
+      "page": 31,
+      "word_count": 49,
+      "text": "Elena discovered that when she rested well, she actually served better. She had more patience with difficult volunteers, more creativity for solving problems, and more joy in her daily tasks. Rest hadn’t made her less effective. It had made her more like the person God designed her to be.",
+      "keep": true,
+      "themes": [
+        "weary",
+        "striving",
+        "resting",
+        "peaceful"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "01-sit-stay-preach-056",
+      "lesson_number": 5,
+      "lesson_title": "Not Every Dog Wins Best in Show",
+      "section": null,
+      "page": 32,
+      "word_count": 92,
+      "text": "Jabari loved his work at the church. As the facilities manager, he took care of building maintenance, coordinated repairs, managed the grounds, and made sure everything was ready for services and events. But lately he felt discouraged when he looked around at other churches and other church leaders. The mega-church across town had a large facilities team with state-of-the-art equipment and seemingly unlimited budgets. Their campus looked like a resort, with perfectly manicured landscaping and gleaming buildings. Michael’s church had him, a part-time custodian, and a maintenance budget that required careful stretching.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "01-sit-stay-preach-057",
+      "lesson_number": 5,
+      "lesson_title": "Not Every Dog Wins Best in Show",
+      "section": null,
+      "page": 32,
+      "word_count": 106,
+      "text": "At conferences, Jabari would hear other facilities managers talk about their impressive projects and renovations. Some had been featured in church magazines for their innovative designs. Others managed multiple campuses with sophisticated systems. Jabari felt small in comparison. His biggest accomplishment last year was fixing the leaky roof in the fellowship hall and replacing the old sound system with donated equipment. One Saturday morning, Jabari was visiting the local animal rescue center with his family. His daughter wanted to volunteer there, and they were getting a tour of the facility. The volunteer coordinator was showing them around when they stopped at two kennels side by side.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "01-sit-stay-preach-058",
+      "lesson_number": 5,
+      "lesson_title": "Not Every Dog Wins Best in Show",
+      "section": null,
+      "page": 33,
+      "word_count": 81,
+      "text": "In the first kennel was a stunning Afghan Hound named Golden Glory. His coat was long and silky, flowing like something from a professional grooming commercial. He moved with elegant grace and had the bearing of a show dog. The volunteer explained that Glory had been surrendered by his owner who lost a job and could no longer afford the expensive grooming and special care that Afghan Hounds require. “He’s beautiful,” Jabari’s wife said. “I’m sure someone will adopt him quickly.”",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "01-sit-stay-preach-059",
+      "lesson_number": 5,
+      "lesson_title": "Not Every Dog Wins Best in Show",
+      "section": null,
+      "page": 33,
+      "word_count": 108,
+      "text": "In the next kennel was a dog named Rusty. He was a mixed breed with no clear pedigree. One of his ears was slightly torn, and his coat was short and rough. His previous owner had been a farmer, and Rusty had spent his life working with sheep and protecting the farm. “What about this one?” Jabari’s daughter asked. The volunteer smiled. “Rusty is what we call a working dog. He’s not fancy, but he’s incredibly loyal and dependable. His previous owner told us he never failed to protect the sheep, even during terrible storms. He’s gentle with children and other animals, but he takes his responsibilities seriously.”",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "01-sit-stay-preach-060",
+      "lesson_number": 5,
+      "lesson_title": "Not Every Dog Wins Best in Show",
+      "section": null,
+      "page": 34,
+      "word_count": 136,
+      "text": "As they continued the tour, Jabari found himself thinking about the two dogs. Glory was beautiful and would make a wonderful companion for the right family. Rusty was dependable and would be perfect for a family that needed a loyal, protective dog. They were both good dogs, just suited for different purposes. A few weeks later, Jabari ran into the volunteer coordinator at the grocery store. He asked about the two dogs. “Golden Glory was adopted within three days,” she said. “A family loved his beautiful appearance. But you know what’s interesting? Rusty was adopted by a family with young children. They weren’t looking for a show dog. They wanted a loyal companion who would be part of their family and watch over their kids.” Jabari nodded, still thinking about the contrast between the two dogs.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "01-sit-stay-preach-061",
+      "lesson_number": 5,
+      "lesson_title": "Not Every Dog Wins Best in Show",
+      "section": null,
+      "page": 35,
+      "word_count": 81,
+      "text": "That Sunday, Jabari arrived early as usual to check the building before services. As he walked through the sanctuary, adjusting chairs and testing the microphone, he reflected on his role at the church. He wasn’t the most impressive facilities manager. His work didn’t get featured in magazines or win awards. He didn’t have a large team or an unlimited budget. But he showed up faithfully, kept the building safe and welcoming, and made sure that families could worship comfortably each week.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "01-sit-stay-preach-062",
+      "lesson_number": 5,
+      "lesson_title": "Not Every Dog Wins Best in Show",
+      "section": null,
+      "page": 35,
+      "word_count": 120,
+      "text": "Jabari thought about the biblical story of David, who started as a shepherd boy taking care of sheep in the fields. David was the youngest, smallest, and scruffiest of his brothers. He was so overlooked that his father didn’t even call him in when the prophet Samuel came looking for the next king. But he was faithful in the small job he was given, and God saw that faithfulness. The apostle Paul had written to Timothy about doing the work faithfully, not trying to look impressive. Paul didn’t tell Timothy to compete with other pastors or build the most beautiful church. He told him to take care of people and be ready to serve whether it was convenient or not.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "01-sit-stay-preach-063",
+      "lesson_number": 5,
+      "lesson_title": "Not Every Dog Wins Best in Show",
+      "section": null,
+      "page": 35,
+      "word_count": 126,
+      "text": "Jabari realized that he had been measuring his worth by the wrong standards. The world might celebrate the most impressive facilities and the biggest budgets. Social media might highlight the churches with the most beautiful buildings. But God cared more about faithfulness than fame. He cared more about a servant’s heart than a servant’s resources. Over the following months, Jabari began to see his work differently. Instead of focusing on what other churches had that his didn’t, he started noticing the ways his faithful service made a difference. When elderly members mentioned how much they appreciated the clean, comfortable building, he remembered that his work mattered. When children played safely on the playground equipment he maintained, he saw the value of his careful attention to detail.",
+      "keep": true,
+      "themes": [
+        "discouraged",
+        "striving",
+        "proud",
+        "forgotten"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "01-sit-stay-preach-064",
+      "lesson_number": 5,
+      "lesson_title": "Not Every Dog Wins Best in Show",
+      "section": null,
+      "page": 36,
+      "word_count": 84,
+      "text": "One day, a visiting pastor commented to Jabari about how welcoming and well-maintained the church felt. “You can tell someone here really cares about this place,” the pastor said. “It shows in every detail.” Jabari smiled, thinking of Rusty the working dog. Not every dog wins best in show, but some dogs spend their lives faithfully serving those who depend on them. And that kind of faithful service has its own reward. Jabari realized that quiet, faithful service was exactly what the church needed.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "01-sit-stay-preach-065",
+      "lesson_number": 5,
+      "lesson_title": "Not Every Dog Wins Best in Show",
+      "section": null,
+      "page": 37,
+      "word_count": 68,
+      "text": "Jabari learned that his worth wasn’t measured by comparison to other churches or other facilities managers. It was measured by his faithfulness to the work God had given him. And in God’s eyes, no faithful service is too small or too unnoticed. Just like Rusty had found a family who valued loyalty over appearance, Jabari had found his place in God’s work where faithfulness mattered more than fame.",
+      "keep": true,
+      "themes": [
+        "discouraged",
+        "forgotten",
+        "trusting"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "01-sit-stay-preach-066",
+      "lesson_number": 6,
+      "lesson_title": "The Bark That Wasn't Needed",
+      "section": null,
+      "page": 38,
+      "word_count": 88,
+      "text": "The church board meetings had been tense lately, and Ruth felt it every time she sat down at the conference table. As the church treasurer for several years, she had strong opinions about the budget, spending priorities, and financial decisions. She cared deeply about the church and wanted to protect it from what she saw as unwise choices. The problem was, Ruth found herself speaking up about everything. When someone suggested new carpet for the nursery, Ruth immediately pointed out three reasons why it wasn’t in the budget.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "Learning When to Speak and When to Stay Quiet"
+    },
+    {
+      "id": "01-sit-stay-preach-067",
+      "lesson_number": 6,
+      "lesson_title": "The Bark That Wasn't Needed",
+      "section": null,
+      "page": 38,
+      "word_count": 130,
+      "text": "When the pastor mentioned wanting to upgrade the sanctuary lighting, Ruth interrupted to explain why the current lights were fine. When board members discussed the missions budget, Ruth had detailed critiques of every proposed allocation. Ruth meant well. She saw her role as protecting the church’s financial health, just like a watchdog protects a home. But lately, she noticed that people seemed to tense up when she started talking. Board meetings felt more like battles than discussions. One evening after a particularly difficult board meeting, Ruth decided to take a walk around her neighborhood to clear her head. As she passed the Johnson family’s house, she heard constant barking from their backyard. She looked over the fence and saw Baxter, their friendly Cocker Spaniel, frantically barking at everything and nothing.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "Learning When to Speak and When to Stay Quiet"
+    },
+    {
+      "id": "01-sit-stay-preach-068",
+      "lesson_number": 6,
+      "lesson_title": "The Bark That Wasn't Needed",
+      "section": null,
+      "page": 39,
+      "word_count": 85,
+      "text": "Ruth paused to watch. Baxter barked at the mailman walking up the street, a leaf blowing across the yard, a car door closing three houses down, even his own shadow moving across the patio. Every sound triggered an immediate, urgent bark as if the world was ending. Mrs. Johnson came outside, looking frazzled. “I’m so sorry about the noise, Ruth. Baxter has been like this all day. I don’t know what’s gotten into him.” Ruth smiled sympathetically. “Don’t worry about it. Dogs will be dogs.”",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "Learning When to Speak and When to Stay Quiet"
+    },
+    {
+      "id": "01-sit-stay-preach-069",
+      "lesson_number": 6,
+      "lesson_title": "The Bark That Wasn't Needed",
+      "section": null,
+      "page": 39,
+      "word_count": 91,
+      "text": "Mrs. Johnson noticed that Ruth looked tired. “You look like you’ve had a long day. I just made some tea - would you like to sit on the porch with me for a few minutes? Maybe the company will help calm Baxter down too.” Ruth gratefully accepted the invitation. At first, Ruth thought Baxter was being a good guard dog. He seemed alert and protective. But after listening to his constant barking at completely harmless things, Ruth realized something. Because Baxter barked at everything, his barking didn’t really mean anything anymore.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "Learning When to Speak and When to Stay Quiet"
+    },
+    {
+      "id": "01-sit-stay-preach-070",
+      "lesson_number": 6,
+      "lesson_title": "The Bark That Wasn't Needed",
+      "section": null,
+      "page": 40,
+      "word_count": 85,
+      "text": "Ruth thanked Mrs. Johnson for the tea and headed home. Over the next few days, she continued to hear Baxter’s frequent barking from next door. One afternoon, Ruth heard Baxter barking frantically again. She assumed it was just another false alarm - maybe a squirrel or a passing jogger - so she didn’t bother looking outside. Later, she discovered that a stranger had actually been trying door handles in the neighborhood during that time. Baxter’s genuine warning had sounded exactly like all his false alarms.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "Learning When to Speak and When to Stay Quiet"
+    },
+    {
+      "id": "01-sit-stay-preach-071",
+      "lesson_number": 6,
+      "lesson_title": "The Bark That Wasn't Needed",
+      "section": null,
+      "page": 40,
+      "word_count": 114,
+      "text": "That evening, as Ruth sat on her own porch listening to Baxter’s continued barking from next door, she began thinking about her own behavior at board meetings. She spoke up about every financial issue, big or small. She had strong opinions about major budget decisions and minor supply purchases alike. Just like Baxter’s barking, maybe her constant objections were losing their power. The next week, Ruth decided to try something different at the board meeting. When someone mentioned replacing the worn-out chairs in the children’s classroom, Ruth’s first instinct was to speak up about the expense. But she paused and asked herself: “Is this really important? Is this something that truly needs my input?”",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "Learning When to Speak and When to Stay Quiet"
+    },
+    {
+      "id": "01-sit-stay-preach-072",
+      "lesson_number": 6,
+      "lesson_title": "The Bark That Wasn't Needed",
+      "section": null,
+      "page": 41,
+      "word_count": 114,
+      "text": "The chairs were a safety issue, and the cost was reasonable. Ruth decided to stay quiet and listen to the discussion. As other board members talked, they worked out a good solution together, even finding a local business willing to donate some of the chairs. Later in the meeting, the pastor mentioned a proposal to spend a large amount from the church’s emergency fund for a new sound system. This time, Ruth did speak up, but thoughtfully. “I appreciate the heart behind this idea,” Ruth said calmly. “But I’m concerned about using our emergency fund for something that isn’t an emergency. Could we look at other funding options or consider a less expensive alternative?”",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "Learning When to Speak and When to Stay Quiet"
+    },
+    {
+      "id": "01-sit-stay-preach-073",
+      "lesson_number": 6,
+      "lesson_title": "The Bark That Wasn't Needed",
+      "section": null,
+      "page": 41,
+      "word_count": 83,
+      "text": "The board listened carefully to Ruth’s concern and spent time discussing different approaches. Because Ruth hadn’t been objecting to everything all evening, her words carried more weight. They ultimately decided to launch a special fundraising effort for the sound system rather than depleting the emergency fund. After the meeting, Pastor Martinez approached Ruth. “Thank you for your input tonight,” he said. “I could tell you had really thought through your concerns about the sound system. Your financial wisdom helps us make better decisions.”",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "Learning When to Speak and When to Stay Quiet"
+    },
+    {
+      "id": "01-sit-stay-preach-074",
+      "lesson_number": 6,
+      "lesson_title": "The Bark That Wasn't Needed",
+      "section": null,
+      "page": 42,
+      "word_count": 85,
+      "text": "Ruth realized that by speaking less often, her words had become more valuable. When everything is urgent, nothing feels urgent. When every expense is questioned, the real problems get lost in the noise. Over the following months, Ruth practiced what she had learned from Baxter. She still cared deeply about the church’s finances, but she became more selective about when to voice her concerns. She learned to distinguish between issues that truly needed her expertise and matters that the board could handle without her input.",
+      "keep": true,
+      "themes": [
+        "striving",
+        "proud",
+        "called"
+      ],
+      "lesson_subtitle": "Learning When to Speak and When to Stay Quiet"
+    },
+    {
+      "id": "01-sit-stay-preach-075",
+      "lesson_number": 6,
+      "lesson_title": "The Bark That Wasn't Needed",
+      "section": null,
+      "page": 42,
+      "word_count": 106,
+      "text": "She found that when she spoke up less frequently, people listened more carefully when she did have something important to say. Board meetings became more collaborative, and Ruth felt like her contributions were more respected and effective. Ruth also learned that silence could be a form of wisdom. Sometimes the most helpful thing she could do was listen to other perspectives, let discussions develop naturally, and only speak when her expertise was truly needed. Just like a good watchdog that saves its bark for real threats, Ruth discovered that saving her voice for important matters made her a more effective treasurer and a better board member.",
+      "keep": true,
+      "themes": [
+        "striving",
+        "proud",
+        "peaceful"
+      ],
+      "lesson_subtitle": "Learning When to Speak and When to Stay Quiet"
+    },
+    {
+      "id": "01-sit-stay-preach-076",
+      "lesson_number": 7,
+      "lesson_title": "The Dog Who Didn't Leave",
+      "section": null,
+      "page": 44,
+      "word_count": 82,
+      "text": "The phone call came on a Tuesday evening while James was reviewing the church’s upcoming budget meeting agenda. As the church’s business administrator, he was always busy with financial reports and planning meetings. When he saw Daniel’s name on the caller ID, James knew it wasn’t good news. Daniel was one of their longtime church members. His wife Maya had been battling cancer for the past year, and James had been watching the family struggle through the difficult treatments and doctor visits.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "Learning About Ministry Through Presence"
+    },
+    {
+      "id": "01-sit-stay-preach-077",
+      "lesson_number": 7,
+      "lesson_title": "The Dog Who Didn't Leave",
+      "section": null,
+      "page": 44,
+      "word_count": 83,
+      "text": "“James,” Daniel’s voice was quiet and heavy. “Maya passed away this afternoon.” James felt his stomach drop. As the church’s business administrator, he knew all the families well, but Daniel and Maya had become especially dear to him over the years. They had served faithfully in various ministries and never complained, even during Maya’s difficult treatments. “Daniel, I’m so sorry,” James said. “What can I do? What do you need?” “Would you mind coming over? I know you’re busy with church work, but…”",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "Learning About Ministry Through Presence"
+    },
+    {
+      "id": "01-sit-stay-preach-078",
+      "lesson_number": 7,
+      "lesson_title": "The Dog Who Didn't Leave",
+      "section": null,
+      "page": 45,
+      "word_count": 124,
+      "text": "“I’ll be right there,” James said, already reaching for his keys. During the twenty-minute drive to Daniel’s house, James’s mind raced. What should he say? How do you comfort someone who has just lost their partner of more than four decades? James wasn’t a pastor or a counselor. He didn’t have a theology degree or training in grief ministry. He was just a church business administrator who tried to help where he could. When Daniel answered the door, James could see the exhaustion and shock in his eyes. They sat in the living room where Maya’s favorite chair still held the quilted throw she had used during her treatments. James wanted to say something meaningful, something that would help, but the words seemed inadequate.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "Learning About Ministry Through Presence"
+    },
+    {
+      "id": "01-sit-stay-preach-079",
+      "lesson_number": 7,
+      "lesson_title": "The Dog Who Didn't Leave",
+      "section": null,
+      "page": 45,
+      "word_count": 91,
+      "text": "“I don’t really know what to say,” James admitted quietly. Daniel nodded. “Neither do I.” So James simply sat there with his friend. They talked a little about Maya’s final days, about funeral arrangements, about practical matters. But mostly, they just sat in the quiet grief together. After about an hour, James heard the soft sound of paws on the wooden floor. Daniel’s old Golden Retriever, Buddy, padded into the room. Buddy was getting gray around his muzzle and moved slowly, but he had been Maya’s constant companion during her illness.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "Learning About Ministry Through Presence"
+    },
+    {
+      "id": "01-sit-stay-preach-080",
+      "lesson_number": 7,
+      "lesson_title": "The Dog Who Didn't Leave",
+      "section": null,
+      "page": 46,
+      "word_count": 93,
+      "text": "Without any prompting, Buddy walked over to Daniel’s chair and gently placed his head on Daniel’s knee. Then he settled down on the floor beside the chair, staying close. He just positioned himself near Tom and stayed there. “He’s been doing that since this morning,” Daniel said, gently stroking Buddy’s head. “He hasn’t left my side all day.” James watched Buddy, who seemed to understand exactly what was needed. The dog didn’t try to get Daniel’s attention or attempt to cheer him up with playful behavior. He simply offered his quiet, faithful presence.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "Learning About Ministry Through Presence"
+    },
+    {
+      "id": "01-sit-stay-preach-081",
+      "lesson_number": 7,
+      "lesson_title": "The Dog Who Didn't Leave",
+      "section": null,
+      "page": 46,
+      "word_count": 100,
+      "text": "Over the next few weeks, James visited Daniel regularly. Each time, Buddy was right there beside Daniel’s chair or following him around the house. The dog didn’t seem to need entertainment or expect anything in return. He had simply appointed himself as Daniel’s companion through the grief. At Maya’s funeral, several people approached Daniel with well-meaning comments. “She’s in a better place now.” “At least she’s not suffering anymore.” “God needed another angel.” Daniel nodded politely, but James could see how these phrases, though meant to comfort, sometimes felt like pressure to feel better or find meaning in the loss.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "Learning About Ministry Through Presence"
+    },
+    {
+      "id": "01-sit-stay-preach-082",
+      "lesson_number": 7,
+      "lesson_title": "The Dog Who Didn't Leave",
+      "section": null,
+      "page": 47,
+      "word_count": 86,
+      "text": "After the service, as people gathered for the meal, James noticed Daniel stepping outside for some air. James followed and found him sitting on a bench behind the church, with Buddy lying quietly at his feet. “You know what’s strange?” Daniel said as James sat down beside him. “Everyone wants to say something to make me feel better. And I appreciate that, I really do. But sometimes I just need someone to sit with me.” James nodded, thinking about Buddy’s simple presence over the past weeks.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "Learning About Ministry Through Presence"
+    },
+    {
+      "id": "01-sit-stay-preach-083",
+      "lesson_number": 7,
+      "lesson_title": "The Dog Who Didn't Leave",
+      "section": null,
+      "page": 47,
+      "word_count": 99,
+      "text": "“Buddy doesn’t try to fix anything,” Daniel continued. “He doesn’t tell me it’s all going to be okay or that I should look on the bright side. He just stays with me. That helps more than all the advice.” As James reflected on Daniel’s words, he began to understand something important about ministry. So often, church leaders feel pressure to have the right words, the perfect Scripture verse, or the solution to people’s problems. But maybe the most powerful ministry wasn’t always about what you said or did. Maybe sometimes it was simply about showing up and staying close.",
+      "keep": true,
+      "themes": [
+        "grieving",
+        "lonely",
+        "loved"
+      ],
+      "lesson_subtitle": "Learning About Ministry Through Presence"
+    },
+    {
+      "id": "01-sit-stay-preach-084",
+      "lesson_number": 7,
+      "lesson_title": "The Dog Who Didn't Leave",
+      "section": null,
+      "page": 48,
+      "word_count": 92,
+      "text": "Over the following months, James found himself applying what he had learned from Buddy. He didn’t always feel he had to give answers or quick spiritual sayings when church members had hard times. Sometimes he just listened. Sometimes he simply sat with people in their struggles without trying to fix anything. When the pastor’s teenage son was arrested for drinking and driving, James didn’t lecture about consequences or quote verses about forgiveness. He just made sure the pastor knew he was available if he needed someone to talk to or pray with.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "Learning About Ministry Through Presence"
+    },
+    {
+      "id": "01-sit-stay-preach-085",
+      "lesson_number": 7,
+      "lesson_title": "The Dog Who Didn't Leave",
+      "section": null,
+      "page": 48,
+      "word_count": 87,
+      "text": "When the choir director’s elderly mother was dying, James didn’t try to explain God’s timing or offer comfort through theological reasoning. He just checked in regularly and asked practical questions about what kind of support would be most helpful. James learned that you don’t need a seminary degree to minister to people. You don’t need perfect words or profound insights. Sometimes the most meaningful ministry is simply being willing to enter into someone else’s pain and stay there with them, just like Buddy had done for Tom.",
+      "keep": true,
+      "themes": [
+        "grieving",
+        "lonely",
+        "discouraged"
+      ],
+      "lesson_subtitle": "Learning About Ministry Through Presence"
+    },
+    {
+      "id": "01-sit-stay-preach-086",
+      "lesson_number": 7,
+      "lesson_title": "The Dog Who Didn't Leave",
+      "section": null,
+      "page": 49,
+      "word_count": 87,
+      "text": "Six months after Maya’s death, Daniel stopped by James’s office at the church. “I wanted to thank you,” Daniel said. “For all those times you just sat with me. You didn’t try to make everything better or give me easy answers. You just stayed. That meant more than you know.” James smiled, thinking of Buddy’s faithful presence during those difficult weeks. He had learned something important from that old dog: sometimes the best thing you can offer someone is simply to show up and stay with them.",
+      "keep": true,
+      "themes": [
+        "grieving",
+        "lonely",
+        "loved"
+      ],
+      "lesson_subtitle": "Learning About Ministry Through Presence"
+    },
+    {
+      "id": "01-sit-stay-preach-087",
+      "lesson_number": 7,
+      "lesson_title": "The Dog Who Didn't Leave",
+      "section": null,
+      "page": 49,
+      "word_count": 92,
+      "text": "Daniel’s eyes grew a little misty. “You know, Maya and Buddy had such a special bond. During all those months of treatments, he never left her side. And she would talk to him like he was her best friend. I think they understood each other in a way that went beyond words.” James realized that Buddy had taught him one of the most important lessons about church ministry: presence is often more powerful than words, and staying close to people in their pain is sometimes the most Christ-like thing you can do.",
+      "keep": true,
+      "themes": [
+        "grieving",
+        "lonely",
+        "loved"
+      ],
+      "lesson_subtitle": "Learning About Ministry Through Presence"
+    },
+    {
+      "id": "01-sit-stay-preach-088",
+      "lesson_number": 8,
+      "lesson_title": "The Dog at the Door (Again)",
+      "section": null,
+      "page": 50,
+      "word_count": 108,
+      "text": "Pastor Martinez had been praying about the same request for three years. The church needed a new building. Their current facility was too small, the roof leaked during heavy rains, and they had to turn people away from some services because there simply wasn’t enough room. He had submitted applications to foundations, organized fundraising events, and even met with potential donors, but nothing had worked out. Some days, Pastor Martinez wondered if he should stop praying about it. Maybe God’s answer was no, and he just hadn’t been listening. Maybe he should focus on other things and accept that their little church would always be cramped and limited.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "Learning About Hope That Doesn't Give Up"
+    },
+    {
+      "id": "01-sit-stay-preach-089",
+      "lesson_number": 8,
+      "lesson_title": "The Dog at the Door (Again)",
+      "section": null,
+      "page": 50,
+      "word_count": 102,
+      "text": "One afternoon, Pastor Martinez was visiting Mrs. Kim, an elderly church member who had been battling illness for several months. As he walked up to her front door, he noticed something that made him pause. Mrs. Kim owned an Australian Sheperd named Gida. The name, in Korean, meant “wait.” Gida was a patient and gentle dog, and he was sitting by the front window exactly as he had been during Pastor Martinez’s last visit two weeks ago. In fact, every time Pastor Martinez had visited over the past few months, Gida had been in that same spot, looking out toward the street.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "Learning About Hope That Doesn't Give Up"
+    },
+    {
+      "id": "01-sit-stay-preach-090",
+      "lesson_number": 8,
+      "lesson_title": "The Dog at the Door (Again)",
+      "section": null,
+      "page": 51,
+      "word_count": 86,
+      "text": "“He does that every day,” Mrs. Kim explained when Pastor Martinez asked about it. She was sitting in her favorite chair, looking frail but alert. “Gida sits by that window from morning until evening, watching for my son David to come home.” “When was David here last?” Pastor Martinez asked gently. Mrs. Kim’s face grew sad. “He’s been deployed overseas for almost two years now. We don’t know when he’ll be back, or even if he’s safe. The military can’t give us specific dates or details.”",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "Learning About Hope That Doesn't Give Up"
+    },
+    {
+      "id": "01-sit-stay-preach-091",
+      "lesson_number": 8,
+      "lesson_title": "The Dog at the Door (Again)",
+      "section": null,
+      "page": 51,
+      "word_count": 113,
+      "text": "Pastor Martinez looked at Gida, who hadn’t moved from his post by the window. The dog’s ears were alert, his eyes bright, and his tail occasionally gave a hopeful wag when a car drove by. Gida didn’t check the time or complain about waiting. He simply believed that David would come home, and he was going to be ready when it happened. “Doesn’t he get tired of waiting?” Pastor Martinez asked. Mrs. Kim smiled softly. “I used to worry about that. I tried to get him to play with toys or go for walks, thinking he needed distractions from his waiting. But I realized something: Gida isn’t suffering while he waits. He’s hopeful.”",
+      "keep": true,
+      "themes": [
+        "waiting",
+        "hopeful",
+        "trusting"
+      ],
+      "lesson_subtitle": "Learning About Hope That Doesn't Give Up"
+    },
+    {
+      "id": "01-sit-stay-preach-092",
+      "lesson_number": 8,
+      "lesson_title": "The Dog at the Door (Again)",
+      "section": null,
+      "page": 52,
+      "word_count": 95,
+      "text": "Over the following weeks, Pastor Martinez found himself thinking about Gida’s faithful waiting. The dog had no control over when David would return. He couldn’t call the military for updates or check deployment schedules online. All Gida could do was wait with hope and trust. Pastor Martinez began to see similarities between Gida’s situation and his own prayers about the church building. He had been treating his waiting like a problem to solve rather than an opportunity to trust. He had grown impatient and discouraged, assuming that delayed answers meant his requests had been denied.",
+      "keep": true,
+      "themes": [
+        "waiting",
+        "anxious",
+        "discouraged",
+        "trusting"
+      ],
+      "lesson_subtitle": "Learning About Hope That Doesn't Give Up"
+    },
+    {
+      "id": "01-sit-stay-preach-093",
+      "lesson_number": 8,
+      "lesson_title": "The Dog at the Door (Again)",
+      "section": null,
+      "page": 52,
+      "word_count": 88,
+      "text": "But Gida demonstrated a different kind of waiting; his waiting was one filled with expectation rather than frustration. Gida wasn’t angry that David hadn’t returned yet. He wasn’t checking his watch or giving up hope. He was simply maintaining his faithful vigil, believing that good things were worth waiting for. The next Sunday, Pastor Martinez preached about hope that endures. He talked about how waiting on God isn’t passive resignation, but active faith. It’s believing that God’s timing is perfect even when we can’t see the bigger picture.",
+      "keep": true,
+      "themes": [
+        "waiting",
+        "hopeful",
+        "trusting"
+      ],
+      "lesson_subtitle": "Learning About Hope That Doesn't Give Up"
+    },
+    {
+      "id": "01-sit-stay-preach-094",
+      "lesson_number": 8,
+      "lesson_title": "The Dog at the Door (Again)",
+      "section": null,
+      "page": 53,
+      "word_count": 119,
+      "text": "“Sometimes we think that if God doesn’t answer our prayers quickly, He’s forgotten about us,” Pastor Martinez told his congregation. “But maybe His delays are part of His perfect plan. Maybe He’s preparing something better than we originally asked for.” A few months later, Pastor Martinez received an unexpected phone call. A local business owner had heard about their church’s needs through a mutual friend. This man wanted to donate a piece of land, which was much larger and better located than anything the church could have afforded to buy. The building they could construct on this land would serve not just their current congregation, but could accommodate future growth and community outreach programs they had only dreamed about.",
+      "keep": true,
+      "themes": [
+        "waiting",
+        "forgotten",
+        "hopeful",
+        "trusting"
+      ],
+      "lesson_subtitle": "Learning About Hope That Doesn't Give Up"
+    },
+    {
+      "id": "01-sit-stay-preach-095",
+      "lesson_number": 8,
+      "lesson_title": "The Dog at the Door (Again)",
+      "section": null,
+      "page": 53,
+      "word_count": 102,
+      "text": "As Pastor Martinez hung up the phone, he thought about Gida still faithfully waiting by Mrs. Kim’s window. The dog’s hope hadn’t been misplaced - it had simply been operating on a different timeline than human expectations. That evening, Pastor Martinez stopped by to share the good news with Mrs. Kim. As always, Gida was at his post by the window. Mrs. Kim listened to the story about the donated land with tears of joy in her eyes. “You see?” she said, looking at Gida with affection. “Sometimes the best things are worth waiting for, even when we don’t understand the timing.”",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "Learning About Hope That Doesn't Give Up"
+    },
+    {
+      "id": "01-sit-stay-preach-096",
+      "lesson_number": 8,
+      "lesson_title": "The Dog at the Door (Again)",
+      "section": null,
+      "page": 54,
+      "word_count": 104,
+      "text": "A few weeks later, Mrs. Kim called Pastor Martinez with excitement in her voice. David was coming home. His deployment had ended earlier than expected, and he would be arriving that weekend. When David finally walked through the front door, Gida’s joy was explosive. His tail wagged so hard his whole body shook. He danced and spun in circles, as if all his patient waiting had finally paid off. Pastor Martinez realized that Gida had taught him something important about faith. Hope isn’t about knowing when prayers will be answered. Hope is about believing they will be answered and staying faithful while you wait.",
+      "keep": true,
+      "themes": [
+        "waiting",
+        "hopeful",
+        "trusting"
+      ],
+      "lesson_subtitle": "Learning About Hope That Doesn't Give Up"
+    },
+    {
+      "id": "01-sit-stay-preach-097",
+      "lesson_number": 8,
+      "lesson_title": "The Dog at the Door (Again)",
+      "section": null,
+      "page": 54,
+      "word_count": 55,
+      "text": "Just like Gida painted welcome signs with his wagging tail, believers can live with expectant hearts, trusting that God’s love never forgets and His timing is always perfect. The church’s new building project began six months later, but Pastor Martinez had already received the greater gift - learning how to wait with hope and trust.",
+      "keep": true,
+      "themes": [
+        "waiting",
+        "trusting",
+        "hopeful"
+      ],
+      "lesson_subtitle": "Learning About Hope That Doesn't Give Up"
+    },
+    {
+      "id": "01-sit-stay-preach-098",
+      "lesson_number": 9,
+      "lesson_title": "The Joy in a Tennis Ball",
+      "section": null,
+      "page": 55,
+      "word_count": 104,
+      "text": "The church board meeting had been particularly difficult. Amira sat in her car afterward, feeling drained and discouraged. As the church’s music director, she had been hoping to get approval for new sound equipment and additional choir resources, but the budget was tight and the board had to say no to most of her requests. Amira drove home thinking about all the things that were wrong or lacking in their music ministry. The piano needed tuning, the microphones were outdated, and they didn’t have enough music stands for the growing choir. She felt like she was always asking for money the church didn’t have.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "01-sit-stay-preach-099",
+      "lesson_number": 9,
+      "lesson_title": "The Joy in a Tennis Ball",
+      "section": null,
+      "page": 55,
+      "word_count": 85,
+      "text": "When Amira pulled into her driveway, she could hear excited barking from the backyard. Her neighbor’s Golden Retriever, Sunny, was playing by himself in the yard next door. Amira watched him for a moment through the fence. Sunny had found an old, faded tennis ball, the kind that had clearly seen better days. It was chewed up around the edges, covered in grass stains, and had lost most of its bright color. To most people, it would look like trash that should be thrown away.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "01-sit-stay-preach-100",
+      "lesson_number": 9,
+      "lesson_title": "The Joy in a Tennis Ball",
+      "section": null,
+      "page": 56,
+      "word_count": 108,
+      "text": "But to Sunny, it was pure treasure. He tossed the ball up in the air and caught it. He dropped it and pounced on it like he was hunting. He carried it around the yard like he had just discovered the most wonderful thing in the world. His tail wagged so hard his whole body wiggled with delight. Amira found herself smiling as she watched Sunny’s pure enthusiasm. Here was a dog who could find complete joy in something so simple and worn out. He didn’t need a brand new toy or expensive equipment to be happy. That old tennis ball was enough to make his entire day.",
+      "keep": true,
+      "themes": [
+        "discouraged",
+        "grateful",
+        "joyful"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "01-sit-stay-preach-101",
+      "lesson_number": 9,
+      "lesson_title": "The Joy in a Tennis Ball",
+      "section": null,
+      "page": 56,
+      "word_count": 121,
+      "text": "Over the next few weeks, Amira continued to watch Sunny during her morning coffee time. Every day, he played with that same ball with the same level of excitement. It never got old for him. It never became boring or disappointing. Each time he saw it, his eyes lit up with genuine delight. Amira began to think about her own attitude toward the church’s music ministry. She had been so focused on what they didn’t have that she had stopped appreciating what they did have. Yes, their equipment was older, but it still worked. Yes, their music stands were mismatched, but they held the music. Yes, the piano needed tuning, but it still made beautiful sounds when the congregation sang together.",
+      "keep": true,
+      "themes": [
+        "discouraged",
+        "grateful",
+        "joyful"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "01-sit-stay-preach-102",
+      "lesson_number": 9,
+      "lesson_title": "The Joy in a Tennis Ball",
+      "section": null,
+      "page": 57,
+      "word_count": 160,
+      "text": "More importantly, Amira realized she had been missing the real treasure in her work. Every Sunday, she got to help people worship God through music. She got to see elderly members singing hymns they had loved for decades. She got to hear children learning new songs about God’s love. She got to watch the whole congregation lift their voices together in praise. These precious moments weren’t dependent on having perfect equipment or unlimited budgets. They were about hearts connecting with God through simple melodies and familiar words. The next Sunday, Amira approached the service with a different attitude. Instead of worrying about the microphone’s slight feedback or the piano’s imperfect tuning, she focused on the joy of making music together. When the adult choir sang with the kind of heartfelt emotion that only comes from years of faith, Amira felt tears in her eyes. When the children’s choir giggled their way through their special song, Amira couldn’t help but smile.",
+      "keep": true,
+      "themes": [
+        "discouraged",
+        "grateful",
+        "joyful"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "01-sit-stay-preach-103",
+      "lesson_number": 9,
+      "lesson_title": "The Joy in a Tennis Ball",
+      "section": null,
+      "page": 57,
+      "word_count": 90,
+      "text": "During the closing hymn, as the whole congregation sang “How Great Thou Art,” Amira looked out at their faces and saw what Sunny saw in his old tennis ball: something beautiful and wonderful, even if it wasn’t perfect or fancy. After the service, Pastor Williams approached Amira. “The music was especially meaningful today,” he said. “There was something different about it. There was more joy…” Amira smiled, thinking of Sunny and his beloved tennis ball. “I think I was reminded of why I love doing what I do,” she said.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "01-sit-stay-preach-104",
+      "lesson_number": 9,
+      "lesson_title": "The Joy in a Tennis Ball",
+      "section": null,
+      "page": 58,
+      "word_count": 98,
+      "text": "That week, Amira started a gratitude list for her music ministry. Instead of focusing on what was lacking, she wrote down what was working well. The list grew longer than she expected: dedicated choir members who showed up every week, a pianist who volunteered her time faithfully, a sound system that might be old but never failed them, and a congregation that sang with genuine hearts. Amira learned something important from watching Sunny’s daily joy. Happiness doesn’t come from having the newest or best things. It comes from appreciating what you have and finding delight in simple blessings.",
+      "keep": true,
+      "themes": [
+        "discouraged",
+        "grateful",
+        "joyful"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "01-sit-stay-preach-105",
+      "lesson_number": 9,
+      "lesson_title": "The Joy in a Tennis Ball",
+      "section": null,
+      "page": 58,
+      "word_count": 83,
+      "text": "Just like Sunny could play with the same old tennis ball day after day with fresh enthusiasm, Amira discovered she could lead music ministry with renewed joy, even with the same limited resources. The secret wasn’t in getting better equipment; it was in having a grateful heart that could see the treasure in what was already there. From that point forward, whenever Amira felt discouraged about budget constraints or equipment limitations, she would think of Sunny’s pure delight with his worn-out tennis ball.",
+      "keep": true,
+      "themes": [
+        "discouraged",
+        "grateful",
+        "joyful"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "01-sit-stay-preach-106",
+      "lesson_number": 10,
+      "lesson_title": "Still Welcome on the Porch",
+      "section": null,
+      "page": 60,
+      "word_count": 113,
+      "text": "In the suburbs of Maple Grove, we observe a fascinating ritual that plays out in the Johnson household nearly every week. The star of this drama is Penny, a three-year-old Border Collie mix with an unstoppable drive to explore beyond her territory. It begins when the afternoon sun hits the backyard just right, and Penny notices that the gate latch hasn’t quite clicked into place. Her head tilts. Her ears perk forward. What happens next has been captured on the Johnsons’ security camera several times. Penny approaches the gate, noses it open, and slips through the gap. Within seconds, she transforms from house pet to neighborhood explorer, trotting down the sidewalk with confidence.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "01-sit-stay-preach-107",
+      "lesson_number": 10,
+      "lesson_title": "Still Welcome on the Porch",
+      "section": null,
+      "page": 60,
+      "word_count": 92,
+      "text": "For the next twenty to thirty minutes, Penny follows a predictable pattern. She checks out the storm drain where there are interesting scents. She marks the fire hydrant, which is an important way to let other dogs know that she has been there. She pauses to study a neighbor’s garden, where rabbits sometimes hang out in the early evening. Unlike a truly wild animal, she never goes more than three blocks from home. And at some invisible signal she turns around. Penny retraces her steps, but her body language has completely changed.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "01-sit-stay-preach-108",
+      "lesson_number": 10,
+      "lesson_title": "Still Welcome on the Porch",
+      "section": null,
+      "page": 61,
+      "word_count": 95,
+      "text": "Her confident stride becomes a cautious walk. Her upright tail drops lower with each step closer to home. By the time she reaches the Johnson’s front porch, she showing “I’m sorry” signals. Her head is lowered. Her ears are flattened. And she moves slowly toward the door. She sits on the welcome mat and waits. Mr. Johnson opens the door to find a muddy dog who looks like she’s been caught red-handed. Penny’s body language says everything: her ears are back, her eyes are slightly off to the side, and her tail is barely wagging.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "01-sit-stay-preach-109",
+      "lesson_number": 10,
+      "lesson_title": "Still Welcome on the Porch",
+      "section": null,
+      "page": 61,
+      "word_count": 126,
+      "text": "Mr. Johnson looks at her with a smile and simply says, “There you are,” and steps aside to let her in. He then cleans the mud from her paws before she enters the house. This pattern has repeated itself many times with the same results. Penny escapes, explores, returns, displays “I’m sorry”signals, and quickly gets accepted back into the family. Penny never tries to do things differently. She doesn’t try to sneak back through the yard gate or wait until her family is sleeping. She sits at the front door, as if she somehow knows that being honest about what she did is the best way to receive forgiveness. Penny seems to understand, at some deep level, that her family is not about punishment but forgiveness.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "01-sit-stay-preach-110",
+      "lesson_number": 10,
+      "lesson_title": "Still Welcome on the Porch",
+      "section": null,
+      "page": 62,
+      "word_count": 92,
+      "text": "This weekly drama is more than dog behavior. Like Penny, we have our own habit of wandering off from the safe boundaries of love. We go after interesting things down roads that lead away from home. We explore places that promise excitement but ultimately leave us unsafe, muddy, and tired. And like Penny, at the end of our adventure we find ourselves standing on the porch, hoping to find forgiveness and acceptance. The truth is that God’s door will always open. He always says, “There you are. I’ve been waiting for you.”",
+      "keep": true,
+      "themes": [
+        "ashamed",
+        "guilty",
+        "forgiven",
+        "loved"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "01-sit-stay-preach-111",
+      "lesson_number": 10,
+      "lesson_title": "Still Welcome on the Porch",
+      "section": null,
+      "page": 62,
+      "word_count": 106,
+      "text": "The Bible tells us about another person who struggled with focus and purpose. There was an older son who stayed home, worked hard, and followed all the rules. He managed his father’s resources carefully and never wasted a single day. From the outside, he looked like the perfect son. But when his younger brother came home after wasting everything, something ugly showed up in the older brother’s heart. Instead of celebrating the reunion, he became angry and bitter. He had worked so hard for so long, but nobody threw him a party. He had been faithful and responsible, but his wandering brother got all the attention.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "01-sit-stay-preach-112",
+      "lesson_number": 10,
+      "lesson_title": "Still Welcome on the Porch",
+      "section": null,
+      "page": 63,
+      "word_count": 109,
+      "text": "The older brother was not irresponsible with his father’s resources. That was not the problem. His problem was that he had forgotten the heart behind the work. He had been so focused on doing everything right that he lost sight of why it mattered. His hard work had become a source of pride instead of love. When the father came out to talk to him, he did not lecture him. He did not tell him to have a better attitude or to be more grateful. The father simply reminded him: “Everything I have is yours. But we had to celebrate, because your brother was lost and now he’s found.”",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "01-sit-stay-preach-113",
+      "lesson_number": 10,
+      "lesson_title": "Still Welcome on the Porch",
+      "section": null,
+      "page": 63,
+      "word_count": 82,
+      "text": "This is how God responds when we find ourselves bitter about our faithful service or resentful that others seem to get grace we think we deserve, not them. He doesn’t criticize our hard work or tell us we shouldn’t care about doing things right. He simply reminds us that it’s all about love from the very beginning. The door is always open not just for the wanderers, but for the workers who have forgotten why they started working in the first place.",
+      "keep": true,
+      "themes": [
+        "proud",
+        "striving",
+        "resentful",
+        "forgiven"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "01-sit-stay-preach-114",
+      "lesson_number": 11,
+      "lesson_title": "The Name You Answer To",
+      "section": null,
+      "page": 64,
+      "word_count": 123,
+      "text": "She is Mola, a cream-colored Labrador whose name carries an unusual story. When her family first adopted her, they struggled with what to call her. After much discussion, they settled on Mola. In Korean it means exactly what they felt at the time: “I don’t know.” Mola responds to the world around her in a different way. Many dogs seem like they are trying really hard to prove their worth through tricks or obedience. Some do whatever they can to get your attention. Not Mola. She displays what can only be described as supreme confidence in who she is. She is not easily distracted. She doesn’t compete with other dogs. Instead, she is calm, certain of who she is and where she belongs.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "01-sit-stay-preach-115",
+      "lesson_number": 11,
+      "lesson_title": "The Name You Answer To",
+      "section": null,
+      "page": 64,
+      "word_count": 120,
+      "text": "When visitors come to the house, other neighborhood dogs might race to the fence, barking to let everyone know and wanting attention. Mola looks from her spot in the sun, and wags her tail, just a bit to say, “I see you.” She seems to understand something that many others don’t: she already has a place, a name, and a family. She doesn’t need to earn what she already has. This behavior becomes even more interesting during stressful situations. When construction noise fills the air, or when storms bring thunder and lightning, Mola doesn’t panic or hide. She simply moves closer to her family members. Her calm presence suggests a deep security, not in her circumstances, but in her relationships.",
+      "keep": true,
+      "themes": [
+        "anxious",
+        "loved",
+        "trusting",
+        "peaceful"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "01-sit-stay-preach-116",
+      "lesson_number": 11,
+      "lesson_title": "The Name You Answer To",
+      "section": null,
+      "page": 65,
+      "word_count": 120,
+      "text": "Mola shows no signs of identity confusion despite her unusual name. Of course she doesn’t; she is afterall a dog. It is quite ironic, since “I don’t know,” is the meaning of her name. She responds to it with the same energy if she were called “Princess.” The specific word matters far less than the love and intention behind it. This makes perfect sense. Dogs respond more to tone, consistency, and relationship than to the actual sounds of their names. Mola has learned that when her family says “Mola,” they’re calling her into relationship. They want her attention, her presence, her companionship. The meaning of the word in Korean is completely irrelevant to her experience of being loved and wanted.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "01-sit-stay-preach-117",
+      "lesson_number": 11,
+      "lesson_title": "The Name You Answer To",
+      "section": null,
+      "page": 65,
+      "word_count": 126,
+      "text": "This pattern reveals something that extends far beyond dog behavior. In church leadership, we often struggle with the names people give us or the names we give ourselves. We get called “successful” or “struggling.” We answer to “popular preacher” or “small church pastor.” We respond to whispers of “not enough” or “too much” or “should be doing better by now.” We can get so focused on the specific labels that we lose sight of the relationship behind them. God doesn’t call us by how well we do our jobs or how well our ministry is going. He doesn’t call us by our failures or our achievements. When He speaks our name, He’s calling us into a relationship: the same relationship that He’s always wanted with us.",
+      "keep": true,
+      "themes": [
+        "discouraged",
+        "forgotten",
+        "loved",
+        "called"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "01-sit-stay-preach-118",
+      "lesson_number": 11,
+      "lesson_title": "The Name You Answer To",
+      "section": null,
+      "page": 66,
+      "word_count": 115,
+      "text": "The Bible tells us about a man who struggled with names and identity his entire life. Jacob’s name meant “deceiver,” and he lived up to it for years. He manipulated his brother, tricked his father, and spent decades running from the consequences of his choices. But one night, after wrestling with God until dawn, he received a new name: Israel, which means “God fights for you.” The interesting thing is that even after receiving his new name, Jacob was still called by his old name throughout Scripture. But something had changed. The name didn’t define him anymore. What mattered wasn’t what people called him, but who he belonged to and who was fighting for him.",
+      "keep": true,
+      "themes": [
+        "ashamed",
+        "loved",
+        "restored",
+        "called"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "01-sit-stay-preach-119",
+      "lesson_number": 11,
+      "lesson_title": "The Name You Answer To",
+      "section": null,
+      "page": 66,
+      "word_count": 126,
+      "text": "This is the heart of what God wants church leaders to understand. We may answer to many names in ministry; some are encouraging and some are discouraging. People might call us gifted or ordinary, successful or struggling, important or unknown. But underneath all those labels is the one name that truly matters: beloved child of God. When church leaders understand whose voice really counts, they can serve with the same confidence that Mola displays. We don’t need to perform at all, let alone for approval or compete for attention. We don’t have to prove our worth through bigger ministries or better performance. We can simply rest knowing that when God calls our name, He’s inviting us into the most important relationship in this life, and beyond.",
+      "keep": true,
+      "themes": [
+        "striving",
+        "discouraged",
+        "loved",
+        "resting"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "01-sit-stay-preach-120",
+      "lesson_number": 12,
+      "lesson_title": "The Dog at Your Feet",
+      "section": null,
+      "page": 68,
+      "word_count": 117,
+      "text": "Every evening after dinner, something interesting happens in the Chen family living room. As Mr. Chen sits down in his favorite chair to read the evening paper, a gentle Shiba named Yuki quietly comes over to his feet. She acts on her own and quietly. She just lies down on the rug beside his chair and stays there for the evening. She has done this for years. Rain or shine, busy day or quiet day, Yuki finds her spot near her favorite person. She’s never in his way when he needs to get up for coffee or go to the bathroom. But she’s always close enough that if he reaches down, his hand finds her soft fur.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "01-sit-stay-preach-121",
+      "lesson_number": 12,
+      "lesson_title": "The Dog at Your Feet",
+      "section": null,
+      "page": 68,
+      "word_count": 100,
+      "text": "What makes Yuki’s behavior so interesting is what she doesn’t do. She doesn’t bring toys. She doesn’t do tricks. She doesn’t walk around the room looking for something more exciting to do. Instead, she has learned how to be there for others in a caring way. She seems to know where she’s needed, with a gentle approach. When Mr. Chen has had a difficult day at work, Yuki seems to know it. She moves a little closer, sometimes resting her chin on his foot. Sometimes she sighs happily as if to say she’s perfectly content just to be near him.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "01-sit-stay-preach-122",
+      "lesson_number": 12,
+      "lesson_title": "The Dog at Your Feet",
+      "section": null,
+      "page": 69,
+      "word_count": 135,
+      "text": "During family parties when the house is filled with noise and activity, other dogs might get excited and run around trying to get attention from every visitor. Yuki says hello to the guests with a polite tail wag, then goes back to her usual spot. She’s learned that her job isn’t to entertain; it’s to be there for the one person who matters most to her. As Yuki has grown older, her movements have slowed, but her faithfulness has never changed. Even when her joints are stiff, she still makes the trip from her bed to the living room each evening. Even when she’s tired, she finds the energy to be there for him. Her commitment to showing up has nothing to do with how she feels and everything to do with who she loves.",
+      "keep": true,
+      "themes": [
+        "weary",
+        "called",
+        "trusting"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "01-sit-stay-preach-123",
+      "lesson_number": 12,
+      "lesson_title": "The Dog at Your Feet",
+      "section": null,
+      "page": 69,
+      "word_count": 83,
+      "text": "What’s most amazing is that Yuki shows up simply because that’s what faithful friends do. She doesn’t ask for treats, praise, or attention. Her reward is the relationship itself. This faithful presence has become such a big part of the Chen family routine that they only notice it when it’s missing. On the rare times when Yuki is at the veterinarian or staying with relatives, Mr. Chen finds himself looking down at his feet during his evening reading time. The space feels empty.",
+      "keep": true,
+      "themes": [
+        "lonely",
+        "loved",
+        "trusting"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "01-sit-stay-preach-124",
+      "lesson_number": 12,
+      "lesson_title": "The Dog at Your Feet",
+      "section": null,
+      "page": 70,
+      "word_count": 83,
+      "text": "Yuki’s approach to faithfulness is beautiful in its simplicity. She can’t understand most problems. Most challenges are too big for her. She just shows up, stays close, and remains available. By doing that, she is saying: “You’re not alone. I’m here. I’m not going anywhere.” After years of this evening routine, it becomes clear that the biggest gift Yuki gives isn’t entertainment or protection from danger; it’s the security of knowing that she cares enough to show up every day, day after day.",
+      "keep": true,
+      "themes": [
+        "lonely",
+        "loved",
+        "discouraged"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "01-sit-stay-preach-125",
+      "lesson_number": 12,
+      "lesson_title": "The Dog at Your Feet",
+      "section": null,
+      "page": 70,
+      "word_count": 119,
+      "text": "For church leaders who often feel overwhelmed by the pressure to do more, be more, and accomplish more, Yuki’s story offers a simple way to be faithful. Sometimes the most important ministry isn’t preaching the perfect sermon or starting the newest program or solving everyone’s problems. Sometimes it’s simply showing up every week and being with God and with His people. Almost all church leaders feel like they’re not doing enough. But sometimes the most powerful ministry does not happen in the spotlight; it happens in quiet moments of being there for God’s people. Showing up for the same people week after week. Being available when someone needs prayer. Staying close to God especially when the work feels ordinary.",
+      "keep": true,
+      "themes": [
+        "weary",
+        "discouraged",
+        "striving",
+        "called"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "01-sit-stay-preach-126",
+      "lesson_number": 12,
+      "lesson_title": "The Dog at Your Feet",
+      "section": null,
+      "page": 71,
+      "word_count": 116,
+      "text": "The world needs people who are faithful, who are there, and shows up day after day, week after week. The world needs people who understand that sometimes the greatest gift we can offer is simply being there, ready and available, at the feet of the One who loves us most. When we learn this kind of faithfulness, we discover that we don’t have to be impressive to be important. We just have to show up. God sees every quiet act of showing up, and every decision to stay even when it would be easier to leave. He knows the importance of simply being there, and He’s honored by the kind of unshakeable faithfulness that keeps going.",
+      "keep": true,
+      "themes": [
+        "weary",
+        "discouraged",
+        "forgotten",
+        "loved"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "01-sit-stay-preach-127",
+      "lesson_number": 12,
+      "lesson_title": "The Dog at Your Feet",
+      "section": null,
+      "page": 71,
+      "word_count": 106,
+      "text": "Does today feel ordinary? Does ministry seem less than exciting? Does no one notice the work being done? Then remember Yuki. Sometimes the most important thing we can do is find our place at God’s feet and stay there. And be ready to follow wherever He leads us. The Bible tells us about someone who understood this kind of faithfulness. Even when His disciples fell asleep during His darkest hour, Jesus stayed awake and kept praying. Even when the crowds turned against Him, He kept showing up. Even when following God’s plan led to suffering and death, He stayed exactly where He was supposed to be.",
+      "keep": true,
+      "themes": [
+        "weary",
+        "discouraged",
+        "called",
+        "trusting"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "01-sit-stay-preach-128",
+      "lesson_number": 12,
+      "lesson_title": "The Dog at Your Feet",
+      "section": null,
+      "page": 72,
+      "word_count": 43,
+      "text": "Jesus didn’t promise His followers that following Him would always be exciting or that every day would bring big victories. What He promised was His presence: “I am with you always, even to the end of the world.” That’s the heart of faithfulness.",
+      "keep": true,
+      "themes": [
+        "weary",
+        "anxious",
+        "trusting",
+        "loved"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "01-sit-stay-preach-129",
+      "lesson_number": null,
+      "lesson_title": null,
+      "section": "last thoughts",
+      "page": 73,
+      "word_count": 102,
+      "text": "We didn’t write this book because we had all the answers. Honestly, we wrote it because we needed to remember some things we’d forgotten. About God. About grace. About how following Jesus isn’t about being the best. Following Jesus is about staying close to Him. All the dogs in our stories were far from perfect. Mola wasn’t a perfect dog, either. She didn’t know much. Or maybe she did and just didn’t let on. But she, along with all the others, taught us more than we expected: about loyalty, about resting, about how presence is sometimes the most powerful kind of ministry.",
+      "keep": true,
+      "themes": [
+        "weary",
+        "discouraged",
+        "loved",
+        "trusting"
+      ]
+    },
+    {
+      "id": "01-sit-stay-preach-130",
+      "lesson_number": null,
+      "lesson_title": null,
+      "section": "last thoughts",
+      "page": 73,
+      "word_count": 114,
+      "text": "These stories came from watching dogs. They came from diverse neighborhoods where different languages are spoken, different foods are shared, but where the same God is loved and served. We learned that faithfulness has no accent. Love speaks every language. And God’s grace translates perfectly into every culture. We’re not theologians. We’re not pastors. We’re just two people — one deacon and one lay person — who love Jesus and have learned from good dogs in a beautifully diverse world. And if you made it all the way here, maybe you’re someone who’s tired, or hurting, or trying your best to be faithful in a world that often forgets what that word even means.",
+      "keep": true,
+      "themes": [
+        "weary",
+        "loved",
+        "trusting"
+      ]
+    },
+    {
+      "id": "01-sit-stay-preach-131",
+      "lesson_number": null,
+      "lesson_title": null,
+      "section": "last thoughts",
+      "page": 74,
+      "word_count": 89,
+      "text": "If that’s you, we hope these stories reminded you that God sees you. He hasn’t forgotten. You’re not too small. You’re not too late. You’re not too far gone. You’re loved. So wherever you are, however you’re walking, and whatever language you pray in, we’ll just say this: Keep going. Stay close to the Shepherd. And when in doubt: sit, stay, and listen for His voice. He speaks to every heart. In every tongue. And sometimes, even through a good dog He places in our path now and then.",
+      "keep": true,
+      "themes": [
+        "weary",
+        "ashamed",
+        "forgotten",
+        "loved"
+      ]
+    },
+    {
+      "id": "01-sit-stay-preach-132",
+      "lesson_number": null,
+      "lesson_title": null,
+      "section": "about the authors",
+      "page": 75,
+      "word_count": 75,
+      "text": "We’re just a regular person and a local church deacon. The only thing truly worth mentioning is this: we’ve been forgiven. God has given us His Spirit to walk through this life and to slowly, steadily become more like Jesus. He gave His life for us on the cross, and in doing so, gave us life, now and forever. Jesus is our Savior, our Lord, and the reason we get out of bed every morning.",
+      "keep": false,
+      "themes": [
+        "loved",
+        "forgiven",
+        "grateful"
+      ],
+      "keep_override": "front-back-matter"
+    }
+  ]
+}

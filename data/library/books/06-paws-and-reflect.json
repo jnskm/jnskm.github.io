@@ -1,0 +1,1522 @@
+{
+  "book_id": "06-paws-and-reflect",
+  "title": "Paws and Reflect",
+  "subtitle": "",
+  "authors": [
+    "Kyung Suk Yi",
+    "Jin Sung Kim"
+  ],
+  "source_pdf": "06_Paws_And_Reflect/06_Paws_And_Reflect_v02.pdf",
+  "cover_image": "/assets/images/books/book-cover-06-paws-and-reflect.jpg",
+  "amazon_url": "",
+  "total_pages": 64,
+  "total_chunks": 98,
+  "chunks": [
+    {
+      "id": "06-paws-and-reflect-001",
+      "lesson_number": null,
+      "lesson_title": null,
+      "section": null,
+      "page": 1,
+      "word_count": 118,
+      "text": "Paws And Reflect Twelve Lessons From Good Dogs For Growing Hearts By Kyung Suk Yi and Jin Sung Kim © Kyung Suk Yi and Jin Sung Kim A book about theology, this is not. It’s a book about dogs. And sometimes when we look at what they do, and think about it a while, they remind us of the truths of our God. Through twelve simple lessons, Paws And Reflect shares stories drawn from a life with dogs. One thing worth mentioning is that they don’t worry much about anything, because most things don’t matter to them. But the one thing that do matter to them? Their people, and we have seen that they have always stayed near.",
+      "keep": false,
+      "themes": []
+    },
+    {
+      "id": "06-paws-and-reflect-002",
+      "lesson_number": null,
+      "lesson_title": null,
+      "section": null,
+      "page": 2,
+      "word_count": 88,
+      "text": "We are two ordinary people: a deacon and a layperson. One walking through cancer, both walking with God. We are learning to closely follow the Shepherd through all walks of life. These reflections are for everyone, but especially for young people still learning to be quietly faithful, struggling but hopeful, and anyone still learning that Grace shows up… even while we watch a dog wagging his tail. 2 The proceeds from this book goes to: The Never Alone Mission c/o A&K 440 N. Wolfe Rd. Sunnyvale, CA 94085",
+      "keep": false,
+      "themes": []
+    },
+    {
+      "id": "06-paws-and-reflect-003",
+      "lesson_number": null,
+      "lesson_title": null,
+      "section": null,
+      "page": 3,
+      "word_count": 42,
+      "text": "Front Cover Photo: Karsten Winegeart unsplash.com/@karsten116 3 To all the good dogs who have loved us faithfully, and to the teenagers who are learning what faithful love looks like. May you both continue to teach us about the heart of God. 4",
+      "keep": false,
+      "themes": []
+    },
+    {
+      "id": "06-paws-and-reflect-004",
+      "lesson_number": null,
+      "lesson_title": null,
+      "section": "introduction",
+      "page": 5,
+      "word_count": 147,
+      "text": "For years, we’ve been watching dogs. Not in a creepy way. Just noticing how they live, how they love, how they seem to understand things about life that we often miss. We’ve observed them in dog parks and veterinary waiting rooms, on neighborhood walks, and in our own homes. We’ve seen therapy dogs at hospitals, rescue dogs learning to trust again, and ordinary house pets who somehow manage to teach extraordinary lessons about faithfulness and joy. The stories in this book are based on real observations of real dogs and real people, though we’ve changed names and some details to protect privacy. Max isn’t actually named Max, and Sarah’s family has a different name in real life. Some stories have been combined or adjusted to better illustrate the lessons we’ve learned. But the heart of each story, the way these dogs live and love, is absolutely true.",
+      "keep": false,
+      "themes": []
+    },
+    {
+      "id": "06-paws-and-reflect-005",
+      "lesson_number": null,
+      "lesson_title": null,
+      "section": "introduction",
+      "page": 5,
+      "word_count": 146,
+      "text": "Why write about dogs? Because they seem to naturally do many of the things that we struggle with as humans. They wake up excited about ordinary days. They forgive quickly and completely. They’re loyal without keeping score. They trust deeply, rest without guilt, and love unconditionally. They don’t worry 5 about their image or compete for status. They just... live well. As we’ve watched these good dogs over the years, we’ve begun to see something beautiful: they reflect the character of our good God in ways that both surprise and encourage us. Not because dogs are perfect; they’re not. But because they embody qualities that God values and wants to develop in us. Their enthusiasm mirrors God’s joy over each new day He gives us. Their faithfulness reflects His unchanging love. Their ability to forgive and trust again shows us something about grace and being saved.",
+      "keep": true,
+      "themes": [
+        "hopeful",
+        "grateful",
+        "trusting"
+      ]
+    },
+    {
+      "id": "06-paws-and-reflect-006",
+      "lesson_number": null,
+      "lesson_title": null,
+      "section": "introduction",
+      "page": 6,
+      "word_count": 89,
+      "text": "This is particularly meaningful for teenagers, who are navigating so many questions about identity, relationships, purpose, and faith. In a world that often feels complicated and confusing, dogs offer simple wisdom. They remind us that some of the most important things in life are love, loyalty, joy, trust. These aren’t actually that complicated. They just require practice and the security of knowing we’re loved. That’s what we hope this book offers: simple reminders of profound truths, seen through the eyes of dogs who seem to understand intuitively what it",
+      "keep": false,
+      "themes": []
+    },
+    {
+      "id": "06-paws-and-reflect-007",
+      "lesson_number": null,
+      "lesson_title": null,
+      "section": "introduction",
+      "page": 6,
+      "word_count": 104,
+      "text": "6 means to live well. These aren’t just cute dog stories (though we hope you find them engaging). They’re invitations to consider how the same God who designed dogs to be naturally loving and faithful wants to develop those same qualities in us. We believe that our good God, who loves us deeply and is with us always, often uses the most ordinary things to teach us extraordinary truths. Sometimes that’s a sunset or a friendship or a moment of unexpected grace. And sometimes it’s a dog who wags his tail at 6:47 AM, reminding us that each day is a gift worth celebrating.",
+      "keep": true,
+      "themes": [
+        "hopeful",
+        "grateful",
+        "loved"
+      ]
+    },
+    {
+      "id": "06-paws-and-reflect-008",
+      "lesson_number": null,
+      "lesson_title": null,
+      "section": "introduction",
+      "page": 7,
+      "word_count": 95,
+      "text": "So whether you’re dealing with the pressure of high school, figuring out friendships, worrying about the future, or just trying to understand what it means to follow Jesus in daily life, we invite you to pause and consider what these good dogs might teach us about our good God. After all, if the Creator of the universe can speak through a burning bush, He can certainly use a Golden Retriever to remind us about enthusiasm, or a rescue dog to teach us about trust, or a loyal mutt to show us what faithfulness looks like.",
+      "keep": true,
+      "themes": [
+        "doubting",
+        "confused",
+        "hopeful",
+        "trusting"
+      ]
+    },
+    {
+      "id": "06-paws-and-reflect-009",
+      "lesson_number": null,
+      "lesson_title": null,
+      "section": "introduction",
+      "page": 7,
+      "word_count": 43,
+      "text": "7 We’re honored to share these observations with you. Our prayer is that through these simple stories, you’ll catch a glimpse of the God who loves you unconditionally, who is always faithful, and who walks with you through every season of life. 8",
+      "keep": true,
+      "themes": [
+        "loved",
+        "hopeful",
+        "trusting"
+      ]
+    },
+    {
+      "id": "06-paws-and-reflect-010",
+      "lesson_number": 1,
+      "lesson_title": "The Eager Puppy",
+      "section": null,
+      "page": 9,
+      "word_count": 96,
+      "text": "Every morning at exactly 6:47 AM, Max the Golden Retriever puppy starts his day the same way. His tail begins wagging before his eyes even open. 6:48. He’s bouncing around his kennel like a furry ping-pong ball. 6:49. He’s convinced that THIS IS THE BEST DAY EVER and everyone within a three-block radius knows it. Max doesn’t check his phone first thing in the morning. He doesn’t scroll through social media to see what drama happened overnight. He doesn’t even think about yesterday’s disappointments or tomorrow’s worries. He just wakes up absolutely thrilled to be alive.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-011",
+      "lesson_number": 1,
+      "lesson_title": "The Eager Puppy",
+      "section": null,
+      "page": 9,
+      "word_count": 109,
+      "text": "Last Tuesday was a perfect example. It was raining. Max’s favorite tennis ball had been destroyed the day before. His breakfast was the same boring kibble he’d eaten for weeks. But did any of that dampen his enthusiasm? Not a chance. He greeted the rainy 9 morning like it was Christmas, his birthday, and the last day of school all rolled into one. We humans, especially teenagers, could learn something from Max’s approach to mornings. Think about our typical morning. Hit snooze three times. Immediately grab the phone. Get stressed about assignments, friend drama, or world events. Drag ourselves through our routine wondering if anything exciting will ever happen.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-012",
+      "lesson_number": 1,
+      "lesson_title": "The Eager Puppy",
+      "section": null,
+      "page": 10,
+      "word_count": 85,
+      "text": "Max reminds us that enthusiasm isn’t about having perfect circumstances. It’s about choosing to be excited about the possibilities each new day brings. When we wake up with genuine eagerness for what God might do in and through us today, everything changes. The apostle Paul understood this. Even while imprisoned, he wrote letters overflowing with joy and excitement about God’s work. He wasn’t faking it or trying to be positive for the sake of it. He was genuinely enthusiastic about being part of God’s story.",
+      "keep": true,
+      "themes": [
+        "discouraged",
+        "weary",
+        "joyful",
+        "hopeful"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-013",
+      "lesson_number": 1,
+      "lesson_title": "The Eager Puppy",
+      "section": null,
+      "page": 10,
+      "word_count": 114,
+      "text": "10 \"This is the day the Lord has made; let us rejoice and be glad in it.\" — Psalm 118:24 David didn’t write this on his best day. He wrote it knowing that every day, including rainy days, boring days, and difficult days, comes from God’s hands. When we start each morning remembering that God has given us this specific day for a specific purpose, we can wake up with Max-level enthusiasm. Teenage years aren’t a waiting room for real life to begin. They’re not a dress rehearsal. God has work for us to do, people for us to love, and growth for us to experience right now, today. That’s worth getting excited about.",
+      "keep": true,
+      "themes": [
+        "discouraged",
+        "weary",
+        "grateful",
+        "joyful"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-014",
+      "lesson_number": 1,
+      "lesson_title": "The Eager Puppy",
+      "section": null,
+      "page": 11,
+      "word_count": 80,
+      "text": "So tomorrow morning, before checking our phone or thinking about everything there is to do, try waking up like Max. Thank God for giving us another day. Ask Him to help us see the possibilities instead of just the problems. Choose enthusiasm over apathy. After all, if a dog can be that excited about the same kibble and the same backyard every single day, imagine how thrilled we can be about serving the God who creates new mercies every morning.",
+      "keep": true,
+      "themes": [
+        "weary",
+        "discouraged",
+        "grateful",
+        "hopeful"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-015",
+      "lesson_number": 2,
+      "lesson_title": "The Distracted Dog",
+      "section": null,
+      "page": 12,
+      "word_count": 93,
+      "text": "Rosie the Beagle has exactly one job during our neighborhood walks: walk on the leash beside her owner. That’s it. Simple, right? But Rosie treats every walk like a sensory adventure requiring urgent investigation. Step one: sniff the fire hydrant (priority level: CRITICAL). Step two: investigate that mysterious rustling in the bushes (could be a squirrel, could be a plastic bag, must determine immediately). Step three: greet every passing dog with the enthusiasm of a long-lost reunion. Step four: chase that leaf blowing across the sidewalk because it’s clearly up to something suspicious.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "How to Walk Straight When Everything's Interesting"
+    },
+    {
+      "id": "06-paws-and-reflect-016",
+      "lesson_number": 2,
+      "lesson_title": "The Distracted Dog",
+      "section": null,
+      "page": 12,
+      "word_count": 95,
+      "text": "Meanwhile, her patient owner stands there holding the leash, gently tugging Rosie back on course about every fifteen seconds. The walk that should take ten minutes takes thirty, and they cover twice as much ground going sideways as they do going forward. 12 Sound familiar? Rosie’s distractibility is hilarious, but it’s also a mirror. How often do we start our day with good intentions… to focus on our studies, to be kind to our family, to spend time with God… only to find ourselves pulled in seventeen different directions by the time lunch rolls around?",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "How to Walk Straight When Everything's Interesting"
+    },
+    {
+      "id": "06-paws-and-reflect-017",
+      "lesson_number": 2,
+      "lesson_title": "The Distracted Dog",
+      "section": null,
+      "page": 13,
+      "word_count": 107,
+      "text": "Maybe it’s the notification ping that pulls us into a social media rabbit hole right when we meant to start homework. Maybe it’s the friend drama that consumes our thoughts during the class we actually need to pay attention to. Maybe it’s the worry about college applications that keeps us from being present with the people right in front of us. The world is full of fire hydrants and rustling bushes, metaphorically speaking. There will always be something seemingly urgent demanding our immediate attention. But just like Rosie’s owner gently guides her back to the path, we need something to keep us focused on what actually matters.",
+      "keep": true,
+      "themes": [
+        "distracted",
+        "striving",
+        "anxious",
+        "confused"
+      ],
+      "lesson_subtitle": "How to Walk Straight When Everything's Interesting"
+    },
+    {
+      "id": "06-paws-and-reflect-018",
+      "lesson_number": 2,
+      "lesson_title": "The Distracted Dog",
+      "section": null,
+      "page": 13,
+      "word_count": 116,
+      "text": "“Let us run with perseverance the race marked out for us, fixing our eyes on Jesus, the pioneer and perfecter of faith.” — Hebrews 12:1-2 13 The Christian life isn’t a leisurely stroll where we can investigate every interesting distraction. It’s a race with a specific course and a clear finish line. But notice what keeps us on track: fixing our eyes on Jesus. When we keep looking at Him, His character, His love, His purposes, the distractions lose their pull. The social media drama seems less important when we remember we’re called to love others well. The academic pressure feels less overwhelming when we remember our identity comes from being God’s children, not our GPA.",
+      "keep": true,
+      "themes": [
+        "striving",
+        "anxious",
+        "trusting",
+        "called"
+      ],
+      "lesson_subtitle": "How to Walk Straight When Everything's Interesting"
+    },
+    {
+      "id": "06-paws-and-reflect-019",
+      "lesson_number": 2,
+      "lesson_title": "The Distracted Dog",
+      "section": null,
+      "page": 14,
+      "word_count": 102,
+      "text": "This doesn’t mean we ignore everything else or become boring people with no interests. It means we learn to distinguish between what deserves our attention and what’s just noise. It means developing the discipline to stay focused on our actual direction instead of chasing every shiny thing that crosses our path. Just like Rosie’s owner uses gentle tugs to redirect her, set up gentle reminders to redirect ourselves. A Bible verse as our phone wallpaper. Asking ourselves, “Is this helping me love God and others better?” before making decisions. Having a friend who can lovingly call us out when we’re chasing squirrels.",
+      "keep": true,
+      "themes": [
+        "striving",
+        "anxious",
+        "trusting"
+      ],
+      "lesson_subtitle": "How to Walk Straight When Everything's Interesting"
+    },
+    {
+      "id": "06-paws-and-reflect-020",
+      "lesson_number": 3,
+      "lesson_title": "The Pack Walker",
+      "section": null,
+      "page": 16,
+      "word_count": 120,
+      "text": "Every morning at the local dog park, there’s an interesting thing that happens. Charlie the Labrador, Scout the Border Collie, and Baxter the mixed-breed have formed what can only be described as the world’s most loyal walking club. They don’t just happen to end up together, they actively seek one another out. When Charlie arrives first, he sits by the entrance scanning for his friends. When Scout shows up, Charlie’s whole body wags with recognition. When Baxter finally appears, the three of them immediately fall into formation and begin their circuit around the park. They walk at the same pace, stop when one needs to investigate something important, and somehow always end up back together even when they briefly scatter.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-021",
+      "lesson_number": 3,
+      "lesson_title": "The Pack Walker",
+      "section": null,
+      "page": 16,
+      "word_count": 102,
+      "text": "Here’s the thing that gets us: they’re completely different dogs. Charlie is laid-back and gentle. Scout is intense and energetic. Baxter is somewhere in the middle but has his own quirky personality. In human terms, they probably wouldn’t be the “obvious” friend group. But they’ve figured out something beautiful about friendship that we often miss. 16 High school can feel like one giant social experiment. Who sits with whom at lunch becomes a complex equation involving shared interests, social status, convenience, and sometimes just random chance. We often drift toward people who are exactly like us: same interests, same backgrounds, same perspectives.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-022",
+      "lesson_number": 3,
+      "lesson_title": "The Pack Walker",
+      "section": null,
+      "page": 17,
+      "word_count": 103,
+      "text": "But Charlie, Scout, and Baxter show us a different model. They’re not friends because they’re identical. They’re friends because they’ve chosen to walk through life together despite their differences. When one of them wants to sniff around the pond while another wants to chase tennis balls, they figure it out. They accommodate one another without losing themselves. Real friendship isn’t about finding our clone. It’s about finding people who will walk alongside us, who will wait when we need to process something, who will celebrate our victories and stick around during our struggles. It’s about being that kind of friend to others, too.",
+      "keep": true,
+      "themes": [
+        "lonely",
+        "loved",
+        "hopeful"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-023",
+      "lesson_number": 3,
+      "lesson_title": "The Pack Walker",
+      "section": null,
+      "page": 17,
+      "word_count": 100,
+      "text": "\"As iron sharpens iron, so one person sharpens another.” — Proverbs 27:17 17 Notice that this verse doesn’t say \"as iron finds identical iron.\" Iron sharpens iron through friction, through difference, through the process of two distinct pieces helping each other become better. Good friends challenge us, support us, and help us grow in ways we never could alone. Jesus modeled this perfectly. His closest friends were fishermen, tax collectors, political fanatics, and those who doubted. They disagreed about things. They had different personalities and backgrounds. But they walked together, learned together, and became better people because of their friendship.",
+      "keep": true,
+      "themes": [
+        "lonely",
+        "loved",
+        "called"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-024",
+      "lesson_number": 3,
+      "lesson_title": "The Pack Walker",
+      "section": null,
+      "page": 18,
+      "word_count": 96,
+      "text": "In our friend group, we might be the Charlie (steady and calming), the Scout (energetic and driven), or the Baxter (the unique connector). That’s perfect. God uses different types of people to accomplish different things. The question isn’t whether we’re all the same; it’s whether we’re committed to walking together. We need to be deliberate about good friendship. Just like the dog pack actively looks for one another, we need to be proactive about building and maintaining friendships. That might mean texting first, suggesting hangouts, remembering what’s important to our friends, or simply showing up consistently.",
+      "keep": true,
+      "themes": [
+        "lonely",
+        "called",
+        "trusting"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-025",
+      "lesson_number": 3,
+      "lesson_title": "The Pack Walker",
+      "section": null,
+      "page": 18,
+      "word_count": 100,
+      "text": "18 It also requires grace. Our friends will sometimes be in different moods, have different needs, or want to “sniff around the pond” when we want to keep moving. Learning to allow one another to be themselves without losing ourselves is one of the most valuable skills we’ll ever develop. Look around. Who are the people God has placed in our lives to walk alongside? How can we be a better friend to them? And remember: the best friendships aren’t about being perfect together; they’re about choosing to stick together while we all become who God created us to be.",
+      "keep": true,
+      "themes": [
+        "lonely",
+        "loved",
+        "hopeful"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-026",
+      "lesson_number": 4,
+      "lesson_title": "The Treat Hoarder",
+      "section": null,
+      "page": 20,
+      "word_count": 117,
+      "text": "Luna the Golden Retriever has a serious problem: she’s convinced there’s a global shortage of dog treats coming, and she needs to prepare for the end of the world. Give Luna a treat, and she doesn’t eat it. Oh no. She carries it around like a precious treasure, eventually hiding it in what she believes is the perfect secret location (usually under the couch cushions or behind the TV stand). Her owner has found Luna’s “emergency stash” multiple times. Under her bed: seventeen dried liver treats. In the backyard behind the garden shed: a collection of rawhide bones that could feed a small pack. In the laundry room behind the detergent: enough biscuits to last through winter.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-027",
+      "lesson_number": 4,
+      "lesson_title": "The Treat Hoarder",
+      "section": null,
+      "page": 20,
+      "word_count": 98,
+      "text": "The funny thing is, Luna is never in danger of running out of treats. Her humans love her and provide for her daily. But she can’t seem to believe that tomorrow’s treats are as guaranteed as today’s. So she hoards, and hoards, and hoards. All while missing out on the simple joy of actually enjoying what she has right now. 20 Luna’s treat hoarding might seem silly, but it reveals something deep about human nature, too. We’re all prone to thinking there’s not enough to go around. So we’d better grab what we can and hold on tight.",
+      "keep": true,
+      "themes": [
+        "anxious",
+        "striving",
+        "trusting"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-028",
+      "lesson_number": 4,
+      "lesson_title": "The Treat Hoarder",
+      "section": null,
+      "page": 21,
+      "word_count": 108,
+      "text": "For teenagers, this might show up in different ways. Hoarding compliments. Being afraid to encourage others because it might diminish our own worth. Hoarding opportunities, unwilling to help a classmate succeed because we think their success somehow threatens ours. Hoarding time, energy, or attention, convinced that if we give too much away, we’ll run out. But here’s what Luna misses and what we often miss too: hoarding doesn’t actually create security. It creates anxiety. Those treats hidden under the couch aren’t bringing Luna joy; they’re just making her constantly worry about protecting them. Meanwhile, she’s missing out on the pleasure of actually experiencing generosity, both giving and receiving.",
+      "keep": true,
+      "themes": [
+        "anxious",
+        "striving",
+        "afraid",
+        "trusting"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-029",
+      "lesson_number": 4,
+      "lesson_title": "The Treat Hoarder",
+      "section": null,
+      "page": 21,
+      "word_count": 86,
+      "text": "21 “Give, and it will be given to you. A good measure, pressed down, shaken together and running over, will be poured into your lap. For with the measure you use, it will be measured to you.” — Luke 6:38 This isn’t a magic formula for getting rich quick. It’s a spiritual truth about how God’s kingdom works. When we live with open hands instead of clenched fists, we discover that God’s supply never runs out. There’s always enough love, enough grace, enough joy to share.",
+      "keep": true,
+      "themes": [
+        "anxious",
+        "striving",
+        "trusting",
+        "grateful"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-030",
+      "lesson_number": 4,
+      "lesson_title": "The Treat Hoarder",
+      "section": null,
+      "page": 22,
+      "word_count": 87,
+      "text": "Jesus demonstrated this perfectly with the feeding of the five thousand. The disciples saw a problem: not enough food for way too many people. But Jesus saw an opportunity: when we give what we have to God, He multiplies it beyond what we could imagine. This means we can be generous with our encouragement, our time, our talents, our friendship, and even with all the stuff we have. We can celebrate others’ successes without feeling threatened. We can share our lunch with someone who forgot theirs. We",
+      "keep": true,
+      "themes": [
+        "striving",
+        "anxious",
+        "trusting",
+        "hopeful"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-031",
+      "lesson_number": 4,
+      "lesson_title": "The Treat Hoarder",
+      "section": null,
+      "page": 22,
+      "word_count": 99,
+      "text": "22 can use our skills to help classmates instead of only focusing on our own advancement. Being generous isn’t just about giving money (though that’s part of it as we get older). It’s about living from a place of plenty rather than not enough. It’s about trusting that God will provide what we need, so we’re free to give what others need. Look for ways to be generous in small ways. Compliment someone genuinely. Share notes with a struggling classmate. Listen patiently when a friend needs to vent. Text someone an encouraging word. Hold the door. Share our snacks.",
+      "keep": true,
+      "themes": [
+        "striving",
+        "called",
+        "joyful"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-032",
+      "lesson_number": 4,
+      "lesson_title": "The Treat Hoarder",
+      "section": null,
+      "page": 23,
+      "word_count": 79,
+      "text": "Notice what happens. Not just to others, but to us. We’ll probably find that giving actually creates more joy than hoarding ever could. We might discover that there’s always enough kindness to go around. We might even realize that the more we give away, the more we seem to have. Luna will probably keep hiding treats under the couch cushions. But we don’t have to live like there’s not enough good things coming. God’s supply never runs out. 23",
+      "keep": true,
+      "themes": [
+        "anxious",
+        "trusting",
+        "hopeful",
+        "grateful"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-033",
+      "lesson_number": 5,
+      "lesson_title": "The Anxious Rescue",
+      "section": null,
+      "page": 24,
+      "word_count": 126,
+      "text": "When Pepper first arrived at the animal shelter, she was what the volunteers gently called “a work in progress.” The little terrier mix had clearly been through some hard times before being rescued. She flinched when people moved too quickly. She hid under furniture when visitors came. She hoarded food like she might never see another meal. Every sound made her jump, every new person was a potential threat. But something beautiful happened over the months that followed. Slowly, carefully, the shelter staff began earning Pepper’s trust. They moved gently around her. They spoke in calm voices. They gave her space when she needed it and stayed close when she was ready for comfort. They were endlessly patient with her setbacks and celebrated every small victory.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-034",
+      "lesson_number": 5,
+      "lesson_title": "The Anxious Rescue",
+      "section": null,
+      "page": 24,
+      "word_count": 114,
+      "text": "Today, Pepper is a different dog. She still has some sensitive moments, but she’s learned that not every hand will hurt her, not every voice will yell at her, not every change means danger. She’s discovered that 24 being vulnerable enough to trust actually leads to better things than self-protection ever could. Pepper’s story hits close to home for many of us. Maybe we’ve been hurt by someone we trusted: a friend who betrayed a secret, a parent who let us down, a teacher who was unfair, a romantic relationship that ended badly. Maybe we’ve learned that putting ourselves out there can lead to pain, so it seems safer to keep our guard up.",
+      "keep": true,
+      "themes": [
+        "lonely",
+        "afraid",
+        "trusting",
+        "hopeful"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-035",
+      "lesson_number": 5,
+      "lesson_title": "The Anxious Rescue",
+      "section": null,
+      "page": 25,
+      "word_count": 91,
+      "text": "Like Pepper, we can develop protective strategies that make perfect sense given our experiences. We might become suspicious of new people. We might hold back our true feelings to avoid vulnerability. We might assume the worst about others’ motives. We might try to control everything to prevent future hurt. The problem is, while these strategies protect us from potential pain, they also protect us from potential joy. When we’re so focused on avoiding hurt that we can’t trust anyone, we miss out on the deep connections God designed us to experience.",
+      "keep": true,
+      "themes": [
+        "lonely",
+        "afraid",
+        "anxious",
+        "loved"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-036",
+      "lesson_number": 5,
+      "lesson_title": "The Anxious Rescue",
+      "section": null,
+      "page": 25,
+      "word_count": 83,
+      "text": "25 “Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight.” — Proverbs 3:5-6 This doesn’t mean we should be naive or ignore red flags in relationships. God gave us wisdom and discernment for good reasons. But it does mean that our ultimate trust should be placed in Someone who will never let us down, never betray us, never use our vulnerability against us.",
+      "keep": true,
+      "themes": [
+        "afraid",
+        "anxious",
+        "trusting",
+        "loved"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-037",
+      "lesson_number": 5,
+      "lesson_title": "The Anxious Rescue",
+      "section": null,
+      "page": 26,
+      "word_count": 103,
+      "text": "When we learn to trust God completely, it actually becomes easier to trust people appropriately. We can take healthy risks in relationships because our security doesn’t depend on other people being perfect. We can be vulnerable because we know that even if someone hurts us, God will still be there to help us heal and grow. Trusting God doesn’t guarantee that people will never disappoint us. But it does guarantee that disappointment isn’t the end of the story. Just like the shelter staff helped Pepper learn to trust again, God can heal our ability to connect with others even after we’ve been hurt.",
+      "keep": true,
+      "themes": [
+        "afraid",
+        "lonely",
+        "trusting",
+        "hopeful"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-038",
+      "lesson_number": 5,
+      "lesson_title": "The Anxious Rescue",
+      "section": null,
+      "page": 26,
+      "word_count": 114,
+      "text": "26 This process takes time. Pepper didn’t transform overnight, and neither will we. There will be setbacks, moments when old fears resurface, times when we retreat back into self-protection mode. That’s normal and okay. Healing isn’t linear. But here’s what Pepper discovered and what we can discover too: the risk of trusting is worth it. The alternative, a life of constant suspicion and emotional isolation, isn’t really protection. It’s just a different kind of prison. Start small. Look for people who have proven themselves trustworthy in little things. Practice being vulnerable in safe relationships. Ask God to heal the places where we’ve been hurt and to help us figure out who deserves our trust.",
+      "keep": true,
+      "themes": [
+        "afraid",
+        "lonely",
+        "trusting",
+        "hopeful"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-039",
+      "lesson_number": 5,
+      "lesson_title": "The Anxious Rescue",
+      "section": null,
+      "page": 27,
+      "word_count": 60,
+      "text": "Most importantly, remember that our ability to trust and love again isn’t just about our own healing; it’s about our capacity to be part of God’s work in the world. Just like Pepper now helps other nervous rescue dogs learn to trust, our healed heart can become a safe place for others who are learning to trust again too. 27",
+      "keep": true,
+      "themes": [
+        "lonely",
+        "restored",
+        "called",
+        "hopeful"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-040",
+      "lesson_number": 6,
+      "lesson_title": "The Show-Off Poodle",
+      "section": null,
+      "page": 28,
+      "word_count": 114,
+      "text": "Princess is a standard poodle who clearly knows she’s magnificent. And to be fair, she really is beautiful. Perfectly groomed, elegant stride, head held high like she’s always posing for a magazine cover. When she walks through the neighborhood, she practically floats across the sidewalk with the confidence of a supermodel on a runway. But here’s where Princess gets into trouble: she’s so focused on her own fabulousness that she’s become completely oblivious to everything else. She’s too important to acknowledge other dogs when they greet her. She’s too dignified to play in the mud puddles that bring other dogs joy. She’s too sophisticated to get excited about simple pleasures like squirrel-chasing or stick-fetching.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-041",
+      "lesson_number": 6,
+      "lesson_title": "The Show-Off Poodle",
+      "section": null,
+      "page": 28,
+      "word_count": 127,
+      "text": "Last week, Princess’s owner was walking her past the local dog park when a tennis ball rolled right in front of her. Any normal dog would have at least sniffed it, maybe played with it. But Princess stepped carefully around it like it was beneath her notice. 28 Meanwhile, a scruffy little mutt named Murphy grabbed the ball and spent the next ten minutes in absolute bliss, tossing it around and pouncing on it like he’d discovered hidden treasure. Guess which dog was happier? Princess represents something we all struggle with, especially during the high school years when social status feels incredibly important. It’s easy to become so focused on our image, our reputation, or our achievements that we lose touch with simple joys and genuine connections.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-042",
+      "lesson_number": 6,
+      "lesson_title": "The Show-Off Poodle",
+      "section": null,
+      "page": 29,
+      "word_count": 101,
+      "text": "Maybe we’ve noticed this in ourselves or others. The straight-A student who can’t admit when they don’t understand something. The athlete who won’t try a new sport because they might not immediately excel. The person who’s so concerned with looking cool that they miss out on activities that might actually be fun. The social media presence that’s so carefully curated that it doesn’t reflect real life at all. When we’re constantly performing or protecting our image, we miss out on the very experiences that make life meaningful. We become like Princess: technically impressive but somehow less alive than we could be.",
+      "keep": true,
+      "themes": [
+        "proud",
+        "striving",
+        "lonely",
+        "ashamed"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-043",
+      "lesson_number": 6,
+      "lesson_title": "The Show-Off Poodle",
+      "section": null,
+      "page": 29,
+      "word_count": 92,
+      "text": "29 “Do nothing out of selfish ambition or vain conceit. Rather, in humility value others above yourselves, not looking to your own interests but each of you to the interests of others.” — Philippians 2:3-4 Humility isn’t about thinking less of ourselves; it’s about thinking of ourselves less. It’s about being secure enough in God’s love that we don’t need to constantly prove our worth to others. When we know we’re valued by the Creator of the universe, we’re free to focus on loving and serving others instead of managing our image.",
+      "keep": true,
+      "themes": [
+        "proud",
+        "striving",
+        "loved",
+        "resting"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-044",
+      "lesson_number": 6,
+      "lesson_title": "The Show-Off Poodle",
+      "section": null,
+      "page": 30,
+      "word_count": 90,
+      "text": "Jesus is the perfect example of this. He was literally God in human form. If anyone had the right to act superior, it was Him. But instead, He “made himself nothing by taking the very nature of a servant” (Philippians 2:7). He washed feet, hung out with social outcasts, and ultimately died for people who didn’t deserve it. Humility actually makes life more enjoyable, not less. When we’re not constantly worried about looking foolish, we can try new things. When we’re not competing with everyone around us, we can genuinely",
+      "keep": true,
+      "themes": [
+        "proud",
+        "striving",
+        "loved",
+        "joyful"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-045",
+      "lesson_number": 6,
+      "lesson_title": "The Show-Off Poodle",
+      "section": null,
+      "page": 30,
+      "word_count": 90,
+      "text": "30 celebrate others’ successes. When we’re not protecting an image, we can have authentic relationships. This doesn’t mean we shouldn’t take care of ourselves or pursue excellence. Princess’s problem isn’t that she’s well-groomed; it’s that her self-focus has made her unable to connect with others or enjoy simple pleasures. Try something that might make us look less than perfect. Ask a question in class that might seem obvious. Try a new activity where we’ll be beginners. Compliment someone who might normally be competition. Help someone who can’t help us back.",
+      "keep": true,
+      "themes": [
+        "proud",
+        "striving",
+        "loved"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-046",
+      "lesson_number": 6,
+      "lesson_title": "The Show-Off Poodle",
+      "section": null,
+      "page": 31,
+      "word_count": 93,
+      "text": "Notice what happens when we stop worrying so much about how we appear to others. We might discover that the energy we were spending on image management can be redirected toward actually living. We might find that people are drawn to authenticity more than perfection. We might even realize that being humble is actually more fun than being important. After all, Murphy the scruffy mutt with his tennis ball looked a lot happier than Princess with all her dignity. Sometimes the best way to find joy is to stop taking yourself so seriously.",
+      "keep": true,
+      "themes": [
+        "proud",
+        "striving",
+        "joyful",
+        "resting"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-047",
+      "lesson_number": 7,
+      "lesson_title": "The Loyal Mutt",
+      "section": null,
+      "page": 32,
+      "word_count": 85,
+      "text": "Buddy is not what you’d call a remarkable dog. He’s a medium-sized mutt of uncertain heritage: part Lab, part German Shepherd, part “your guess is as good as mine.” His fur is brown and somewhat thin and stringy. His ears don’t match. One of his teeth sticks out at a funny angle. He’s never won a dog show, learned impressive tricks, or done anything that would make the evening news. But here’s what Buddy does every single day: he loves his family with unwavering devotion.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-048",
+      "lesson_number": 7,
+      "lesson_title": "The Loyal Mutt",
+      "section": null,
+      "page": 32,
+      "word_count": 83,
+      "text": "When Sarah gets home from school, Buddy is waiting by the door like she’s returning from a dangerous mission instead of just chemistry class. When her dad works late in his home office, Buddy lies quietly beside his chair for hours. When her mom is sick, Buddy becomes a furry nurse, refusing to leave her side. He doesn’t understand why Sarah sometimes cries over friend drama, but he knows that’s his cue to rest his head on her lap until she feels better.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-049",
+      "lesson_number": 7,
+      "lesson_title": "The Loyal Mutt",
+      "section": null,
+      "page": 32,
+      "word_count": 117,
+      "text": "Buddy has been doing this for eight years now. Through Sarah’s awkward middle school phase, her 32 parents’ stressful financial year, her grandmother’s death, and countless ordinary days that weren’t particularly good or bad. He’s never once called in sick to his job of being loyal. He’s never threatened to find a more exciting family. He just shows up, day after day, offering the same steady presence and unconditional love. In a world that celebrates flashy achievements and dramatic gestures, Buddy represents something equally valuable but often overlooked: faithfulness. He reminds us that the most important things in life aren’t the spectacular moments that make great stories; they’re the consistent, daily choices to love and serve others.",
+      "keep": true,
+      "themes": [
+        "discouraged",
+        "weary",
+        "loved",
+        "called"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-050",
+      "lesson_number": 7,
+      "lesson_title": "The Loyal Mutt",
+      "section": null,
+      "page": 33,
+      "word_count": 86,
+      "text": "This is particularly challenging for teenagers, who are constantly surrounded by highlight reels on social media, pressure to achieve big things quickly, and a culture that gets bored easily. It’s tempting to think that unless we’re doing something extraordinary, we’re not making a difference. But faithfulness is extraordinary, even when it looks ordinary. The friend who texts us back consistently. The family member who helps with chores without being asked. The student who treats the lunch lady with the same respect as the principal. These might",
+      "keep": true,
+      "themes": [
+        "discouraged",
+        "striving",
+        "called",
+        "faithful"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-051",
+      "lesson_number": 7,
+      "lesson_title": "The Loyal Mutt",
+      "section": null,
+      "page": 33,
+      "word_count": 126,
+      "text": "33 not be Instagram-worthy moments, but they’re the building blocks of a meaningful life. “His master replied, ‘Well done, good and faithful servant! You have been faithful with a few things; I will put you in charge of many things.’” — Matthew 25:21 Notice that the master doesn’t say, “Well done, good and spectacular servant!” or “Well done, good and impressive servant!” He commends faithfulness. In God’s economy, consistency matters more than flash, and reliability counts more than brilliance. This is incredibly encouraging news for those of us who feel ordinary. We don’t have to cure cancer or become famous to live a significant life. We just have to be faithful with what God has given us: our relationships, our responsibilities, and our opportunities to serve.",
+      "keep": true,
+      "themes": [
+        "discouraged",
+        "forgotten",
+        "called",
+        "hopeful"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-052",
+      "lesson_number": 7,
+      "lesson_title": "The Loyal Mutt",
+      "section": null,
+      "page": 34,
+      "word_count": 102,
+      "text": "Faithfulness means showing up even when we don’t feel like it. It means keeping our word even when it’s inconvenient. It means loving people through their difficult seasons, not just their fun ones. It means doing our homework, honoring our parents, and 34 treating friends well even when no one is watching or applauding. It also means being faithful to God. Not just during exciting spiritual highs, but during ordinary weeks when faith feels more like discipline than emotion. Reading our Bible even when it feels dry. Praying even when heaven feels silent. Choosing integrity even when cutting corners would be easier.",
+      "keep": true,
+      "themes": [
+        "weary",
+        "discouraged",
+        "called",
+        "trusting"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-053",
+      "lesson_number": 7,
+      "lesson_title": "The Loyal Mutt",
+      "section": null,
+      "page": 35,
+      "word_count": 96,
+      "text": "Here’s what Buddy understands that we often forget: faithfulness creates trust, and trust creates the foundation for everything else that matters. Sarah’s family can count on Buddy because he’s proven himself reliable over time. Similarly, when we’re consistently faithful in small things, people learn they can count on us for bigger things. Practice faithfulness in our daily life. Text our friends back promptly. Do what we say we’ll do. Show up on time. Keep the private things friends share with you private. Help with family chores without being asked. Be the person others can count on.",
+      "keep": true,
+      "themes": [
+        "called",
+        "trusting",
+        "loved"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-054",
+      "lesson_number": 7,
+      "lesson_title": "The Loyal Mutt",
+      "section": null,
+      "page": 35,
+      "word_count": 85,
+      "text": "We might not end up with any trophies or social media fame. But we’ll build something better: the kind of character that makes us truly valuable to the people who matter most. And we’ll discover that 35 there’s deep satisfaction in being someone others can depend on, just like Buddy. After all, the world has plenty of flash-in-the-pan excitement. What it really needs is more people willing to love steadily, serve consistently, and stay faithful through all seasons. That’s a calling worthy of any life.",
+      "keep": true,
+      "themes": [
+        "called",
+        "discouraged",
+        "hopeful"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-055",
+      "lesson_number": 8,
+      "lesson_title": "The Sleepy Senior",
+      "section": null,
+      "page": 37,
+      "word_count": 109,
+      "text": "Meet Walter, a thirteen-year-old Basset Hound who has mastered something most of us struggle with: the art of rest. Walter sleeps an impressive sixteen hours a day, and he does it without any guilt whatsoever. He’s got prime napping spots throughout the house: the sunny patch by the living room window for morning snoozes, the cool tile in the kitchen for afternoon siestas, and his favorite dog bed for serious nighttime sleeping. When Walter was younger, he was always on the move. Chasing rabbits, playing fetch, following interesting smells around the neighborhood. But now? He’s discovered that sometimes the best thing you can do is absolutely nothing at all.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "Why Naps Aren't a Sign of Weakness"
+    },
+    {
+      "id": "06-paws-and-reflect-056",
+      "lesson_number": 8,
+      "lesson_title": "The Sleepy Senior",
+      "section": null,
+      "page": 37,
+      "word_count": 95,
+      "text": "Watch Walter settle in for a nap, and you’ll see a master class in rest. He doesn’t check his phone first (obviously). He doesn’t make mental lists of things he should be doing instead. He doesn’t feel guilty about being “unproductive.” He just finds a comfortable spot, circles three times (basset hound tradition), and lets himself fully relax. 37 The funny thing is, Walter’s family doesn’t think less of him for all this sleeping. If anything, they find his peaceful presence comforting. When the house gets chaotic, there’s something stabilizing about Walter’s calm, rested demeanor.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "Why Naps Aren't a Sign of Weakness"
+    },
+    {
+      "id": "06-paws-and-reflect-057",
+      "lesson_number": 8,
+      "lesson_title": "The Sleepy Senior",
+      "section": null,
+      "page": 38,
+      "word_count": 83,
+      "text": "If you’re a teenager, you've probably been told that rest is basically laziness in disguise. The message from school, social media, college prep culture, everywhere is that you should always be doing something productive. Taking a break means falling behind. Relaxing means you’re not serious about success. But Walter suggests a different approach. He reminds us that rest isn’t the opposite of productivity. Rest is what makes productivity possible. A tired dog is an ineffective dog. A tired teenager is an ineffective teenager.",
+      "keep": true,
+      "themes": [
+        "weary",
+        "striving",
+        "resting"
+      ],
+      "lesson_subtitle": "Why Naps Aren't a Sign of Weakness"
+    },
+    {
+      "id": "06-paws-and-reflect-058",
+      "lesson_number": 8,
+      "lesson_title": "The Sleepy Senior",
+      "section": null,
+      "page": 38,
+      "word_count": 88,
+      "text": "The irony is that our culture’s obsession with constant activity often makes us less effective, not more. When we’re exhausted, we make poor decisions. When we’re stressed, we can’t think clearly. When we’re running on empty, we’re more likely to snap at people we care about. 38 “Come to me, all you who are weary and burdened, and I will give you rest. Take my yoke upon you and learn from me, for I am gentle and humble in heart, and you will find rest for your souls.”",
+      "keep": true,
+      "themes": [
+        "weary",
+        "striving",
+        "anxious"
+      ],
+      "lesson_subtitle": "Why Naps Aren't a Sign of Weakness"
+    },
+    {
+      "id": "06-paws-and-reflect-059",
+      "lesson_number": 8,
+      "lesson_title": "The Sleepy Senior",
+      "section": null,
+      "page": 39,
+      "word_count": 96,
+      "text": "— Matthew 11:28-29 This invitation from Jesus isn’t just about spiritual rest (though it includes that). It’s about the deep soul- rest that comes from knowing we don’t have to earn God’s love through our achievements. We don’t have to prove our worth through constant activity. We can rest because our value is already established. Even God rested. After creating the universe, He took a Sabbath day, not because He was tired, but because rest is built into the rhythm of healthy life. If the Creator of everything took time to rest, maybe we should too.",
+      "keep": true,
+      "themes": [
+        "weary",
+        "striving",
+        "loved",
+        "resting"
+      ],
+      "lesson_subtitle": "Why Naps Aren't a Sign of Weakness"
+    },
+    {
+      "id": "06-paws-and-reflect-060",
+      "lesson_number": 8,
+      "lesson_title": "The Sleepy Senior",
+      "section": null,
+      "page": 39,
+      "word_count": 87,
+      "text": "Rest isn’t being selfish; it’s being a good caretaker. Taking care of our physical and emotional energy means we’ll have more to give to others. Getting enough sleep, taking breaks, saying no to some activities aren’t signs of weakness. They’re signs of wisdom. 39 This doesn’t mean we should sleep sixteen hours a day like Walter (though teenagers do need more sleep than adults). It means building healthy rhythms of work and rest into our lives. It means recognizing that downtime isn’t wasted time; it’s recovery time.",
+      "keep": true,
+      "themes": [
+        "weary",
+        "striving",
+        "resting",
+        "loved"
+      ],
+      "lesson_subtitle": "Why Naps Aren't a Sign of Weakness"
+    },
+    {
+      "id": "06-paws-and-reflect-061",
+      "lesson_number": 8,
+      "lesson_title": "The Sleepy Senior",
+      "section": null,
+      "page": 40,
+      "word_count": 84,
+      "text": "Prioritize sleep. Our brain literally needs it to function properly. Those all-nighters might seem necessary, but they usually end up not helping. Take real breaks. Put the phone down. Step away from homework. Sit outside. Let our mind wander. Practice saying no. We don’t have to participate in every activity or accept every invitation. It’s okay to have times when we do nothing in our schedule. Don’t feel guilty about rest. We’re not being lazy when we take care of ourselves. We’re being responsible.",
+      "keep": true,
+      "themes": [
+        "weary",
+        "striving",
+        "resting"
+      ],
+      "lesson_subtitle": "Why Naps Aren't a Sign of Weakness"
+    },
+    {
+      "id": "06-paws-and-reflect-062",
+      "lesson_number": 8,
+      "lesson_title": "The Sleepy Senior",
+      "section": null,
+      "page": 40,
+      "word_count": 89,
+      "text": "Find our own version of Walter’s sunny spots. Maybe it’s reading for pleasure, taking walks, listening to music, or just sitting quietly. Figure out what actually restores us, not just what distracts us. Walter doesn’t apologize for his naps because he knows they’re necessary. We don’t have to apologize 40 for taking care of ourselves either. In a world that makes us believe that being super tired is a great thing, choosing rest is actually a radical act of faith: trusting that our worth isn’t measured by our output.",
+      "keep": true,
+      "themes": [
+        "weary",
+        "striving",
+        "resting",
+        "trusting"
+      ],
+      "lesson_subtitle": "Why Naps Aren't a Sign of Weakness"
+    },
+    {
+      "id": "06-paws-and-reflect-063",
+      "lesson_number": 9,
+      "lesson_title": "The Protective Guardian",
+      "section": null,
+      "page": 42,
+      "word_count": 149,
+      "text": "Bear is a 120-pound German Shepherd who looks like he could audition for a superhero movie. With his huge size and alert expression, he’s the kind of dog that makes strangers cross to the other side of the street. But here’s what Bear’s neighbors have learned: this gentle giant is all bark and very little bite. Unless someone threatens his family. Last month, Bear proved just how courageous he really is. While his ten-year-old owner Emma was playing in the front yard, a stranger approached asking unusual questions and trying to get Emma to come closer to his car. Bear, who had been lounging peacefully in the shade, instantly transformed. He positioned himself between Emma and the stranger, stood at full height, and made it very clear that any threat to Emma would have to go through him first. The stranger quickly decided he had somewhere else to be.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-064",
+      "lesson_number": 9,
+      "lesson_title": "The Protective Guardian",
+      "section": null,
+      "page": 42,
+      "word_count": 108,
+      "text": "But here’s the thing about Bear’s courage: it’s not careless. He doesn’t pick fights or look for trouble. 42 Most of the time, he’s perfectly content to let the mail carrier, delivery drivers, and friendly neighbors go about their business. He’s not afraid of everything, and he’s not aggressive toward everyone. His courage is purposeful: showing courage only when someone he loves needs protection. Bear’s example shows us what real courage looks like. It’s not the absence of fear; it’s acting rightly even when he has fear, when something important is at stake. It’s not about being aggressive or confrontational. It’s about standing up when standing up matters.",
+      "keep": true,
+      "themes": [
+        "afraid",
+        "anxious",
+        "called",
+        "trusting"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-065",
+      "lesson_number": 9,
+      "lesson_title": "The Protective Guardian",
+      "section": null,
+      "page": 43,
+      "word_count": 82,
+      "text": "Speak up when someone is being bullied, even if it makes us unpopular. Say no to something you know is wrong, even when everyone else is saying yes. Be honest about our faith, even in environments where that’s not cool. Sometimes courage is big and obvious, like Bear’s protective stance. But often it’s smaller and quieter: having a difficult conversation with a friend, admitting when you’ve made a mistake, or choosing to do the right thing even when no one is watching.",
+      "keep": true,
+      "themes": [
+        "afraid",
+        "tempted",
+        "called",
+        "ashamed"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-066",
+      "lesson_number": 9,
+      "lesson_title": "The Protective Guardian",
+      "section": null,
+      "page": 43,
+      "word_count": 86,
+      "text": "43 “Have I not commanded you? Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go.” — Joshua 1:9 God spoke these words to Joshua when he was about to lead the Israelites into unknown territory. Joshua was probably terrified: he had big shoes to fill and huge challenges ahead. But God didn’t say, “Don’t be afraid because nothing bad will happen.” He said, “Don’t be afraid because I’ll be with you.”",
+      "keep": true,
+      "themes": [
+        "afraid",
+        "anxious",
+        "trusting",
+        "called"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-067",
+      "lesson_number": 9,
+      "lesson_title": "The Protective Guardian",
+      "section": null,
+      "page": 44,
+      "word_count": 90,
+      "text": "That’s the secret to Bear’s courage and the secret to ours: we don’t have to be strong enough to handle everything alone. We just have to be willing to act on what’s right, trusting that God will provide what we need in the moment. Courage isn’t about being fearless. It’s about being faithful despite our fears. Bear was probably nervous when he confronted that stranger, but Emma’s safety mattered more than his comfort. Similarly, when we choose courage, we’re saying that something matters more than our own comfort or safety.",
+      "keep": true,
+      "themes": [
+        "afraid",
+        "anxious",
+        "trusting",
+        "called"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-068",
+      "lesson_number": 9,
+      "lesson_title": "The Protective Guardian",
+      "section": null,
+      "page": 44,
+      "word_count": 107,
+      "text": "44 This might mean defending someone who’s being excluded or mocked, refusing to participate in gossip, even when it’s juicy, being honest about our struggles instead of pretending to be perfect, standing up for our convictions even when it costs us socially, asking for help when we’re in over our heads, apologizing when we’ve hurt someone. Courage often involves protecting something valuable: relationships, integrity, truth, justice, or other people’s wellbeing. Like Bear, we need to figure out when courage is called for and when it’s not. Not every disagreement requires a confrontation. Not every wrong needs to be our personal crusade. Wisdom helps us pick our battles.",
+      "keep": true,
+      "themes": [
+        "afraid",
+        "ashamed",
+        "called",
+        "trusting"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-069",
+      "lesson_number": 9,
+      "lesson_title": "The Protective Guardian",
+      "section": null,
+      "page": 45,
+      "word_count": 86,
+      "text": "But when courage is called for, remember that we’re not alone. The same God who was with Joshua in the wilderness is with us in our high school hallways, family conversations, and friend groups. We can take the next right step, even when we’re scared, because He’s taking it with us. Start small. Look for small opportunities to practice courage. Speak up in class. Try something new. Have an honest conversation. Each time we choose courage over comfort, we’re building spiritual muscle for more difficult times.",
+      "keep": true,
+      "themes": [
+        "afraid",
+        "trusting",
+        "called",
+        "hopeful"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-070",
+      "lesson_number": 10,
+      "lesson_title": "The Guilty Chewer",
+      "section": null,
+      "page": 47,
+      "word_count": 137,
+      "text": "Murphy the Labrador has a confession to make: he ate the couch. Well, not the entire couch, but a significant corner of it, along with one throw pillow, the TV remote, and half of a very expensive pair of shoes. This happened on a Tuesday when his family was out longer than usual, and Murphy got bored, anxious, and destructive: a dangerous combination for a young dog with powerful jaws. When Murphy’s family came home to the scene of destruction, his reaction was unmistakable guilt. His ears back. His tail was down. And his body language was admitting, “I know I messed up big time.” He didn’t try to blame it on the cat. He didn’t act like nothing had happened. He just looked absolutely miserable, clearly understanding that he had disappointed the people he loved most.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "What to Do When You've Eaten the Couch"
+    },
+    {
+      "id": "06-paws-and-reflect-071",
+      "lesson_number": 10,
+      "lesson_title": "The Guilty Chewer",
+      "section": null,
+      "page": 47,
+      "word_count": 84,
+      "text": "But here’s what happened next: after the initial shock and frustration, Murphy’s family sat down and had a calm conversation about better ways to handle his anxiety. They bought more chew toys, adjusted their 47 schedule to give him more exercise, and created a more comfortable space for him when they were away. Most importantly, they didn’t hold the incident against him forever. Within a few days, Murphy was back to being a beloved family member, not “the dog who destroyed the living room.”",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": "What to Do When You've Eaten the Couch"
+    },
+    {
+      "id": "06-paws-and-reflect-072",
+      "lesson_number": 10,
+      "lesson_title": "The Guilty Chewer",
+      "section": null,
+      "page": 48,
+      "word_count": 127,
+      "text": "Murphy learned from his mistake, but he didn’t let shame make him feel like he was a bad dog. Murphy’s story perfectly captures something we all struggle with: what to do when we mess up badly. And if you’re a teenager, mistakes feel extra painful because everything seems really important. A bad grade? Future ruined. A friendship conflict feels like the end of the world. A poor choice feels like it defines us forever. But Murphy shows us a healthier way to handle failure. He didn’t minimize what he did wrong. His guilt was real and appropriate. But he also didn’t let that guilt paralyze him or convince him that he was too bad to change. He faced what happened, learned from the experience, and moved forward.",
+      "keep": true,
+      "themes": [
+        "ashamed",
+        "guilty",
+        "discouraged",
+        "hopeful"
+      ],
+      "lesson_subtitle": "What to Do When You've Eaten the Couch"
+    },
+    {
+      "id": "06-paws-and-reflect-073",
+      "lesson_number": 10,
+      "lesson_title": "The Guilty Chewer",
+      "section": null,
+      "page": 48,
+      "word_count": 117,
+      "text": "The key difference between guilt and shame is this: guilt says, “I did something bad,” while shame says, “I 48 am bad.” Guilt can lead to positive change. Shame just leads to hiding and hopelessness. “If we confess our sins, He is faithful and just and will forgive us our sins and purify us from all unrighteousness.” — 1 John 1:9 This verse contains one of the most liberating truths in all of Scripture: forgiveness is available, complete, and immediate for anyone who genuinely asks for it. We don’t have to earn it, work for it, or prove we deserve it. We just have to honestly admit what we did wrong and receive what God freely offers.",
+      "keep": true,
+      "themes": [
+        "ashamed",
+        "guilty",
+        "forgiven",
+        "hopeful"
+      ],
+      "lesson_subtitle": "What to Do When You've Eaten the Couch"
+    },
+    {
+      "id": "06-paws-and-reflect-074",
+      "lesson_number": 10,
+      "lesson_title": "The Guilty Chewer",
+      "section": null,
+      "page": 49,
+      "word_count": 94,
+      "text": "But forgiveness doesn’t stop with God. Jesus taught us to pray, “Forgive us our debts, as we also have forgiven our debtors” (Matthew 6:12). Part of receiving forgiveness is learning to forgive others and to forgive ourselves. This is particularly challenging for teenagers, who often struggle with perfectionism and self-criticism. We might find it easier to forgive friends for their mistakes than to forgive ourselves for ours. But 49 holding onto guilt after God has forgiven us isn’t humility; it’s pride. It’s as if we are saying that our standards are higher than God’s.",
+      "keep": true,
+      "themes": [
+        "ashamed",
+        "guilty",
+        "forgiven",
+        "striving"
+      ],
+      "lesson_subtitle": "What to Do When You've Eaten the Couch"
+    },
+    {
+      "id": "06-paws-and-reflect-075",
+      "lesson_number": 10,
+      "lesson_title": "The Guilty Chewer",
+      "section": null,
+      "page": 50,
+      "word_count": 102,
+      "text": "Admit the damage honestly. Don’t minimize, excuse, or blame others. Take responsibility for our choices and their consequences. Make things right where possible. Apologize sincerely. Replace what can be replaced. Learn what needs to be learned. Accept forgiveness gracefully. Whether it comes from God, others, or ourselves, receive it as the gift it is. Don’t keep punishing ourselves after we’ve already made it right. Learn and move forward. Let the experience teach you something valuable, but don’t let it define you. Extend the same grace to others. When friends mess up, remember how good it felt to be forgiven instead of criticized.",
+      "keep": true,
+      "themes": [
+        "ashamed",
+        "guilty",
+        "forgiven",
+        "restored"
+      ],
+      "lesson_subtitle": "What to Do When You've Eaten the Couch"
+    },
+    {
+      "id": "06-paws-and-reflect-076",
+      "lesson_number": 10,
+      "lesson_title": "The Guilty Chewer",
+      "section": null,
+      "page": 50,
+      "word_count": 98,
+      "text": "Murphy didn’t stay on the couch that he partially destroyed feeling sorry for himself. He got back to the business of being a good dog, with better understanding for how to handle his anxiety. Like Murphy, our mistakes don’t disqualify us from our purpose; they can actually equip us to help others who are struggling with similar issues. 50 Everyone messes up. Everyone needs forgiveness. Everyone deserves a chance to start over. The question isn’t whether we’ll make mistakes; it’s whether we’ll let those mistakes teach us about the grace of God and the chance to start again.",
+      "keep": true,
+      "themes": [
+        "ashamed",
+        "guilty",
+        "forgiven",
+        "hopeful"
+      ],
+      "lesson_subtitle": "What to Do When You've Eaten the Couch"
+    },
+    {
+      "id": "06-paws-and-reflect-077",
+      "lesson_number": 10,
+      "lesson_title": "The Guilty Chewer",
+      "section": null,
+      "page": 51,
+      "word_count": 55,
+      "text": "Remember: we are not the worst thing we’ve ever done. We are beloved children of God. We are learning how to live wisely, and sometimes that learning involves some pretty spectacular failures. That’s not a bug in the system; it’s a feature. Even couch-eating mistakes can become part of our testimony about God’s grace. 51",
+      "keep": true,
+      "themes": [
+        "ashamed",
+        "guilty",
+        "forgiven",
+        "loved"
+      ],
+      "lesson_subtitle": "What to Do When You've Eaten the Couch"
+    },
+    {
+      "id": "06-paws-and-reflect-078",
+      "lesson_number": 11,
+      "lesson_title": "The Patient Therapy Dog",
+      "section": null,
+      "page": 52,
+      "word_count": 128,
+      "text": "Daisy is a Golden Retriever with the most important job in the world: she’s a therapy dog at the local children’s hospital. Three days a week, Daisy puts on her official vest, rides the elevator to the floor where doctors and nurses are helping children get better, and brings joy to kids who really need it. But here’s what makes Daisy special: she seems to just know exactly what each child needs. With the full-of- energy six-year-old recovering from surgery, she’s playful and wiggly, encouraging him to laugh and move around. With the quiet twelve-year-old undergoing cancer treatment, she’s calm and still, rests her head on the bed and provides gentle friendship. With the scared toddler getting blood drawn, she performs her ‘tricks’ to distract and comfort him.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-079",
+      "lesson_number": 11,
+      "lesson_title": "The Patient Therapy Dog",
+      "section": null,
+      "page": 52,
+      "word_count": 134,
+      "text": "Daisy never gets frustrated when kids are having bad days. She doesn’t take it personally when someone is too sick to want visitors. She doesn’t ask for thanks or try to get noticed for the things she does to help. She just shows up every time, understands the mood of 52 kids, and does whatever is needed to help make the children feel a little better. Last week, Daisy spent two hours sitting quietly beside a young boy who was too anxious to speak but clearly needed a friend. She didn’t push him to talk or play or get upset when he stayed quiet. She just offered her peaceful presence, and gradually, the boy began to relax. By the end of the visit, he was gently petting her fur and whispering about his worries.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-080",
+      "lesson_number": 11,
+      "lesson_title": "The Patient Therapy Dog",
+      "section": null,
+      "page": 53,
+      "word_count": 94,
+      "text": "Daisy shows us something beautiful about true service: it’s not about us. It’s not about feeling good about ourselves, getting praise, or even seeing results right away. It’s about showing up every time and offering whatever others need, whether that’s energy, calm, entertainment, or simply being there. For teenagers, this can be an unusual idea. We’re often encouraged to serve in ways that look good on college applications or make us feel important. But Daisy reminds us that the most meaningful service often happens quietly, without fanfare, in response to real needs around us.",
+      "keep": true,
+      "themes": [
+        "called",
+        "striving",
+        "loved"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-081",
+      "lesson_number": 11,
+      "lesson_title": "The Patient Therapy Dog",
+      "section": null,
+      "page": 53,
+      "word_count": 124,
+      "text": "Real service requires some of Daisy’s key qualities: patience (things don’t always go as planned), flexibility (different people need different things), and 53 persistence (showing up even when you don’t feel like it). It also requires genuine care for others rather than doing it for ourselves. “Each of you should use whatever gift you have to serve others, as faithful stewards of God’s grace in its various forms.” — 1 Peter 4:10 We have gifts to offer, not someday when we’re older and more qualified, but right now. Serving others and being a good steward is connected. The abilities, opportunities, and resources we have aren’t just for our own benefit. They’re tools God has blessed us with so that we can also bless others.",
+      "keep": true,
+      "themes": [
+        "called",
+        "grateful",
+        "trusting"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-082",
+      "lesson_number": 11,
+      "lesson_title": "The Patient Therapy Dog",
+      "section": null,
+      "page": 54,
+      "word_count": 138,
+      "text": "Jesus is a perfect example. Even though He was literally God, He spent His time washing dirty feet, healing sick people, feeding hungry crowds, and listening to individuals who needed help. In Mark 10:43, He said: “Whoever wants to become great among you must be your servant.” This doesn’t mean we have to become a therapy dog. It means looking for ways to serve that match our gifts 54 and the needs around us. Good with kids? Help with Sunday school or babysit for free for a struggling family. Tech savvy? Teach older adults how to use smartphones or help teachers with computer problems. A good listener? Simply be available when friends need to talk through problems. Organized? Help coordinate service projects or assist with community events. Athletic? Coach younger kids or organize activities for people with disabilities.",
+      "keep": true,
+      "themes": [
+        "called",
+        "loved",
+        "joyful"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-083",
+      "lesson_number": 11,
+      "lesson_title": "The Patient Therapy Dog",
+      "section": null,
+      "page": 55,
+      "word_count": 93,
+      "text": "Start where we are, with what we have, serving people we can actually reach. Daisy doesn’t try to help every sick child in the world; she faithfully serves the ones in her hospital. We don’t have to solve global problems to make a real difference. Also, like Daisy, be prepared for service to sometimes be harder than expected. People might not appreciate our efforts. Our help might not solve their problems completely or even a little bit. We might not see results right away, and that’s okay. Faithful service is about unchanging love.",
+      "keep": true,
+      "themes": [
+        "called",
+        "discouraged",
+        "trusting"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-084",
+      "lesson_number": 11,
+      "lesson_title": "The Patient Therapy Dog",
+      "section": null,
+      "page": 55,
+      "word_count": 95,
+      "text": "Look for ways to serve that’s not about us at all. Don’t post about it on social media. Don’t expect thank-you notes. Don’t count it toward service hours. Just quietly help someone who needs it, the way Daisy helps her young patients. 55 We might discover that serving others is actually one of the most fulfilling things we can do. Not because it makes us look good, but because it connects us to our purpose and lets us be part of God’s work of healing the world, one small act of kindness at a time.",
+      "keep": true,
+      "themes": [
+        "called",
+        "proud",
+        "joyful"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-085",
+      "lesson_number": 12,
+      "lesson_title": "The Waiting Dog",
+      "section": null,
+      "page": 57,
+      "word_count": 85,
+      "text": "Every afternoon at 3:47 PM, Max the Border Collie takes up his position by the front window. He sits perfectly still, ears alert, eyes fixed on the street, waiting for the familiar sound of the school bus. For the next twenty-three minutes, Max keeps watch without losing focus. When he finally hears the bus approaching, he shows his joy by wagging his tail, and by the time his ten-year-old best friend Katie steps through the door, Max is so excited he can barely stay still.",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-086",
+      "lesson_number": 12,
+      "lesson_title": "The Waiting Dog",
+      "section": null,
+      "page": 57,
+      "word_count": 88,
+      "text": "Max has been doing this for three years now. Through rain, snow, and blazing sun streaming through the window. Through days when Katie comes home happy and days when she comes home crying. Through ordinary Tuesday afternoons and special Friday celebrations. He does this everyday Katie goes to school: 3:47 PM, window position, focused waiting, explosive reunion. Here’s what’s amazing about Max’s waiting everyday: he completely sure that Katie will come home. He’s never once positioned himself by the window thinking, “Well, maybe she’ll show up, maybe she",
+      "keep": false,
+      "themes": [],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-087",
+      "lesson_number": 12,
+      "lesson_title": "The Waiting Dog",
+      "section": null,
+      "page": 57,
+      "word_count": 95,
+      "text": "57 won’t.” He doesn’t pace anxiously or give up after ten minutes. He doesn’t need to be reminded all the time that the bus really is on its way. He just waits with calm certainty, because in his experience, Katie always comes home. Max’s window waiting is a perfect picture of hope. Not the wishful-thinking kind of hope (like hoping it won’t rain on our outdoor party), but the kind of hope that trusts without doubting. Max waits because he knows Katie’s character, he knows her promises, and he’s experienced her faithfulness day after day.",
+      "keep": true,
+      "themes": [
+        "waiting",
+        "trusting",
+        "hopeful",
+        "anxious"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-088",
+      "lesson_number": 12,
+      "lesson_title": "The Waiting Dog",
+      "section": null,
+      "page": 58,
+      "word_count": 87,
+      "text": "Teenagers require a lot of hope. Hope that hard work in school will pay off. Hope that the friendships will last. Hope that dreams are worth the effort. Hope that the world can be better. But sometimes hope feels risky. What if we trust someone and they let us down? What if we work toward something and it doesn’t happen? What if we hope for good things, but life doesn’t go the way we wanted? It can seem safer to expect less, hope for less, trust less.",
+      "keep": true,
+      "themes": [
+        "anxious",
+        "afraid",
+        "hopeful",
+        "waiting"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-089",
+      "lesson_number": 12,
+      "lesson_title": "The Waiting Dog",
+      "section": null,
+      "page": 58,
+      "word_count": 90,
+      "text": "58 “And hope does not put us to shame, because God’s love has been poured out into our hearts through the Holy Spirit, who has been given to us.” — Romans 5:5 This verse promises that hope in God never leads to disappointment. Not because everything always goes the way we want, but because God’s love is the one thing that never fails. Katie might one day not go to school for one reason or another, but God’s character never changes. His promises never expire. His love never runs out.",
+      "keep": true,
+      "themes": [
+        "anxious",
+        "afraid",
+        "hopeful",
+        "loved"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-090",
+      "lesson_number": 12,
+      "lesson_title": "The Waiting Dog",
+      "section": null,
+      "page": 59,
+      "word_count": 97,
+      "text": "This means we can wait like Max does with trust in God’s goodness, even when we can’t see it yet. We can trust Him to guide us when we make decisions, His strength in our struggles, His peace in our anxiety, and His purpose in our lives. Not because we’re optimistic people, but because we know His track record. Biblical hope isn’t naive or passive. It’s active trust based on God’s proven faithfulness. It says, “I don't know exactly how this will work out, but I know who’s in control, and I trust His heart toward me.”",
+      "keep": true,
+      "themes": [
+        "anxious",
+        "waiting",
+        "trusting",
+        "hopeful"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-091",
+      "lesson_number": 12,
+      "lesson_title": "The Waiting Dog",
+      "section": null,
+      "page": 59,
+      "word_count": 92,
+      "text": "59 This kind of hope changes how we live right now. We can work hard in school without being anxious about the future, because we trust God with the outcomes. We can invest in relationships without fear of being rejected, because our security comes from God’s unchanging love. We can take healthy risks and try new things, because we know that even failures can be part of God’s good plan for our growth. We can face difficult times with courage, because we trust that God can bring good from even painful situations.",
+      "keep": true,
+      "themes": [
+        "anxious",
+        "afraid",
+        "trusting",
+        "hopeful"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-092",
+      "lesson_number": 12,
+      "lesson_title": "The Waiting Dog",
+      "section": null,
+      "page": 60,
+      "word_count": 108,
+      "text": "Hope also changes how we treat others. When we’re secure in God’s love and trust His plans for us, we can give a lot of encouragement, be patient with difficult people, and believe others can grow and change. Let’s build this kind of hope. Keep track of God’s faithfulness in our lives. When we pray about something and see an answer, write it down. When God provides what we need, make a note. When He gives us strength for a challenge or peace during hard times, make sure to put it in writing. Over time, we will have our own collection of proof that God keeps His promises.",
+      "keep": true,
+      "themes": [
+        "hopeful",
+        "trusting",
+        "waiting",
+        "grateful"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-093",
+      "lesson_number": 12,
+      "lesson_title": "The Waiting Dog",
+      "section": null,
+      "page": 60,
+      "word_count": 104,
+      "text": "Max waits by the window every day because Katie has never failed to come home. As we experience God’s faithfulness in small things, we will find it easier to 60 trust Him with bigger things. Our hope will feel less like a maybe and more like something we can count on. Take our position by the window of faith. Wait with confidence for God’s goodness. And remember: the same God who has been faithful to a lot of people for thousands of years is the same God who loves us and has good plans for our lives today. That’s worth waiting for with joy.",
+      "keep": true,
+      "themes": [
+        "waiting",
+        "trusting",
+        "hopeful",
+        "grateful"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-094",
+      "lesson_number": 12,
+      "lesson_title": "The Waiting Dog",
+      "section": null,
+      "page": 61,
+      "word_count": 100,
+      "text": "61 Final Thoughts If you’ve made it this far, you’ve probably noticed something: dogs don’t read theology books or attend seminars on spiritual growth. They don’t have complicated ways for living well. They just know to do many of the things that make life meaningful. They’re excited, focused, loyal, generous, trusting, humble, faithful, rested, courageous, forgiving, serving, and hopeful. But here’s what makes their example even more powerful: dogs live this way naturally because they know they’re loved and cared for by their families. Because they feel safe in that relationship they can be the best dogs they can be.",
+      "keep": true,
+      "themes": [
+        "loved",
+        "trusting",
+        "hopeful",
+        "joyful"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-095",
+      "lesson_number": 12,
+      "lesson_title": "The Waiting Dog",
+      "section": null,
+      "page": 62,
+      "word_count": 91,
+      "text": "That’s exactly how God designed the Christian life to work. When we truly realize how much God loves us, not because we’ve earned it, but because of who He is, we’re free to live with the same kind of joy and trust that we see in good dogs. You don’t have to wait until you’re older, more mature, or have everything figured out to start living this way. You can wake up tomorrow with Max’s 62 excitement, walk through your day with Buddy’s faithfulness, and rest each night with Walter’s peace.",
+      "keep": true,
+      "themes": [
+        "loved",
+        "trusting",
+        "joyful",
+        "resting"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-096",
+      "lesson_number": 12,
+      "lesson_title": "The Waiting Dog",
+      "section": null,
+      "page": 63,
+      "word_count": 106,
+      "text": "The world needs more people who live like good dogs: people who love without any conditions, serve without counting the cost, and trust in something bigger than themselves. People who can be disappointed without growing bitter, who can fail without losing hope, who can succeed without losing humility. As you go through the ups and downs of these teenage years, remember that you’re not just figuring out what you want to do with your life. You’re discovering who God created you to be. And the same One who made dogs so naturally good at loving and living has even better plans, much better plans, for you.",
+      "keep": true,
+      "themes": [
+        "loved",
+        "hopeful",
+        "called",
+        "trusting"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-097",
+      "lesson_number": 12,
+      "lesson_title": "The Waiting Dog",
+      "section": null,
+      "page": 63,
+      "word_count": 71,
+      "text": "So wag your tail at the gift of each new day. Stay close to the people who matter. Love generously. Trust deeply. Rest when you need to. Be brave when courage is called for. Forgive quickly. Serve joyfully. Hope confidently. In other words, live like you know you're loved. Because you are. The good dogs have been trying to tell us this all along. Maybe it’s time we started listening. 63",
+      "keep": true,
+      "themes": [
+        "loved",
+        "joyful",
+        "hopeful",
+        "trusting"
+      ],
+      "lesson_subtitle": null
+    },
+    {
+      "id": "06-paws-and-reflect-098",
+      "lesson_number": null,
+      "lesson_title": null,
+      "section": "about the authors",
+      "page": 64,
+      "word_count": 77,
+      "text": "We are just a regular person and a local church deacon. The only thing truly worth mentioning is this: we’ve been forgiven. God has given us His Spirit to walk through this life and to slowly, steadily become more like Jesus. He gave His life for us on the cross, and in doing so, gave us life, now and forever. Jesus is our Savior, our Lord, and the reason we get out of bed every morning. 64",
+      "keep": false,
+      "themes": [
+        "loved",
+        "forgiven",
+        "grateful",
+        "hopeful"
+      ],
+      "keep_override": "front-back-matter"
+    }
+  ]
+}

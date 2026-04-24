@@ -1,0 +1,29 @@
+# Netlify deploy configuration for jnskm.com.
+#
+# Connect this repo to Netlify (https://app.netlify.com/start), point your
+# DNS for jnskm.com at the Netlify site, and set ANTHROPIC_API_KEY in
+# Netlify → Site settings → Environment variables (never committed here).
+
+[build]
+  command = "bundle exec jekyll build"
+  publish = "_site"
+
+[build.environment]
+  RUBY_VERSION = "3.2.2"
+  JEKYLL_ENV = "production"
+  # Jekyll needs Node for some build-time tasks; pin for reproducibility.
+  NODE_VERSION = "20"
+
+[functions]
+  directory = "netlify/functions"
+  node_bundler = "esbuild"
+
+# Pretty URL: /api/listen → /.netlify/functions/listen
+[[redirects]]
+  from = "/api/*"
+  to = "/.netlify/functions/:splat"
+  status = 200
+  force = true
+
+# Serve the site from the publish directory for any non-API path. (Jekyll's
+# output already contains the 404 etc., so no catch-all needed beyond this.)

@@ -1,0 +1,2486 @@
+{
+  "total_references": 81,
+  "fetched_this_run": 41,
+  "reused_from_cache": 40,
+  "translation": "ASV",
+  "ltb_available_books": [
+    "John 1",
+    "John 2"
+  ],
+  "references": {
+    "1 Corinthians 4:2": {
+      "key": "1 Corinthians 4:2",
+      "display": "1 Corinthians 4:2",
+      "book": "1 Corinthians",
+      "chapter": 4,
+      "verses": "2",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "Here, moreover, it is required in stewards, that a man be found faithful.",
+        "verses": [
+          {
+            "book_id": "1CO",
+            "book_name": "1 Corinthians",
+            "chapter": 4,
+            "verse": 2,
+            "text": "Here, moreover, it is required in stewards, that a man be found faithful."
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 0
+    },
+    "1 John 4:10": {
+      "key": "1 John 4:10",
+      "display": "1 John 4:10",
+      "book": "1 John",
+      "chapter": 4,
+      "verses": "10",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "Herein is love, not that we loved God, but that he loved us, and sent his Son [to be] the propitiation for our sins.",
+        "verses": [
+          {
+            "book_id": "1JN",
+            "book_name": "1 John",
+            "chapter": 4,
+            "verse": 10,
+            "text": "Herein is love, not that we loved God, but that he loved us, and sent his Son [to be] the propitiation for our sins."
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 0
+    },
+    "1 John 4:12": {
+      "key": "1 John 4:12",
+      "display": "1 John 4:12",
+      "book": "1 John",
+      "chapter": 4,
+      "verses": "12",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "No man hath beheld God at any time: if we love one another, God abideth in us, and his love is perfected in us:",
+        "verses": [
+          {
+            "book_id": "1JN",
+            "book_name": "1 John",
+            "chapter": 4,
+            "verse": 12,
+            "text": "No man hath beheld God at any time: if we love one another, God abideth in us, and his love is perfected in us:"
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 1
+    },
+    "1 Samuel 16:7": {
+      "key": "1 Samuel 16:7",
+      "display": "1 Samuel 16:7",
+      "book": "1 Samuel",
+      "chapter": 16,
+      "verses": "7",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "But Jehovah said unto Samuel, Look not on his countenance, or on the height of his stature; because I have rejected him: for [Jehovah seeth] not as man seeth; for man looketh on the outward appearance, but Jehovah looketh on the heart.",
+        "verses": [
+          {
+            "book_id": "1SA",
+            "book_name": "1 Samuel",
+            "chapter": 16,
+            "verse": 7,
+            "text": "But Jehovah said unto Samuel, Look not on his countenance, or on the height of his stature; because I have rejected him: for [Jehovah seeth] not as man seeth; for man looketh on the outward appearance, but Jehovah looketh on the heart."
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 0
+    },
+    "2 Corinthians 12:9": {
+      "key": "2 Corinthians 12:9",
+      "display": "2 Corinthians 12:9",
+      "book": "2 Corinthians",
+      "chapter": 12,
+      "verses": "9",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "And he hath said unto me, My grace is sufficient for thee: for [my] power is made perfect in weakness. Most gladly therefore will I rather glory in my weaknesses, that the power of Christ may rest upon me.",
+        "verses": [
+          {
+            "book_id": "2CO",
+            "book_name": "2 Corinthians",
+            "chapter": 12,
+            "verse": 9,
+            "text": "And he hath said unto me, My grace is sufficient for thee: for [my] power is made perfect in weakness. Most gladly therefore will I rather glory in my weaknesses, that the power of Christ may rest upon me."
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 1
+    },
+    "2 Corinthians 4:16-18": {
+      "key": "2 Corinthians 4:16-18",
+      "display": "2 Corinthians 4:16-18",
+      "book": "2 Corinthians",
+      "chapter": 4,
+      "verses": "16-18",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "Wherefore we faint not; but though our outward man is decaying, yet our inward man is renewed day by day.For our light affliction, which is for the moment, worketh for us more and more exceedingly an eternal weight of glory;while we look not at the things which are seen, but at the things which are not seen: for the things which are seen are temporal; but the things which are not seen are eternal.",
+        "verses": [
+          {
+            "book_id": "2CO",
+            "book_name": "2 Corinthians",
+            "chapter": 4,
+            "verse": 16,
+            "text": "Wherefore we faint not; but though our outward man is decaying, yet our inward man is renewed day by day."
+          },
+          {
+            "book_id": "2CO",
+            "book_name": "2 Corinthians",
+            "chapter": 4,
+            "verse": 17,
+            "text": "For our light affliction, which is for the moment, worketh for us more and more exceedingly an eternal weight of glory;"
+          },
+          {
+            "book_id": "2CO",
+            "book_name": "2 Corinthians",
+            "chapter": 4,
+            "verse": 18,
+            "text": "while we look not at the things which are seen, but at the things which are not seen: for the things which are seen are temporal; but the things which are not seen are eternal."
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 1
+    },
+    "2 Corinthians 5:17": {
+      "key": "2 Corinthians 5:17",
+      "display": "2 Corinthians 5:17",
+      "book": "2 Corinthians",
+      "chapter": 5,
+      "verses": "17",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "Wherefore if any man is in Christ, [he is] a new creature: the old things are passed away; behold, they are become new.",
+        "verses": [
+          {
+            "book_id": "2CO",
+            "book_name": "2 Corinthians",
+            "chapter": 5,
+            "verse": 17,
+            "text": "Wherefore if any man is in Christ, [he is] a new creature: the old things are passed away; behold, they are become new."
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 0
+    },
+    "2 Corinthians 5:7": {
+      "key": "2 Corinthians 5:7",
+      "display": "2 Corinthians 5:7",
+      "book": "2 Corinthians",
+      "chapter": 5,
+      "verses": "7",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "(for we walk by faith, not by sight);",
+        "verses": [
+          {
+            "book_id": "2CO",
+            "book_name": "2 Corinthians",
+            "chapter": 5,
+            "verse": 7,
+            "text": "(for we walk by faith, not by sight);"
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 1
+    },
+    "Amos 5:8": {
+      "key": "Amos 5:8",
+      "display": "Amos 5:8",
+      "book": "Amos",
+      "chapter": 5,
+      "verses": "8",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "[seek him] that maketh the Pleiades and Orion, and turneth the shadow of death into the morning, and maketh the day dark with night; that calleth for the waters of the sea, and poureth them out upon the face of the earth (Jehovah is his name);",
+        "verses": [
+          {
+            "book_id": "AMO",
+            "book_name": "Amos",
+            "chapter": 5,
+            "verse": 8,
+            "text": "[seek him] that maketh the Pleiades and Orion, and turneth the shadow of death into the morning, and maketh the day dark with night; that calleth for the waters of the sea, and poureth them out upon the face of the earth (Jehovah is his name);"
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 1
+    },
+    "Colossians 1:27": {
+      "key": "Colossians 1:27",
+      "display": "Colossians 1:27",
+      "book": "Colossians",
+      "chapter": 1,
+      "verses": "27",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "to whom God was pleased to make known what is the riches of the glory of this mystery among the Gentiles, which is Christ in you, the hope of glory:",
+        "verses": [
+          {
+            "book_id": "COL",
+            "book_name": "Colossians",
+            "chapter": 1,
+            "verse": 27,
+            "text": "to whom God was pleased to make known what is the riches of the glory of this mystery among the Gentiles, which is Christ in you, the hope of glory:"
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 1
+    },
+    "Colossians 2:13-14": {
+      "key": "Colossians 2:13-14",
+      "display": "Colossians 2:13-14",
+      "book": "Colossians",
+      "chapter": 2,
+      "verses": "13-14",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "And you, being dead through your trespasses and the uncircumcision of your flesh, you, [I say], did he make alive together with him, having forgiven us all our trespasses;having blotted out the bond written in ordinances that was against us, which was contrary to us: and he hath taken it out that way, nailing it to the cross;",
+        "verses": [
+          {
+            "book_id": "COL",
+            "book_name": "Colossians",
+            "chapter": 2,
+            "verse": 13,
+            "text": "And you, being dead through your trespasses and the uncircumcision of your flesh, you, [I say], did he make alive together with him, having forgiven us all our trespasses;"
+          },
+          {
+            "book_id": "COL",
+            "book_name": "Colossians",
+            "chapter": 2,
+            "verse": 14,
+            "text": "having blotted out the bond written in ordinances that was against us, which was contrary to us: and he hath taken it out that way, nailing it to the cross;"
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 0
+    },
+    "Colossians 3:15-17": {
+      "key": "Colossians 3:15-17",
+      "display": "Colossians 3:15-17",
+      "book": "Colossians",
+      "chapter": 3,
+      "verses": "15-17",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "And let the peace of Christ rule in your hearts, to the which also ye were called in one body; and be ye thankful.Let the word of Christ dwell in you richly; in all wisdom teaching and admonishing one another with psalms [and] hymns [and] spiritual songs, singing with grace in your hearts unto God.And whatsoever ye do, in word or in deed, [do] all in the name of the Lord Jesus, giving thanks to God the Father through him.",
+        "verses": [
+          {
+            "book_id": "COL",
+            "book_name": "Colossians",
+            "chapter": 3,
+            "verse": 15,
+            "text": "And let the peace of Christ rule in your hearts, to the which also ye were called in one body; and be ye thankful."
+          },
+          {
+            "book_id": "COL",
+            "book_name": "Colossians",
+            "chapter": 3,
+            "verse": 16,
+            "text": "Let the word of Christ dwell in you richly; in all wisdom teaching and admonishing one another with psalms [and] hymns [and] spiritual songs, singing with grace in your hearts unto God."
+          },
+          {
+            "book_id": "COL",
+            "book_name": "Colossians",
+            "chapter": 3,
+            "verse": 17,
+            "text": "And whatsoever ye do, in word or in deed, [do] all in the name of the Lord Jesus, giving thanks to God the Father through him."
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 1
+    },
+    "Ecclesiastes 3:11": {
+      "key": "Ecclesiastes 3:11",
+      "display": "Ecclesiastes 3:11",
+      "book": "Ecclesiastes",
+      "chapter": 3,
+      "verses": "11",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "He hath made everything beautiful in its time: also he hath set eternity in their heart, yet so that man cannot find out the work that God hath done from the beginning even to the end.",
+        "verses": [
+          {
+            "book_id": "ECC",
+            "book_name": "Ecclesiastes",
+            "chapter": 3,
+            "verse": 11,
+            "text": "He hath made everything beautiful in its time: also he hath set eternity in their heart, yet so that man cannot find out the work that God hath done from the beginning even to the end."
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 1
+    },
+    "Ephesians 1:4-5": {
+      "key": "Ephesians 1:4-5",
+      "display": "Ephesians 1:4-5",
+      "book": "Ephesians",
+      "chapter": 1,
+      "verses": "4-5",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "even as he chose us in him before the foundation of the world, that we should be holy and without blemish before him in love:having foreordained us unto adoption as sons through Jesus Christ unto himself, according to the good pleasure of his will,",
+        "verses": [
+          {
+            "book_id": "EPH",
+            "book_name": "Ephesians",
+            "chapter": 1,
+            "verse": 4,
+            "text": "even as he chose us in him before the foundation of the world, that we should be holy and without blemish before him in love:"
+          },
+          {
+            "book_id": "EPH",
+            "book_name": "Ephesians",
+            "chapter": 1,
+            "verse": 5,
+            "text": "having foreordained us unto adoption as sons through Jesus Christ unto himself, according to the good pleasure of his will,"
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 0
+    },
+    "Ephesians 2:4-5": {
+      "key": "Ephesians 2:4-5",
+      "display": "Ephesians 2:4-5",
+      "book": "Ephesians",
+      "chapter": 2,
+      "verses": "4-5",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "but God, being rich in mercy, for his great love wherewith he loved us,even when we were dead through our trespasses, made us alive together with Christ (by grace have ye been saved),",
+        "verses": [
+          {
+            "book_id": "EPH",
+            "book_name": "Ephesians",
+            "chapter": 2,
+            "verse": 4,
+            "text": "but God, being rich in mercy, for his great love wherewith he loved us,"
+          },
+          {
+            "book_id": "EPH",
+            "book_name": "Ephesians",
+            "chapter": 2,
+            "verse": 5,
+            "text": "even when we were dead through our trespasses, made us alive together with Christ (by grace have ye been saved),"
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 1
+    },
+    "Ephesians 2:7-8": {
+      "key": "Ephesians 2:7-8",
+      "display": "Ephesians 2:7-8",
+      "book": "Ephesians",
+      "chapter": 2,
+      "verses": "7-8",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "that in the ages to come he might show the exceeding riches of his grace in kindness toward us in Christ Jesus:for by grace have ye been saved through faith; and that not of yourselves, [it is] the gift of God;",
+        "verses": [
+          {
+            "book_id": "EPH",
+            "book_name": "Ephesians",
+            "chapter": 2,
+            "verse": 7,
+            "text": "that in the ages to come he might show the exceeding riches of his grace in kindness toward us in Christ Jesus:"
+          },
+          {
+            "book_id": "EPH",
+            "book_name": "Ephesians",
+            "chapter": 2,
+            "verse": 8,
+            "text": "for by grace have ye been saved through faith; and that not of yourselves, [it is] the gift of God;"
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 1
+    },
+    "Ephesians 2:8": {
+      "key": "Ephesians 2:8",
+      "display": "Ephesians 2:8",
+      "book": "Ephesians",
+      "chapter": 2,
+      "verses": "8",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "for by grace have ye been saved through faith; and that not of yourselves, [it is] the gift of God;",
+        "verses": [
+          {
+            "book_id": "EPH",
+            "book_name": "Ephesians",
+            "chapter": 2,
+            "verse": 8,
+            "text": "for by grace have ye been saved through faith; and that not of yourselves, [it is] the gift of God;"
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 1
+    },
+    "Exodus 14:14": {
+      "key": "Exodus 14:14",
+      "display": "Exodus 14:14",
+      "book": "Exodus",
+      "chapter": 14,
+      "verses": "14",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "Jehovah will fight for you, and ye shall hold your peace.",
+        "verses": [
+          {
+            "book_id": "EXO",
+            "book_name": "Exodus",
+            "chapter": 14,
+            "verse": 14,
+            "text": "Jehovah will fight for you, and ye shall hold your peace."
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 1
+    },
+    "Galatians 2:20": {
+      "key": "Galatians 2:20",
+      "display": "Galatians 2:20",
+      "book": "Galatians",
+      "chapter": 2,
+      "verses": "20",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "I have been crucified with Christ; and it is no longer I that live, but Christ living in me: and that [life] which I now live in the flesh I live in faith, [the faith] which is in the Son of God, who loved me, and gave himself up for me.",
+        "verses": [
+          {
+            "book_id": "GAL",
+            "book_name": "Galatians",
+            "chapter": 2,
+            "verse": 20,
+            "text": "I have been crucified with Christ; and it is no longer I that live, but Christ living in me: and that [life] which I now live in the flesh I live in faith, [the faith] which is in the Son of God, who loved me, and gave himself up for me."
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 1
+    },
+    "Galatians 5:1": {
+      "key": "Galatians 5:1",
+      "display": "Galatians 5:1",
+      "book": "Galatians",
+      "chapter": 5,
+      "verses": "1",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "For freedom did Christ set us free: stand fast therefore, and be not entangled again in a yoke of bondage.",
+        "verses": [
+          {
+            "book_id": "GAL",
+            "book_name": "Galatians",
+            "chapter": 5,
+            "verse": 1,
+            "text": "For freedom did Christ set us free: stand fast therefore, and be not entangled again in a yoke of bondage."
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 0
+    },
+    "Galatians 5:22": {
+      "key": "Galatians 5:22",
+      "display": "Galatians 5:22",
+      "book": "Galatians",
+      "chapter": 5,
+      "verses": "22",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "But the fruit of the Spirit is love, joy, peace, longsuffering, kindness, goodness, faithfulness,",
+        "verses": [
+          {
+            "book_id": "GAL",
+            "book_name": "Galatians",
+            "chapter": 5,
+            "verse": 22,
+            "text": "But the fruit of the Spirit is love, joy, peace, longsuffering, kindness, goodness, faithfulness,"
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 1
+    },
+    "Habakkuk 3:17-19": {
+      "key": "Habakkuk 3:17-19",
+      "display": "Habakkuk 3:17-19",
+      "book": "Habakkuk",
+      "chapter": 3,
+      "verses": "17-19",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "For though the fig-tree shall not flourish, Neither shall fruit be in the vines; The labor of the olive shall fail, And the fields shall yield no food; The flock shall be cut off from the fold, And there shall be no herd in the stalls:Yet I will rejoice in Jehovah, I will joy in the God of my salvation.Jehovah, the Lord, is my strength; And he maketh my feet like hinds' [feet], And will make me to walk upon my high places.",
+        "verses": [
+          {
+            "book_id": "HAB",
+            "book_name": "Habakkuk",
+            "chapter": 3,
+            "verse": 17,
+            "text": "For though the fig-tree shall not flourish, Neither shall fruit be in the vines; The labor of the olive shall fail, And the fields shall yield no food; The flock shall be cut off from the fold, And there shall be no herd in the stalls:"
+          },
+          {
+            "book_id": "HAB",
+            "book_name": "Habakkuk",
+            "chapter": 3,
+            "verse": 18,
+            "text": "Yet I will rejoice in Jehovah, I will joy in the God of my salvation."
+          },
+          {
+            "book_id": "HAB",
+            "book_name": "Habakkuk",
+            "chapter": 3,
+            "verse": 19,
+            "text": "Jehovah, the Lord, is my strength; And he maketh my feet like hinds' [feet], And will make me to walk upon my high places."
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 1
+    },
+    "Hebrews 4:15": {
+      "key": "Hebrews 4:15",
+      "display": "Hebrews 4:15",
+      "book": "Hebrews",
+      "chapter": 4,
+      "verses": "15",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "For we have not a high priest that cannot be touched with the feeling of our infirmities; but one that hath been in all points tempted like as [we are, yet] without sin.",
+        "verses": [
+          {
+            "book_id": "HEB",
+            "book_name": "Hebrews",
+            "chapter": 4,
+            "verse": 15,
+            "text": "For we have not a high priest that cannot be touched with the feeling of our infirmities; but one that hath been in all points tempted like as [we are, yet] without sin."
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 1
+    },
+    "Hebrews 7:25": {
+      "key": "Hebrews 7:25",
+      "display": "Hebrews 7:25",
+      "book": "Hebrews",
+      "chapter": 7,
+      "verses": "25",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "Wherefore also he is able to save to the uttermost them that draw near unto God through him, seeing he ever liveth to make intercession for them.",
+        "verses": [
+          {
+            "book_id": "HEB",
+            "book_name": "Hebrews",
+            "chapter": 7,
+            "verse": 25,
+            "text": "Wherefore also he is able to save to the uttermost them that draw near unto God through him, seeing he ever liveth to make intercession for them."
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 1
+    },
+    "Isaiah 26:3": {
+      "key": "Isaiah 26:3",
+      "display": "Isaiah 26:3",
+      "book": "Isaiah",
+      "chapter": 26,
+      "verses": "3",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "Thou wilt keep [him] in perfect peace, [whose] mind [is] stayed [on thee]; because he trusteth in thee.",
+        "verses": [
+          {
+            "book_id": "ISA",
+            "book_name": "Isaiah",
+            "chapter": 26,
+            "verse": 3,
+            "text": "Thou wilt keep [him] in perfect peace, [whose] mind [is] stayed [on thee]; because he trusteth in thee."
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 2
+    },
+    "Isaiah 41:10": {
+      "key": "Isaiah 41:10",
+      "display": "Isaiah 41:10",
+      "book": "Isaiah",
+      "chapter": 41,
+      "verses": "10",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "Fear thou not, for I am with thee; be not dismayed, for I am thy God; I will strengthen thee; yea, I will help thee; yea, I will uphold thee with the right hand of my righteousness.",
+        "verses": [
+          {
+            "book_id": "ISA",
+            "book_name": "Isaiah",
+            "chapter": 41,
+            "verse": 10,
+            "text": "Fear thou not, for I am with thee; be not dismayed, for I am thy God; I will strengthen thee; yea, I will help thee; yea, I will uphold thee with the right hand of my righteousness."
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 1
+    },
+    "Isaiah 43:19": {
+      "key": "Isaiah 43:19",
+      "display": "Isaiah 43:19",
+      "book": "Isaiah",
+      "chapter": 43,
+      "verses": "19",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "Behold, I will do a new thing; now shall it spring forth; shall ye not know it? I will even make a way in the wilderness, and rivers in the desert.",
+        "verses": [
+          {
+            "book_id": "ISA",
+            "book_name": "Isaiah",
+            "chapter": 43,
+            "verse": 19,
+            "text": "Behold, I will do a new thing; now shall it spring forth; shall ye not know it? I will even make a way in the wilderness, and rivers in the desert."
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 0
+    },
+    "Isaiah 45:15": {
+      "key": "Isaiah 45:15",
+      "display": "Isaiah 45:15",
+      "book": "Isaiah",
+      "chapter": 45,
+      "verses": "15",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "Verily thou art a God that hidest thyself, O God of Israel, the Saviour.",
+        "verses": [
+          {
+            "book_id": "ISA",
+            "book_name": "Isaiah",
+            "chapter": 45,
+            "verse": 15,
+            "text": "Verily thou art a God that hidest thyself, O God of Israel, the Saviour."
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 1
+    },
+    "Isaiah 53:5": {
+      "key": "Isaiah 53:5",
+      "display": "Isaiah 53:5",
+      "book": "Isaiah",
+      "chapter": 53,
+      "verses": "5",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "But he was wounded for our transgressions, he was bruised for our iniquities; the chastisement of our peace was upon him; and with his stripes we are healed.",
+        "verses": [
+          {
+            "book_id": "ISA",
+            "book_name": "Isaiah",
+            "chapter": 53,
+            "verse": 5,
+            "text": "But he was wounded for our transgressions, he was bruised for our iniquities; the chastisement of our peace was upon him; and with his stripes we are healed."
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 0
+    },
+    "Isaiah 58:11": {
+      "key": "Isaiah 58:11",
+      "display": "Isaiah 58:11",
+      "book": "Isaiah",
+      "chapter": 58,
+      "verses": "11",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "and Jehovah will guide thee continually, and satisfy thy soul in dry places, and make strong thy bones; and thou shalt be like a watered garden, and like a spring of water, whose waters fail not.",
+        "verses": [
+          {
+            "book_id": "ISA",
+            "book_name": "Isaiah",
+            "chapter": 58,
+            "verse": 11,
+            "text": "and Jehovah will guide thee continually, and satisfy thy soul in dry places, and make strong thy bones; and thou shalt be like a watered garden, and like a spring of water, whose waters fail not."
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 1
+    },
+    "James 1:2-4": {
+      "key": "James 1:2-4",
+      "display": "James 1:2-4",
+      "book": "James",
+      "chapter": 1,
+      "verses": "2-4",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "Count it all joy, my brethren, when ye fall into manifold temptations;Knowing that the proving of your faith worketh patience.And let patience have [its] perfect work, that ye may be perfect and entire, lacking in nothing.",
+        "verses": [
+          {
+            "book_id": "JAS",
+            "book_name": "James",
+            "chapter": 1,
+            "verse": 2,
+            "text": "Count it all joy, my brethren, when ye fall into manifold temptations;"
+          },
+          {
+            "book_id": "JAS",
+            "book_name": "James",
+            "chapter": 1,
+            "verse": 3,
+            "text": "Knowing that the proving of your faith worketh patience."
+          },
+          {
+            "book_id": "JAS",
+            "book_name": "James",
+            "chapter": 1,
+            "verse": 4,
+            "text": "And let patience have [its] perfect work, that ye may be perfect and entire, lacking in nothing."
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 1
+    },
+    "John 14:1-3": {
+      "key": "John 14:1-3",
+      "display": "John 14:1-3",
+      "book": "John",
+      "chapter": 14,
+      "verses": "1-3",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "Let not your heart be troubled: believe in God, believe also in me.In my Father's house are many mansions; if it were not so, I would have told you; for I go to prepare a place for you.And if I go and prepare a place for you, I come again, and will receive you unto myself; that where I am, [there] ye may be also.",
+        "verses": [
+          {
+            "book_id": "JHN",
+            "book_name": "John",
+            "chapter": 14,
+            "verse": 1,
+            "text": "Let not your heart be troubled: believe in God, believe also in me."
+          },
+          {
+            "book_id": "JHN",
+            "book_name": "John",
+            "chapter": 14,
+            "verse": 2,
+            "text": "In my Father's house are many mansions; if it were not so, I would have told you; for I go to prepare a place for you."
+          },
+          {
+            "book_id": "JHN",
+            "book_name": "John",
+            "chapter": 14,
+            "verse": 3,
+            "text": "And if I go and prepare a place for you, I come again, and will receive you unto myself; that where I am, [there] ye may be also."
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 1
+    },
+    "John 15:13": {
+      "key": "John 15:13",
+      "display": "John 15:13",
+      "book": "John",
+      "chapter": 15,
+      "verses": "13",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "Greater love hath no man than this, that a man lay down his life for his friends.",
+        "verses": [
+          {
+            "book_id": "JHN",
+            "book_name": "John",
+            "chapter": 15,
+            "verse": 13,
+            "text": "Greater love hath no man than this, that a man lay down his life for his friends."
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 0
+    },
+    "John 16:33": {
+      "key": "John 16:33",
+      "display": "John 16:33",
+      "book": "John",
+      "chapter": 16,
+      "verses": "33",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "These things have I spoken unto you, that in me ye may have peace. In the world ye have tribulation: but be of good cheer; I have overcome the world.",
+        "verses": [
+          {
+            "book_id": "JHN",
+            "book_name": "John",
+            "chapter": 16,
+            "verse": 33,
+            "text": "These things have I spoken unto you, that in me ye may have peace. In the world ye have tribulation: but be of good cheer; I have overcome the world."
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 1
+    },
+    "John 1:14-18": {
+      "key": "John 1:14-18",
+      "display": "John 1:14-18",
+      "book": "John",
+      "chapter": 1,
+      "verses": "14-18",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "And the Word became flesh, and dwelt among us (and we beheld his glory, glory as of the only begotten from the Father), full of grace and truth.John beareth witness of him, and crieth, saying, This was he of whom I said, He that cometh after me is become before me: for he was before me.For of his fulness we all received, and grace for grace.For the law was given through Moses; grace and truth came through Jesus Christ.No man hath seen God at any time; the only begotten Son, who is in the bosom of the Father, he hath declared [him].",
+        "verses": [
+          {
+            "book_id": "JHN",
+            "book_name": "John",
+            "chapter": 1,
+            "verse": 14,
+            "text": "And the Word became flesh, and dwelt among us (and we beheld his glory, glory as of the only begotten from the Father), full of grace and truth."
+          },
+          {
+            "book_id": "JHN",
+            "book_name": "John",
+            "chapter": 1,
+            "verse": 15,
+            "text": "John beareth witness of him, and crieth, saying, This was he of whom I said, He that cometh after me is become before me: for he was before me."
+          },
+          {
+            "book_id": "JHN",
+            "book_name": "John",
+            "chapter": 1,
+            "verse": 16,
+            "text": "For of his fulness we all received, and grace for grace."
+          },
+          {
+            "book_id": "JHN",
+            "book_name": "John",
+            "chapter": 1,
+            "verse": 17,
+            "text": "For the law was given through Moses; grace and truth came through Jesus Christ."
+          },
+          {
+            "book_id": "JHN",
+            "book_name": "John",
+            "chapter": 1,
+            "verse": 18,
+            "text": "No man hath seen God at any time; the only begotten Son, who is in the bosom of the Father, he hath declared [him]."
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": {
+        "url": "https://thelighttranslationbible.org",
+        "note": "Read in the Light Translation Bible",
+        "available": true
+      },
+      "released_song_count": 1
+    },
+    "John 3:16": {
+      "key": "John 3:16",
+      "display": "John 3:16",
+      "book": "John",
+      "chapter": 3,
+      "verses": "16",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "For God so loved the world, that he gave his only begotten Son, that whosoever believeth on him should not perish, but have eternal life.",
+        "verses": [
+          {
+            "book_id": "JHN",
+            "book_name": "John",
+            "chapter": 3,
+            "verse": 16,
+            "text": "For God so loved the world, that he gave his only begotten Son, that whosoever believeth on him should not perish, but have eternal life."
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 0
+    },
+    "John 6:1-14": {
+      "key": "John 6:1-14",
+      "display": "John 6:1-14",
+      "book": "John",
+      "chapter": 6,
+      "verses": "1-14",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "After these things Jesus went away to the other side of the sea of Galilee, which is [the sea] of Tiberias.And a great multitude followed him, because they beheld the signs which he did on them that were sick.And Jesus went up into the mountain, and there he sat with his disciples.Now the passover, the feast of the Jews, was at hand.Jesus therefore lifting up his eyes, and seeing that a great multitude cometh unto him, saith unto Philip, Whence are we to buy bread, that these may eat?And this he said to prove him: for he himself knew what he would do.Philip answered him, Two hundred shillings' worth of bread is not sufficient for them, that every one may take a little.One of his disciples, Andrew, Simon Peter's brother, saith unto him,There is a lad here, who hath five barley loaves, and two fishes: but what are these among so many?Jesus said, Make the people sit down. Now there was much grass in the place. So the men sat down, in number about five thousand.Jesus therefore took the loaves; and having given thanks, he distributed to them that were set down; likewise also of the fishes as much as they would.And when they were filled, he saith unto his disciples, Gather up the broken pieces which remain over, that nothing be lost.So they gathered them up, and filled twelve baskets with broken pieces from the five barley loaves, which remained over unto them that had eaten.When therefore the people saw the sign which he did, they said, This is of a truth the prophet that cometh into the world.",
+        "verses": [
+          {
+            "book_id": "JHN",
+            "book_name": "John",
+            "chapter": 6,
+            "verse": 1,
+            "text": "After these things Jesus went away to the other side of the sea of Galilee, which is [the sea] of Tiberias."
+          },
+          {
+            "book_id": "JHN",
+            "book_name": "John",
+            "chapter": 6,
+            "verse": 2,
+            "text": "And a great multitude followed him, because they beheld the signs which he did on them that were sick."
+          },
+          {
+            "book_id": "JHN",
+            "book_name": "John",
+            "chapter": 6,
+            "verse": 3,
+            "text": "And Jesus went up into the mountain, and there he sat with his disciples."
+          },
+          {
+            "book_id": "JHN",
+            "book_name": "John",
+            "chapter": 6,
+            "verse": 4,
+            "text": "Now the passover, the feast of the Jews, was at hand."
+          },
+          {
+            "book_id": "JHN",
+            "book_name": "John",
+            "chapter": 6,
+            "verse": 5,
+            "text": "Jesus therefore lifting up his eyes, and seeing that a great multitude cometh unto him, saith unto Philip, Whence are we to buy bread, that these may eat?"
+          },
+          {
+            "book_id": "JHN",
+            "book_name": "John",
+            "chapter": 6,
+            "verse": 6,
+            "text": "And this he said to prove him: for he himself knew what he would do."
+          },
+          {
+            "book_id": "JHN",
+            "book_name": "John",
+            "chapter": 6,
+            "verse": 7,
+            "text": "Philip answered him, Two hundred shillings' worth of bread is not sufficient for them, that every one may take a little."
+          },
+          {
+            "book_id": "JHN",
+            "book_name": "John",
+            "chapter": 6,
+            "verse": 8,
+            "text": "One of his disciples, Andrew, Simon Peter's brother, saith unto him,"
+          },
+          {
+            "book_id": "JHN",
+            "book_name": "John",
+            "chapter": 6,
+            "verse": 9,
+            "text": "There is a lad here, who hath five barley loaves, and two fishes: but what are these among so many?"
+          },
+          {
+            "book_id": "JHN",
+            "book_name": "John",
+            "chapter": 6,
+            "verse": 10,
+            "text": "Jesus said, Make the people sit down. Now there was much grass in the place. So the men sat down, in number about five thousand."
+          },
+          {
+            "book_id": "JHN",
+            "book_name": "John",
+            "chapter": 6,
+            "verse": 11,
+            "text": "Jesus therefore took the loaves; and having given thanks, he distributed to them that were set down; likewise also of the fishes as much as they would."
+          },
+          {
+            "book_id": "JHN",
+            "book_name": "John",
+            "chapter": 6,
+            "verse": 12,
+            "text": "And when they were filled, he saith unto his disciples, Gather up the broken pieces which remain over, that nothing be lost."
+          },
+          {
+            "book_id": "JHN",
+            "book_name": "John",
+            "chapter": 6,
+            "verse": 13,
+            "text": "So they gathered them up, and filled twelve baskets with broken pieces from the five barley loaves, which remained over unto them that had eaten."
+          },
+          {
+            "book_id": "JHN",
+            "book_name": "John",
+            "chapter": 6,
+            "verse": 14,
+            "text": "When therefore the people saw the sign which he did, they said, This is of a truth the prophet that cometh into the world."
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 1
+    },
+    "John 8:31-32": {
+      "key": "John 8:31-32",
+      "display": "John 8:31-32",
+      "book": "John",
+      "chapter": 8,
+      "verses": "31-32",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "Jesus therefore said to those Jews that had believed him, If ye abide in my word, [then] are ye truly my disciples;and ye shall know the truth, and the truth shall make you free.",
+        "verses": [
+          {
+            "book_id": "JHN",
+            "book_name": "John",
+            "chapter": 8,
+            "verse": 31,
+            "text": "Jesus therefore said to those Jews that had believed him, If ye abide in my word, [then] are ye truly my disciples;"
+          },
+          {
+            "book_id": "JHN",
+            "book_name": "John",
+            "chapter": 8,
+            "verse": 32,
+            "text": "and ye shall know the truth, and the truth shall make you free."
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 1
+    },
+    "Lamentations 3:22-23": {
+      "key": "Lamentations 3:22-23",
+      "display": "Lamentations 3:22-23",
+      "book": "Lamentations",
+      "chapter": 3,
+      "verses": "22-23",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "[It is of] Jehovah's lovingkindnesses that we are not consumed, because his compassions fail not.They are new every morning; great is thy faithfulness.",
+        "verses": [
+          {
+            "book_id": "LAM",
+            "book_name": "Lamentations",
+            "chapter": 3,
+            "verse": 22,
+            "text": "[It is of] Jehovah's lovingkindnesses that we are not consumed, because his compassions fail not."
+          },
+          {
+            "book_id": "LAM",
+            "book_name": "Lamentations",
+            "chapter": 3,
+            "verse": 23,
+            "text": "They are new every morning; great is thy faithfulness."
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 1
+    },
+    "Mark 1:35": {
+      "key": "Mark 1:35",
+      "display": "Mark 1:35",
+      "book": "Mark",
+      "chapter": 1,
+      "verses": "35",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "And in the morning, a great while before day, he rose up and went out, and departed into a desert place, and there prayed.",
+        "verses": [
+          {
+            "book_id": "MRK",
+            "book_name": "Mark",
+            "chapter": 1,
+            "verse": 35,
+            "text": "And in the morning, a great while before day, he rose up and went out, and departed into a desert place, and there prayed."
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 0
+    },
+    "Matthew 11:28-29": {
+      "key": "Matthew 11:28-29",
+      "display": "Matthew 11:28-29",
+      "book": "Matthew",
+      "chapter": 11,
+      "verses": "28-29",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "Come unto me, all ye that labor and are heavy laden, and I will give you rest.Take my yoke upon you, and learn of me; for I am meek and lowly in heart: and ye shall find rest unto your souls.",
+        "verses": [
+          {
+            "book_id": "MAT",
+            "book_name": "Matthew",
+            "chapter": 11,
+            "verse": 28,
+            "text": "Come unto me, all ye that labor and are heavy laden, and I will give you rest."
+          },
+          {
+            "book_id": "MAT",
+            "book_name": "Matthew",
+            "chapter": 11,
+            "verse": 29,
+            "text": "Take my yoke upon you, and learn of me; for I am meek and lowly in heart: and ye shall find rest unto your souls."
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 2
+    },
+    "Matthew 11:28-30": {
+      "key": "Matthew 11:28-30",
+      "display": "Matthew 11:28-30",
+      "book": "Matthew",
+      "chapter": 11,
+      "verses": "28-30",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "Come unto me, all ye that labor and are heavy laden, and I will give you rest.Take my yoke upon you, and learn of me; for I am meek and lowly in heart: and ye shall find rest unto your souls.For my yoke is easy, and my burden is light.",
+        "verses": [
+          {
+            "book_id": "MAT",
+            "book_name": "Matthew",
+            "chapter": 11,
+            "verse": 28,
+            "text": "Come unto me, all ye that labor and are heavy laden, and I will give you rest."
+          },
+          {
+            "book_id": "MAT",
+            "book_name": "Matthew",
+            "chapter": 11,
+            "verse": 29,
+            "text": "Take my yoke upon you, and learn of me; for I am meek and lowly in heart: and ye shall find rest unto your souls."
+          },
+          {
+            "book_id": "MAT",
+            "book_name": "Matthew",
+            "chapter": 11,
+            "verse": 30,
+            "text": "For my yoke is easy, and my burden is light."
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 1
+    },
+    "Matthew 16:24-25": {
+      "key": "Matthew 16:24-25",
+      "display": "Matthew 16:24-25",
+      "book": "Matthew",
+      "chapter": 16,
+      "verses": "24-25",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "Then said Jesus unto his disciples, If any man would come after me, let him deny himself, and take up his cross, and follow me.For whosoever would save his life shall lose it: and whosoever shall lose his life for my sake shall find it.",
+        "verses": [
+          {
+            "book_id": "MAT",
+            "book_name": "Matthew",
+            "chapter": 16,
+            "verse": 24,
+            "text": "Then said Jesus unto his disciples, If any man would come after me, let him deny himself, and take up his cross, and follow me."
+          },
+          {
+            "book_id": "MAT",
+            "book_name": "Matthew",
+            "chapter": 16,
+            "verse": 25,
+            "text": "For whosoever would save his life shall lose it: and whosoever shall lose his life for my sake shall find it."
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 1
+    },
+    "Matthew 5:3-10": {
+      "key": "Matthew 5:3-10",
+      "display": "Matthew 5:3-10",
+      "book": "Matthew",
+      "chapter": 5,
+      "verses": "3-10",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "Blessed are the poor in spirit: for theirs is the kingdom of heaven.Blessed are they that mourn: for they shall be comforted.Blessed are the meek: for they shall inherit the earth.Blessed are they that hunger and thirst after righteousness: for they shall be filled.Blessed are the merciful: for they shall obtain mercy.Blessed are the pure in heart: for they shall see God.Blessed are the peacemakers: for they shall be called sons of God.Blessed are they that have been persecuted for righteousness' sake: for theirs is the kingdom of heaven.",
+        "verses": [
+          {
+            "book_id": "MAT",
+            "book_name": "Matthew",
+            "chapter": 5,
+            "verse": 3,
+            "text": "Blessed are the poor in spirit: for theirs is the kingdom of heaven."
+          },
+          {
+            "book_id": "MAT",
+            "book_name": "Matthew",
+            "chapter": 5,
+            "verse": 4,
+            "text": "Blessed are they that mourn: for they shall be comforted."
+          },
+          {
+            "book_id": "MAT",
+            "book_name": "Matthew",
+            "chapter": 5,
+            "verse": 5,
+            "text": "Blessed are the meek: for they shall inherit the earth."
+          },
+          {
+            "book_id": "MAT",
+            "book_name": "Matthew",
+            "chapter": 5,
+            "verse": 6,
+            "text": "Blessed are they that hunger and thirst after righteousness: for they shall be filled."
+          },
+          {
+            "book_id": "MAT",
+            "book_name": "Matthew",
+            "chapter": 5,
+            "verse": 7,
+            "text": "Blessed are the merciful: for they shall obtain mercy."
+          },
+          {
+            "book_id": "MAT",
+            "book_name": "Matthew",
+            "chapter": 5,
+            "verse": 8,
+            "text": "Blessed are the pure in heart: for they shall see God."
+          },
+          {
+            "book_id": "MAT",
+            "book_name": "Matthew",
+            "chapter": 5,
+            "verse": 9,
+            "text": "Blessed are the peacemakers: for they shall be called sons of God."
+          },
+          {
+            "book_id": "MAT",
+            "book_name": "Matthew",
+            "chapter": 5,
+            "verse": 10,
+            "text": "Blessed are they that have been persecuted for righteousness' sake: for theirs is the kingdom of heaven."
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 1
+    },
+    "Matthew 6:26,10,29-31": {
+      "key": "Matthew 6:26,10,29-31",
+      "display": "Matthew 6:26,10,29-31",
+      "book": "Matthew",
+      "chapter": 6,
+      "verses": "26,10,29-31",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "Behold the birds of the heaven, that they sow not, neither do they reap, nor gather into barns; and your heavenly Father feedeth them. Are not ye of much more value then they?Thy kingdom come. Thy will be done, as in heaven, so on earth.yet I say unto you, that even Solomon in all his glory was not arrayed like one of these.But if God doth so clothe the grass of the field, which to-day is, and to-morrow is cast into the oven, [shall he] not much more [clothe] you, O ye of little faith?Be not therefore anxious, saying, What shall we eat? or, What shall we drink? or, Wherewithal shall we be clothed?",
+        "verses": [
+          {
+            "book_id": "MAT",
+            "book_name": "Matthew",
+            "chapter": 6,
+            "verse": 26,
+            "text": "Behold the birds of the heaven, that they sow not, neither do they reap, nor gather into barns; and your heavenly Father feedeth them. Are not ye of much more value then they?"
+          },
+          {
+            "book_id": "MAT",
+            "book_name": "Matthew",
+            "chapter": 6,
+            "verse": 10,
+            "text": "Thy kingdom come. Thy will be done, as in heaven, so on earth."
+          },
+          {
+            "book_id": "MAT",
+            "book_name": "Matthew",
+            "chapter": 6,
+            "verse": 29,
+            "text": "yet I say unto you, that even Solomon in all his glory was not arrayed like one of these."
+          },
+          {
+            "book_id": "MAT",
+            "book_name": "Matthew",
+            "chapter": 6,
+            "verse": 30,
+            "text": "But if God doth so clothe the grass of the field, which to-day is, and to-morrow is cast into the oven, [shall he] not much more [clothe] you, O ye of little faith?"
+          },
+          {
+            "book_id": "MAT",
+            "book_name": "Matthew",
+            "chapter": 6,
+            "verse": 31,
+            "text": "Be not therefore anxious, saying, What shall we eat? or, What shall we drink? or, Wherewithal shall we be clothed?"
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 1
+    },
+    "Matthew 6:33": {
+      "key": "Matthew 6:33",
+      "display": "Matthew 6:33",
+      "book": "Matthew",
+      "chapter": 6,
+      "verses": "33",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "But seek ye first his kingdom, and his righteousness; and all these things shall be added unto you.",
+        "verses": [
+          {
+            "book_id": "MAT",
+            "book_name": "Matthew",
+            "chapter": 6,
+            "verse": 33,
+            "text": "But seek ye first his kingdom, and his righteousness; and all these things shall be added unto you."
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 1
+    },
+    "Matthew 7:13-14": {
+      "key": "Matthew 7:13-14",
+      "display": "Matthew 7:13-14",
+      "book": "Matthew",
+      "chapter": 7,
+      "verses": "13-14",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "Enter ye in by the narrow gate: for wide is the gate, and broad is the way, that leadeth to destruction, and many are they that enter in thereby.For narrow is the gate, and straitened the way, that leadeth unto life, and few are they that find it.",
+        "verses": [
+          {
+            "book_id": "MAT",
+            "book_name": "Matthew",
+            "chapter": 7,
+            "verse": 13,
+            "text": "Enter ye in by the narrow gate: for wide is the gate, and broad is the way, that leadeth to destruction, and many are they that enter in thereby."
+          },
+          {
+            "book_id": "MAT",
+            "book_name": "Matthew",
+            "chapter": 7,
+            "verse": 14,
+            "text": "For narrow is the gate, and straitened the way, that leadeth unto life, and few are they that find it."
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 0
+    },
+    "Numbers 6:25-26": {
+      "key": "Numbers 6:25-26",
+      "display": "Numbers 6:25-26",
+      "book": "Numbers",
+      "chapter": 6,
+      "verses": "25-26",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "Jehovah make his face to shine upon thee, and be gracious unto thee:Jehovah lift up his countenance upon thee, and give thee peace.",
+        "verses": [
+          {
+            "book_id": "NUM",
+            "book_name": "Numbers",
+            "chapter": 6,
+            "verse": 25,
+            "text": "Jehovah make his face to shine upon thee, and be gracious unto thee:"
+          },
+          {
+            "book_id": "NUM",
+            "book_name": "Numbers",
+            "chapter": 6,
+            "verse": 26,
+            "text": "Jehovah lift up his countenance upon thee, and give thee peace."
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 1
+    },
+    "Philippians 1:6": {
+      "key": "Philippians 1:6",
+      "display": "Philippians 1:6",
+      "book": "Philippians",
+      "chapter": 1,
+      "verses": "6",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "being confident of this very thing, that he who began a good work in you will perfect it until the day of Jesus Christ:",
+        "verses": [
+          {
+            "book_id": "PHP",
+            "book_name": "Philippians",
+            "chapter": 1,
+            "verse": 6,
+            "text": "being confident of this very thing, that he who began a good work in you will perfect it until the day of Jesus Christ:"
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 1
+    },
+    "Philippians 4:13": {
+      "key": "Philippians 4:13",
+      "display": "Philippians 4:13",
+      "book": "Philippians",
+      "chapter": 4,
+      "verses": "13",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "I can do all things in him that strengtheneth me.",
+        "verses": [
+          {
+            "book_id": "PHP",
+            "book_name": "Philippians",
+            "chapter": 4,
+            "verse": 13,
+            "text": "I can do all things in him that strengtheneth me."
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 1
+    },
+    "Philippians 4:19": {
+      "key": "Philippians 4:19",
+      "display": "Philippians 4:19",
+      "book": "Philippians",
+      "chapter": 4,
+      "verses": "19",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "And my God shall supply every need of yours according to his riches in glory in Christ Jesus.",
+        "verses": [
+          {
+            "book_id": "PHP",
+            "book_name": "Philippians",
+            "chapter": 4,
+            "verse": 19,
+            "text": "And my God shall supply every need of yours according to his riches in glory in Christ Jesus."
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 1
+    },
+    "Philippians 4:7": {
+      "key": "Philippians 4:7",
+      "display": "Philippians 4:7",
+      "book": "Philippians",
+      "chapter": 4,
+      "verses": "7",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "And the peace of God, which passeth all understanding, shall guard your hearts and your thoughts in Christ Jesus.",
+        "verses": [
+          {
+            "book_id": "PHP",
+            "book_name": "Philippians",
+            "chapter": 4,
+            "verse": 7,
+            "text": "And the peace of God, which passeth all understanding, shall guard your hearts and your thoughts in Christ Jesus."
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 1
+    },
+    "Proverbs 17:22": {
+      "key": "Proverbs 17:22",
+      "display": "Proverbs 17:22",
+      "book": "Proverbs",
+      "chapter": 17,
+      "verses": "22",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "A cheerful heart is a good medicine; But a broken spirit drieth up the bones.",
+        "verses": [
+          {
+            "book_id": "PRO",
+            "book_name": "Proverbs",
+            "chapter": 17,
+            "verse": 22,
+            "text": "A cheerful heart is a good medicine; But a broken spirit drieth up the bones."
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 0
+    },
+    "Proverbs 3:5-6": {
+      "key": "Proverbs 3:5-6",
+      "display": "Proverbs 3:5-6",
+      "book": "Proverbs",
+      "chapter": 3,
+      "verses": "5-6",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "Trust in Jehovah with all thy heart, And lean not upon thine own understanding:In all thy ways acknowledge him, And he will direct thy paths.",
+        "verses": [
+          {
+            "book_id": "PRO",
+            "book_name": "Proverbs",
+            "chapter": 3,
+            "verse": 5,
+            "text": "Trust in Jehovah with all thy heart, And lean not upon thine own understanding:"
+          },
+          {
+            "book_id": "PRO",
+            "book_name": "Proverbs",
+            "chapter": 3,
+            "verse": 6,
+            "text": "In all thy ways acknowledge him, And he will direct thy paths."
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 1
+    },
+    "Proverbs 3:6": {
+      "key": "Proverbs 3:6",
+      "display": "Proverbs 3:6",
+      "book": "Proverbs",
+      "chapter": 3,
+      "verses": "6",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "In all thy ways acknowledge him, And he will direct thy paths.",
+        "verses": [
+          {
+            "book_id": "PRO",
+            "book_name": "Proverbs",
+            "chapter": 3,
+            "verse": 6,
+            "text": "In all thy ways acknowledge him, And he will direct thy paths."
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 1
+    },
+    "Psalm 100:4-5": {
+      "key": "Psalm 100:4-5",
+      "display": "Psalm 100:4-5",
+      "book": "Psalm",
+      "chapter": 100,
+      "verses": "4-5",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "Enter into his gates with thanksgiving, And into his courts with praise: Give thanks unto him, and bless his name.For Jehovah is good; his lovingkindness [endureth] for ever, And his faithfulness unto all generations. Psalm 101 A Psalm of David.",
+        "verses": [
+          {
+            "book_id": "PSA",
+            "book_name": "Psalm",
+            "chapter": 100,
+            "verse": 4,
+            "text": "Enter into his gates with thanksgiving, And into his courts with praise: Give thanks unto him, and bless his name."
+          },
+          {
+            "book_id": "PSA",
+            "book_name": "Psalm",
+            "chapter": 100,
+            "verse": 5,
+            "text": "For Jehovah is good; his lovingkindness [endureth] for ever, And his faithfulness unto all generations. Psalm 101 A Psalm of David."
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 1
+    },
+    "Psalm 103:2": {
+      "key": "Psalm 103:2",
+      "display": "Psalm 103:2",
+      "book": "Psalm",
+      "chapter": 103,
+      "verses": "2",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "Bless Jehovah, O my soul, And forget not all his benefits:",
+        "verses": [
+          {
+            "book_id": "PSA",
+            "book_name": "Psalm",
+            "chapter": 103,
+            "verse": 2,
+            "text": "Bless Jehovah, O my soul, And forget not all his benefits:"
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 1
+    },
+    "Psalm 112:7": {
+      "key": "Psalm 112:7",
+      "display": "Psalm 112:7",
+      "book": "Psalm",
+      "chapter": 112,
+      "verses": "7",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "He shall not be afraid of evil tidings: His heart is fixed, trusting in Jehovah.",
+        "verses": [
+          {
+            "book_id": "PSA",
+            "book_name": "Psalm",
+            "chapter": 112,
+            "verse": 7,
+            "text": "He shall not be afraid of evil tidings: His heart is fixed, trusting in Jehovah."
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 1
+    },
+    "Psalm 118:24": {
+      "key": "Psalm 118:24",
+      "display": "Psalm 118:24",
+      "book": "Psalm",
+      "chapter": 118,
+      "verses": "24",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "This is the day which Jehovah hath made; We will rejoice and be glad in it.",
+        "verses": [
+          {
+            "book_id": "PSA",
+            "book_name": "Psalm",
+            "chapter": 118,
+            "verse": 24,
+            "text": "This is the day which Jehovah hath made; We will rejoice and be glad in it."
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 1
+    },
+    "Psalm 139:1-2": {
+      "key": "Psalm 139:1-2",
+      "display": "Psalm 139:1-2",
+      "book": "Psalm",
+      "chapter": 139,
+      "verses": "1-2",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "O Jehovah, thou hast searched me, and known [me].Thou knowest my downsitting and mine uprising; Thou understandest my thought afar off.",
+        "verses": [
+          {
+            "book_id": "PSA",
+            "book_name": "Psalm",
+            "chapter": 139,
+            "verse": 1,
+            "text": "O Jehovah, thou hast searched me, and known [me]."
+          },
+          {
+            "book_id": "PSA",
+            "book_name": "Psalm",
+            "chapter": 139,
+            "verse": 2,
+            "text": "Thou knowest my downsitting and mine uprising; Thou understandest my thought afar off."
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 1
+    },
+    "Psalm 139:1-4": {
+      "key": "Psalm 139:1-4",
+      "display": "Psalm 139:1-4",
+      "book": "Psalm",
+      "chapter": 139,
+      "verses": "1-4",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "O Jehovah, thou hast searched me, and known [me].Thou knowest my downsitting and mine uprising; Thou understandest my thought afar off.Thou searchest out my path and my lying down, And art acquainted with all my ways.For there is not a word in my tongue, But, lo, O Jehovah, thou knowest it altogether.",
+        "verses": [
+          {
+            "book_id": "PSA",
+            "book_name": "Psalm",
+            "chapter": 139,
+            "verse": 1,
+            "text": "O Jehovah, thou hast searched me, and known [me]."
+          },
+          {
+            "book_id": "PSA",
+            "book_name": "Psalm",
+            "chapter": 139,
+            "verse": 2,
+            "text": "Thou knowest my downsitting and mine uprising; Thou understandest my thought afar off."
+          },
+          {
+            "book_id": "PSA",
+            "book_name": "Psalm",
+            "chapter": 139,
+            "verse": 3,
+            "text": "Thou searchest out my path and my lying down, And art acquainted with all my ways."
+          },
+          {
+            "book_id": "PSA",
+            "book_name": "Psalm",
+            "chapter": 139,
+            "verse": 4,
+            "text": "For there is not a word in my tongue, But, lo, O Jehovah, thou knowest it altogether."
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 1
+    },
+    "Psalm 13:1,5": {
+      "key": "Psalm 13:1,5",
+      "display": "Psalm 13:1,5",
+      "book": "Psalm",
+      "chapter": 13,
+      "verses": "1,5",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "How long, O Jehovah? wilt thou forget me for ever? How long wilt thou hide thy face from me?But I have trusted in thy lovingkindness; My heart shall rejoice in thy salvation.",
+        "verses": [
+          {
+            "book_id": "PSA",
+            "book_name": "Psalm",
+            "chapter": 13,
+            "verse": 1,
+            "text": "How long, O Jehovah? wilt thou forget me for ever? How long wilt thou hide thy face from me?"
+          },
+          {
+            "book_id": "PSA",
+            "book_name": "Psalm",
+            "chapter": 13,
+            "verse": 5,
+            "text": "But I have trusted in thy lovingkindness; My heart shall rejoice in thy salvation."
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 1
+    },
+    "Psalm 16:11": {
+      "key": "Psalm 16:11",
+      "display": "Psalm 16:11",
+      "book": "Psalm",
+      "chapter": 16,
+      "verses": "11",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "Thou wilt show me the path of life: In thy presence is fulness of joy; In thy right hand there are pleasures for evermore. Psalm 17 A Prayer of David.",
+        "verses": [
+          {
+            "book_id": "PSA",
+            "book_name": "Psalm",
+            "chapter": 16,
+            "verse": 11,
+            "text": "Thou wilt show me the path of life: In thy presence is fulness of joy; In thy right hand there are pleasures for evermore. Psalm 17 A Prayer of David."
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 1
+    },
+    "Psalm 18:30": {
+      "key": "Psalm 18:30",
+      "display": "Psalm 18:30",
+      "book": "Psalm",
+      "chapter": 18,
+      "verses": "30",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "As for God, his way is perfect: The word of Jehovah is tried; He is a shield unto all them that take refuge in him.",
+        "verses": [
+          {
+            "book_id": "PSA",
+            "book_name": "Psalm",
+            "chapter": 18,
+            "verse": 30,
+            "text": "As for God, his way is perfect: The word of Jehovah is tried; He is a shield unto all them that take refuge in him."
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 1
+    },
+    "Psalm 23": {
+      "key": "Psalm 23",
+      "display": "Psalm 23",
+      "book": "Psalm",
+      "chapter": 23,
+      "verses": null,
+      "is_chapter_only": true,
+      "asv": {
+        "text": "Jehovah is my shepherd; I shall not want.He maketh me to lie down in green pastures; He leadeth me beside still waters.He restoreth my soul: He guideth me in the paths of righteousness for his name's sake.Yea, thou I walk through the valley of the shadow of death, I will fear no evil; for thou art with me; Thy rod and thy staff, they comfort me.Thou preparest a table before me in the presence of mine enemies: Thou hast anointed my head with oil; My cup runneth over.Surely goodness and lovingkindness shall follow me all the days of my life; And I shall dwell in the house of Jehovah for ever. Psalm 24 A Psalm of David.",
+        "verses": [
+          {
+            "book_id": "PSA",
+            "book_name": "Psalm",
+            "chapter": 23,
+            "verse": 1,
+            "text": "Jehovah is my shepherd; I shall not want."
+          },
+          {
+            "book_id": "PSA",
+            "book_name": "Psalm",
+            "chapter": 23,
+            "verse": 2,
+            "text": "He maketh me to lie down in green pastures; He leadeth me beside still waters."
+          },
+          {
+            "book_id": "PSA",
+            "book_name": "Psalm",
+            "chapter": 23,
+            "verse": 3,
+            "text": "He restoreth my soul: He guideth me in the paths of righteousness for his name's sake."
+          },
+          {
+            "book_id": "PSA",
+            "book_name": "Psalm",
+            "chapter": 23,
+            "verse": 4,
+            "text": "Yea, thou I walk through the valley of the shadow of death, I will fear no evil; for thou art with me; Thy rod and thy staff, they comfort me."
+          },
+          {
+            "book_id": "PSA",
+            "book_name": "Psalm",
+            "chapter": 23,
+            "verse": 5,
+            "text": "Thou preparest a table before me in the presence of mine enemies: Thou hast anointed my head with oil; My cup runneth over."
+          },
+          {
+            "book_id": "PSA",
+            "book_name": "Psalm",
+            "chapter": 23,
+            "verse": 6,
+            "text": "Surely goodness and lovingkindness shall follow me all the days of my life; And I shall dwell in the house of Jehovah for ever. Psalm 24 A Psalm of David."
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 0
+    },
+    "Psalm 23:2-3": {
+      "key": "Psalm 23:2-3",
+      "display": "Psalm 23:2-3",
+      "book": "Psalm",
+      "chapter": 23,
+      "verses": "2-3",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "He maketh me to lie down in green pastures; He leadeth me beside still waters.He restoreth my soul: He guideth me in the paths of righteousness for his name's sake.",
+        "verses": [
+          {
+            "book_id": "PSA",
+            "book_name": "Psalm",
+            "chapter": 23,
+            "verse": 2,
+            "text": "He maketh me to lie down in green pastures; He leadeth me beside still waters."
+          },
+          {
+            "book_id": "PSA",
+            "book_name": "Psalm",
+            "chapter": 23,
+            "verse": 3,
+            "text": "He restoreth my soul: He guideth me in the paths of righteousness for his name's sake."
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 0
+    },
+    "Psalm 24:17": {
+      "key": "Psalm 24:17",
+      "display": "Psalm 24:17",
+      "book": "Psalm",
+      "chapter": 24,
+      "verses": "17",
+      "is_chapter_only": false,
+      "asv": null,
+      "ltb": null,
+      "released_song_count": 1
+    },
+    "Psalm 24:3": {
+      "key": "Psalm 24:3",
+      "display": "Psalm 24:3",
+      "book": "Psalm",
+      "chapter": 24,
+      "verses": "3",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "Who shall ascend into the hill of Jehovah? And who shall stand in his holy place?",
+        "verses": [
+          {
+            "book_id": "PSA",
+            "book_name": "Psalm",
+            "chapter": 24,
+            "verse": 3,
+            "text": "Who shall ascend into the hill of Jehovah? And who shall stand in his holy place?"
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 0
+    },
+    "Psalm 32:8": {
+      "key": "Psalm 32:8",
+      "display": "Psalm 32:8",
+      "book": "Psalm",
+      "chapter": 32,
+      "verses": "8",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "I will instruct thee and teach thee in the way which thou shalt go: I will counsel thee with mine eye upon thee.",
+        "verses": [
+          {
+            "book_id": "PSA",
+            "book_name": "Psalm",
+            "chapter": 32,
+            "verse": 8,
+            "text": "I will instruct thee and teach thee in the way which thou shalt go: I will counsel thee with mine eye upon thee."
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 1
+    },
+    "Psalm 37:23-24": {
+      "key": "Psalm 37:23-24",
+      "display": "Psalm 37:23-24",
+      "book": "Psalm",
+      "chapter": 37,
+      "verses": "23-24",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "A man's goings are established of Jehovah; And he delighteth in his way.Though he fall, he shall not be utterly cast down; For Jehovah upholdeth him with his hand.",
+        "verses": [
+          {
+            "book_id": "PSA",
+            "book_name": "Psalm",
+            "chapter": 37,
+            "verse": 23,
+            "text": "A man's goings are established of Jehovah; And he delighteth in his way."
+          },
+          {
+            "book_id": "PSA",
+            "book_name": "Psalm",
+            "chapter": 37,
+            "verse": 24,
+            "text": "Though he fall, he shall not be utterly cast down; For Jehovah upholdeth him with his hand."
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 2
+    },
+    "Psalm 37:4": {
+      "key": "Psalm 37:4",
+      "display": "Psalm 37:4",
+      "book": "Psalm",
+      "chapter": 37,
+      "verses": "4",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "Delight thyself also in Jehovah; And he will give thee the desires of thy heart.",
+        "verses": [
+          {
+            "book_id": "PSA",
+            "book_name": "Psalm",
+            "chapter": 37,
+            "verse": 4,
+            "text": "Delight thyself also in Jehovah; And he will give thee the desires of thy heart."
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 1
+    },
+    "Psalm 46": {
+      "key": "Psalm 46",
+      "display": "Psalm 46",
+      "book": "Psalm",
+      "chapter": 46,
+      "verses": null,
+      "is_chapter_only": true,
+      "asv": {
+        "text": "God is our refuge and strength, A very present help in trouble.Therefore will we not fear, though the earth do change, And though the mountains be shaken into the heart of the seas;Though the waters thereof roar and be troubled, Though the mountains tremble with the swelling thereof. SelahThere is a river, the streams whereof make glad the city of God, The holy place of the tabernacles of the Most High.God is in the midst of her; she shall not be moved: God will help her, and that right early.The nations raged, the kingdoms were moved: He uttered his voice, the earth melted.Jehovah of hosts is with us; The God of Jacob is our refuge. SelahCome, behold the works of Jehovah, What desolations he hath made in the earth.He maketh wars to cease unto the end of the earth; He breaketh the bow, and cutteth the spear in sunder; He burneth the chariots in the fire.Be still, and know that I am God: I will be exalted among the nations, I will be exalted in the earth.Jehovah of hosts is with us; The God of Jacob is our refuge. Selah Psalm 47 For the Chief Musician. A Psalm of the sons of Korah.",
+        "verses": [
+          {
+            "book_id": "PSA",
+            "book_name": "Psalm",
+            "chapter": 46,
+            "verse": 1,
+            "text": "God is our refuge and strength, A very present help in trouble."
+          },
+          {
+            "book_id": "PSA",
+            "book_name": "Psalm",
+            "chapter": 46,
+            "verse": 2,
+            "text": "Therefore will we not fear, though the earth do change, And though the mountains be shaken into the heart of the seas;"
+          },
+          {
+            "book_id": "PSA",
+            "book_name": "Psalm",
+            "chapter": 46,
+            "verse": 3,
+            "text": "Though the waters thereof roar and be troubled, Though the mountains tremble with the swelling thereof. Selah"
+          },
+          {
+            "book_id": "PSA",
+            "book_name": "Psalm",
+            "chapter": 46,
+            "verse": 4,
+            "text": "There is a river, the streams whereof make glad the city of God, The holy place of the tabernacles of the Most High."
+          },
+          {
+            "book_id": "PSA",
+            "book_name": "Psalm",
+            "chapter": 46,
+            "verse": 5,
+            "text": "God is in the midst of her; she shall not be moved: God will help her, and that right early."
+          },
+          {
+            "book_id": "PSA",
+            "book_name": "Psalm",
+            "chapter": 46,
+            "verse": 6,
+            "text": "The nations raged, the kingdoms were moved: He uttered his voice, the earth melted."
+          },
+          {
+            "book_id": "PSA",
+            "book_name": "Psalm",
+            "chapter": 46,
+            "verse": 7,
+            "text": "Jehovah of hosts is with us; The God of Jacob is our refuge. Selah"
+          },
+          {
+            "book_id": "PSA",
+            "book_name": "Psalm",
+            "chapter": 46,
+            "verse": 8,
+            "text": "Come, behold the works of Jehovah, What desolations he hath made in the earth."
+          },
+          {
+            "book_id": "PSA",
+            "book_name": "Psalm",
+            "chapter": 46,
+            "verse": 9,
+            "text": "He maketh wars to cease unto the end of the earth; He breaketh the bow, and cutteth the spear in sunder; He burneth the chariots in the fire."
+          },
+          {
+            "book_id": "PSA",
+            "book_name": "Psalm",
+            "chapter": 46,
+            "verse": 10,
+            "text": "Be still, and know that I am God: I will be exalted among the nations, I will be exalted in the earth."
+          },
+          {
+            "book_id": "PSA",
+            "book_name": "Psalm",
+            "chapter": 46,
+            "verse": 11,
+            "text": "Jehovah of hosts is with us; The God of Jacob is our refuge. Selah Psalm 47 For the Chief Musician. A Psalm of the sons of Korah."
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 2
+    },
+    "Psalm 5:3": {
+      "key": "Psalm 5:3",
+      "display": "Psalm 5:3",
+      "book": "Psalm",
+      "chapter": 5,
+      "verses": "3",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "O Jehovah, in the morning shalt thou hear my voice; In the morning will I order [my prayer] unto thee, and will keep watch.",
+        "verses": [
+          {
+            "book_id": "PSA",
+            "book_name": "Psalm",
+            "chapter": 5,
+            "verse": 3,
+            "text": "O Jehovah, in the morning shalt thou hear my voice; In the morning will I order [my prayer] unto thee, and will keep watch."
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 0
+    },
+    "Psalm 62:5": {
+      "key": "Psalm 62:5",
+      "display": "Psalm 62:5",
+      "book": "Psalm",
+      "chapter": 62,
+      "verses": "5",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "My soul, wait thou in silence for God only; For my expectation is from him.",
+        "verses": [
+          {
+            "book_id": "PSA",
+            "book_name": "Psalm",
+            "chapter": 62,
+            "verse": 5,
+            "text": "My soul, wait thou in silence for God only; For my expectation is from him."
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 1
+    },
+    "Psalm 63:7-8": {
+      "key": "Psalm 63:7-8",
+      "display": "Psalm 63:7-8",
+      "book": "Psalm",
+      "chapter": 63,
+      "verses": "7-8",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "For thou hast been my help, And in the shadow of thy wings will I rejoice.My soul followeth hard after thee: Thy right hand upholdeth me.",
+        "verses": [
+          {
+            "book_id": "PSA",
+            "book_name": "Psalm",
+            "chapter": 63,
+            "verse": 7,
+            "text": "For thou hast been my help, And in the shadow of thy wings will I rejoice."
+          },
+          {
+            "book_id": "PSA",
+            "book_name": "Psalm",
+            "chapter": 63,
+            "verse": 8,
+            "text": "My soul followeth hard after thee: Thy right hand upholdeth me."
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 1
+    },
+    "Psalm 73:25-26": {
+      "key": "Psalm 73:25-26",
+      "display": "Psalm 73:25-26",
+      "book": "Psalm",
+      "chapter": 73,
+      "verses": "25-26",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "Whom have I in heaven [but thee]? And there is none upon earth that I desire besides thee.My flesh and my heart faileth; [But] God is the strength of my heart and my portion for ever.",
+        "verses": [
+          {
+            "book_id": "PSA",
+            "book_name": "Psalm",
+            "chapter": 73,
+            "verse": 25,
+            "text": "Whom have I in heaven [but thee]? And there is none upon earth that I desire besides thee."
+          },
+          {
+            "book_id": "PSA",
+            "book_name": "Psalm",
+            "chapter": 73,
+            "verse": 26,
+            "text": "My flesh and my heart faileth; [But] God is the strength of my heart and my portion for ever."
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 1
+    },
+    "Revelation 19:16": {
+      "key": "Revelation 19:16",
+      "display": "Revelation 19:16",
+      "book": "Revelation",
+      "chapter": 19,
+      "verses": "16",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "And he hath on his garment and on his thigh a name written, KINGS OF KINGS, AND LORD OF LORDS.",
+        "verses": [
+          {
+            "book_id": "REV",
+            "book_name": "Revelation",
+            "chapter": 19,
+            "verse": 16,
+            "text": "And he hath on his garment and on his thigh a name written, KINGS OF KINGS, AND LORD OF LORDS."
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 0
+    },
+    "Romans 5:8": {
+      "key": "Romans 5:8",
+      "display": "Romans 5:8",
+      "book": "Romans",
+      "chapter": 5,
+      "verses": "8",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "But God commendeth his own love toward us, in that, while we were yet sinners, Christ died for us.",
+        "verses": [
+          {
+            "book_id": "ROM",
+            "book_name": "Romans",
+            "chapter": 5,
+            "verse": 8,
+            "text": "But God commendeth his own love toward us, in that, while we were yet sinners, Christ died for us."
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 1
+    },
+    "Romans 8:28": {
+      "key": "Romans 8:28",
+      "display": "Romans 8:28",
+      "book": "Romans",
+      "chapter": 8,
+      "verses": "28",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "And we know that to them that love God all things work together for good, [even] to them that are called according to [his] purpose.",
+        "verses": [
+          {
+            "book_id": "ROM",
+            "book_name": "Romans",
+            "chapter": 8,
+            "verse": 28,
+            "text": "And we know that to them that love God all things work together for good, [even] to them that are called according to [his] purpose."
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 1
+    },
+    "Romans 8:38-39": {
+      "key": "Romans 8:38-39",
+      "display": "Romans 8:38-39",
+      "book": "Romans",
+      "chapter": 8,
+      "verses": "38-39",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "For I am persuaded, that neither death, nor life, nor angels, nor principalities, nor things present, nor things to come, nor powers,nor height, nor depth, nor any other creature, shall be able to separate us from the love of God, which is in Christ Jesus our Lord.",
+        "verses": [
+          {
+            "book_id": "ROM",
+            "book_name": "Romans",
+            "chapter": 8,
+            "verse": 38,
+            "text": "For I am persuaded, that neither death, nor life, nor angels, nor principalities, nor things present, nor things to come, nor powers,"
+          },
+          {
+            "book_id": "ROM",
+            "book_name": "Romans",
+            "chapter": 8,
+            "verse": 39,
+            "text": "nor height, nor depth, nor any other creature, shall be able to separate us from the love of God, which is in Christ Jesus our Lord."
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 1
+    },
+    "Zechariah 13:9": {
+      "key": "Zechariah 13:9",
+      "display": "Zechariah 13:9",
+      "book": "Zechariah",
+      "chapter": 13,
+      "verses": "9",
+      "is_chapter_only": false,
+      "asv": {
+        "text": "And I will bring the third part into the fire, and will refine them as silver is refined, and will try them as gold is tried. They shall call on my name, and I will hear them: I will say, It is my people; and they shall say, Jehovah is my God.",
+        "verses": [
+          {
+            "book_id": "ZEC",
+            "book_name": "Zechariah",
+            "chapter": 13,
+            "verse": 9,
+            "text": "And I will bring the third part into the fire, and will refine them as silver is refined, and will try them as gold is tried. They shall call on my name, and I will hear them: I will say, It is my people; and they shall say, Jehovah is my God."
+          }
+        ],
+        "translation": "ASV",
+        "translation_note": "American Standard Version (1901), Public Domain"
+      },
+      "ltb": null,
+      "released_song_count": 1
+    }
+  }
+}

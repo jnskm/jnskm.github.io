@@ -1,10 +1,11 @@
 ---
 title: "Dance, Sing, Celebrate"
-date: 2025-06-30
+date: "2025-06-30"
 cover_image: "/assets/images/music/dance-sing-celebrate.png"
 youtube: "https://youtu.be/oEdYUuctK4E"
 spotify: "https://open.spotify.com/album/5lLrtbXj5Nj8fafKTEzXm0?si=iys3z3jeTqeun8CTmyqXPA"
-show_lyrics: false
+show_lyrics: "false"
+youtube_music: "https://music.youtube.com/watch?v=oEdYUuctK4E"
 ---
 ## Bible Verse
 (Add Bible verse here)

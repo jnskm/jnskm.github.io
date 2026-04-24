@@ -1,0 +1,68 @@
+# Playlist manifest for the jnskm.com "Stay a moment" feature.
+#
+# Each playlist gathers songs by related themes. Songs are assigned to a
+# playlist automatically by the builder based on `themes_include`, but you
+# can override with `song_slugs` (takes precedence when non-empty).
+#
+# Edit titles and descriptions freely — they are what visitors see.
+#
+# Optional: if you create an actual playlist on Spotify / Apple Music /
+# YouTube Music / YouTube and paste the URL in `streaming_playlists`,
+# that platform gets a "Listen on <platform>" link on the playlist page.
+
+playlists:
+  - slug: weary
+    title: "For when you're weary"
+    description: "Songs to remind you that rest is not a reward — it is a gift Jesus offers to those who come."
+    themes_include: [weary, striving, resting]
+    streaming_playlists: {}   # { youtube: "...", spotify: "...", apple_music: "...", youtube_music: "...", amazon_music: "..." }
+    song_slugs: []            # optional manual override
+
+  - slug: afraid
+    title: "For when you're afraid"
+    description: "Songs to stay with you in fear — anchored in the voice that says, I am with you."
+    themes_include: [afraid, anxious]
+    streaming_playlists: {}
+    song_slugs: []
+
+  - slug: grieving
+    title: "For when you're grieving"
+    description: "Songs for grief, loneliness, and the long ache of loss — company on the quiet road."
+    themes_include: [grieving, lonely, forgotten]
+    streaming_playlists: {}
+    song_slugs: []
+
+  - slug: doubting
+    title: "For when you're doubting"
+    description: "Songs to sit with questions and discouragement — trusting that honest doubt is welcome at the Father's door."
+    themes_include: [doubting, confused, discouraged]
+    streaming_playlists: {}
+    song_slugs: []
+
+  - slug: stumbled
+    title: "For when you've stumbled"
+    description: "Songs for shame, guilt, and the joy of being found again — the door is always open."
+    themes_include: [ashamed, guilty, forgiven, tempted, proud]
+    streaming_playlists: {}
+    song_slugs: []
+
+  - slug: waiting
+    title: "For when you're waiting"
+    description: "Songs for the long in-between — when hope has to be a practice, not a feeling."
+    themes_include: [waiting, hopeful]
+    streaming_playlists: {}
+    song_slugs: []
+
+  - slug: grateful
+    title: "For when you're grateful"
+    description: "Songs for joy, peace, and the quiet gratitude that meets ordinary days."
+    themes_include: [grateful, joyful, peaceful]
+    streaming_playlists: {}
+    song_slugs: []
+
+  - slug: drawing-near
+    title: "For drawing near to God"
+    description: "Songs of surrender, trust, and love — for the heart that wants more of Him."
+    themes_include: [surrendered, trusting, called, loved, restored]
+    streaming_playlists: {}
+    song_slugs: []

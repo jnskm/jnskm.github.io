@@ -1,9 +1,10 @@
 ---
 title: "Done"
-date: 2025-03-11
+date: "2025-03-11"
 cover_image: "/assets/images/music/done.png"
 youtube: "https://youtu.be/8yGFPQEiLNE"
-show_lyrics: false
+show_lyrics: "false"
+youtube_music: "https://music.youtube.com/watch?v=8yGFPQEiLNE"
 ---
 ## Bible Verse
 (Add Bible verse here)

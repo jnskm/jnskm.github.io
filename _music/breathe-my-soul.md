@@ -1,9 +1,10 @@
 ---
 title: "Breathe My Soul"
-date: 2025-05-30
+date: "2025-05-30"
 cover_image: "/assets/images/music/breathe-my-soul.png"
 youtube: "https://youtu.be/7f7Y1m7pJm4"
-show_lyrics: false
+show_lyrics: "false"
+youtube_music: "https://music.youtube.com/watch?v=7f7Y1m7pJm4"
 ---
 ## Bible Verse
 (Add Bible verse here)

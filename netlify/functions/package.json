@@ -1,0 +1,14 @@
+{
+  "name": "jnskm-netlify-functions",
+  "private": true,
+  "description": "Serverless functions for jnskm.com — listen endpoint and related.",
+  "type": "module",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.70.0"
+  },
+  "devDependencies": {
+    "@netlify/functions": "^4.2.0",
+    "@types/node": "^22.13.0",
+    "typescript": "^5.9.0"
+  }
+}

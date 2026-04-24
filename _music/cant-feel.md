@@ -1,9 +1,10 @@
 ---
 title: "Can't Feel"
-date: 2025-03-25
+date: "2025-03-25"
 cover_image: "/assets/images/music/cant-feel.png"
 youtube: "https://youtu.be/Gc3pERSCQBg"
-show_lyrics: false
+show_lyrics: "false"
+youtube_music: "https://music.youtube.com/watch?v=Gc3pERSCQBg"
 ---
 ## Bible Verse
 (Add Bible verse here)

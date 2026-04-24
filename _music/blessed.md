@@ -1,9 +1,10 @@
 ---
 title: "Blessed"
-date: 2025-02-26
+date: "2025-02-26"
 cover_image: "/assets/images/music/blessed.png"
 youtube: "https://youtu.be/dvyCjJ97KkA"
-show_lyrics: false
+show_lyrics: "false"
+youtube_music: "https://music.youtube.com/watch?v=dvyCjJ97KkA"
 ---
 ## Bible Verse
 (Add Bible verse here)
