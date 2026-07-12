@@ -10,46 +10,16 @@
   <link rel="stylesheet" href="{{ '/assets/css/stay-a-moment.css' | relative_url }}">
   <link rel="alternate" type="application/rss+xml" title="RSS Feed" href="{{ '/feed.xml' | relative_url }}">
 </head>
-<body class="site">
+<body class="site home">
   <header class="site-header">
     {% include header.html %}
   </header>
 
   <main class="site-main">
     <div class="content">
-      <section class="home-verse">
-        <p>
-          "So, whether you eat or drink,<br>
-          or whatever you do,<br>
-          do all to the glory of God."<br>
-          <em>1 Corinthians 10:31</em>
-        </p>
-      </section>
-
-      <section class="home-intro">
-        <p>
-          JNSKM is a collection of my writings, music, and study.<br>
-          Most of it grows slowly.<br>
-          Some of it changes.<br>
-          All of it is meant to give glory to God.
-        </p>
-      </section>
-
       <section class="stay-a-moment" id="sam-card">
         <div id="sam-prompt">
-          <h2 class="sam-heading">Stay a moment</h2>
-          <p class="sam-sub">How is your heart today?</p>
-          <form class="sam-form" id="sam-form" novalidate>
-            <textarea
-              class="sam-input"
-              id="sam-input"
-              rows="2"
-              maxlength="2000"
-              placeholder="Share whatever comes to mind, or tap a feeling below…"
-              aria-label="How is your heart today?"></textarea>
-            <button type="submit" class="sam-submit" id="sam-submit">Share</button>
-          </form>
-          <p class="sam-or">or</p>
+          <p class="sam-sub">How are you doing?</p>
           <div class="sam-chips" id="sam-chips">
             <button type="button" class="sam-chip" data-feeling="I feel anxious today.">anxious</button>
             <button type="button" class="sam-chip" data-feeling="I feel weary today.">weary</button>
@@ -70,14 +40,7 @@
   <script src="{{ '/assets/js/stay-a-moment.js' | relative_url }}" defer></script>
 
   <footer class="site-footer">
-    <footer>
-      <div class="footer-links">
-        <a href="/contact">Contact</a>
-      </div>
-      <div class="footer-copyright">
-        &copy; 2022 - 2025 JNSKM
-      </div>
-    </footer>
+    {% include footer.html %}
   </footer>
   <script>
     // Prevent browser from restoring scroll position

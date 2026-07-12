@@ -36,8 +36,8 @@
   function hide(el) { if (el) el.hidden = true; }
 
   function setLoading(isLoading) {
-    submit.disabled = isLoading;
-    input.disabled = isLoading;
+    if (submit) submit.disabled = isLoading;
+    if (input) input.disabled = isLoading;
     chips.querySelectorAll('button').forEach((b) => (b.disabled = isLoading));
     if (isLoading) {
       hide(result);
@@ -185,27 +185,30 @@
 
   // --- Wire events ---
 
-  form.addEventListener('submit', (ev) => {
-    ev.preventDefault();
-    const msg = input.value.trim();
-    if (!msg) return;
-    send(msg);
-  });
-
-  // Submit on Enter (without Shift)
-  input.addEventListener('keydown', (ev) => {
-    if (ev.key === 'Enter' && !ev.shiftKey) {
+  // The free-text form is optional — the homepage may render chips only.
+  if (form && input) {
+    form.addEventListener('submit', (ev) => {
       ev.preventDefault();
-      form.requestSubmit();
-    }
-  });
+      const msg = input.value.trim();
+      if (!msg) return;
+      send(msg);
+    });
+
+    // Submit on Enter (without Shift)
+    input.addEventListener('keydown', (ev) => {
+      if (ev.key === 'Enter' && !ev.shiftKey) {
+        ev.preventDefault();
+        form.requestSubmit();
+      }
+    });
+  }
 
   chips.addEventListener('click', (ev) => {
     const target = ev.target;
     if (!(target instanceof HTMLButtonElement)) return;
     const feeling = target.dataset.feeling;
     if (!feeling) return;
-    input.value = feeling;
+    if (input) input.value = feeling;
     send(feeling);
   });
 })();

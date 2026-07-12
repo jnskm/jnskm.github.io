@@ -32,7 +32,7 @@ html, body {
   margin: 0;
   padding: 0;
   height: 100%;
-  font-family: 'Courier Prime Code', monospace;
+  font-family: 'EB Garamond', 'Noto Serif KR', serif;
   background: #fff;
   color: #000;
   display: flex;
@@ -42,17 +42,12 @@ html, body {
 }
 
 body.site {
-  margin: 2rem auto;
-  min-height: auto;
-  max-height: none;
+  margin: 0;
+  min-height: 100vh;
+  width: 100%;
   overflow: hidden;
-  max-width: 1024px;
-  width: 90vw;
-  aspect-ratio: 1 / 1;
   display: flex;
   flex-direction: column;
-  border-left: 1px solid #ddd;
-  border-right: 1px solid #ddd;
 }
 
 /* optical padding: looks equal top/bottom vs left/right */
@@ -104,29 +99,65 @@ body.site {
   display: block;
 }
 
+/* Nav is always collapsed behind the hamburger, at every width.
+   Drops down on the right, at a limited width. */
 .site-menu {
+  position: absolute;
+  top: 100%;
+  right: 0;
+  left: auto;
+  width: auto;
+  max-width: 80vw;
+  z-index: 9;
+  display: none;
+  flex-direction: column;
+  gap: 0;
+  margin: 0;
+  padding: 0;
+  background: #f8f8f8;
+  border-left: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.06);
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.3s ease-out;
+}
+
+.site-menu.menu-open {
   display: flex;
-  gap: 2rem;
-  margin-left: 0.3rem;
+  max-height: 500px;
+  padding: 0;
 }
 
 .site-menu a {
-  font-family: 'Courier Prime Code', monospace;
+  font-family: 'EB Garamond', 'Noto Serif KR', serif;
   font-size: 1rem;
   line-height: 1;
   margin: 0;
-  padding: 0;
-  border-bottom: none !important;
+  padding: 1.1rem 1.75rem;
+  display: block;
+  white-space: nowrap;
+  text-align: left;
+  border-bottom: 1px solid #eee;
   text-decoration: none !important;
+  transition: background 0.15s ease;
 }
 
-/* === HAMBURGER MENU === */
+.site-menu a:hover {
+  background: #ececec;
+}
+
+.site-menu a:last-child {
+  border-bottom: none;
+}
+
+/* === HAMBURGER MENU (shown at all widths) === */
 .menu-toggle {
-  display: none;
+  display: flex;
   flex-direction: column;
   justify-content: space-around;
-  width: 2rem;
-  height: 2rem;
+  width: 1.4rem;
+  height: 1.1rem;
   background: transparent;
   border: none;
   cursor: pointer;
@@ -135,33 +166,32 @@ body.site {
 }
 
 .menu-toggle span {
-  width: 2rem;
-  height: 0.25rem;
+  width: 1.4rem;
+  height: 2px;
   background: #000;
   border-radius: 10px;
   transition: all 0.3s linear;
   position: relative;
-  transform-origin: 1px;
+  transform-origin: center;
 }
 
 .menu-toggle.menu-active span:first-child {
-  transform: rotate(45deg);
+  transform: translateY(7px) rotate(45deg);
 }
 
 .menu-toggle.menu-active span:nth-child(2) {
   opacity: 0;
-  transform: translateX(20px);
 }
 
 .menu-toggle.menu-active span:nth-child(3) {
-  transform: rotate(-45deg);
+  transform: translateY(-7px) rotate(-45deg);
 }
 
 /* === FOOTER === */
 .site-footer footer {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: flex-end;
   padding: 0.75rem 1.5rem;
   min-height: 48px;
   background: #f8f8f8;
@@ -175,7 +205,7 @@ body.site {
 }
 
 .footer-links a {
-  font-family: 'Courier Prime Code', monospace;
+  font-family: 'EB Garamond', 'Noto Serif KR', serif;
   font-size: 1rem;
   text-decoration: underline dotted red;
   text-decoration-thickness: 1px;
@@ -193,7 +223,14 @@ body.site {
 
 .footer-copyright {
   font-family: 'Courier Prime Code', monospace;
-  font-size: 1rem;
+  font-size: 0.8rem;
+}
+
+/* keep the JNSKM link matching the copyright text
+   (the global `a` rule would otherwise force 1rem) */
+.footer-copyright a {
+  font-family: inherit;
+  font-size: inherit;
 }
 
 /* === MAIN CONTENT === */
@@ -221,10 +258,9 @@ body.site {
   max-width: 100%; /* Remove any max-width constraint */
 }
 
-/* Center content only on home page */
-body.site:has(.home-verse) .site-main .content,
-body.site:has(.home-intro) .site-main .content {
-  justify-content: center; /* Center vertically on home page only */
+/* Center content vertically on the home page only */
+body.site.home .site-main .content {
+  justify-content: center;
 }
 
 /* Custom scrollbar styling - subtle and minimal */
@@ -293,9 +329,7 @@ a:hover {
   }
 
   body.site {
-    border: none;
-    width: 90vw;
-    aspect-ratio: 1 / 1;
+    width: 100%;
   }
 
   body.site.about-page .about-container {
@@ -399,63 +433,11 @@ a:hover {
     display: flex;
   }
 
-  /* Hide menu by default on mobile */
-  .site-menu {
-    position: absolute;
-    top: 100%;
-    left: 0;
-    right: 0;
-    background: #f8f8f8;
-    flex-direction: column;
-    gap: 0;
-    margin: 0;
-    padding: 0;
-    max-height: 0;
-    overflow: hidden;
-    transition: max-height 0.3s ease-out;
-    border-top: 1px solid #ddd;
-    display: none;
-  }
-  
-  .site-menu.menu-open {
-    display: flex;
-    max-height: 500px;
-    padding: 1rem 0;
-  }
+  /* The collapsed right-side panel (defined in the base rules above)
+     applies at every width — no mobile-specific override needed. */
 
-  .site-menu a {
-    padding: 0.75rem 1.5rem;
-    border-bottom: 1px solid #eee;
-    width: 100%;
-    display: block;
-  }
-
-  .site-menu a:last-child {
-    border-bottom: none;
-  }
-
-  .footer-links {
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-  }
-
-  .footer-separator {
-    display: inline;
-    color: #999;
-    margin: 0 0.25rem;
-  }
-
-  .site-footer footer {
-    flex-direction: column;
-    align-items: center;
-    gap: 0.5rem;
-  }
-  
-  .footer-copyright {
-    text-align: center;
-    width: 100%;
-  }
+  /* Footer is a single right-aligned line at every width — the base
+     .site-footer footer rules apply; no mobile stacking needed. */
 
   a {
     word-break: break-word;
@@ -477,7 +459,7 @@ ul.post-list li {
 
 .pagination {
   text-align: center;
-  font-family: 'Courier Prime Code', monospace;
+  font-family: 'EB Garamond', 'Noto Serif KR', serif;
   font-size: 1rem;
   margin-top: 2rem;
   margin-bottom: 1.5rem;
@@ -561,7 +543,7 @@ ul.post-list li {
 
 .pagination {
   text-align: center;
-  font-family: 'Courier Prime Code', monospace;
+  font-family: 'EB Garamond', 'Noto Serif KR', serif;
   font-size: 1rem;
   margin-top: 2rem;
 }
@@ -711,7 +693,7 @@ pre.lyrics-content {
 
 /* Lyrics section headers styling - [Verse 1], [Chorus], etc. */
 .lyrics-content .lyrics-section-header {
-  font-family: 'Courier Prime Code', monospace;
+  font-family: 'EB Garamond', 'Noto Serif KR', serif;
   font-weight: normal;
   display: block;
   margin-top: 1.5rem;
@@ -813,7 +795,7 @@ pre.lyrics-content {
 }
 
 .home-links a {
-  font-family: 'Courier Prime Code', monospace;
+  font-family: 'EB Garamond', 'Noto Serif KR', serif;
   font-size: 1rem;
   text-decoration: underline dotted red;
   text-decoration-thickness: 1px;
@@ -889,7 +871,7 @@ body.site.contact-page .contact-label {
 }
 
 body.site.contact-page .contact-email {
-  font-family: 'Courier Prime Code', monospace;
+  font-family: 'EB Garamond', 'Noto Serif KR', serif;
   font-size: 1rem;
   line-height: 1.6;
   margin-bottom: 1rem;
@@ -897,7 +879,7 @@ body.site.contact-page .contact-email {
 }
 
 body.site.contact-page .contact-email a {
-  font-family: 'Courier Prime Code', monospace;
+  font-family: 'EB Garamond', 'Noto Serif KR', serif;
   color: black;
   text-decoration: underline dotted red;
   text-decoration-thickness: 1px;

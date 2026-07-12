@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# Serve the JNSKM site locally.
+# Uses the frum-managed Ruby explicitly, since the `bundle` on PATH
+# belongs to a different Ruby and won't find this project's gems.
+set -euo pipefail
+cd "$(dirname "$0")/.."
+exec ruby -S bundle exec jekyll serve --host 127.0.0.1 --port 4000 --watch --livereload "$@"
