@@ -140,7 +140,12 @@ def get_spotify_token() -> str:
     """
     if _spotify_token_cache['token'] is not None:
         return _spotify_token_cache['token']
-    if not (SPOTIFY_CLIENT_ID and SPOTIFY_CLIENT_SECRET):
+
+    # Strip stray whitespace/newlines that can sneak in when pasting the
+    # credentials into a GitHub secret — a common cause of a 400 invalid_client.
+    client_id = SPOTIFY_CLIENT_ID.strip()
+    client_secret = SPOTIFY_CLIENT_SECRET.strip()
+    if not (client_id and client_secret):
         _spotify_token_cache['token'] = ''
         return ''
 
@@ -148,7 +153,7 @@ def get_spotify_token() -> str:
         import base64
         from urllib.parse import urlencode
         creds = base64.b64encode(
-            f"{SPOTIFY_CLIENT_ID}:{SPOTIFY_CLIENT_SECRET}".encode()
+            f"{client_id}:{client_secret}".encode()
         ).decode()
         body = urlencode({'grant_type': 'client_credentials'}).encode()
         req = Request(SPOTIFY_TOKEN_URL, data=body, headers={
@@ -160,6 +165,16 @@ def get_spotify_token() -> str:
         token = data.get('access_token', '')
         _spotify_token_cache['token'] = token
         return token
+    except HTTPError as e:
+        # Spotify returns a JSON body naming the exact error (e.g. invalid_client).
+        detail = ''
+        try:
+            detail = e.read().decode('utf-8')
+        except Exception:
+            pass
+        print(f"  Spotify token error: HTTP {e.code} {detail}")
+        _spotify_token_cache['token'] = ''
+        return ''
     except Exception as e:
         print(f"  Spotify token error: {e}")
         _spotify_token_cache['token'] = ''
@@ -1216,6 +1231,10 @@ def self_test_spotify():
     print(f"SPOTIFY_CLIENT_ID set:     {bool(SPOTIFY_CLIENT_ID)}")
     print(f"SPOTIFY_CLIENT_SECRET set: {bool(SPOTIFY_CLIENT_SECRET)}")
     print(f"SPOTIFY_ARTIST:            {SPOTIFY_ARTIST or '(not set)'}")
+    # Both Spotify credentials are 32 hex chars. A different length means a
+    # copy-paste problem (truncation, extra whitespace) — not a real value.
+    print(f"CLIENT_ID length:          {len(SPOTIFY_CLIENT_ID.strip())} (expect 32)")
+    print(f"CLIENT_SECRET length:      {len(SPOTIFY_CLIENT_SECRET.strip())} (expect 32)")
 
     token = get_spotify_token()
     print(f"Access token obtained:     {bool(token)}")
