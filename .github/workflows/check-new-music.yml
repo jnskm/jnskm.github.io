@@ -12,6 +12,11 @@ on:
         required: false
         default: 'false'
         type: boolean
+      test_spotify:
+        description: 'Run the Spotify connectivity self-test and stop'
+        required: false
+        default: false
+        type: boolean
 
 permissions:
   contents: write
@@ -35,8 +40,18 @@ jobs:
         run: |
           pip install requests pyyaml python-slugify Pillow
 
+      # Manual-only: verify Spotify credentials + link resolution without an upload.
+      - name: Spotify self-test
+        if: ${{ inputs.test_spotify }}
+        run: python scripts/check_new_music.py --self-test-spotify
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          SPOTIFY_ARTIST: ${{ vars.SPOTIFY_ARTIST }}
+
       - name: Check for new music
         id: check_music
+        if: ${{ !inputs.test_spotify }}
         run: python scripts/check_new_music.py
         env:
           YOUTUBE_PLAYLIST_ID: 'PLyxPXRjXeZFtRQQdEXH_pMndVzNPRDqkO'

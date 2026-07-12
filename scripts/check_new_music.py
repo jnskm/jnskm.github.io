@@ -1203,6 +1203,42 @@ def update_all_existing_files(videos: list[dict]) -> int:
     return updated_count
 
 
+def self_test_spotify():
+    """
+    Diagnostic: verify Spotify credentials + link resolution end to end,
+    without needing a new upload or a queued retry.
+
+    Run locally or in CI with:  python scripts/check_new_music.py --self-test-spotify
+    Override the sample song with the TEST_SONG_TITLE env var (use an exact
+    released title). Prints only booleans and URLs — never the secret itself.
+    """
+    print("=== Spotify self-test ===")
+    print(f"SPOTIFY_CLIENT_ID set:     {bool(SPOTIFY_CLIENT_ID)}")
+    print(f"SPOTIFY_CLIENT_SECRET set: {bool(SPOTIFY_CLIENT_SECRET)}")
+    print(f"SPOTIFY_ARTIST:            {SPOTIFY_ARTIST or '(not set)'}")
+
+    token = get_spotify_token()
+    print(f"Access token obtained:     {bool(token)}")
+    if not token:
+        print("FAIL: no token — check the SPOTIFY_CLIENT_ID / SPOTIFY_CLIENT_SECRET secrets.")
+        return
+    if not SPOTIFY_ARTIST:
+        print("WARN: SPOTIFY_ARTIST not set, so the anchor stays off. Add it as a repo variable.")
+        return
+
+    sample = os.environ.get('TEST_SONG_TITLE', 'A Place For Me')
+    url = search_spotify_url(sample)
+    print(f"Spotify match for '{sample}' by '{SPOTIFY_ARTIST}': {url or '(no match)'}")
+    if url:
+        links = fetch_streaming_links(url)
+        print(f"Odesli expansion from that release: {links}")
+        print("PASS: Spotify anchoring is working.")
+    else:
+        print("No match for the sample title. Credentials are fine; try TEST_SONG_TITLE "
+              "with an exact released title, or confirm SPOTIFY_ARTIST matches Spotify exactly.")
+    print("=== end Spotify self-test ===")
+
+
 def main():
     print(f"Checking for new music from YouTube playlist: {YOUTUBE_PLAYLIST_ID}")
 
@@ -1307,4 +1343,8 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    import sys
+    if '--self-test-spotify' in sys.argv:
+        self_test_spotify()
+    else:
+        main()
