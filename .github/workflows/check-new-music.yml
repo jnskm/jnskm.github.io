@@ -42,6 +42,12 @@ jobs:
           YOUTUBE_PLAYLIST_ID: 'PLyxPXRjXeZFtRQQdEXH_pMndVzNPRDqkO'
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Spotify Web API — anchors streaming-link resolution on the canonical
+          # release. Add these as repo secrets (free, at developer.spotify.com).
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          # Your DistroKid artist name, so same-titled songs by others aren't matched.
+          SPOTIFY_ARTIST: ${{ vars.SPOTIFY_ARTIST }}
 
       - name: Commit new music entries
         if: steps.check_music.outputs.new_music == 'true'

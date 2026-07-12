@@ -55,11 +55,26 @@ YOUTUBE_API_VIDEOS = 'https://www.googleapis.com/youtube/v3/videos'
 # Songlink/Odesli API for finding streaming links
 SONGLINK_API = 'https://api.song.link/v1-alpha.1/links'
 
+# Spotify Web API — used to anchor Odesli lookups on the canonical release.
+# DistroKid has no public API, so we can't ask it "what did I just release."
+# Odesli can map one known URL to the others, but matching a *lyric video* to the
+# audio release is unreliable. Finding the Spotify track first and letting Odesli
+# expand from that canonical URL is far more robust.
+# Set SPOTIFY_CLIENT_ID / SPOTIFY_CLIENT_SECRET (free, at developer.spotify.com).
+# SPOTIFY_ARTIST is optional but strongly recommended: it restricts the search to
+# your DistroKid artist name so same-titled songs by others don't get matched.
+SPOTIFY_CLIENT_ID = os.environ.get('SPOTIFY_CLIENT_ID', '')
+SPOTIFY_CLIENT_SECRET = os.environ.get('SPOTIFY_CLIENT_SECRET', '')
+SPOTIFY_ARTIST = os.environ.get('SPOTIFY_ARTIST', '')
+SPOTIFY_TOKEN_URL = 'https://accounts.spotify.com/api/token'
+SPOTIFY_SEARCH_URL = 'https://api.spotify.com/v1/search'
 
-def fetch_streaming_links(youtube_url: str) -> dict:
+
+def fetch_streaming_links(source_url: str) -> dict:
     """
     Use Songlink/Odesli API to find streaming links for a song.
-    Given a YouTube URL, returns links to Spotify, Apple Music, Amazon Music, etc.
+    Given ANY known platform URL (a YouTube video or a Spotify track), returns
+    links to Spotify, Apple Music, Amazon Music, and YouTube Music.
 
     Returns a dict with keys: spotify, apple_music, amazon_music, youtube_music
     Values are URLs or empty strings if not found.
@@ -72,9 +87,9 @@ def fetch_streaming_links(youtube_url: str) -> dict:
     }
 
     try:
-        # URL encode the YouTube URL
+        # URL encode the source URL
         from urllib.parse import quote
-        encoded_url = quote(youtube_url, safe='')
+        encoded_url = quote(source_url, safe='')
         api_url = f"{SONGLINK_API}?url={encoded_url}"
 
         req = Request(api_url, headers={'User-Agent': 'Mozilla/5.0'})
@@ -110,6 +125,117 @@ def fetch_streaming_links(youtube_url: str) -> dict:
     except Exception as e:
         print(f"  Unexpected error fetching streaming links: {e}")
 
+    return links
+
+
+# Cache the Spotify app token for the lifetime of one run.
+_spotify_token_cache = {'token': None}
+
+
+def get_spotify_token() -> str:
+    """
+    Get a Spotify Web API access token via the client-credentials flow.
+    Returns '' if credentials aren't configured or the request fails.
+    Cached for the duration of the run.
+    """
+    if _spotify_token_cache['token'] is not None:
+        return _spotify_token_cache['token']
+    if not (SPOTIFY_CLIENT_ID and SPOTIFY_CLIENT_SECRET):
+        _spotify_token_cache['token'] = ''
+        return ''
+
+    try:
+        import base64
+        from urllib.parse import urlencode
+        creds = base64.b64encode(
+            f"{SPOTIFY_CLIENT_ID}:{SPOTIFY_CLIENT_SECRET}".encode()
+        ).decode()
+        body = urlencode({'grant_type': 'client_credentials'}).encode()
+        req = Request(SPOTIFY_TOKEN_URL, data=body, headers={
+            'Authorization': f'Basic {creds}',
+            'Content-Type': 'application/x-www-form-urlencoded',
+        })
+        with urlopen(req, timeout=15) as resp:
+            data = json.loads(resp.read().decode('utf-8'))
+        token = data.get('access_token', '')
+        _spotify_token_cache['token'] = token
+        return token
+    except Exception as e:
+        print(f"  Spotify token error: {e}")
+        _spotify_token_cache['token'] = ''
+        return ''
+
+
+def search_spotify_url(title: str, artist: str = '') -> str:
+    """
+    Search Spotify for a track and return its canonical open.spotify.com URL,
+    or '' if nothing suitable is found / Spotify isn't configured.
+
+    Requires an artist name (arg or SPOTIFY_ARTIST): the search is scoped to it and
+    results are filtered to a matching artist, so a same-titled track by someone else
+    is never picked. Without an artist name, anchoring is skipped (returns '') rather
+    than risk a wrong match — many worship titles are generic ("Beloved", "Closer").
+    """
+    token = get_spotify_token()
+    artist_name = artist or SPOTIFY_ARTIST
+    if not token or not title or not artist_name:
+        return ''
+
+    try:
+        from urllib.parse import urlencode
+        query = f'track:{title} artist:{artist_name}'
+        params = urlencode({'q': query, 'type': 'track', 'limit': 5})
+        req = Request(
+            f"{SPOTIFY_SEARCH_URL}?{params}",
+            headers={'Authorization': f'Bearer {token}'},
+        )
+        with urlopen(req, timeout=15) as resp:
+            data = json.loads(resp.read().decode('utf-8'))
+
+        items = data.get('tracks', {}).get('items', [])
+        # Only accept a track actually credited to our artist.
+        for item in items:
+            names = [a.get('name', '').lower() for a in item.get('artists', [])]
+            if artist_name.lower() in names:
+                return item.get('external_urls', {}).get('spotify', '')
+        return ''
+    except Exception as e:
+        print(f"  Spotify search error: {e}")
+        return ''
+
+
+def resolve_streaming_links(source_url: str, title: str = '', artist: str = '') -> dict:
+    """
+    Resolve streaming links, anchoring on the canonical Spotify release when possible.
+
+    1. Find the Spotify track (via the Spotify API, scoped to our artist) and let
+       Odesli expand from that canonical URL — the reliable path.
+    2. Fall back to / supplement with an Odesli lookup from `source_url` (the
+       YouTube lyric video), filling any platform the Spotify path didn't cover.
+
+    Results are merged, keeping the first non-empty value found for each platform.
+    """
+    links = {'spotify': '', 'apple_music': '', 'amazon_music': '', 'youtube_music': ''}
+
+    # 1. Anchor on Spotify.
+    spotify_url = search_spotify_url(title, artist)
+    if spotify_url:
+        links['spotify'] = spotify_url
+        for key, value in fetch_streaming_links(spotify_url).items():
+            if value and not links[key]:
+                links[key] = value
+
+    # 2. Fall back to the YouTube-anchored lookup for anything still missing.
+    if not all(links.values()):
+        for key, value in fetch_streaming_links(source_url).items():
+            if value and not links[key]:
+                links[key] = value
+
+    found = [k for k, v in links.items() if v]
+    if found:
+        print(f"  Resolved streaming links: {', '.join(found)}")
+    else:
+        print(f"  No streaming links found yet (song may not be distributed yet)")
     return links
 
 
@@ -546,7 +672,7 @@ def process_streaming_retry_queue() -> int:
 
         # Fetch current streaming links
         youtube_url = f"https://youtu.be/{video_id}"
-        streaming_links = fetch_streaming_links(youtube_url)
+        streaming_links = resolve_streaming_links(youtube_url, title=title)
 
         # Check which platforms are still missing
         still_missing = get_missing_platforms(streaming_links)
@@ -724,9 +850,9 @@ def create_music_entry(video: dict) -> Path:
     # Download and resize the thumbnail
     download_and_resize_thumbnail(video['video_id'], slug)
 
-    # Fetch streaming links from Songlink/Odesli
+    # Resolve streaming links (Spotify-anchored, YouTube fallback)
     print(f"  Fetching streaming links for {display_title}...")
-    streaming_links = fetch_streaming_links(youtube_short_url)
+    streaming_links = resolve_streaming_links(youtube_short_url, title=display_title)
 
     # Use fetched links or fallback to defaults
     spotify_url = streaming_links.get('spotify', '')
@@ -1062,8 +1188,10 @@ def update_all_existing_files(videos: list[dict]) -> int:
             # Fetch streaming links if Listen On is empty and we have a video ID
             if listen_on_empty and video_id:
                 youtube_url = f"https://youtu.be/{video_id}"
+                title_match = re.search(r'^title:\s*"?([^"\n]+)"?', content, re.MULTILINE)
+                title = title_match.group(1).strip() if title_match else ''
                 print(f"  Fetching streaming links for {filepath.name}...")
-                streaming_links = fetch_streaming_links(youtube_url)
+                streaming_links = resolve_streaming_links(youtube_url, title=title)
 
             # Update the file if needed
             if update_existing_music_entry(filepath, bible_verse, streaming_links):
