@@ -7,10 +7,9 @@ show_lyrics: "false"
 youtube_music: "https://music.youtube.com/watch?v=LTCx_P7N5UE"
 ---
 ## Bible Verse
-(Add Bible verse here)
+Galatians 5:22 (ASV)
 
-Inspired by Galatians 5:22.
-
+But the fruit of the Spirit is love, joy, peace, longsuffering, kindness, goodness, faithfulness,
 
 ## Inspiration
 

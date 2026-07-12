@@ -6,10 +6,9 @@ youtube: "https://youtu.be/6XRDDaX0KGw"
 show_lyrics: false
 ---
 ## Bible Verse
-(Add Bible verse here)
+Philippians 4:19 (ASV)
 
-Inspired by Philippians 4:19.
-
+And my God shall supply every need of yours according to his riches in glory in Christ Jesus.
 
 ## Inspiration
 

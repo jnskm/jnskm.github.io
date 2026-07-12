@@ -7,10 +7,9 @@ show_lyrics: "false"
 youtube_music: "https://music.youtube.com/watch?v=vtwR8s0Jbew"
 ---
 ## Bible Verse
-(Add Bible verse here)
+Romans 8:28 (ASV)
 
-Inspired by Romans 8:28.
-
+And we know that to them that love God all things work together for good, [even] to them that are called according to [his] purpose.
 
 ## Inspiration
 

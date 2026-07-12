@@ -6,10 +6,9 @@ youtube: "https://youtu.be/2FTCwu71Qgo"
 show_lyrics: false
 ---
 ## Bible Verse
-(Add Bible verse here)
+James 1:2-4 (ASV)
 
-Inspired by James 1:2-4.
-
+Count it all joy, my brethren, when ye fall into manifold temptations;Knowing that the proving of your faith worketh patience.And let patience have [its] perfect work, that ye may be perfect and entire, lacking in nothing.
 
 ## Inspiration
 

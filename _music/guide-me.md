@@ -6,10 +6,9 @@ youtube: "https://youtu.be/a7Oa8BKTI-Q"
 show_lyrics: false
 ---
 ## Bible Verse
-(Add Bible verse here)
+Psalm 32:8 (ASV)
 
-Inspired by Psalm 32:8.
-
+I will instruct thee and teach thee in the way which thou shalt go: I will counsel thee with mine eye upon thee.
 
 ## Inspiration
 

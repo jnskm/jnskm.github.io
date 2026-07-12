@@ -6,10 +6,9 @@ youtube: "https://youtu.be/NRkgHJIQOxY"
 show_lyrics: false
 ---
 ## Bible Verse
-(Add Bible verse here)
+Philippians 4:13 (ASV)
 
-Inspired by Philippians 4:13.
-
+I can do all things in him that strengtheneth me.
 
 ## Inspiration
 

@@ -6,10 +6,9 @@ youtube: "https://youtu.be/HOwdVrzd16Y"
 show_lyrics: false
 ---
 ## Bible Verse
-(Add Bible verse here)
+Isaiah 26:3 (ASV)
 
-Inspired by Isaiah 26:3.
-
+Thou wilt keep [him] in perfect peace, [whose] mind [is] stayed [on thee]; because he trusteth in thee.
 
 ## Inspiration
 

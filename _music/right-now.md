@@ -6,10 +6,9 @@ youtube: "https://youtu.be/1VImArqXhXg"
 show_lyrics: false
 ---
 ## Bible Verse
-(Add Bible verse here)
+Psalm 118:24 (ASV)
 
-Inspired by Psalm 118:24.
-
+This is the day which Jehovah hath made; We will rejoice and be glad in it.
 
 ## Inspiration
 

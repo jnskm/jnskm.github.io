@@ -6,10 +6,9 @@ youtube: "https://youtu.be/Iv7oJZzlJRo"
 show_lyrics: false
 ---
 ## Bible Verse
-(Add Bible verse here)
+Psalm 37:23-24 (ASV)
 
-Inspired by Psalm 37:23-24.
-
+A man's goings are established of Jehovah; And he delighteth in his way.Though he fall, he shall not be utterly cast down; For Jehovah upholdeth him with his hand.
 
 ## Inspiration
 

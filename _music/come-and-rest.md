@@ -6,10 +6,9 @@ spotify: "https://open.spotify.com/album/1I85yh2eaiHudUGf52ZUZ4?si=fcfm2itpTTmCF
 show_lyrics: false
 ---
 ## Bible Verse
-(Add Bible verse here)
+Matthew 11:28-29 (ASV)
 
-Inspired by Matthew 11:28-29.
-
+Come unto me, all ye that labor and are heavy laden, and I will give you rest.Take my yoke upon you, and learn of me; for I am meek and lowly in heart: and ye shall find rest unto your souls.
 
 ## Inspiration
 

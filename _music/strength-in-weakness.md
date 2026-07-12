@@ -7,10 +7,9 @@ spotify: "https://open.spotify.com/album/1ZBTfUqVsGySjn8FVj2ICd?si=BL3pQvLLRviFB
 show_lyrics: false
 ---
 ## Bible Verse
-(Add Bible verse here)
+2 Corinthians 12:9 (ASV)
 
-Inspired by 2 Cor. 12:9.
-
+And he hath said unto me, My grace is sufficient for thee: for [my] power is made perfect in weakness. Most gladly therefore will I rather glory in my weaknesses, that the power of Christ may rest upon me.
 
 ## Inspiration
 

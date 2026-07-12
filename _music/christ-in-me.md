@@ -8,10 +8,9 @@ show_lyrics: "false"
 youtube_music: "https://music.youtube.com/watch?v=-hnP6vu772M"
 ---
 ## Bible Verse
-(Add Bible verse here)
+Galatians 2:20 (ASV)
 
-Inspired by Galatians 2:20.
-
+I have been crucified with Christ; and it is no longer I that live, but Christ living in me: and that [life] which I now live in the flesh I live in faith, [the faith] which is in the Son of God, who loved me, and gave himself up for me.
 
 ## Inspiration
 

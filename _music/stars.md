@@ -6,10 +6,9 @@ youtube: "https://youtu.be/AZA5db2NhJw"
 show_lyrics: false
 ---
 ## Bible Verse
-(Add Bible verse here)
+Amos 5:8 (ASV)
 
-Inspired by Amos 5:8.
-
+[seek him] that maketh the Pleiades and Orion, and turneth the shadow of death into the morning, and maketh the day dark with night; that calleth for the waters of the sea, and poureth them out upon the face of the earth (Jehovah is his name);
 
 ## Inspiration
 

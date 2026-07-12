@@ -6,10 +6,9 @@ youtube: "https://youtu.be/AuWZT0FW3Y4"
 show_lyrics: false
 ---
 ## Bible Verse
-(Add Bible verse here)
+Psalm 37:4 (ASV)
 
-Inspired by Psalm 37:4.
-
+Delight thyself also in Jehovah; And he will give thee the desires of thy heart.
 
 ## Inspiration
 

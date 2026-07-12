@@ -6,10 +6,9 @@ youtube: "https://youtu.be/j55-_6OM_XA"
 show_lyrics: false
 ---
 ## Bible Verse
-(Add Bible verse here)
+Colossians 1:27 (ASV)
 
-Inspired by Colossians 1:27.
-
+to whom God was pleased to make known what is the riches of the glory of this mystery among the Gentiles, which is Christ in you, the hope of glory:
 
 ## Inspiration
 

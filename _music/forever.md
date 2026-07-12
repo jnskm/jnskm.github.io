@@ -7,10 +7,9 @@ spotify: "https://open.spotify.com/album/7pMzAp1sIz3UblWJkzFdT3?si=_8ld1sbLQsSL2
 show_lyrics: false
 ---
 ## Bible Verse
-(Add Bible verse here)
+Philippians 4:7 (ASV)
 
-Inspired by Philippians 4:7.
-
+And the peace of God, which passeth all understanding, shall guard your hearts and your thoughts in Christ Jesus.
 
 ## Inspiration
 

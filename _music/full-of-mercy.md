@@ -6,10 +6,9 @@ youtube: "https://youtu.be/utsJ9MbvtTk"
 show_lyrics: false
 ---
 ## Bible Verse
-(Add Bible verse here)
+Ephesians 2:4-5 (ASV)
 
-Inspired by Ephesians 2:4-5.
-
+but God, being rich in mercy, for his great love wherewith he loved us,even when we were dead through our trespasses, made us alive together with Christ (by grace have ye been saved),
 
 ## Inspiration
 

@@ -7,10 +7,9 @@ show_lyrics: "false"
 youtube_music: "https://music.youtube.com/watch?v=7f7Y1m7pJm4"
 ---
 ## Bible Verse
-(Add Bible verse here)
+Exodus 14:14 (ASV)
 
-Inspired by Exodus 14:14.
-
+Jehovah will fight for you, and ye shall hold your peace.
 
 ## Inspiration
 

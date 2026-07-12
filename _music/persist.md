@@ -27,53 +27,52 @@ This is what I will do: walk the narrow road until the end. For the Lord. For th
 Until the end.
 
 # Lyrics
-
 <pre class="lyrics-content">
 [Verse 1]
-weary hands and tired eyes
-fields of hope beneath these skies
-seasons pass, the days grow long
-but something deep inside stays strong
+Weary hands and tired eyes
+Fields of hope beneath these skies
+Seasons pass, the days grow long
+But something deep inside stays strong
 I won't give up, I can't let go
-there's a harvest time, I know
+There's a harvest time, I know
 
 [Chorus]
 I'm still sowing seeds of light
-though the darkness blinds my sight
+Though the darkness blinds my sight
 I'm still walking toward that day
-when all the pain will fade away
+When all the pain will fade away
 I'm still hoping, I'm still trying
 I'm still loving, I'm still fighting
 
 [Verse 2]
-the road stretches far ahead
-echoes of the words You said
+The road stretches far ahead
+Echoes of the words You said
 "Do not grow weary doing good"
 I would stop if only I could
-but love compels me to go on
-until the final battle's won
+But love compels me to go on
+Until the final battle's won
 
 [Chorus]
 I'm still sowing seeds of light
-though the darkness blinds my sight
+Though the darkness blinds my sight
 I'm still walking toward that day
-when all the pain will fade away
+When all the pain will fade away
 I'm still hoping, I'm still trying
 I'm still loving, I'm still fighting
 
 [Verse 3]
-every kindness, every deed
-every hungry soul I feed
-is a promise I won't fall
-though I stumble, though I crawl
-the opportunity remains
-to ease another's pain
+Every kindness, every deed
+Every hungry soul I feed
+Is a promise I won't fall
+Though I stumble, though I crawl
+The opportunity remains
+To ease another's pain
 
 [Final Chorus]
 I'm still sowing seeds of light
-though the darkness blinds my sight
+Though the darkness blinds my sight
 I'm still walking toward that day
-when all the pain will fade away
+When all the pain will fade away
 I'm still hoping, I'm still trying
 I'm still loving, I'm persisting
 I'm still loving, I'm persisting

@@ -8,10 +8,9 @@ show_lyrics: "false"
 youtube_music: "https://music.youtube.com/watch?v=TpaSPATIP_A"
 ---
 ## Bible Verse
-(Add Bible verse here)
+Ephesians 2:7-8 (ASV)
 
-Inspired by Ephesians 2:7-8.
-
+that in the ages to come he might show the exceeding riches of his grace in kindness toward us in Christ Jesus:for by grace have ye been saved through faith; and that not of yourselves, [it is] the gift of God;
 
 ## Inspiration
 

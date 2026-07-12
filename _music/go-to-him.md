@@ -6,10 +6,9 @@ youtube: "https://youtu.be/dAuZZw_hINA"
 show_lyrics: false
 ---
 ## Bible Verse
-(Add Bible verse here)
+Psalm 100:4-5 (ASV)
 
-Inspired by Psalm 100:4-5.
-
+Enter into his gates with thanksgiving, And into his courts with praise: Give thanks unto him, and bless his name.For Jehovah is good; his lovingkindness [endureth] for ever, And his faithfulness unto all generations. Psalm 101 A Psalm of David.
 
 ## Inspiration
 

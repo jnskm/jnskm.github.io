@@ -8,10 +8,9 @@ show_lyrics: "false"
 youtube_music: "https://music.youtube.com/watch?v=oEdYUuctK4E"
 ---
 ## Bible Verse
-(Add Bible verse here)
+Psalm 16:11 (ASV)
 
-Inspired by Psalm 16:11.
-
+Thou wilt show me the path of life: In thy presence is fulness of joy; In thy right hand there are pleasures for evermore. Psalm 17 A Prayer of David.
 
 ## Inspiration
 

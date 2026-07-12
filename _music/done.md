@@ -7,10 +7,9 @@ show_lyrics: "false"
 youtube_music: "https://music.youtube.com/watch?v=8yGFPQEiLNE"
 ---
 ## Bible Verse
-(Add Bible verse here)
+Psalm 18:30 (ASV)
 
-Inspired by Psalm 18:30.
-
+As for God, his way is perfect: The word of Jehovah is tried; He is a shield unto all them that take refuge in him.
 
 ## Inspiration
 

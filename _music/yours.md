@@ -6,10 +6,9 @@ youtube: "https://youtu.be/adjEab-Ykbk"
 show_lyrics: false
 ---
 ## Bible Verse
-(Add Bible verse here)
+Ephesians 2:8 (ASV)
 
-Inspired by Ephesians 2:8.
-
+for by grace have ye been saved through faith; and that not of yourselves, [it is] the gift of God;
 
 ## Inspiration
 

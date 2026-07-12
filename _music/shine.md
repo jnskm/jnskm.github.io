@@ -7,10 +7,9 @@ spotify: "https://open.spotify.com/album/6qLJw7uQc8RCova4fPGuQT?si=af3K8MSHQSmr6
 show_lyrics: false
 ---
 ## Bible Verse
-(Add Bible verse here)
+Isaiah 58:11 (ASV)
 
-Inspired by Isaiah 58:11.
-
+and Jehovah will guide thee continually, and satisfy thy soul in dry places, and make strong thy bones; and thou shalt be like a watered garden, and like a spring of water, whose waters fail not.
 
 ## Inspiration
 

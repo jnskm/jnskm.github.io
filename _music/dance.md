@@ -7,10 +7,9 @@ show_lyrics: "false"
 youtube_music: "https://music.youtube.com/watch?v=hEQLmlhrgN8"
 ---
 ## Bible Verse
-(Add Bible verse here)
+Habakkuk 3:17-19 (ASV)
 
-Inspired by Habakkuk 3:17-19.
-
+For though the fig-tree shall not flourish, Neither shall fruit be in the vines; The labor of the olive shall fail, And the fields shall yield no food; The flock shall be cut off from the fold, And there shall be no herd in the stalls:Yet I will rejoice in Jehovah, I will joy in the God of my salvation.Jehovah, the Lord, is my strength; And he maketh my feet like hinds' [feet], And will make me to walk upon my high places.
 
 ## Inspiration
 

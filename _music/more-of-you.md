@@ -7,10 +7,9 @@ spotify: "https://open.spotify.com/album/3eAjok7enQ8tYVEi7BsxCH?si=iCieTDsaSY2ui
 show_lyrics: false
 ---
 ## Bible Verse
-(Add Bible verse here)
+Psalm 73:25-26 (ASV)
 
-Inspired by Psalm 73:25-26.
-
+Whom have I in heaven [but thee]? And there is none upon earth that I desire besides thee.My flesh and my heart faileth; [But] God is the strength of my heart and my portion for ever.
 
 ## Inspiration
 

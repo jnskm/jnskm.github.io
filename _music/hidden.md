@@ -7,75 +7,111 @@ spotify: "https://open.spotify.com/album/4BJh2NMsv0p2TiE4u4406h?si=iJfoISvvRDiXL
 show_lyrics: false
 ---
 ## Bible Verse
-(Add Bible verse here)
+Isaiah 45:15 (ASV)
+
+Verily thou art a God that hidest thyself, O God of Israel, the Saviour.
 
 ## Inspiration
+Sometimes God feels hidden.
 
-Truly You are a God Who has been hiding Himself,
-the God and Savior of Israel. Isaiah 45:15.
+I call His name.
+And heaven is quiet.
+
+But hidden does not mean gone.
+
+A cloud can cover the sun.
+The sun still burns.
+I still gives its light.
+
+Grace is similar.
+Grace is there, in the dark.
+Grace is there, in silence,
+Grace is there, even when I can't see.
+
+Isaiah 45:15
+
+"Truly You are a God who hides Himself,
+the God and Savior of Israel."
+
+The One who hides is the One who saves.
+The One who saves is the One who hides.
+
+His hiding does not mean He is far away.
+It is His mercy.
+His mercy grows where I cannot see it.
+Yet.
+
+I don't wait for proof.
+I believe.
+I simply believe.
+
+I cannot see His hand.
+But His unseen hand is holding me.
+He is still my Savior.
+He is still my song.
 
 ## Lyrics
 <pre class="lyrics-content">
-[intro]
+[Intro]
 You're still here
-even when I can't see
+Even when I can't see
 
-[verse 1]
-midnight quiet
+[Verse 1]
+Midnight quiet
 I'm calling Your name
-feel's like heaven's
-staying the same
-but I know You move
-where eye's can't go
-hidden mercy starts to grow
+Feel's like heaven's
+Staying the same
+But I know You move
+Where eye's can't go
+Hidden mercy starts to grow
 
-[pre-chorus]
-when I don't feel You
-still I'll sing
-faith's that whisper
-in the wind
+[Pre-chorus]
+When I don't feel You
+Still I'll sing
+Faith's that whisper
+In the wind
 
-[chorus]
+[Chorus]
 You're hidden
-not gone
-working in the dark
-still holding on
+Not gone
+Working in the dark
+Still holding on
 You're hidden
-not gone
-love don't need the light
-to keep me strong
+Not gone
+Love don't need the light
+To keep me strong
 
-[verse 2]
-clouds can hide
-a sun that shines
-grace is moving
-through the lines
-when I wait
+[Verse 2]
+Clouds can hide
+A sun that shines
+Grace is moving
+Through the lines
+When I wait
 You're never late
-every silence
-holds my faith
+Every silence
+Holds my faith
 
-[bridge]
+[Bridge]
 I don't need proof
 I just believe
 Your unseen hand
-is holding me
+Is holding me
 
-[final chorus]
+[Final Chorus]
 You're hidden
-not gone
-working in the dark
-still holding on
+Not gone
+Working in the dark
+Still holding on
 You're hidden
-not gone
-love don't need the light
-to keep me strong
+Not gone
+Love don't need the light
+To keep me strong
 
-[outro]
-hidden
-not gone
-still my Savior
-still my song
+[Outro]
+Hidden
+Not gone
+Still my Savior
+Still my song
 </pre>
 
 ## Listen On

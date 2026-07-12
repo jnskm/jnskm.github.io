@@ -7,10 +7,9 @@ spotify: "https://open.spotify.com/album/76Uwkw9kHKwUKTmEfQhGoR?si=HAvB4SByQYyYi
 show_lyrics: false
 ---
 ## Bible Verse
-(Add Bible verse here)
+Psalm 139:1-2 (ASV)
 
-Inspired by Psalm 139:1-2.
-
+O Jehovah, thou hast searched me, and known [me].Thou knowest my downsitting and mine uprising; Thou understandest my thought afar off.
 
 ## Inspiration
 

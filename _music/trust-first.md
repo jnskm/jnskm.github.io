@@ -7,10 +7,9 @@ spotify: "https://open.spotify.com/album/1kplUwEYMu9ulsVlPm0M9o?si=yLUuMACSSmSY5
 show_lyrics: false
 ---
 ## Bible Verse
-(Add Bible verse here)
+Proverbs 3:5-6 (ASV)
 
-Inspired by Proverbs 3:5-6.
-
+Trust in Jehovah with all thy heart, And lean not upon thine own understanding:In all thy ways acknowledge him, And he will direct thy paths.
 
 ## Inspiration
 

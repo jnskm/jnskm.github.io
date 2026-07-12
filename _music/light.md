@@ -6,10 +6,9 @@ youtube: "https://youtu.be/M3bue0trxo0"
 show_lyrics: false
 ---
 ## Bible Verse
-(Add Bible verse here)
+1 John 4:12 (ASV)
 
-Inspired by 1 John 4:12.
-
+No man hath beheld God at any time: if we love one another, God abideth in us, and his love is perfected in us:
 
 ## Inspiration
 

@@ -6,10 +6,9 @@ youtube: "https://youtu.be/oMuCZPgZG4I"
 show_lyrics: false
 ---
 ## Bible Verse
-(Add Bible verse here)
+Isaiah 41:10 (ASV)
 
-Inspired by Isaiah 41:10.
-
+Fear thou not, for I am with thee; be not dismayed, for I am thy God; I will strengthen thee; yea, I will help thee; yea, I will uphold thee with the right hand of my righteousness.
 
 ## Inspiration
 

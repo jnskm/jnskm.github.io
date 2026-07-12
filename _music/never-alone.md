@@ -6,10 +6,9 @@ youtube: "https://youtu.be/ak4YYYFfH4g"
 show_lyrics: false
 ---
 ## Bible Verse
-(Add Bible verse here)
+Psalm 63:7-8 (ASV)
 
-Inspired by Psalm 63:7-8.
-
+For thou hast been my help, And in the shadow of thy wings will I rejoice.My soul followeth hard after thee: Thy right hand upholdeth me.
 
 ## Inspiration
 

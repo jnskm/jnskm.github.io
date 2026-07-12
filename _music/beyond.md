@@ -7,10 +7,9 @@ show_lyrics: "false"
 youtube_music: "https://music.youtube.com/watch?v=8bXS6Y-tn6o"
 ---
 ## Bible Verse
-(Add Bible verse here)
+2 Corinthians 5:7 (ASV)
 
-Inspired by 2 Corinthians 5:7.
-
+(for we walk by faith, not by sight);
 
 ## Inspiration
 

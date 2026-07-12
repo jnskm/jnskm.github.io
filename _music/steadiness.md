@@ -6,10 +6,9 @@ youtube: "https://youtu.be/mCdgwQcPRdQ"
 show_lyrics: false
 ---
 ## Bible Verse
-(Add Bible verse here)
+Psalm 112:7 (ASV)
 
-Inspired by Psalm 112:7.
-
+He shall not be afraid of evil tidings: His heart is fixed, trusting in Jehovah.
 
 ## Inspiration
 

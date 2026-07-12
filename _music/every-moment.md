@@ -7,10 +7,9 @@ show_lyrics: "false"
 youtube_music: "https://music.youtube.com/watch?v=khOHhvp-40k"
 ---
 ## Bible Verse
-(Add Bible verse here)
+Proverbs 3:6 (ASV)
 
-Inspired by Proverbs 3:6.
-
+In all thy ways acknowledge him, And he will direct thy paths.
 
 ## Inspiration
 

@@ -6,10 +6,9 @@ youtube: "https://youtu.be/WU5Gg2GeN8g"
 show_lyrics: false
 ---
 ## Bible Verse
-(Add Bible verse here)
+Matthew 11:28-30 (ASV)
 
-Inspired by Matthew 11:28-30.
-
+Come unto me, all ye that labor and are heavy laden, and I will give you rest.Take my yoke upon you, and learn of me; for I am meek and lowly in heart: and ye shall find rest unto your souls.For my yoke is easy, and my burden is light.
 
 ## Inspiration
 

@@ -6,9 +6,9 @@ youtube: "https://youtu.be/MtaVMnbZSsg"
 show_lyrics: false
 ---
 ## Bible Verse
-(Add Bible verse here)
+Philippians 1:6 (ASV)
 
-Philippians 1:6
+being confident of this very thing, that he who began a good work in you will perfect it until the day of Jesus Christ:
 
 ## Inspiration
 

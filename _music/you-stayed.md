@@ -6,10 +6,9 @@ youtube: "https://youtu.be/Xo8dv0DCmf4"
 show_lyrics: false
 ---
 ## Bible Verse
-(Add Bible verse here)
+Hebrews 4:15 (ASV)
 
-Inspired by Hebrews 4:15.
-
+For we have not a high priest that cannot be touched with the feeling of our infirmities; but one that hath been in all points tempted like as [we are, yet] without sin.
 
 ## Inspiration
 

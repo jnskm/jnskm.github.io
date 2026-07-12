@@ -12,7 +12,9 @@ apple_music: ""
 amazon_music: ""
 ---
 ## Bible Verse
-(Add Bible verse here)
+Colossians 2:13-14 (ASV)
+
+And you, being dead through your trespasses and the uncircumcision of your flesh, you, [I say], did he make alive together with him, having forgiven us all our trespasses;having blotted out the bond written in ordinances that was against us, which was contrary to us: and he hath taken it out that way, nailing it to the cross;
 
 ## Inspiration
 

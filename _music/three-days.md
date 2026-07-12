@@ -12,7 +12,9 @@ apple_music: ""
 amazon_music: ""
 ---
 ## Bible Verse
-(Add Bible verse here)
+Isaiah 53:5 (ASV)
+
+But he was wounded for our transgressions, he was bruised for our iniquities; the chastisement of our peace was upon him; and with his stripes we are healed.
 
 ## Inspiration
 

@@ -6,10 +6,9 @@ youtube: "https://youtu.be/ovc3UZyzcUY"
 show_lyrics: false
 ---
 ## Bible Verse
-(Add Bible verse here)
+Numbers 6:25-26 (ASV)
 
-Inspired by Numbers 6:25-26.
-
+Jehovah make his face to shine upon thee, and be gracious unto thee:Jehovah lift up his countenance upon thee, and give thee peace.
 
 ## Inspiration
 

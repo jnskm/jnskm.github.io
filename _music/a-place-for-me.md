@@ -9,7 +9,9 @@ show_lyrics: "false"
 youtube_music: "https://music.youtube.com/watch?v=Em0wm9sSyuw"
 ---
 ## Bible Verse
-(Add Bible verse here)
+John 14:1-3 (ASV)
+
+Let not your heart be troubled: believe in God, believe also in me.In my Father's house are many mansions; if it were not so, I would have told you; for I go to prepare a place for you.And if I go and prepare a place for you, I come again, and will receive you unto myself; that where I am, [there] ye may be also.
 
 # Inspiration
 
@@ -27,41 +29,40 @@ My home is not here. My home is in heaven, with my brothers and sisters, with my
 Home in heaven.
 
 # Lyrics
-
 <pre class="lyrics">
 [Verse 1]
-when the nights are long, and I’m all alone
-no door to knock on, no place to call home
-but deep inside, I hear Him say,
+When the nights are long, and I’m all alone
+No door to knock on, no place to call home
+But deep inside, I hear Him say,
 “I’m not far. I’m on the way.”
 
 [Chorus]
 He’s preparing a place for me
-a home where I’ll be seen
+A home where I’ll be seen
 He said I'll be with Him
 He’s preparing a place for me
 
 [Verse 2]
-people may leave, and plans fall apart
-but I’m not forgotten, I’m close to His heart
+People may leave, and plans fall apart
+But I’m not forgotten, I’m close to His heart
 He sees the tears, He knows my pain
-nut He’s building a place that will always remain
+Nut He’s building a place that will always remain
 
 [Chorus]
 He’s preparing a place for me
-a home where I’ll be seen
+A home where I’ll be seen
 He said I'll be with Him
 He’s preparing a place for me
 
 [Bridge]
-troubled heart, don’t be afraid
+Troubled heart, don’t be afraid
 He keeps every promise He made
-the road feels long, but it won’t be forever
+The road feels long, but it won’t be forever
 He’s coming back, we’ll be together
 
 [Final Chorus]
 He’s preparing a place for me
-a home where I’ll be seen
+A home where I’ll be seen
 He said I'll be with Him
 He’s preparing a place for me
 </pre>

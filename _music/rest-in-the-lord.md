@@ -6,10 +6,9 @@ youtube: "https://youtu.be/QeSgNBU5IWI"
 show_lyrics: false
 ---
 ## Bible Verse
-(Add Bible verse here)
+Psalm 62:5 (ASV)
 
-Inspired by Psalm 62:5.
-
+My soul, wait thou in silence for God only; For my expectation is from him.
 
 ## Inspiration
 

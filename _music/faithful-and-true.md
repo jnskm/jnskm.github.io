@@ -8,10 +8,9 @@ show_lyrics: "false"
 youtube_music: "https://music.youtube.com/watch?v=KvYy7KVgKIE"
 ---
 ## Bible Verse
-(Add Bible verse here)
+John 8:31-32 (ASV)
 
-Inspired by John 8:31-32.
-
+Jesus therefore said to those Jews that had believed him, If ye abide in my word, [then] are ye truly my disciples;and ye shall know the truth, and the truth shall make you free.
 
 ## Inspiration
 

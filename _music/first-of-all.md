@@ -12,7 +12,9 @@ apple_music: ""
 amazon_music: ""
 ---
 ## Bible Verse
-(Add Bible verse here)
+Matthew 6:33 (ASV)
+
+But seek ye first his kingdom, and his righteousness; and all these things shall be added unto you.
 
 ## Inspiration
 

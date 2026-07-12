@@ -6,10 +6,9 @@ youtube: "https://youtu.be/o5XrBpqNx7g"
 show_lyrics: false
 ---
 ## Bible Verse
-(Add Bible verse here)
+Hebrews 7:25 (ASV)
 
-Inspired by Hebrews 7:25.
-
+Wherefore also he is able to save to the uttermost them that draw near unto God through him, seeing he ever liveth to make intercession for them.
 
 ## Inspiration
 

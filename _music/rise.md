@@ -6,10 +6,9 @@ youtube: "https://youtu.be/60oHyZaa0zg"
 show_lyrics: false
 ---
 ## Bible Verse
-(Add Bible verse here)
+John 16:33 (ASV)
 
-Inspired by John 16:33.
-
+These things have I spoken unto you, that in me ye may have peace. In the world ye have tribulation: but be of good cheer; I have overcome the world.
 
 ## Inspiration
 

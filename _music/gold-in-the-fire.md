@@ -7,10 +7,9 @@ spotify: "https://open.spotify.com/album/4o3RqTHSlhq0XjLR1uCYAe?si=9eCHoO1xTU2Og
 show_lyrics: false
 ---
 ## Bible Verse
-(Add Bible verse here)
+Zechariah 13:9 (ASV)
 
-Inspired by Zechariah 13:9.
-
+And I will bring the third part into the fire, and will refine them as silver is refined, and will try them as gold is tried. They shall call on my name, and I will hear them: I will say, It is my people; and they shall say, Jehovah is my God.
 
 ## Inspiration
 

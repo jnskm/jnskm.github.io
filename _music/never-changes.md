@@ -6,9 +6,9 @@ youtube: "https://youtu.be/BDxfXENOSis"
 show_lyrics: false
 ---
 ## Bible Verse
-(Add Bible verse here)
+Lamentations 3:22-23 (ASV)
 
-Lamentations 3:22-23
+[It is of] Jehovah's lovingkindnesses that we are not consumed, because his compassions fail not.They are new every morning; great is thy faithfulness.
 
 ## Inspiration
 
