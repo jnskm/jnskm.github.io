@@ -6,6 +6,13 @@ url: "https://jnskm.com"  # Custom domain (CNAME); update only if you change the
 
 theme: null         # Disables default theme so we can use our custom layout
 
+# Markdown: a single newline (one Return) renders as a line break, so poetry,
+# lyrics, and the devotional sections keep the line breaks the writer types.
+# (Content inside <pre> blocks is untouched.)
+markdown: kramdown
+kramdown:
+  hard_wrap: true
+
 # Collections for structured content
 collections:
   music:
@@ -71,6 +78,8 @@ plugins:
 # public static site.
 exclude:
   - data/library/
+  - drafts/
+  - SESSION_HANDOFF.md
   - scripts/
   - vendor/
   - netlify/

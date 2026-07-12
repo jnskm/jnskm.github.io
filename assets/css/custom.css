@@ -597,10 +597,9 @@ img {
   max-width: 100%;         /* Keep responsive on small screens */
   aspect-ratio: 1 / 1;     /* Enforce 1:1 (square) aspect ratio */
   height: auto;            /* Fallback for older browsers */
-  float: left;             /* Aligns image left, allows text to wrap */
-  margin-right: 20px;      /* Spacing between image and text */
-  margin-bottom: 10px;     /* Spacing below image */
-  display: block;          /* Remove inline baseline spacing */
+  float: none;             /* Text stacks below the cover, not beside it */
+  margin: 0 0 1.75rem 0;   /* Space below the image, before the text */
+  display: block;
   object-fit: contain;     /* Preserve full image without cropping */
 }
 

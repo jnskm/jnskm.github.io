@@ -2,7 +2,8 @@
 layout: default
 ---
 
-<article class="post">
+{% assign edit_slug = page.path | split: "/" | last | replace: ".md", "" %}
+<article class="post" data-slug="{{ edit_slug }}">
   <div class="post-content-wrapper">
     <h1 class="post-title-page">{{ page.title }}</h1>
     {% if page.artist %}
@@ -59,4 +60,9 @@ layout: default
     </div>
   </div>
 </article>
+
+{% if jekyll.environment == "development" %}
+  <!-- Inline section editor — local dev only; not emitted in the production build. -->
+  <script src="{{ '/assets/js/inline-edit.js' | relative_url }}" defer></script>
+{% endif %}
 

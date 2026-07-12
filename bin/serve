@@ -4,4 +4,11 @@
 # belongs to a different Ruby and won't find this project's gems.
 set -euo pipefail
 cd "$(dirname "$0")/.."
+
+# Start the inline-edit writer (local dev only; powers the Edit buttons on song
+# pages by writing _music/*.md). Stops automatically when this script exits.
+python3 scripts/edit_server.py &
+EDIT_PID=$!
+trap 'kill "$EDIT_PID" 2>/dev/null || true' EXIT
+
 exec ruby -S bundle exec jekyll serve --host 127.0.0.1 --port 4000 --watch --livereload "$@"

@@ -14,6 +14,14 @@ JNSKM_Multi-Agent_Website_Reviewer.*
 .env.local
 .env.*.local
 
+# AI-proposed Inspiration drafts — review-only, never auto-published.
+# The writer edits the approved text into the song file by hand.
+drafts/
+
+# Python bytecode from the authoring scripts.
+__pycache__/
+*.pyc
+
 # Netlify build artifacts
 .netlify/
 netlify/functions/node_modules/
