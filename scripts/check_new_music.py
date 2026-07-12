@@ -1235,6 +1235,9 @@ def self_test_spotify():
     # copy-paste problem (truncation, extra whitespace) — not a real value.
     print(f"CLIENT_ID length:          {len(SPOTIFY_CLIENT_ID.strip())} (expect 32)")
     print(f"CLIENT_SECRET length:      {len(SPOTIFY_CLIENT_SECRET.strip())} (expect 32)")
+    # The Client ID is not a secret (it appears in OAuth URLs) — echo it so it can
+    # be checked against the dashboard, and to catch an ID/secret swap.
+    print(f"CLIENT_ID value:           {SPOTIFY_CLIENT_ID.strip()}")
 
     token = get_spotify_token()
     print(f"Access token obtained:     {bool(token)}")
