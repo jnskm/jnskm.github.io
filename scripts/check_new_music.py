@@ -149,36 +149,53 @@ def get_spotify_token() -> str:
         _spotify_token_cache['token'] = ''
         return ''
 
-    try:
-        import base64
-        from urllib.parse import urlencode
-        creds = base64.b64encode(
-            f"{client_id}:{client_secret}".encode()
-        ).decode()
-        body = urlencode({'grant_type': 'client_credentials'}).encode()
-        req = Request(SPOTIFY_TOKEN_URL, data=body, headers={
-            'Authorization': f'Basic {creds}',
-            'Content-Type': 'application/x-www-form-urlencoded',
-        })
-        with urlopen(req, timeout=15) as resp:
-            data = json.loads(resp.read().decode('utf-8'))
-        token = data.get('access_token', '')
-        _spotify_token_cache['token'] = token
-        return token
-    except HTTPError as e:
-        # Spotify returns a JSON body naming the exact error (e.g. invalid_client).
-        detail = ''
+    import base64
+    from urllib.parse import urlencode
+
+    # Spotify accepts the credentials two equivalent ways. Try the standard
+    # HTTP Basic header first; if that's rejected, retry with the id/secret as
+    # POST body params. If BOTH fail, the problem is the credentials/app itself,
+    # not the request method.
+    for mode in ('basic-header', 'body-params'):
         try:
-            detail = e.read().decode('utf-8')
-        except Exception:
-            pass
-        print(f"  Spotify token error: HTTP {e.code} {detail}")
-        _spotify_token_cache['token'] = ''
-        return ''
-    except Exception as e:
-        print(f"  Spotify token error: {e}")
-        _spotify_token_cache['token'] = ''
-        return ''
+            if mode == 'basic-header':
+                creds = base64.b64encode(
+                    f"{client_id}:{client_secret}".encode()
+                ).decode()
+                data = urlencode({'grant_type': 'client_credentials'}).encode()
+                headers = {
+                    'Authorization': f'Basic {creds}',
+                    'Content-Type': 'application/x-www-form-urlencoded',
+                }
+            else:  # body-params
+                data = urlencode({
+                    'grant_type': 'client_credentials',
+                    'client_id': client_id,
+                    'client_secret': client_secret,
+                }).encode()
+                headers = {'Content-Type': 'application/x-www-form-urlencoded'}
+
+            req = Request(SPOTIFY_TOKEN_URL, data=data, headers=headers)
+            with urlopen(req, timeout=15) as resp:
+                payload = json.loads(resp.read().decode('utf-8'))
+            token = payload.get('access_token', '')
+            if token:
+                print(f"  Spotify token obtained via {mode}")
+                _spotify_token_cache['token'] = token
+                return token
+        except HTTPError as e:
+            # Spotify returns a JSON body naming the exact error (e.g. invalid_client).
+            detail = ''
+            try:
+                detail = e.read().decode('utf-8')
+            except Exception:
+                pass
+            print(f"  Spotify token error ({mode}): HTTP {e.code} {detail}")
+        except Exception as e:
+            print(f"  Spotify token error ({mode}): {e}")
+
+    _spotify_token_cache['token'] = ''
+    return ''
 
 
 def search_spotify_url(title: str, artist: str = '') -> str:
