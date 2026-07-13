@@ -594,9 +594,11 @@ img {
   object-fit: contain;     /* Preserve full image without cropping */
 }
 
-/* Book page: a centered column at a comfortable reading measure (~34rem ≈ 70
-   characters/line), text left-aligned within it. Scoped to book pages only. */
-.post-content-wrapper:has(.book-cover) {
+/* Book and song pages: a centered column at a comfortable reading measure
+   (~34rem ≈ 12-15 words/line), text left-aligned within it. Scoped to book pages
+   (.book-cover) and song pages (.album-cover) — other pages are untouched. */
+.post-content-wrapper:has(.book-cover),
+.post-content-wrapper:has(.album-cover) {
   max-width: 34rem;
   margin: 0 auto;
   text-align: left;
@@ -608,7 +610,7 @@ img {
   aspect-ratio: 1 / 1;     /* Enforce 1:1 (square) aspect ratio */
   height: auto;            /* Fallback for older browsers */
   float: none;             /* Text stacks below the cover, not beside it */
-  margin: 0 0 1.75rem 0;   /* Space below the image, before the text */
+  margin: 0 auto 1.75rem;  /* Centered, with space below before the text */
   display: block;
   object-fit: contain;     /* Preserve full image without cropping */
 }
