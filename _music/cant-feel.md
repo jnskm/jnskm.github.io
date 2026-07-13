@@ -9,7 +9,7 @@ youtube_music: "https://music.youtube.com/watch?v=Gc3pERSCQBg"
 ## Bible Verse
 Psalm 13:1,5 (ASV)
 
-How long, O Jehovah? wilt thou forget me for ever? How long wilt thou hide thy face from me?But I have trusted in thy lovingkindness; My heart shall rejoice in thy salvation.
+How long, O Jehovah? wilt thou forget me for ever? How long wilt thou hide thy face from me? But I have trusted in thy lovingkindness; My heart shall rejoice in thy salvation.
 
 ## Inspiration
 

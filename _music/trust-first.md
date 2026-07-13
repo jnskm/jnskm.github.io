@@ -9,7 +9,7 @@ show_lyrics: false
 ## Bible Verse
 Proverbs 3:5-6 (ASV)
 
-Trust in Jehovah with all thy heart, And lean not upon thine own understanding:In all thy ways acknowledge him, And he will direct thy paths.
+Trust in Jehovah with all thy heart, And lean not upon thine own understanding: In all thy ways acknowledge him, And he will direct thy paths.
 
 ## Inspiration
 

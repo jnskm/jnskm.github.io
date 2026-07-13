@@ -9,7 +9,7 @@ show_lyrics: false
 ## Bible Verse
 Psalm 73:25-26 (ASV)
 
-Whom have I in heaven [but thee]? And there is none upon earth that I desire besides thee.My flesh and my heart faileth; [But] God is the strength of my heart and my portion for ever.
+Whom have I in heaven [but thee]? And there is none upon earth that I desire besides thee. My flesh and my heart faileth; [But] God is the strength of my heart and my portion for ever.
 
 ## Inspiration
 

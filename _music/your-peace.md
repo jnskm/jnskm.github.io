@@ -8,7 +8,7 @@ show_lyrics: false
 ## Bible Verse
 Numbers 6:25-26 (ASV)
 
-Jehovah make his face to shine upon thee, and be gracious unto thee:Jehovah lift up his countenance upon thee, and give thee peace.
+Jehovah make his face to shine upon thee, and be gracious unto thee: Jehovah lift up his countenance upon thee, and give thee peace.
 
 ## Inspiration
 

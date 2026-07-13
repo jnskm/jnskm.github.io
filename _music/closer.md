@@ -9,7 +9,7 @@ youtube_music: "https://music.youtube.com/watch?v=h2SwqHq3s3s"
 ## Bible Verse
 Psalm 139:1-4 (ASV)
 
-O Jehovah, thou hast searched me, and known [me].Thou knowest my downsitting and mine uprising; Thou understandest my thought afar off.Thou searchest out my path and my lying down, And art acquainted with all my ways.For there is not a word in my tongue, But, lo, O Jehovah, thou knowest it altogether.
+O Jehovah, thou hast searched me, and known [me]. Thou knowest my downsitting and mine uprising; Thou understandest my thought afar off. Thou searchest out my path and my lying down, And art acquainted with all my ways. For there is not a word in my tongue, But, lo, O Jehovah, thou knowest it altogether.
 
 ## Inspiration
 

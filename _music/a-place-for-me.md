@@ -11,7 +11,7 @@ youtube_music: "https://music.youtube.com/watch?v=Em0wm9sSyuw"
 ## Bible Verse
 John 14:1-3 (ASV)
 
-Let not your heart be troubled: believe in God, believe also in me.In my Father's house are many mansions; if it were not so, I would have told you; for I go to prepare a place for you.And if I go and prepare a place for you, I come again, and will receive you unto myself; that where I am, [there] ye may be also.
+Let not your heart be troubled: believe in God, believe also in me. In my Father's house are many mansions; if it were not so, I would have told you; for I go to prepare a place for you. And if I go and prepare a place for you, I come again, and will receive you unto myself; that where I am, [there] ye may be also.
 
 # Inspiration
 

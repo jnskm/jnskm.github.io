@@ -9,7 +9,7 @@ show_lyrics: false
 ## Bible Verse
 Psalm 139:1-2 (ASV)
 
-O Jehovah, thou hast searched me, and known [me].Thou knowest my downsitting and mine uprising; Thou understandest my thought afar off.
+O Jehovah, thou hast searched me, and known [me]. Thou knowest my downsitting and mine uprising; Thou understandest my thought afar off.
 
 ## Inspiration
 

@@ -8,7 +8,7 @@ show_lyrics: false
 ## Bible Verse
 Colossians 3:15-17 (ASV)
 
-And let the peace of Christ rule in your hearts, to the which also ye were called in one body; and be ye thankful.Let the word of Christ dwell in you richly; in all wisdom teaching and admonishing one another with psalms [and] hymns [and] spiritual songs, singing with grace in your hearts unto God.And whatsoever ye do, in word or in deed, [do] all in the name of the Lord Jesus, giving thanks to God the Father through him.
+And let the peace of Christ rule in your hearts, to the which also ye were called in one body; and be ye thankful. Let the word of Christ dwell in you richly; in all wisdom teaching and admonishing one another with psalms [and] hymns [and] spiritual songs, singing with grace in your hearts unto God. And whatsoever ye do, in word or in deed, [do] all in the name of the Lord Jesus, giving thanks to God the Father through him.
 
 ## Inspiration
 

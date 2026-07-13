@@ -9,7 +9,7 @@ show_lyrics: false
 ## Bible Verse
 Matthew 11:28-29 (ASV)
 
-Come unto me, all ye that labor and are heavy laden, and I will give you rest.Take my yoke upon you, and learn of me; for I am meek and lowly in heart: and ye shall find rest unto your souls.
+Come unto me, all ye that labor and are heavy laden, and I will give you rest. Take my yoke upon you, and learn of me; for I am meek and lowly in heart: and ye shall find rest unto your souls.
 
 ## Inspiration
 
