@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "built_at": "2026-07-13T03:12:28Z",
+  "built_at": "2026-07-13T03:25:52Z",
   "vocabulary": {
     "themes": [
       "afraid",
@@ -121,6 +121,16 @@
       ],
       "cover_image": "/assets/images/books/book-cover-08-not-just-pedigree.jpg",
       "amazon_url": "https://a.co/d/5clSInr"
+    },
+    "09-the-third-strand": {
+      "title": "The Third Strand",
+      "subtitle": "Twelve Lessons From Good Dogs About Marriage",
+      "authors": [
+        "Kyung Suk Yi",
+        "Jin Sung Kim"
+      ],
+      "cover_image": "/assets/images/books/book-cover-09-the-third-strand.jpg",
+      "amazon_url": ""
     }
   },
   "excerpts": [
@@ -6187,6 +6197,183 @@
         "loved",
         "resting"
       ]
+    },
+    {
+      "id": "09-the-third-strand-008",
+      "book_id": "09-the-third-strand",
+      "lesson_number": null,
+      "lesson_title": null,
+      "lesson_subtitle": null,
+      "section": "introduction",
+      "page": 5,
+      "text": "Marriage is the most important relationship most of us will ever have. It is also the most difficult. Not because we married the wrong person, but because marriage asks us to do the hardest things: stay when it would be easier to leave, speak when silence feels safer, forgive when the wound is still open, and trust again when trust has been broken. The dogs in this book did not solve any of these problems. Dogs cannot. But they showed us things about ourselves that we could not see on our own. They held up a mirror we did not ask for, and the reflection was uncomfortable, and it was true.",
+      "themes": [
+        "weary",
+        "discouraged"
+      ]
+    },
+    {
+      "id": "09-the-third-strand-010",
+      "book_id": "09-the-third-strand",
+      "lesson_number": null,
+      "lesson_title": null,
+      "lesson_subtitle": null,
+      "section": "introduction",
+      "page": 6,
+      "text": "If you are reading this because your marriage is difficult right now, we want you to know something before you begin: you are not alone. We have been where you are. We have sat in quiet houses wondering what happened. We have said things we cannot take back. We have been hurt by the people closest to us, and we have been the ones who did the hurting. If you are reading this because your marriage is already over, we want you to know that this book is for you, too. These stories are not just for people who stayed. They are for anyone who has loved someone and been changed by it, for better or for worse.",
+      "themes": [
+        "lonely",
+        "grieving",
+        "discouraged"
+      ]
+    },
+    {
+      "id": "09-the-third-strand-073",
+      "book_id": "09-the-third-strand",
+      "lesson_number": 5,
+      "lesson_title": "Running to Empty When the One Who Holds It Together Has Nothing Left",
+      "lesson_subtitle": null,
+      "section": null,
+      "page": 35,
+      "text": "He had always thought that story was about Mary making the right choice. But sitting in the kitchen, looking at his wife asleep on the couch, he wondered if it was really about Martha. About the kind of person who cannot stop running. About how sometimes the most loving thing someone can say to that person is: sit down. I am here. You do not have to hold everything together tonight. He walked back to the living room. His wife was still asleep. He did not wake her.",
+      "themes": [
+        "weary",
+        "striving"
+      ]
+    },
+    {
+      "id": "09-the-third-strand-097",
+      "book_id": "09-the-third-strand",
+      "lesson_number": 7,
+      "lesson_title": "A Branch Too Heavy When the Load Was Never Meant for One",
+      "lesson_subtitle": null,
+      "section": null,
+      "page": 46,
+      "text": "He had been carrying the branch alone. And just like Teddy, he could not get it through the gate. It was too big for one person. It had always been too big for one person. He thought about a verse he had read once, back when things were easier and it had seemed like advice for other people. *Carry each other’s burdens, and in this way you will fulfill the law of Christ.* He had always read that verse as something he should do for others. He had never considered that it might be asking him to let someone do it for him.",
+      "themes": [
+        "weary",
+        "striving",
+        "proud"
+      ]
+    },
+    {
+      "id": "09-the-third-strand-151",
+      "book_id": "09-the-third-strand",
+      "lesson_number": 11,
+      "lesson_title": "What Cannot Be Taken Back When Trust Is Broken Beyond Repair",
+      "lesson_subtitle": null,
+      "section": null,
+      "page": 71,
+      "text": "Create. Not repair. Not improve. Not try harder. Create. The way only God creates, from nothing, where there was nothing before. David had written that psalm after his own betrayal. He had not asked God to help him fix what he had broken. He had asked God to make something entirely new, because he knew that what was broken could not be fixed by human hands. Not his. Not anyone’s. The wife sat on the porch and felt the weight of that word. Create. She had been trying to rebuild trust with her own willpower, the way you rebuild a wall, brick by brick, through effort and discipline. But trust was not a wall. Trust was a living thing, and it had died, and no amount of effort can bring a dead thing back to life.",
+      "themes": [
+        "ashamed",
+        "guilty",
+        "restored"
+      ]
+    },
+    {
+      "id": "09-the-third-strand-165",
+      "book_id": "09-the-third-strand",
+      "lesson_number": 12,
+      "lesson_title": "The One Who Stayed When the Cord That Holds Is God",
+      "lesson_subtitle": null,
+      "section": null,
+      "page": 76,
+      "text": "The cord had held. Not because they were strong enough to hold it. Because God was. Final Thoughts If you have made it to the end of these twelve lessons, thank you for reading. This was not an easy book to read. It was not an easy book to write. Marriage is the closest thing most of us will ever experience to the way God loves us: completely, permanently, and at great cost. It is also the place where we do the most damage, because it is the place where we are the most known. You cannot deeply wound a stranger. You can only deeply wound someone who let you in.",
+      "themes": [
+        "grieving",
+        "ashamed"
+      ]
+    },
+    {
+      "id": "09-the-third-strand-166",
+      "book_id": "09-the-third-strand",
+      "lesson_number": 12,
+      "lesson_title": "The One Who Stayed When the Cord That Holds Is God",
+      "lesson_subtitle": null,
+      "section": null,
+      "page": 77,
+      "text": "We did not write this book because our marriages are perfect. We wrote it because they are not. We have been the husband who picks up his phone at the dinner table. We have been the wife who stops asking questions she already knows the answer to. We have sat on the couch in a quiet house and wondered how two people who chose each other ended up so far apart. Dogs have shown us things we were not ready to see.",
+      "themes": [
+        "lonely",
+        "discouraged",
+        "grieving"
+      ]
+    },
+    {
+      "id": "09-the-third-strand-170",
+      "book_id": "09-the-third-strand",
+      "lesson_number": 12,
+      "lesson_title": "The One Who Stayed When the Cord That Holds Is God",
+      "lesson_subtitle": null,
+      "section": null,
+      "page": 78,
+      "text": "We believe marriage was designed by God. Not as a reward for getting life right, but as a place where two imperfect people learn what it means to love the way God loves: without giving up. If you are reading this in the middle of a difficult marriage, we want you to know that we see you. We do not have advice. We do not have a formula. We have twelve dogs who showed us twelve truths, and every one of those truths pointed to the same God who made marriage and who stays in it with us, even when we cannot stay in it with each other.",
+      "themes": [
+        "weary",
+        "discouraged",
+        "hopeful"
+      ]
+    },
+    {
+      "id": "09-the-third-strand-171",
+      "book_id": "09-the-third-strand",
+      "lesson_number": 12,
+      "lesson_title": "The One Who Stayed When the Cord That Holds Is God",
+      "lesson_subtitle": null,
+      "section": null,
+      "page": 79,
+      "text": "If you are reading this and your marriage is already over, we see you too. Maybe you did everything you could and it was not enough. Maybe you carry guilt for the ways you did not. Maybe you are somewhere in between, still trying to make sense of what happened. We want you to know that God does not love you less. The cord between you and Him has not been cut. He is close to the brokenhearted, and that includes hearts broken by divorce, by separation, by the slow and painful end of something you thought would last forever. These stories are for you, too. Every one of them.",
+      "themes": [
+        "grieving",
+        "ashamed",
+        "lonely"
+      ]
+    },
+    {
+      "id": "09-the-third-strand-172",
+      "book_id": "09-the-third-strand",
+      "lesson_number": 12,
+      "lesson_title": "The One Who Stayed When the Cord That Holds Is God",
+      "lesson_subtitle": null,
+      "section": null,
+      "page": 79,
+      "text": "He does not pick up His phone when you are talking. He does not close the door. He does not leave for something better. He hears your voice, and He responds. He holds the cord when your hands are too tired to hold it. We are two ordinary people: a deacon and a layperson. We are still learning. Still failing. Still getting back up. Still amazed that God has not given up on us or on the people we married.",
+      "themes": [
+        "lonely",
+        "forgotten",
+        "weary"
+      ]
+    },
+    {
+      "id": "09-the-third-strand-173",
+      "book_id": "09-the-third-strand",
+      "lesson_number": 12,
+      "lesson_title": "The One Who Stayed When the Cord That Holds Is God",
+      "lesson_subtitle": null,
+      "section": null,
+      "page": 79,
+      "text": "We hope these stories reminded you that you are not alone in your marriage, even when it feels like you are. God is close to the brokenhearted. He saves those who are crushed in spirit. And He is very, very good at holding things together. The cord of three strands is not quickly broken. Hold on.",
+      "themes": [
+        "lonely",
+        "grieving",
+        "hopeful"
+      ]
+    },
+    {
+      "id": "09-the-third-strand-174",
+      "book_id": "09-the-third-strand",
+      "lesson_number": null,
+      "lesson_title": null,
+      "lesson_subtitle": null,
+      "section": "about the authors",
+      "page": 80,
+      "text": "We’re just a regular person and a local church deacon. The only thing truly worth mentioning is this: we’ve been forgiven. God has given us His Spirit to walk through this life and to slowly, steadily become more like Jesus. He gave His life for us on the cross, and in doing so, gave us life, now and forever. Jesus is our Savior, our Lord, and the reason we get out of bed every morning.",
+      "themes": [
+        "forgiven",
+        "hopeful",
+        "grateful"
+      ]
     }
   ],
   "songs": [
@@ -9146,7 +9333,7 @@
     "amazon_music": "https://music.amazon.com/search/JNSKM"
   },
   "stats": {
-    "excerpt_count": 384,
+    "excerpt_count": 396,
     "song_count": 67,
     "scripture_ref_count": 81,
     "playlist_count": 8,

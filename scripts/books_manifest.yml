@@ -103,3 +103,13 @@ books:
     source_pdf: "08_Not_Just_Pedigree/08_Not_Just_Pedigree_Part_2.pdf"
     cover_image: "/assets/images/books/book-cover-08-not-just-pedigree.jpg"
     amazon_url: "https://a.co/d/5clSInr"
+
+  - slug: 09-the-third-strand
+    title: "The Third Strand"
+    subtitle: "Twelve Lessons From Good Dogs About Marriage"
+    authors:
+      - "Kyung Suk Yi"
+      - "Jin Sung Kim"
+    source_pdf: "09_The_Third_Strand/09_The_Third_Strand.pdf"
+    cover_image: "/assets/images/books/book-cover-09-the-third-strand.jpg"
+    amazon_url: ""  # not yet on Amazon

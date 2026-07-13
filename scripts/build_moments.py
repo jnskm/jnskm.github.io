@@ -92,6 +92,8 @@ def main():
 
         s = scripture[sk]
         s_text = clean_text(m["scripture_text"]) if m.get("scripture_text") else s["text"]
+        # ASV brackets mark translator-supplied words; drop the brackets, keep the words.
+        s_text = s_text.replace("[", "").replace("]", "")
         excerpted = bool(m.get("scripture_excerpted")) or len(s_text) > LONG_SCRIPTURE_CHARS
 
         e = excerpts[eid]
