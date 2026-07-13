@@ -27,5 +27,5 @@ The stories in this book are based on real observations of dogs and real convers
 
 Because here's the truth: God doesn't check your pedigree before He loves you.
 
-Available on [Amazon](https://a.co/d/5clSInr).
+Available on [Amazon](https://www.amazon.com/dp/B0G63VFDMR).
 

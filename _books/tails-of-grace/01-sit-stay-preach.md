@@ -13,5 +13,5 @@ Through muddy paws, tennis balls, porch waits, and tail wags, these stories offe
 
 This book is for those who love Jesus, love dogs, and want to live a life of quiet and steady grace.
 
-Available on [Amazon](https://a.co/d/7UgGlAM).
+Available on [Amazon](https://www.amazon.com/dp/B0F62LHDPH).
 

@@ -17,5 +17,5 @@ Success without love isn't real success. Strength is to protect. Rest isn't earn
 
 *Tails of Grace: On Business* is not a book about getting ahead. It's a book about walking with God, even at work.
 
-Available on [Amazon](https://a.co/d/aq343lX).
+Available on [Amazon](https://www.amazon.com/dp/B0F88CFF9Y).
 

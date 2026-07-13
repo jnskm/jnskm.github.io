@@ -12,5 +12,5 @@ series: "Series Name"  # Optional, e.g., "Tails of Grace"
 
 Your book description goes here. You can write about the book's content, themes, inspiration, or anything else you'd like to share.
 
-Available on [Amazon](https://a.co/d/...).
+Available on [Amazon](https://www.amazon.com/dp/XXXXXXXXXX).
 

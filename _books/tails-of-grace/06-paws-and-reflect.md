@@ -30,5 +30,5 @@ Each lesson follows the same encouraging pattern: an engaging dog story, practic
 
 If you've ever wondered how to wake up with enthusiasm, build real friendships, practice generosity, trust again after being hurt, or simply live with more joy and purpose, these good dogs have something to teach you.
 
-Available on [Amazon](https://a.co/d/37w1wOC).
+Available on [Amazon](https://www.amazon.com/dp/B0FH78MBD9).
 

@@ -25,5 +25,5 @@ Whether you're dealing with the aftermath of infidelity, bankruptcy, addiction, 
 
 If you've ever felt like "damaged goods," this book is for you. Your story isn't over. Your value hasn't decreased. And God is still looking for exactly who you are.
 
-Available on [Amazon](https://a.co/d/6mBByg6).
+Available on [Amazon](https://www.amazon.com/dp/B0FK3X7FG4).
 

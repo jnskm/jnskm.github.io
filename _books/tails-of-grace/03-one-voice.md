@@ -17,5 +17,5 @@ From learning when to speak and when to stay quiet, to guarding what matters and
 
 Perfect for readers young and old, *One Voice. One Leash. One Lord.* is a warm and honest reminder that you don't have to chase every argument or follow every voice. You just need to walk with the One who never changes.
 
-Available on [Amazon](https://a.co/d/9rVk3aj).
+Available on [Amazon](https://www.amazon.com/dp/B0F7RPTCB6).
 

@@ -13,5 +13,5 @@ Each lesson blends a tender story with reflections on Scripture, offering comfor
 
 This is a book for anyone who wonders if they still belong. The answer, in every story, is yes.
 
-Available on [Amazon](https://a.co/d/dXEn16d).
+Available on [Amazon](https://www.amazon.com/dp/B0FD49HGTY).
 
