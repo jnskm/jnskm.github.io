@@ -97,16 +97,34 @@ def strip_matched_pageno(text: str, page) -> str:
     return pat.sub(repl, text)
 
 
+def trim_leading_fragment(text: str) -> str:
+    """If a passage opens mid-sentence — starting with a lowercase letter, i.e. the
+    tail of a sentence carried over from the previous chunk — start it at the first
+    full sentence instead. Left unchanged if no sentence boundary follows soon
+    enough (better a fragment than an empty passage)."""
+    t = text.lstrip()
+    if not t or not t[0].islower():
+        return text
+    m = re.search(r"[.!?][”\"’']?\s+(?=[“\"‘'A-Z])", t)
+    if m:
+        rest = t[m.end():].strip()
+        if len(rest) > 40:
+            return rest
+    return text
+
+
 def clean_passage(text: str, page=None) -> str:
     """clean_text, plus artifact removal: drop a leading dangling verse citation,
     strip page numbers (leading/trailing, at a sentence boundary, and any that
-    match this chunk's page), and close line-break hyphens ('soul- rest' ->
-    'soul-rest'). Conservative throughout — never merges two words, and the
-    page-matched strip is guarded against real counts/ordinals."""
+    match this chunk's page), trim a leading mid-sentence fragment, and close
+    line-break hyphens ('soul- rest' -> 'soul-rest'). Conservative throughout —
+    never merges two words, and the page-matched strip is guarded against real
+    counts/ordinals."""
     t = " ".join((text or "").split())
     t = _LEADING_CITE.sub("", t)
     t = re.sub(r"^\d+\s+", "", t)
     t = re.sub(r"\s+\d+$", "", t)
+    t = trim_leading_fragment(t)
     t = _INTERIOR_PAGENO.sub(r"\1 ", t)
     t = strip_matched_pageno(t, page)
     t = re.sub(r"(\w)-\s+(\w)", r"\1-\2", t)
