@@ -51,6 +51,7 @@ BOOK_PAGE = {
     "07-torn-but-still-loved": "/books/tails-of-grace/07-torn-but-still-loved/",
     "08-not-just-pedigree-part-1": "/books/tails-of-grace/08-not-just-pedigree/",
     "08-not-just-pedigree-part-2": "/books/tails-of-grace/08-not-just-pedigree/",
+    "09-the-third-strand": "/books/tails-of-grace/09-the-third-strand/",
 }
 
 
