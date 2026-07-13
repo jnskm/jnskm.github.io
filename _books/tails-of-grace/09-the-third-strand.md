@@ -23,3 +23,5 @@ Marriage is the most important relationship most of us will ever have. It is als
 The dogs in these stories did not solve any of that. Dogs cannot. But they held up a mirror we did not ask for, and the reflection was uncomfortable, and it was true.
 
 The title comes from Ecclesiastes: *a cord of three strands is not quickly broken.* Two strands are husband and wife, stronger together than either is alone. The third strand is God. And when we could not hold each other, we found that Someone was holding the cord.
+
+Available on [Amazon](https://www.amazon.com/dp/B0H1W8SBM8).
