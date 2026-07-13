@@ -60,15 +60,23 @@ _LEADING_CITE = re.compile(
     r"^[—–-]\s*(?:[1-3]\s)?[A-Z][a-z]+(?:\s[A-Z][a-z]+)*\s+\d+:\d+(?:[-–]\d+)?\s+"
 )
 
+# A page number that landed mid-passage at a page boundary: a bare 1-3 digit
+# number between the end of one sentence and the start of the next (next token
+# is a capital letter or an opening quote — never a lowercase word, so real
+# numbers like "82 people came" are left alone).
+_INTERIOR_PAGENO = re.compile(r"([.!?”\"'’])\s+\d{1,3}\s+(?=[A-Z“\"‘'])")
+
 
 def clean_passage(text: str) -> str:
-    """clean_text, plus: drop a leading dangling verse citation and close
-    line-break hyphens ('soul- rest' -> 'soul-rest'). Conservative — only closes
-    the space around an existing hyphen, never merges two words."""
+    """clean_text, plus artifact removal: drop a leading dangling verse citation,
+    strip page numbers that landed mid-sentence-boundary, and close line-break
+    hyphens ('soul- rest' -> 'soul-rest'). Conservative throughout — the hyphen
+    fix only closes the space around an existing hyphen, never merges two words."""
     t = " ".join((text or "").split())
     t = _LEADING_CITE.sub("", t)
     t = re.sub(r"^\d+\s+", "", t)
     t = re.sub(r"\s+\d+$", "", t)
+    t = _INTERIOR_PAGENO.sub(r"\1 ", t)
     t = re.sub(r"(\w)-\s+(\w)", r"\1-\2", t)
     return t.strip()
 
