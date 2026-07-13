@@ -1,0 +1,80 @@
+# Stay a Moment — the approved feeling → triad map.
+#
+# Claude proposes; the songwriter approves (north-star: never auto-publish).
+# Each of the 8 homepage chips maps to ONE triad: a Scripture, a Tails of Grace
+# excerpt, and a song. All three are drawn from data/library/library.json by id,
+# so this file stays small and reviewable.
+#
+# Build step: `python scripts/build_moments.py` reads this + the library and
+# writes the fully-hydrated assets/data/moments.json that the site ships.
+#
+# Optional per-feeling overrides:
+#   scripture_text       hand-trimmed snippet (for long or mis-extracted passages)
+#   scripture_excerpted  true → the page shows a "Read all of <ref>" link to the full passage
+#
+# "One or more" is supported later by making any field a list; for now each is one,
+# chosen so the verse and the song rest on the same Scripture wherever possible.
+
+anxious:
+  scripture: "Psalm 46"
+  scripture_excerpted: true
+  scripture_text: |
+    God is our refuge and strength, a very present help in trouble. Therefore
+    will we not fear, though the earth do change, and though the mountains be
+    shaken into the heart of the seas. ... Be still, and know that I am God.
+    ... Jehovah of hosts is with us; the God of Jacob is our refuge.
+  excerpt: "02-with-me-always-010"
+  song: "be-still"
+
+weary:
+  scripture: "Matthew 11:28-29"
+  excerpt: "01-sit-stay-preach-055"
+  song: "come-and-rest"
+
+grieving:
+  scripture: "Lamentations 3:22-23"
+  excerpt: "07-torn-but-still-loved-094"
+  excerpt_text: |
+    Your broken heart is precious to Him. When you're tempted to hide your pain
+    or tough it out alone, remember that those who are hurting get extra care,
+    not less care. Your wounds don't make you less valuable. They make you the
+    focus of the most tender love available.
+  song: "never-changes"
+
+lonely:
+  scripture: "Psalm 139:1-4"
+  excerpt: "02-with-me-always-062"
+  song: "never-alone"
+
+ashamed:
+  scripture: "Ephesians 2:4-5"
+  excerpt: "06-paws-and-reflect-077"
+  song: "full-of-mercy"
+
+doubting:
+  scripture: "2 Corinthians 5:7"
+  excerpt: "08-not-just-pedigree-part-2-146"
+  excerpt_text: |
+    God sees you. He knows you. He loves you. He loves you in your questions and
+    in your certainty. His love does not depend on what you preserve or what you
+    become. You are already enough. You always have been.
+  song: "beyond"
+
+hopeful:
+  scripture: "John 14:1-3"
+  excerpt: "05-without-a-place-not-without-a-shepherd-049"
+  excerpt_text: |
+    Every step you've taken — yes, even the wrong ones — have brought you here.
+    And He's still walking with you. Every mile. Every moment. You are not lost.
+    You are on your way.
+  song: "a-place-for-me"
+
+grateful:
+  scripture: "Psalm 100:4-5"
+  # Library text overran into Psalm 101's heading; trimmed here.
+  scripture_text: |
+    Enter into his gates with thanksgiving, and into his courts with praise;
+    give thanks unto him, and bless his name. For Jehovah is good; his
+    lovingkindness endureth for ever, and his faithfulness unto all generations.
+  excerpt: "06-paws-and-reflect-014"
+  song: "go-to-him"

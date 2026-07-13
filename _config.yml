@@ -82,8 +82,6 @@ exclude:
   - SESSION_HANDOFF.md
   - scripts/
   - vendor/
-  - netlify/
-  - netlify.toml
   - .env
   - .env.local
   - CONTENT_GUIDE.md
