@@ -27,5 +27,5 @@ The stories in this book are based on real observations of dogs and real convers
 
 Because here's the truth: God doesn't check your pedigree before He loves you.
 
-Available on [Amazon](https://www.amazon.com/dp/B0G63VFDMR).
+*Not Just Pedigree* is published in two parts, both available on Amazon: [Part One](https://www.amazon.com/dp/B0G63VFDMR) and [Part Two](https://www.amazon.com/dp/B0G647QXH3).
 
