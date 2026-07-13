@@ -100,7 +100,13 @@
             <p class="sam-quote-ref">— ${esc(seg.ref)}</p>
           </blockquote>`;
         }
-        return `<p class="sam-excerpt-text">${esc(seg.v)}</p>`;
+        // A text segment may hold several paragraphs (blank-line separated) —
+        // render each as its own paragraph, as the book has them.
+        return seg.v.split(/\n\s*\n/)
+          .map((para) => para.trim())
+          .filter(Boolean)
+          .map((para) => `<p class="sam-excerpt-text">${esc(para)}</p>`)
+          .join('');
       }).join('');
       passageHtml = `
         <p class="sam-section-label">a passage</p>

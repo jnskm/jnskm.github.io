@@ -114,21 +114,51 @@ def trim_leading_fragment(text: str) -> str:
 
 
 def clean_passage(text: str, page=None) -> str:
-    """clean_text, plus artifact removal: drop a leading dangling verse citation,
-    strip page numbers (leading/trailing, at a sentence boundary, and any that
-    match this chunk's page), trim a leading mid-sentence fragment, and close
-    line-break hyphens ('soul- rest' -> 'soul-rest'). Conservative throughout —
-    never merges two words, and the page-matched strip is guarded against real
-    counts/ordinals."""
-    t = " ".join((text or "").split())
-    t = _LEADING_CITE.sub("", t)
-    t = re.sub(r"^\d+\s+", "", t)
-    t = re.sub(r"\s+\d+$", "", t)
-    t = trim_leading_fragment(t)
-    t = _INTERIOR_PAGENO.sub(r"\1 ", t)
-    t = strip_matched_pageno(t, page)
-    t = re.sub(r"(\w)-\s+(\w)", r"\1-\2", t)
-    return t.strip()
+    """Clean a passage while preserving its paragraph breaks (blank lines between
+    paragraphs, as the book has them). Within each paragraph, collapse whitespace;
+    then remove artifacts: a leading dangling verse citation, page numbers
+    (leading/trailing, standalone, mid-sentence-boundary, and any matching this
+    chunk's page), a leading mid-sentence fragment, and line-break hyphens.
+    Conservative throughout — never merges two words. Paragraphs are '\\n\\n'-joined."""
+    paras = []
+    for p in re.split(r"\n\s*\n", text or ""):
+        t = " ".join(p.split())
+        if t and not re.fullmatch(r"\d{1,3}", t):   # drop standalone page-number paragraphs
+            paras.append(t)
+    if not paras:
+        return ""
+
+    # Start of passage: drop a leading dangling citation / page number.
+    paras[0] = re.sub(r"^\d+\s+", "", _LEADING_CITE.sub("", paras[0])).strip()
+    paras = [p for p in paras if p]
+    if not paras:
+        return ""
+
+    # Drop or trim a leading mid-sentence fragment (first paragraph starts lowercase).
+    while paras and paras[0] and paras[0][0].islower():
+        trimmed = trim_leading_fragment(paras[0])
+        if trimmed != paras[0]:
+            paras[0] = trimmed
+            break
+        if len(paras) > 1:
+            paras.pop(0)
+        else:
+            break
+    if not paras:
+        return ""
+
+    # End of passage: trailing page number.
+    paras[-1] = re.sub(r"\s+\d+$", "", paras[-1]).strip()
+
+    out = []
+    for t in paras:
+        t = _INTERIOR_PAGENO.sub(r"\1 ", t)
+        t = strip_matched_pageno(t, page)
+        t = re.sub(r"(\w)-\s+(\w)", r"\1-\2", t)
+        t = t.strip()
+        if t and not re.fullmatch(r"\d{1,3}", t):
+            out.append(t)
+    return "\n\n".join(out)
 
 
 # An inline Scripture quote with its citation: "…quote…" — Book c:v

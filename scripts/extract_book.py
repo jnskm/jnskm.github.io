@@ -160,7 +160,9 @@ def greedy_chunk(paragraphs: list[str]) -> list[str]:
     def flush():
         nonlocal buffer, buffer_wc
         if buffer:
-            merged = " ".join(buffer).strip()
+            # Preserve paragraph breaks between combined paragraphs (a blank line),
+            # so a passage renders with the same paragraphing as the book.
+            merged = "\n\n".join(buffer).strip()
             if word_count(merged) >= HARD_MIN_WORDS:
                 chunks.append(merged)
         buffer = []
