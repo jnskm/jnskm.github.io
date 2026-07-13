@@ -588,11 +588,18 @@ img {
   max-width: 100%;         /* Keep responsive on small screens */
   aspect-ratio: 2 / 3;     /* Enforce 6:9 (2:3) aspect ratio */
   height: auto;            /* Fallback for older browsers */
-  float: left;             /* Aligns image left */
-  margin-right: 20px;      /* Spacing between image and text */
-  margin-bottom: 15px;     /* Spacing below image */
+  float: none;             /* Cover sits on top; the text starts below it */
+  margin: 0 auto 1.75rem;  /* Centered, with space below before the text */
   display: block;
   object-fit: contain;     /* Preserve full image without cropping */
+}
+
+/* Book page: a centered column at a comfortable reading measure (~34rem ≈ 70
+   characters/line), text left-aligned within it. Scoped to book pages only. */
+.post-content-wrapper:has(.book-cover) {
+  max-width: 34rem;
+  margin: 0 auto;
+  text-align: left;
 }
 
 .album-cover {
