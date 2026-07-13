@@ -258,9 +258,12 @@ body.site {
   max-width: 100%; /* Remove any max-width constraint */
 }
 
-/* Center content vertically on the home page only */
+/* Center content vertically on the home page only. `safe` keeps the top
+   reachable: when the content is taller than the viewport (long result, or
+   chips on a short screen), it falls back to top-aligned + scrollable instead
+   of clipping the top out of reach. */
 body.site.home .site-main .content {
-  justify-content: center;
+  justify-content: safe center;
 }
 
 /* Custom scrollbar styling - subtle and minimal */

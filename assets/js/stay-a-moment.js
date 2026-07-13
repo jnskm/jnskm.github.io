@@ -33,6 +33,14 @@
   function show(el) { if (el) el.hidden = false; }
   function hide(el) { if (el) el.hidden = true; }
 
+  // Bring the top of the new content into view (the home content scrolls inside
+  // .site-main .content, not the window).
+  function scrollToTop() {
+    const c = document.querySelector('.site-main .content');
+    if (c) c.scrollTop = 0;
+    window.scrollTo(0, 0);
+  }
+
   const STREAMING_LABELS = {
     youtube: 'YouTube',
     youtube_music: 'YouTube Music',
@@ -134,6 +142,7 @@
     hide(result);
     hide(loading);
     show(prompt);
+    scrollToTop();
   }
 
   async function pick(feelingKey) {
@@ -150,6 +159,7 @@
     } finally {
       hide(loading);
       show(result);
+      scrollToTop();
     }
   }
 
