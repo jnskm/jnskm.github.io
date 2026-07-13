@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "built_at": "2026-04-23T20:42:18Z",
+  "built_at": "2026-07-13T03:12:28Z",
   "vocabulary": {
     "themes": [
       "afraid",
@@ -40,7 +40,7 @@
         "Jin Sung Kim"
       ],
       "cover_image": "/assets/images/books/book-cover-01-sit-stay-preach.jpg",
-      "amazon_url": ""
+      "amazon_url": "https://a.co/d/7UgGlAM"
     },
     "02-with-me-always": {
       "title": "With Me Always",
@@ -50,7 +50,7 @@
         "Jin Sung Kim"
       ],
       "cover_image": "/assets/images/books/book-cover-02-with-me-always.jpg",
-      "amazon_url": ""
+      "amazon_url": "https://a.co/d/aB71Ewy"
     },
     "03-one-voice-one-leash-one-lord": {
       "title": "One Voice, One Leash, One Lord",
@@ -60,7 +60,7 @@
         "Jin Sung Kim"
       ],
       "cover_image": "/assets/images/books/book-cover-03-one-voice.jpg",
-      "amazon_url": ""
+      "amazon_url": "https://a.co/d/9rVk3aj"
     },
     "04-on-business": {
       "title": "On Business",
@@ -70,7 +70,7 @@
         "Jin Sung Kim"
       ],
       "cover_image": "/assets/images/books/book-cover-04-on-business.jpg",
-      "amazon_url": ""
+      "amazon_url": "https://a.co/d/aq343lX"
     },
     "05-without-a-place-not-without-a-shepherd": {
       "title": "Without a Place, Not Without a Shepherd",
@@ -80,7 +80,7 @@
         "Jin Sung Kim"
       ],
       "cover_image": "/assets/images/books/book-cover-05-without-a-place.jpg",
-      "amazon_url": ""
+      "amazon_url": "https://a.co/d/dXEn16d"
     },
     "06-paws-and-reflect": {
       "title": "Paws and Reflect",
@@ -90,7 +90,7 @@
         "Jin Sung Kim"
       ],
       "cover_image": "/assets/images/books/book-cover-06-paws-and-reflect.jpg",
-      "amazon_url": ""
+      "amazon_url": "https://a.co/d/37w1wOC"
     },
     "07-torn-but-still-loved": {
       "title": "Torn But Still Loved",
@@ -100,7 +100,7 @@
         "Jin Sung Kim"
       ],
       "cover_image": "/assets/images/books/book-cover-07-torn-but-still-loved.jpg",
-      "amazon_url": ""
+      "amazon_url": "https://a.co/d/6mBByg6"
     },
     "08-not-just-pedigree-part-1": {
       "title": "Not Just Pedigree, Part 1",
@@ -110,7 +110,7 @@
         "Jin Sung Kim"
       ],
       "cover_image": "/assets/images/books/book-cover-08-not-just-pedigree.jpg",
-      "amazon_url": ""
+      "amazon_url": "https://a.co/d/5clSInr"
     },
     "08-not-just-pedigree-part-2": {
       "title": "Not Just Pedigree, Part 2",
@@ -120,7 +120,7 @@
         "Jin Sung Kim"
       ],
       "cover_image": "/assets/images/books/book-cover-08-not-just-pedigree.jpg",
-      "amazon_url": ""
+      "amazon_url": "https://a.co/d/5clSInr"
     }
   },
   "excerpts": [
