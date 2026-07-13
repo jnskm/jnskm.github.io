@@ -39,6 +39,20 @@ CHIP_ORDER = ["anxious", "weary", "grieving", "lonely",
 # A verse long enough to warrant a snippet + "read the whole passage" link.
 LONG_SCRIPTURE_CHARS = 320
 
+# Each library book → its page on jnskm.com. Page slugs differ from library ids;
+# Not Just Pedigree Part 1 & 2 share one page. The Third Strand has no page yet.
+BOOK_PAGE = {
+    "01-sit-stay-preach": "/books/tails-of-grace/01-sit-stay-preach/",
+    "02-with-me-always": "/books/tails-of-grace/02-with-me-always/",
+    "03-one-voice-one-leash-one-lord": "/books/tails-of-grace/03-one-voice/",
+    "04-on-business": "/books/tails-of-grace/04-on-business/",
+    "05-without-a-place-not-without-a-shepherd": "/books/tails-of-grace/05-without-a-place/",
+    "06-paws-and-reflect": "/books/tails-of-grace/06-paws-and-reflect/",
+    "07-torn-but-still-loved": "/books/tails-of-grace/07-torn-but-still-loved/",
+    "08-not-just-pedigree-part-1": "/books/tails-of-grace/08-not-just-pedigree/",
+    "08-not-just-pedigree-part-2": "/books/tails-of-grace/08-not-just-pedigree/",
+}
+
 
 def full_passage_url(display: str) -> str:
     """Link to the whole passage (ASV, public domain — matches the library text)."""
@@ -222,7 +236,7 @@ def main():
             passage_pool[pid] = {
                 "segments": split_scripture(text),
                 "book_title": book.get("title", ""),
-                "book_amazon_url": book.get("amazon_url", ""),
+                "book_url": BOOK_PAGE.get(e["book_id"], ""),
             }
         return pid
 

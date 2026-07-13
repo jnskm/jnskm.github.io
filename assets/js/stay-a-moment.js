@@ -85,8 +85,8 @@
     const passage = randomPassage(m, passages);
     let passageHtml = '';
     if (passage) {
-      const bookName = passage.book_amazon_url
-        ? `<a href="${esc(passage.book_amazon_url)}" target="_blank" rel="noopener">${esc(passage.book_title)}</a>`
+      const bookName = passage.book_url
+        ? `<a href="${esc(passage.book_url)}">${esc(passage.book_title)}</a>`
         : esc(passage.book_title);
       const sourceLine = passage.book_title
         ? `<p class="sam-excerpt-source">— from <em>${bookName}</em>, <span class="sam-series">Tails of Grace</span></p>`
