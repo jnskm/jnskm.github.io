@@ -5,8 +5,10 @@
  * one Tails of Grace passage chosen at random from every kept excerpt themed to
  * that feeling, across all nine books (assets/data/moments.json). No AI at
  * runtime, no API key — every piece was chosen locally and approved before it
- * shipped. The chips step aside so the response stands on its own; a quiet link
- * brings them back.
+ * shipped.
+ *
+ * Choosing a feeling pushes a history entry, so the browser Back button returns
+ * to the chips (there is no on-screen "back" — Back does it).
  */
 
 (function () {
@@ -33,8 +35,6 @@
   function show(el) { if (el) el.hidden = false; }
   function hide(el) { if (el) el.hidden = true; }
 
-  // Bring the top of the new content into view (the home content scrolls inside
-  // .site-main .content, not the window).
   function scrollToTop() {
     const c = document.querySelector('.site-main .content');
     if (c) c.scrollTop = 0;
@@ -102,12 +102,6 @@
       .map(([p, u]) => streamingLinkHtml(p, u))
       .filter(Boolean)
       .join('');
-    const qualifierBits = [];
-    if (song.collaboration) qualifierBits.push(esc(song.collaboration));
-    if (song.is_remix) qualifierBits.push('Remix');
-    if (song.is_korean) qualifierBits.push('Korean');
-    const qualifier = qualifierBits.length
-      ? ` <span class="sam-song-qualifier">(${qualifierBits.join(' · ')})</span>` : '';
     const songTitle = song.url
       ? `<a href="${esc(song.url)}">${esc(song.title)}</a>` : esc(song.title);
 
@@ -122,23 +116,27 @@
 
       <p class="sam-section-label">a song</p>
       <div class="sam-song">
-        <p class="sam-song-title">${songTitle}${qualifier}</p>
+        <p class="sam-song-title">${songTitle}</p>
         ${song.scripture_ref ? `<p class="sam-song-scripture">inspired by ${esc(song.scripture_ref)}</p>` : ''}
         ${streaming ? `<div class="sam-streaming">${streaming}</div>` : ''}
       </div>
-
-      <p class="sam-again-wrap"><button type="button" class="sam-again">choose another</button></p>
     `;
   }
 
   function renderError(messageText) {
-    result.innerHTML = `<p class="sam-error">${esc(messageText)}</p>
-      <p class="sam-again-wrap"><button type="button" class="sam-again">choose another</button></p>`;
+    result.innerHTML = `<p class="sam-error">${esc(messageText)}</p>`;
   }
 
-  // --- Actions ---
+  // --- Views ---
 
-  function toPrompt() {
+  function showResult() {
+    hide(prompt);
+    hide(loading);
+    show(result);
+    scrollToTop();
+  }
+
+  function showPrompt() {
     hide(result);
     hide(loading);
     show(prompt);
@@ -157,9 +155,7 @@
     } catch (err) {
       renderError('Something went wrong. Please try again in a moment.');
     } finally {
-      hide(loading);
-      show(result);
-      scrollToTop();
+      showResult();
     }
   }
 
@@ -170,14 +166,13 @@
     if (!(target instanceof HTMLButtonElement)) return;
     const key = target.dataset.key || (target.textContent || '').trim().toLowerCase();
     if (!key) return;
+    // Push a history entry so the browser Back button returns to the chips.
+    history.pushState({ sam: key }, '');
     pick(key);
   });
 
-  // "choose another" returns to the chips.
-  result.addEventListener('click', (ev) => {
-    if (ev.target instanceof HTMLElement && ev.target.closest('.sam-again')) {
-      ev.preventDefault();
-      toPrompt();
-    }
+  // Back button (or gesture) → return to the chips.
+  window.addEventListener('popstate', () => {
+    showPrompt();
   });
 })();

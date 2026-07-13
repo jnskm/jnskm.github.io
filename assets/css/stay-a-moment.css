@@ -230,25 +230,6 @@
   line-height: 1.5;
 }
 
-/* --- "Choose another" — a quiet way back to the chips --- */
-
-.sam-again-wrap {
-  text-align: center;
-  margin-top: 3rem;
-}
-.sam-again {
-  background: none;
-  border: none;
-  cursor: pointer;
-  font-family: 'EB Garamond', serif;
-  font-style: italic;
-  font-size: 0.95rem;
-  color: #999;
-  border-bottom: 1px solid #ddd;
-  padding: 0 0 1px;
-}
-.sam-again:hover { color: #555; border-bottom-color: #999; }
-
 /* --- Responsive --- */
 
 @media (max-width: 640px) {

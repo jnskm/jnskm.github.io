@@ -17,6 +17,7 @@ Run after editing moments.yml or rebuilding the library:
 """
 
 import json
+import re
 import sys
 import urllib.parse
 from pathlib import Path
@@ -122,13 +123,12 @@ def main():
             },
             "song": {
                 "slug": song["slug"],
-                "title": song["title"],
+                # Title only — drop any trailing parenthetical (e.g. "(Remix)")
+                # and the collaboration/remix/korean qualifiers.
+                "title": re.sub(r"\s*\([^)]*\)\s*$", "", song["title"]).strip(),
                 "url": f"/music/{song['slug']}/",
                 "scripture_ref": song.get("scripture_ref", ""),
                 "streaming": song.get("streaming", {}),
-                "collaboration": song.get("collaboration"),
-                "is_remix": song.get("is_remix", False),
-                "is_korean": song.get("is_korean", False),
             },
             "passage_ids": passage_ids,
         }
