@@ -2,20 +2,21 @@
 """
 build_moments.py — hydrate the approved Stay a Moment map into a shipped asset.
 
-Reads:  _data/moments.yml          (human-approved: feeling → scripture/excerpt/song ids)
+Reads:  _data/moments.yml          (human-approved: feeling → scripture + song)
         data/library/library.json  (the built library: verse text, excerpts, songs)
-Writes: assets/data/moments.json   (fully hydrated; the static site fetches this)
+Writes: assets/data/moments.json   (curated scripture/song per feeling + a deduped
+                                    pool of Tails of Grace passages, referenced by id)
 
-Every id in the map is validated against the library — a typo fails the build
-rather than shipping a blank. No network, no API key, no Claude at build time:
-the pastoral choices already live in moments.yml (Claude proposed, human approved).
+Each feeling's PASSAGE is drawn from the whole library — every kept excerpt whose
+themes include the feeling, across all nine books. The site surfaces one at random.
+No network, no API key: the pastoral choices already live in moments.yml + the
+library's theme tags (Claude proposed, human approved).
 
 Run after editing moments.yml or rebuilding the library:
     python scripts/build_moments.py
 """
 
 import json
-import re
 import sys
 import urllib.parse
 from pathlib import Path
@@ -46,9 +47,10 @@ def full_passage_url(display: str) -> str:
 
 def clean_text(text: str) -> str:
     """Trim stray leading/trailing page numbers and collapse whitespace."""
+    import re
     t = " ".join((text or "").split())
-    t = re.sub(r"^\d+\s+", "", t)        # leading page number
-    t = re.sub(r"\s+\d+$", "", t)        # trailing page number
+    t = re.sub(r"^\d+\s+", "", t)
+    t = re.sub(r"\s+\d+$", "", t)
     return t.strip()
 
 
@@ -62,59 +64,61 @@ def main():
     if not LIB_FILE.exists():
         die(f"missing {LIB_FILE} — build the library first")
 
-    moments_map = yaml.safe_load(MAP_FILE.read_text(encoding="utf-8")) or {}
+    cfg = yaml.safe_load(MAP_FILE.read_text(encoding="utf-8")) or {}
+    feelings = cfg.get("feelings") or {}
+    overrides = cfg.get("excerpt_overrides") or {}
     lib = json.loads(LIB_FILE.read_text(encoding="utf-8"))
 
     scripture = lib["scripture"]
-    excerpts = {e["id"]: e for e in lib["excerpts"]}
     songs = {s["slug"]: s for s in lib["songs"]}
     books = lib["books"]
+    excerpts = lib["excerpts"]  # library stores only kept excerpts
 
-    keys = list(moments_map.keys())
-    missing_chips = [k for k in CHIP_ORDER if k not in moments_map]
-    if missing_chips:
-        die(f"no mapping for chip(s): {', '.join(missing_chips)}")
-    extra = [k for k in keys if k not in CHIP_ORDER]
-    if extra:
-        die(f"map has feeling(s) with no matching chip: {', '.join(extra)}")
+    missing = [k for k in CHIP_ORDER if k not in feelings]
+    if missing:
+        die(f"no mapping for chip(s): {', '.join(missing)}")
 
-    out = {}
+    passage_pool = {}   # id -> hydrated passage (stored once)
+    out_feelings = {}
+
+    def add_passage(e):
+        pid = e["id"]
+        if pid not in passage_pool:
+            book = books.get(e["book_id"], {})
+            text = overrides[pid] if pid in overrides else e["text"]
+            passage_pool[pid] = {
+                "text": clean_text(text),
+                "book_title": book.get("title", ""),
+                "book_amazon_url": book.get("amazon_url", ""),
+            }
+        return pid
+
     for feeling in CHIP_ORDER:
-        m = moments_map[feeling]
-        sk, eid, slug = m.get("scripture"), m.get("excerpt"), m.get("song")
-
+        m = feelings[feeling]
+        sk, slug = m.get("scripture"), m.get("song")
         if sk not in scripture:
             die(f"[{feeling}] scripture key not in library: {sk!r}")
-        if eid not in excerpts:
-            die(f"[{feeling}] excerpt id not in library: {eid!r}")
         if slug not in songs:
             die(f"[{feeling}] song slug not in library: {slug!r}")
 
         s = scripture[sk]
         s_text = clean_text(m["scripture_text"]) if m.get("scripture_text") else s["text"]
-        # ASV brackets mark translator-supplied words; drop the brackets, keep the words.
-        s_text = s_text.replace("[", "").replace("]", "")
+        s_text = s_text.replace("[", "").replace("]", "")  # drop ASV supplied-word brackets
         excerpted = bool(m.get("scripture_excerpted")) or len(s_text) > LONG_SCRIPTURE_CHARS
-
-        e = excerpts[eid]
-        e_text = clean_text(m["excerpt_text"]) if m.get("excerpt_text") else clean_text(e["text"])
-        book = books.get(e["book_id"], {})
 
         song = songs[slug]
 
-        out[feeling] = {
+        passage_ids = [add_passage(e) for e in excerpts if feeling in (e.get("themes") or [])]
+        if not passage_ids:
+            die(f"[{feeling}] no themed passages found in the library")
+
+        out_feelings[feeling] = {
             "scripture": {
                 "display": s["display"],
                 "text": s_text,
                 "translation": s.get("translation", "ASV"),
                 "excerpted": excerpted,
                 "full_url": full_passage_url(s["display"]),
-            },
-            "excerpt": {
-                "id": e["id"],
-                "text": e_text,
-                "book_title": book.get("title", ""),
-                "book_amazon_url": book.get("amazon_url", ""),
             },
             "song": {
                 "slug": song["slug"],
@@ -126,15 +130,21 @@ def main():
                 "is_remix": song.get("is_remix", False),
                 "is_korean": song.get("is_korean", False),
             },
+            "passage_ids": passage_ids,
         }
 
     OUT_FILE.parent.mkdir(parents=True, exist_ok=True)
-    OUT_FILE.write_text(json.dumps({"version": 1, "moments": out},
-                                   ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"build_moments: wrote {OUT_FILE.relative_to(ROOT)} ({len(out)} feelings)")
+    OUT_FILE.write_text(
+        json.dumps({"version": 2, "moments": out_feelings, "passages": passage_pool},
+                   ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+    size_kb = OUT_FILE.stat().st_size // 1024
+    print(f"build_moments: wrote {OUT_FILE.relative_to(ROOT)} "
+          f"({len(passage_pool)} passages, {size_kb} KB)")
     for f in CHIP_ORDER:
-        t = out[f]
-        print(f"  {f:9} {t['scripture']['display']:20} · {t['song']['title']}")
+        t = out_feelings[f]
+        print(f"  {f:9} {t['scripture']['display']:20} · {t['song']['title']:16} · {len(t['passage_ids'])} passages")
 
 
 if __name__ == "__main__":

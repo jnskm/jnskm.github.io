@@ -1,19 +1,22 @@
 /**
  * Stay a Moment — homepage interaction (fully static).
  *
- * The visitor taps a feeling chip; we look the triad up in a pre-built,
- * pre-approved map (assets/data/moments.json) and render Scripture +
- * Tails of Grace snippet + song. No network call to any AI, no API key —
- * every pairing was chosen locally and approved before it shipped.
+ * The visitor taps a feeling chip; we show its curated Scripture and song plus
+ * one Tails of Grace passage chosen at random from every kept excerpt themed to
+ * that feeling, across all nine books (assets/data/moments.json). No AI at
+ * runtime, no API key — every piece was chosen locally and approved before it
+ * shipped. The chips step aside so the response stands on its own; a quiet link
+ * brings them back.
  */
 
 (function () {
-  const MOMENTS_URL = '/assets/data/moments.json';
+  const DATA_URL = '/assets/data/moments.json';
 
   const card = document.getElementById('sam-card');
   if (!card) return;
 
   const chips = document.getElementById('sam-chips');
+  const prompt = document.getElementById('sam-prompt');
   const loading = document.getElementById('sam-loading');
   const result = document.getElementById('sam-result');
 
@@ -29,18 +32,6 @@
 
   function show(el) { if (el) el.hidden = false; }
   function hide(el) { if (el) el.hidden = true; }
-
-  function setLoading(isLoading) {
-    if (chips) chips.querySelectorAll('button').forEach((b) => (b.disabled = isLoading));
-    if (isLoading) { hide(result); show(loading); }
-    else { hide(loading); }
-  }
-
-  function renderError(messageText) {
-    hide(loading);
-    result.innerHTML = `<p class="sam-error">${esc(messageText)}</p>`;
-    show(result);
-  }
 
   const STREAMING_LABELS = {
     youtube: 'YouTube',
@@ -58,18 +49,24 @@
 
   // --- Data (fetched once, cached) ---
 
-  let momentsCache = null;
-  async function loadMoments() {
-    if (momentsCache) return momentsCache;
-    const res = await fetch(MOMENTS_URL);
-    const data = await res.json();
-    momentsCache = data.moments || {};
-    return momentsCache;
+  let dataCache = null;
+  async function loadData() {
+    if (dataCache) return dataCache;
+    const res = await fetch(DATA_URL);
+    dataCache = await res.json();
+    return dataCache;
+  }
+
+  function randomPassage(m, passages) {
+    const ids = m.passage_ids || [];
+    if (!ids.length) return null;
+    const id = ids[Math.floor(Math.random() * ids.length)];
+    return passages[id] || null;
   }
 
   // --- Rendering ---
 
-  function renderTriad(m) {
+  function renderTriad(m, passages) {
     const sc = m.scripture;
     const scriptureRef =
       `<a href="${esc(sc.full_url)}" target="_blank" rel="noopener">${esc(sc.display)}</a> · ${esc(sc.translation)}`;
@@ -77,13 +74,20 @@
       ? `<p class="sam-scripture-more"><a href="${esc(sc.full_url)}" target="_blank" rel="noopener">Read all of ${esc(sc.display)} →</a></p>`
       : '';
 
-    const ex = m.excerpt;
-    const bookName = ex.book_amazon_url
-      ? `<a href="${esc(ex.book_amazon_url)}" target="_blank" rel="noopener">${esc(ex.book_title)}</a>`
-      : esc(ex.book_title);
-    const sourceLine = ex.book_title
-      ? `<p class="sam-excerpt-source">— from <em>${bookName}</em>, <span class="sam-series">Tails of Grace</span></p>`
-      : '';
+    const passage = randomPassage(m, passages);
+    let passageHtml = '';
+    if (passage) {
+      const bookName = passage.book_amazon_url
+        ? `<a href="${esc(passage.book_amazon_url)}" target="_blank" rel="noopener">${esc(passage.book_title)}</a>`
+        : esc(passage.book_title);
+      const sourceLine = passage.book_title
+        ? `<p class="sam-excerpt-source">— from <em>${bookName}</em>, <span class="sam-series">Tails of Grace</span></p>`
+        : '';
+      passageHtml = `
+        <p class="sam-section-label">a passage</p>
+        <p class="sam-excerpt-text">${esc(passage.text)}</p>
+        ${sourceLine}`;
+    }
 
     const song = m.song;
     const streaming = Object.entries(song.streaming || {})
@@ -106,10 +110,7 @@
         <p class="sam-scripture-ref">${scriptureRef}</p>
         ${readAll}
       </div>
-
-      <p class="sam-section-label">a passage</p>
-      <p class="sam-excerpt-text">${esc(ex.text)}</p>
-      ${sourceLine}
+      ${passageHtml}
 
       <p class="sam-section-label">a song</p>
       <div class="sam-song">
@@ -117,23 +118,38 @@
         ${song.scripture_ref ? `<p class="sam-song-scripture">inspired by ${esc(song.scripture_ref)}</p>` : ''}
         ${streaming ? `<div class="sam-streaming">${streaming}</div>` : ''}
       </div>
+
+      <p class="sam-again-wrap"><button type="button" class="sam-again">choose another</button></p>
     `;
-    show(result);
+  }
+
+  function renderError(messageText) {
+    result.innerHTML = `<p class="sam-error">${esc(messageText)}</p>
+      <p class="sam-again-wrap"><button type="button" class="sam-again">choose another</button></p>`;
   }
 
   // --- Actions ---
 
+  function toPrompt() {
+    hide(result);
+    hide(loading);
+    show(prompt);
+  }
+
   async function pick(feelingKey) {
-    setLoading(true);
+    hide(prompt);
+    hide(result);
+    show(loading);
     try {
-      const moments = await loadMoments();
-      const item = moments[feelingKey];
-      if (!item) { renderError('That one isn’t ready yet. Please try another.'); return; }
-      renderTriad(item);
+      const data = await loadData();
+      const m = (data.moments || {})[feelingKey];
+      if (!m) { renderError('That one isn’t ready yet. Please try another.'); }
+      else { renderTriad(m, data.passages || {}); }
     } catch (err) {
       renderError('Something went wrong. Please try again in a moment.');
     } finally {
-      setLoading(false);
+      hide(loading);
+      show(result);
     }
   }
 
@@ -145,5 +161,13 @@
     const key = target.dataset.key || (target.textContent || '').trim().toLowerCase();
     if (!key) return;
     pick(key);
+  });
+
+  // "choose another" returns to the chips.
+  result.addEventListener('click', (ev) => {
+    if (ev.target instanceof HTMLElement && ev.target.closest('.sam-again')) {
+      ev.preventDefault();
+      toPrompt();
+    }
   });
 })();
