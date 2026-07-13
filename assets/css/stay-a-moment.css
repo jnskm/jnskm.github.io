@@ -93,8 +93,21 @@
   border-radius: 999px;
   cursor: pointer;
   transition: all 0.15s;
+  box-sizing: border-box;
+  text-align: center;
+  /* Fixed count per row (equal widths); the last row centers via the
+     container's justify-content. 4 per row by default → 4×2 for the 8 chips. */
+  flex: 0 0 calc((100% - 3 * 0.4rem) / 4);
 }
 .sam-chip:hover { border-color: #000; color: #000; background: #f5f5f5; }
+
+/* 3 per row (→ 3 + 3 + 2) on medium widths, 2 per row (→ 2×4) on narrow. */
+@media (max-width: 560px) {
+  .sam-chip { flex-basis: calc((100% - 2 * 0.4rem) / 3); }
+}
+@media (max-width: 400px) {
+  .sam-chip { flex-basis: calc((100% - 1 * 0.4rem) / 2); }
+}
 
 .sam-or {
   font-family: 'EB Garamond', serif;
