@@ -66,19 +66,76 @@ _LEADING_CITE = re.compile(
 # numbers like "82 people came" are left alone).
 _INTERIOR_PAGENO = re.compile(r"([.!?”\"'’])\s+\d{1,3}\s+(?=[A-Z“\"‘'])")
 
+# Guards so the page-matched strip never touches a real number. A number after
+# these words is an ordinal/count ("stage 4", "chapter 2"); a number before
+# these is a count ("40 years").
+_ORDINAL_BEFORE = {"stage", "chapter", "verse", "psalm", "grade", "level", "phase",
+                   "part", "book", "age", "number", "room", "floor", "unit", "size",
+                   "apartment", "day", "week", "month", "year", "hour", "lesson"}
+_UNIT_AFTER = {"year", "years", "day", "days", "week", "weeks", "month", "months",
+               "hour", "hours", "minute", "minutes", "second", "seconds", "people",
+               "person", "dog", "dogs", "cat", "cats", "time", "times", "mile", "miles",
+               "dollar", "dollars", "child", "children", "man", "men", "woman", "women",
+               "percent", "page", "pages", "year-old", "sheep"}
 
-def clean_passage(text: str) -> str:
+
+def strip_matched_pageno(text: str, page) -> str:
+    """Remove a bare number that equals this chunk's own page — a page number
+    that was inlined at a page boundary (e.g. '..., and 53 persistence ...' on
+    page 53). Guarded so real numbers ('stage 4', '40 years') are left alone."""
+    if not page:
+        return text
+    pat = re.compile(r"(?P<b>\S+)\s+" + re.escape(str(page)) + r"\s+(?P<a>\S+)")
+
+    def repl(m):
+        b = m.group("b").lower().strip("“”\"'‘’.,;:()")
+        a = m.group("a").lower().strip("“”\"'‘’.,;:()")
+        if b in _ORDINAL_BEFORE or a in _UNIT_AFTER:
+            return m.group(0)
+        return m.group("b") + " " + m.group("a")
+
+    return pat.sub(repl, text)
+
+
+def clean_passage(text: str, page=None) -> str:
     """clean_text, plus artifact removal: drop a leading dangling verse citation,
-    strip page numbers that landed mid-sentence-boundary, and close line-break
-    hyphens ('soul- rest' -> 'soul-rest'). Conservative throughout — the hyphen
-    fix only closes the space around an existing hyphen, never merges two words."""
+    strip page numbers (leading/trailing, at a sentence boundary, and any that
+    match this chunk's page), and close line-break hyphens ('soul- rest' ->
+    'soul-rest'). Conservative throughout — never merges two words, and the
+    page-matched strip is guarded against real counts/ordinals."""
     t = " ".join((text or "").split())
     t = _LEADING_CITE.sub("", t)
     t = re.sub(r"^\d+\s+", "", t)
     t = re.sub(r"\s+\d+$", "", t)
     t = _INTERIOR_PAGENO.sub(r"\1 ", t)
+    t = strip_matched_pageno(t, page)
     t = re.sub(r"(\w)-\s+(\w)", r"\1-\2", t)
     return t.strip()
+
+
+# An inline Scripture quote with its citation: "…quote…" — Book c:v
+_QUOTE_CITE = re.compile(
+    r"[“\"](?P<quote>[^“”\"]{12,}?)[”\"]\s*[—–-]\s*"
+    r"(?P<ref>(?:[1-3]\s)?[A-Z][a-z]+(?:\s[A-Z][a-z]+)*\s+\d+:\d+(?:[-–]\d+)?)"
+)
+
+
+def split_scripture(text: str):
+    """Split a passage into segments so a quoted verse can be set apart on its own
+    line with a right-aligned reference. Returns a list of {t:'text', v} and
+    {t:'quote', v, ref}. When there's no inline quote, one text segment."""
+    segments = []
+    pos = 0
+    for m in _QUOTE_CITE.finditer(text):
+        before = text[pos:m.start()].strip()
+        if before:
+            segments.append({"t": "text", "v": before})
+        segments.append({"t": "quote", "v": m.group("quote").strip(), "ref": m.group("ref").strip()})
+        pos = m.end()
+    tail = text[pos:].strip()
+    if tail:
+        segments.append({"t": "text", "v": tail})
+    return segments or [{"t": "text", "v": text}]
 
 
 def die(msg: str):
@@ -112,9 +169,10 @@ def main():
         pid = e["id"]
         if pid not in passage_pool:
             book = books.get(e["book_id"], {})
-            text = overrides[pid] if pid in overrides else e["text"]
+            raw = overrides[pid] if pid in overrides else e["text"]
+            text = clean_passage(raw, e.get("page"))
             passage_pool[pid] = {
-                "text": clean_passage(text),
+                "segments": split_scripture(text),
                 "book_title": book.get("title", ""),
                 "book_amazon_url": book.get("amazon_url", ""),
             }

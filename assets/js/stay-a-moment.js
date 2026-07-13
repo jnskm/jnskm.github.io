@@ -91,9 +91,20 @@
       const sourceLine = passage.book_title
         ? `<p class="sam-excerpt-source">— from <em>${bookName}</em>, <span class="sam-series">Tails of Grace</span></p>`
         : '';
+      // A passage is a list of segments: plain text, or a set-apart Scripture
+      // quote with a right-aligned reference.
+      const body = (passage.segments || []).map((seg) => {
+        if (seg.t === 'quote') {
+          return `<blockquote class="sam-quote">
+            <p class="sam-quote-text">“${esc(seg.v)}”</p>
+            <p class="sam-quote-ref">— ${esc(seg.ref)}</p>
+          </blockquote>`;
+        }
+        return `<p class="sam-excerpt-text">${esc(seg.v)}</p>`;
+      }).join('');
       passageHtml = `
         <p class="sam-section-label">a passage</p>
-        <p class="sam-excerpt-text">${esc(passage.text)}</p>
+        ${body}
         ${sourceLine}`;
     }
 
