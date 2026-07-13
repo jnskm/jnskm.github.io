@@ -48,10 +48,28 @@ def full_passage_url(display: str) -> str:
 
 def clean_text(text: str) -> str:
     """Trim stray leading/trailing page numbers and collapse whitespace."""
-    import re
     t = " ".join((text or "").split())
     t = re.sub(r"^\d+\s+", "", t)
     t = re.sub(r"\s+\d+$", "", t)
+    return t.strip()
+
+
+# A dangling verse reference some excerpts open with, e.g. "— Matthew 11:28-29 ",
+# "— 2 Corinthians 1:3-4 " — an artifact of the book quoting a verse inline.
+_LEADING_CITE = re.compile(
+    r"^[—–-]\s*(?:[1-3]\s)?[A-Z][a-z]+(?:\s[A-Z][a-z]+)*\s+\d+:\d+(?:[-–]\d+)?\s+"
+)
+
+
+def clean_passage(text: str) -> str:
+    """clean_text, plus: drop a leading dangling verse citation and close
+    line-break hyphens ('soul- rest' -> 'soul-rest'). Conservative — only closes
+    the space around an existing hyphen, never merges two words."""
+    t = " ".join((text or "").split())
+    t = _LEADING_CITE.sub("", t)
+    t = re.sub(r"^\d+\s+", "", t)
+    t = re.sub(r"\s+\d+$", "", t)
+    t = re.sub(r"(\w)-\s+(\w)", r"\1-\2", t)
     return t.strip()
 
 
@@ -88,7 +106,7 @@ def main():
             book = books.get(e["book_id"], {})
             text = overrides[pid] if pid in overrides else e["text"]
             passage_pool[pid] = {
-                "text": clean_text(text),
+                "text": clean_passage(text),
                 "book_title": book.get("title", ""),
                 "book_amazon_url": book.get("amazon_url", ""),
             }
