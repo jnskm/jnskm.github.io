@@ -139,7 +139,7 @@
 }
 .sam-scripture-text {
   font-family: 'EB Garamond', 'Noto Serif KR', serif;
-  font-size: 1.2rem;
+  font-size: 1.15rem;
   line-height: 1.65;
   margin: 0 0 0.5rem 0;
 }
@@ -164,7 +164,7 @@
 
 .sam-excerpt-text {
   font-family: 'EB Garamond', 'Noto Serif KR', serif;
-  font-size: 1rem;
+  font-size: 1.15rem;
   line-height: 1.7;
   margin: 0 0 0.75rem 0;
 }
@@ -235,7 +235,7 @@
 @media (max-width: 640px) {
   .sam-input, .sam-chips, .sam-result { max-width: 100%; }
   .sam-heading { font-size: 1.25rem; }
-  .sam-scripture-text { font-size: 1.1rem; }
+  .sam-scripture-text, .sam-excerpt-text, .sam-song-title { font-size: 1.1rem; }
 }
 
 /* --- Playlist link below song --- */
