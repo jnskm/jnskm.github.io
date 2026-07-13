@@ -1,0 +1,15 @@
+# Build config for jnskm.com on Netlify.
+#
+# The site is now FULLY STATIC — no serverless functions, no API, no secrets.
+# This file only tells Netlify how to build the Jekyll site so deploys keep
+# working on the current host. (If the site later moves to GitHub Pages — the
+# CNAME is already set to jnskm.com — this file can be removed.)
+
+[build]
+  command = "bundle exec jekyll build"
+  publish = "_site"
+
+[build.environment]
+  RUBY_VERSION = "3.2.2"
+  JEKYLL_ENV = "production"
+  NODE_VERSION = "20"
