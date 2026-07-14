@@ -12,7 +12,9 @@ apple_music: ""
 amazon_music: ""
 ---
 ## Bible Verse
-(Add Bible verse here)
+Revelation 19:16 (ASV)
+
+And he hath on his garment and on his thigh a name written, KING OF KINGS, AND LORD OF LORDS.
 
 ## Inspiration
 

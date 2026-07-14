@@ -8,7 +8,9 @@ apple_music: "https://music.apple.com/us/album/persist-single/1802387783"
 show_lyrics: false
 ---
 ## Bible Verse
-(Add Bible verse here)
+Galatians 6:9-10 (ASV)
+
+And let us not be weary in well-doing: for in due season we shall reap, if we faint not. So then, as we have opportunity, let us work that which is good toward all men, and especially toward them that are of the household of the faith.
 
 # Inspiration
 

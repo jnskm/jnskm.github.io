@@ -6,10 +6,9 @@ youtube: "https://youtu.be/ajfHHtDxb-Y"
 show_lyrics: false
 ---
 ## Bible Verse
-(Add Bible verse here)
+Psalm 27:14 (ASV)
 
-Inspired by Psalm 27:14.
-
+Wait for Jehovah: Be strong, and let thy heart take courage; Yea, wait thou for Jehovah.
 
 ## Inspiration
 
