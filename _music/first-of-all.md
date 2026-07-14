@@ -5,7 +5,7 @@ cover_image: "/assets/images/music/first-of-all.png"
 # Recommended image dimensions: 300x300px (1:1 aspect ratio, square)
 # This ensures optimal display and fast loading on all devices
 # File size should be under 100KB for best performance
-youtube: ""
+youtube: "https://youtu.be/sEK3xADjW2M"
 youtube_music: ""
 spotify: ""
 apple_music: ""
