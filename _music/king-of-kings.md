@@ -1,7 +1,7 @@
 ---
-title: "King of Kings (inspred by Revelation 19:16)"
+title: "King of Kings"
 date: 2026-03-29
-cover_image: "/assets/images/music/king-of-kings-inspred-by-revelation-19-16.png"
+cover_image: "/assets/images/music/king-of-kings.png"
 # Recommended image dimensions: 300x300px (1:1 aspect ratio, square)
 # This ensures optimal display and fast loading on all devices
 # File size should be under 100KB for best performance
@@ -28,5 +28,3 @@ And he hath on his garment and on his thigh a name written, KING OF KINGS, AND L
 </pre>
 
 ## Listen On
-- [YouTube](https://youtu.be/XkdWtzgIE3o)
-- [YouTube Music](https://music.youtube.com/watch?v=XkdWtzgIE3o)
