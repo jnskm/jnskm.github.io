@@ -12,7 +12,7 @@ Galatians 6:9-10 (ASV)
 
 And let us not be weary in well-doing: for in due season we shall reap, if we faint not. So then, as we have opportunity, let us work that which is good toward all men, and especially toward them that are of the household of the faith.
 
-# Inspiration
+## Inspiration
 
 "Let us not become weary in doing good, for at the proper time we will reap a harvest if we do not give up. Therefore, as we have opportunity, let us do good to all people, especially to those who belong to the family of believers." Galatians 6:9-10.
 
@@ -28,9 +28,9 @@ This is what I will do: walk the narrow road until the end. For the Lord. For th
 
 Until the end.
 
-# Lyrics
+## Lyrics
 <pre class="lyrics-content">
-[Verse 1]
+<span class="lyrics-section-header">[Verse 1]</span>
 Weary hands and tired eyes
 Fields of hope beneath these skies
 Seasons pass, the days grow long
@@ -38,7 +38,7 @@ But something deep inside stays strong
 I won't give up, I can't let go
 There's a harvest time, I know
 
-[Chorus]
+<span class="lyrics-section-header">[Chorus]</span>
 I'm still sowing seeds of light
 Though the darkness blinds my sight
 I'm still walking toward that day
@@ -46,7 +46,7 @@ When all the pain will fade away
 I'm still hoping, I'm still trying
 I'm still loving, I'm still fighting
 
-[Verse 2]
+<span class="lyrics-section-header">[Verse 2]</span>
 The road stretches far ahead
 Echoes of the words You said
 "Do not grow weary doing good"
@@ -54,7 +54,7 @@ I would stop if only I could
 But love compels me to go on
 Until the final battle's won
 
-[Chorus]
+<span class="lyrics-section-header">[Chorus]</span>
 I'm still sowing seeds of light
 Though the darkness blinds my sight
 I'm still walking toward that day
@@ -62,7 +62,7 @@ When all the pain will fade away
 I'm still hoping, I'm still trying
 I'm still loving, I'm still fighting
 
-[Verse 3]
+<span class="lyrics-section-header">[Verse 3]</span>
 Every kindness, every deed
 Every hungry soul I feed
 Is a promise I won't fall
@@ -70,7 +70,7 @@ Though I stumble, though I crawl
 The opportunity remains
 To ease another's pain
 
-[Final Chorus]
+<span class="lyrics-section-header">[Final Chorus]</span>
 I'm still sowing seeds of light
 Though the darkness blinds my sight
 I'm still walking toward that day
@@ -79,18 +79,5 @@ I'm still hoping, I'm still trying
 I'm still loving, I'm persisting
 I'm still loving, I'm persisting
 </pre>
-
-# Listen On
-
-## Inspiration
-
-(Add inspiration and background for this song)
-
-## Lyrics
-[Verse 1]
-(Add lyrics here)
-
-[Chorus]
-(Add lyrics here)
 
 ## Listen On
