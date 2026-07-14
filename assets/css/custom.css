@@ -629,6 +629,12 @@ img {
   object-fit: contain;     /* Preserve full image without cropping */
 }
 
+/* Major song sections (Bible Verse, Inspiration, Lyrics, Listen On) get the
+   largest gap so they read as top-level breaks, above the lyric sub-sections */
+.post-content > h2 {
+  margin-top: 3rem;
+}
+
 /* Remove top margin from first heading in post-content to align with image top */
 .post-content > h2:first-child,
 .post-content > h3:first-child,
@@ -721,7 +727,7 @@ pre.lyrics-content {
   font-family: 'EB Garamond', 'Noto Serif KR', serif;
   font-weight: normal;
   display: block;
-  margin-top: 1.5rem;
+  margin-top: 0.5rem;
   margin-bottom: 0.5rem;
 }
 
