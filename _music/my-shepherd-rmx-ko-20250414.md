@@ -22,11 +22,9 @@ Jehovah is my shepherd; I shall not want. He maketh me to lie down in green past
 
 ## Lyrics
 <pre class="lyrics-content">
-<span class="lyrics-section-header">[Verse 1]</span>
-(Add lyrics here)
+<span class="lyrics-section-header">[Verse 1]</span>(Add lyrics here)
 
-<span class="lyrics-section-header">[Chorus]</span>
-(Add lyrics here)
+<span class="lyrics-section-header">[Chorus]</span>(Add lyrics here)
 </pre>
 
 ## Listen On

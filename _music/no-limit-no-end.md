@@ -26,8 +26,7 @@ Mercy without measure. Grace without end. God who loves us and remains with us.
 
 ## Lyrics
 <pre class="lyrics-content">
-<span class="lyrics-section-header">[Verse 1]</span>
-Before the stars
+<span class="lyrics-section-header">[Verse 1]</span>Before the stars
 Before the light
 You were love
 You came down
@@ -37,12 +36,10 @@ In human skin
 You came close
 To save us
 
-<span class="lyrics-section-header">[Pre-Chorus]</span>
-From forever
+<span class="lyrics-section-header">[Pre-Chorus]</span>From forever
 Into time
 
-<span class="lyrics-section-header">[Chorus]</span>
-No limit, no end
+<span class="lyrics-section-header">[Chorus]</span>No limit, no end
 Your mercy again
 You pull me close
 You pull me close
@@ -52,8 +49,7 @@ You pull me close
 저를 부르세요
 저를 안으세요
 
-<span class="lyrics-section-header">[Verse 2]</span>
-You didn’t stay
+<span class="lyrics-section-header">[Verse 2]</span>You didn’t stay
 So far away
 You made a home
 Inside my heart
@@ -63,12 +59,10 @@ No more shame
 I am Yours
 I am changed
 
-<span class="lyrics-section-header">[Pre-Chorus]</span>
-From forever
+<span class="lyrics-section-header">[Pre-Chorus]</span>From forever
 Into time
 
-<span class="lyrics-section-header">[Chorus]</span>
-No limit, no end
+<span class="lyrics-section-header">[Chorus]</span>No limit, no end
 Your mercy again
 You pull me close
 You pull me close
@@ -78,8 +72,7 @@ You pull me close
 저를 부르세요
 저를 안으세요
 
-<span class="lyrics-section-header">[Bridge]</span>
-Morning sun
+<span class="lyrics-section-header">[Bridge]</span>Morning sun
 On my face
 Every sky
 Shows Your grace
@@ -93,8 +86,7 @@ Sings of You
 온 세상에
 속삭여요
 
-<span class="lyrics-section-header">[Final Chorus]</span>
-No limit, no end
+<span class="lyrics-section-header">[Final Chorus]</span>No limit, no end
 Your mercy again
 You pull me close
 You pull me close
@@ -104,8 +96,7 @@ You pull me close
 예수님 안에서
 저는 살아가요
 
-<span class="lyrics-section-header">[Outro]</span>
-No limit
+<span class="lyrics-section-header">[Outro]</span>No limit
 No end
 
 끝이 없는 사랑

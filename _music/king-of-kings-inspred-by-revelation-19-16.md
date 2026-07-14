@@ -22,11 +22,9 @@ And he hath on his garment and on his thigh a name written, KING OF KINGS, AND L
 
 ## Lyrics
 <pre class="lyrics-content">
-<span class="lyrics-section-header">[Verse 1]</span>
-(Add lyrics here)
+<span class="lyrics-section-header">[Verse 1]</span>(Add lyrics here)
 
-<span class="lyrics-section-header">[Chorus]</span>
-(Add lyrics here)
+<span class="lyrics-section-header">[Chorus]</span>(Add lyrics here)
 </pre>
 
 ## Listen On

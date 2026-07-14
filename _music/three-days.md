@@ -22,11 +22,9 @@ But he was wounded for our transgressions, he was bruised for our iniquities; th
 
 ## Lyrics
 <pre class="lyrics-content">
-<span class="lyrics-section-header">[Verse 1]</span>
-(Add lyrics here)
+<span class="lyrics-section-header">[Verse 1]</span>(Add lyrics here)
 
-<span class="lyrics-section-header">[Chorus]</span>
-(Add lyrics here)
+<span class="lyrics-section-header">[Chorus]</span>(Add lyrics here)
 </pre>
 
 ## Listen On

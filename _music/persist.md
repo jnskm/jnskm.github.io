@@ -30,48 +30,42 @@ Until the end.
 
 ## Lyrics
 <pre class="lyrics-content">
-<span class="lyrics-section-header">[Verse 1]</span>
-Weary hands and tired eyes
+<span class="lyrics-section-header">[Verse 1]</span>Weary hands and tired eyes
 Fields of hope beneath these skies
 Seasons pass, the days grow long
 But something deep inside stays strong
 I won't give up, I can't let go
 There's a harvest time, I know
 
-<span class="lyrics-section-header">[Chorus]</span>
-I'm still sowing seeds of light
+<span class="lyrics-section-header">[Chorus]</span>I'm still sowing seeds of light
 Though the darkness blinds my sight
 I'm still walking toward that day
 When all the pain will fade away
 I'm still hoping, I'm still trying
 I'm still loving, I'm still fighting
 
-<span class="lyrics-section-header">[Verse 2]</span>
-The road stretches far ahead
+<span class="lyrics-section-header">[Verse 2]</span>The road stretches far ahead
 Echoes of the words You said
 "Do not grow weary doing good"
 I would stop if only I could
 But love compels me to go on
 Until the final battle's won
 
-<span class="lyrics-section-header">[Chorus]</span>
-I'm still sowing seeds of light
+<span class="lyrics-section-header">[Chorus]</span>I'm still sowing seeds of light
 Though the darkness blinds my sight
 I'm still walking toward that day
 When all the pain will fade away
 I'm still hoping, I'm still trying
 I'm still loving, I'm still fighting
 
-<span class="lyrics-section-header">[Verse 3]</span>
-Every kindness, every deed
+<span class="lyrics-section-header">[Verse 3]</span>Every kindness, every deed
 Every hungry soul I feed
 Is a promise I won't fall
 Though I stumble, though I crawl
 The opportunity remains
 To ease another's pain
 
-<span class="lyrics-section-header">[Final Chorus]</span>
-I'm still sowing seeds of light
+<span class="lyrics-section-header">[Final Chorus]</span>I'm still sowing seeds of light
 Though the darkness blinds my sight
 I'm still walking toward that day
 When all the pain will fade away

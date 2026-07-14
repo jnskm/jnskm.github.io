@@ -22,11 +22,9 @@ And you, being dead through your trespasses and the uncircumcision of your flesh
 
 ## Lyrics
 <pre class="lyrics-content">
-<span class="lyrics-section-header">[Verse 1]</span>
-(Add lyrics here)
+<span class="lyrics-section-header">[Verse 1]</span>(Add lyrics here)
 
-<span class="lyrics-section-header">[Chorus]</span>
-(Add lyrics here)
+<span class="lyrics-section-header">[Chorus]</span>(Add lyrics here)
 </pre>
 
 ## Listen On
