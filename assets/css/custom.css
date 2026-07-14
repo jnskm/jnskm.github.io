@@ -266,6 +266,12 @@ body.site.home .site-main .content {
   justify-content: safe center;
 }
 
+/* Once a result is shown, top-align it. Centering suits the short prompt/chips
+   state, but on a tall screen it pushes the passage far down the page. */
+body.site.home .site-main .content:has(#sam-result:not([hidden])) {
+  justify-content: flex-start;
+}
+
 /* Custom scrollbar styling - subtle and minimal */
 .site-main .content::-webkit-scrollbar {
   width: 8px;
