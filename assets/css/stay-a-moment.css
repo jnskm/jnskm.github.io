@@ -226,22 +226,6 @@
   color: #666;
   margin: 0 0 0.75rem 0;
 }
-.sam-streaming {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 0.5rem 1.25rem;
-  font-family: 'EB Garamond', 'Noto Serif KR', serif;
-  font-size: 0.85rem;
-}
-.sam-streaming a {
-  color: #333;
-  text-decoration: none;
-  border-bottom: 1px solid #ddd;
-  padding-bottom: 1px;
-}
-.sam-streaming a:hover { color: #000; border-bottom-color: #000; }
-
 .sam-artist-note {
   font-family: 'EB Garamond', serif;
   font-style: italic;

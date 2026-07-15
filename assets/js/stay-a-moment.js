@@ -41,20 +41,6 @@
     window.scrollTo(0, 0);
   }
 
-  const STREAMING_LABELS = {
-    youtube: 'YouTube',
-    youtube_music: 'YouTube Music',
-    spotify: 'Spotify',
-    apple_music: 'Apple Music',
-    amazon_music: 'Amazon Music',
-  };
-
-  function streamingLinkHtml(platform, url) {
-    if (!url) return '';
-    const label = STREAMING_LABELS[platform] || platform;
-    return `<a href="${esc(url)}" target="_blank" rel="noopener">${esc(label)}</a>`;
-  }
-
   // --- Data (fetched once, cached) ---
 
   let dataCache = null;
@@ -115,10 +101,6 @@
     }
 
     const song = m.song;
-    const streaming = Object.entries(song.streaming || {})
-      .map(([p, u]) => streamingLinkHtml(p, u))
-      .filter(Boolean)
-      .join('');
     const songTitle = song.url
       ? `<a href="${esc(song.url)}">${esc(song.title)}</a>` : esc(song.title);
 
@@ -135,7 +117,6 @@
       <div class="sam-song">
         <p class="sam-song-title">${songTitle}</p>
         ${song.scripture_ref ? `<p class="sam-song-scripture">inspired by ${esc(song.scripture_ref)}</p>` : ''}
-        ${streaming ? `<div class="sam-streaming">${streaming}</div>` : ''}
       </div>
     `;
   }
