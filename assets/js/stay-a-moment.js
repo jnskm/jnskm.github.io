@@ -77,6 +77,12 @@
       const sourceLine = passage.book_title
         ? `<p class="sam-excerpt-source">— from <em>${bookName}</em>, <span class="sam-series">Tails of Grace</span></p>`
         : '';
+      // Which lesson the quote came from, so a reader can find it in the book.
+      // Front/back matter has no lesson number, so this line is omitted there.
+      const lessonLine = passage.lesson_number != null
+        ? `<p class="sam-lesson">Lesson ${esc(String(passage.lesson_number))}${
+            passage.lesson_title ? ` · <em>${esc(passage.lesson_title)}</em>` : ''}</p>`
+        : '';
       // A passage is a list of segments: plain text, or a set-apart Scripture
       // quote with a right-aligned reference.
       const body = (passage.segments || []).map((seg) => {
@@ -97,7 +103,8 @@
       passageHtml = `
         <p class="sam-section-label">a passage</p>
         ${body}
-        ${sourceLine}`;
+        ${sourceLine}
+        ${lessonLine}`;
     }
 
     const song = m.song;

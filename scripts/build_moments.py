@@ -234,11 +234,18 @@ def main():
             book = books.get(e["book_id"], {})
             raw = overrides[pid] if pid in overrides else e["text"]
             text = clean_passage(raw, e.get("page"))
-            passage_pool[pid] = {
+            passage = {
                 "segments": split_scripture(text),
                 "book_title": book.get("title", ""),
                 "book_url": BOOK_PAGE.get(e["book_id"], ""),
             }
+            # Where in the book — so a reader can find the quote. Front/back
+            # matter (introduction, last thoughts) has no lesson number.
+            if e.get("lesson_number") is not None:
+                passage["lesson_number"] = e["lesson_number"]
+                if e.get("lesson_title"):
+                    passage["lesson_title"] = e["lesson_title"]
+            passage_pool[pid] = passage
         return pid
 
     for feeling in CHIP_ORDER:

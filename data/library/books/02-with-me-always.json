@@ -80,18 +80,19 @@
     {
       "id": "02-with-me-always-006",
       "lesson_number": 1,
-      "lesson_title": "Sit Still Learning to Wait When Life Hurts",
+      "lesson_title": "Sit Still",
       "section": null,
       "page": 5,
       "word_count": 115,
       "text": "One time, a dog sat on someone’s foot. Not next to it. Not near it. Right on top of it.\n\nHe was standing in the kitchen, waiting for water to boil. The dog walked in, looked around, gave one of those long, deep dog sighs, and sat. Right there, on his foot. Like it was the most normal thing in the world to do.\n\n“Excuse me, that’s my foot,” he said, trying not to spill his tea.\n\nHe didn’t move one bit. He wasn’t asking for anything. He didn’t want food or attention. He just wanted to be right there, really close to his person. And sitting there was his way of saying, I’m here.",
       "keep": false,
-      "themes": []
+      "themes": [],
+      "lesson_subtitle": "Learning to Wait When Life Hurts"
     },
     {
       "id": "02-with-me-always-007",
       "lesson_number": 1,
-      "lesson_title": "Sit Still Learning to Wait When Life Hurts",
+      "lesson_title": "Sit Still",
       "section": null,
       "page": 5,
       "word_count": 93,
@@ -102,23 +103,25 @@
         "striving",
         "weary",
         "resting"
-      ]
+      ],
+      "lesson_subtitle": "Learning to Wait When Life Hurts"
     },
     {
       "id": "02-with-me-always-008",
       "lesson_number": 1,
-      "lesson_title": "Sit Still Learning to Wait When Life Hurts",
+      "lesson_title": "Sit Still",
       "section": null,
       "page": 5,
       "word_count": 81,
       "text": "Maybe God want us to sit. To be still. And stay close.\n\n5\n\nThere was a man from a shelter. He had very little. Just a plastic bag with some clothes and an old Bible with pages missing. He did not even have a phone. Every morning, he sat on the same bench. He was in no rush to do anything or go anywhere. He was just sitting.\n\nOne day, he was asked, “What are you doing out here every day?”",
       "keep": false,
-      "themes": []
+      "themes": [],
+      "lesson_subtitle": "Learning to Wait When Life Hurts"
     },
     {
       "id": "02-with-me-always-009",
       "lesson_number": 1,
-      "lesson_title": "Sit Still Learning to Wait When Life Hurts",
+      "lesson_title": "Sit Still",
       "section": null,
       "page": 6,
       "word_count": 115,
@@ -129,12 +132,13 @@
         "anxious",
         "waiting",
         "trusting"
-      ]
+      ],
+      "lesson_subtitle": "Learning to Wait When Life Hurts"
     },
     {
       "id": "02-with-me-always-010",
       "lesson_number": 1,
-      "lesson_title": "Sit Still Learning to Wait When Life Hurts",
+      "lesson_title": "Sit Still",
       "section": null,
       "page": 6,
       "word_count": 60,
@@ -145,23 +149,25 @@
         "anxious",
         "trusting",
         "resting"
-      ]
+      ],
+      "lesson_subtitle": "Learning to Wait When Life Hurts"
     },
     {
       "id": "02-with-me-always-011",
       "lesson_number": 2,
-      "lesson_title": "Follow Closely Learning to Stay Near the One Who Knows the Way",
+      "lesson_title": "Follow Closely",
       "section": null,
       "page": 7,
       "word_count": 108,
       "text": "If you’ve ever walked a dog, you know how it goes. Some dogs pull ahead. Some stop every two feet to sniff a leaf or inspect a stick. And some, usually after some training, walk right beside you. He doesn’t walk too fast, not too slow. Just right, matching your speed, close, right next to you. The good ones trust you to lead them.\n\nWe’ve had both kinds of dogs. The ones who dart ahead and drag us into puddles, and the ones who stay right next to us and keep pace, even when they’re excited. And we have to admit, we’ve been both kinds of people, too.",
       "keep": false,
-      "themes": []
+      "themes": [],
+      "lesson_subtitle": "Learning to Stay Near the One Who Knows the Way"
     },
     {
       "id": "02-with-me-always-012",
       "lesson_number": 2,
-      "lesson_title": "Follow Closely Learning to Stay Near the One Who Knows the Way",
+      "lesson_title": "Follow Closely",
       "section": null,
       "page": 7,
       "word_count": 99,
@@ -172,12 +178,13 @@
         "anxious",
         "discouraged",
         "confused"
-      ]
+      ],
+      "lesson_subtitle": "Learning to Stay Near the One Who Knows the Way"
     },
     {
       "id": "02-with-me-always-013",
       "lesson_number": 2,
-      "lesson_title": "Follow Closely Learning to Stay Near the One Who Knows the Way",
+      "lesson_title": "Follow Closely",
       "section": null,
       "page": 7,
       "word_count": 81,
@@ -188,12 +195,13 @@
         "peaceful",
         "surrendered",
         "resting"
-      ]
+      ],
+      "lesson_subtitle": "Learning to Stay Near the One Who Knows the Way"
     },
     {
       "id": "02-with-me-always-014",
       "lesson_number": 2,
-      "lesson_title": "Follow Closely Learning to Stay Near the One Who Knows the Way",
+      "lesson_title": "Follow Closely",
       "section": null,
       "page": 8,
       "word_count": 84,
@@ -204,12 +212,13 @@
         "trusting",
         "surrendered",
         "hopeful"
-      ]
+      ],
+      "lesson_subtitle": "Learning to Stay Near the One Who Knows the Way"
     },
     {
       "id": "02-with-me-always-015",
       "lesson_number": 2,
-      "lesson_title": "Follow Closely Learning to Stay Near the One Who Knows the Way",
+      "lesson_title": "Follow Closely",
       "section": null,
       "page": 8,
       "word_count": 100,
@@ -220,12 +229,13 @@
         "peaceful",
         "loved",
         "called"
-      ]
+      ],
+      "lesson_subtitle": "Learning to Stay Near the One Who Knows the Way"
     },
     {
       "id": "02-with-me-always-016",
       "lesson_number": 2,
-      "lesson_title": "Follow Closely Learning to Stay Near the One Who Knows the Way",
+      "lesson_title": "Follow Closely",
       "section": null,
       "page": 8,
       "word_count": 71,
@@ -236,45 +246,49 @@
         "trusting",
         "peaceful",
         "resting"
-      ]
+      ],
+      "lesson_subtitle": "Learning to Stay Near the One Who Knows the Way"
     },
     {
       "id": "02-with-me-always-017",
       "lesson_number": 3,
-      "lesson_title": "Speak When It Matters Learning When to Stay Quiet, and When Not To",
+      "lesson_title": "Speak When It Matters",
       "section": null,
       "page": 10,
       "word_count": 99,
       "text": "Some dogs bark at everything. A leaf blows across the sidewalk. Bark. The wind moves the curtains. Bark. A shadow shifts on the wall. Bark, bark, bark.\n\nAnd then there are dogs who hardly make a sound. They don’t bark when someone knocks. They don’t bark at squirrels. They don’t even bark when the food bowl is empty. But if something’s really wrong, they let you know.\n\nWe think the loud dogs are the brave ones. But over time we realize that quiet dogs are often the wisest. They’re watching. Listening. And when they finally speak, we pay attention.",
       "keep": false,
-      "themes": []
+      "themes": [],
+      "lesson_subtitle": "Learning When to Stay Quiet, and When Not To"
     },
     {
       "id": "02-with-me-always-018",
       "lesson_number": 3,
-      "lesson_title": "Speak When It Matters Learning When to Stay Quiet, and When Not To",
+      "lesson_title": "Speak When It Matters",
       "section": null,
       "page": 10,
       "word_count": 102,
       "text": "There was a dog who almost never barked. Days would go by without a peep. But one night, in the middle of the night, she stood at the door and barked just once. She did not bark really loud. Nor was it in panick. Just one low, sharp bark. That bark woke enough to wake up her person. He turned on the lights and realized something was off. There was a strange noise outside. Metal scraping on the back fence. He never figured out exactly what it was, but that one little bark told him enough: “Something’s not right. You should look.”",
       "keep": false,
-      "themes": []
+      "themes": [],
+      "lesson_subtitle": "Learning When to Stay Quiet, and When Not To"
     },
     {
       "id": "02-with-me-always-019",
       "lesson_number": 3,
-      "lesson_title": "Speak When It Matters Learning When to Stay Quiet, and When Not To",
+      "lesson_title": "Speak When It Matters",
       "section": null,
       "page": 10,
       "word_count": 118,
       "text": "It reminded us that sometimes, saying less makes the moment more important. Not everything needs to be barked about. Not every thought needs to be shared. But when something really matters, it’s okay to speak up. We should speak up.\n\n10\n\nAll of us had moments in life where we stayed silent when we should’ve spoken. We probably also had moments where we said too much when we should’ve stayed quiet. Neither one felt good.\n\nWe learn, especially from mistakes. Most of us slowly. Not every fight is ours to fight. Not every opinion needs to be shared. But when it’s time to say something true, something kind, something needed, we want to have the courage to speak.",
       "keep": false,
-      "themes": []
+      "themes": [],
+      "lesson_subtitle": "Learning When to Stay Quiet, and When Not To"
     },
     {
       "id": "02-with-me-always-020",
       "lesson_number": 3,
-      "lesson_title": "Speak When It Matters Learning When to Stay Quiet, and When Not To",
+      "lesson_title": "Speak When It Matters",
       "section": null,
       "page": 11,
       "word_count": 94,
@@ -285,23 +299,25 @@
         "called",
         "trusting",
         "surrendered"
-      ]
+      ],
+      "lesson_subtitle": "Learning When to Stay Quiet, and When Not To"
     },
     {
       "id": "02-with-me-always-021",
       "lesson_number": 4,
-      "lesson_title": "Come When Called Learning to Return — No Matter How Far We’ve Wandered",
+      "lesson_title": "Come When Called",
       "section": null,
       "page": 12,
       "word_count": 93,
       "text": "Some dogs take off the moment the door opens. They chase squirrels, sniff trees, follow smells halfway down the block. But here’s the thing: the good ones come back when you call. Even if they got distracted. Even if they ran too far. Even if it took them a while to hear you, they come back.\n\nThere was a dog who did exactly that. Every time he went to the park, he’d run wild for a while. Eyes full of excitement. He wasn’t being bad, of course not. He just liked to explore.",
       "keep": false,
-      "themes": []
+      "themes": [],
+      "lesson_subtitle": "Learning to Return — No Matter How Far We’ve Wandered"
     },
     {
       "id": "02-with-me-always-022",
       "lesson_number": 4,
-      "lesson_title": "Come When Called Learning to Return — No Matter How Far We’ve Wandered",
+      "lesson_title": "Come When Called",
       "section": null,
       "page": 12,
       "word_count": 125,
@@ -312,12 +328,13 @@
         "ashamed",
         "restored",
         "loved"
-      ]
+      ],
+      "lesson_subtitle": "Learning to Return — No Matter How Far We’ve Wandered"
     },
     {
       "id": "02-with-me-always-023",
       "lesson_number": 4,
-      "lesson_title": "Come When Called Learning to Return — No Matter How Far We’ve Wandered",
+      "lesson_title": "Come When Called",
       "section": null,
       "page": 12,
       "word_count": 93,
@@ -328,12 +345,13 @@
         "ashamed",
         "forgotten",
         "loved"
-      ]
+      ],
+      "lesson_subtitle": "Learning to Return — No Matter How Far We’ve Wandered"
     },
     {
       "id": "02-with-me-always-024",
       "lesson_number": 4,
-      "lesson_title": "Come When Called Learning to Return — No Matter How Far We’ve Wandered",
+      "lesson_title": "Come When Called",
       "section": null,
       "page": 13,
       "word_count": 93,
@@ -344,23 +362,25 @@
         "guilty",
         "restored",
         "forgiven"
-      ]
+      ],
+      "lesson_subtitle": "Learning to Return — No Matter How Far We’ve Wandered"
     },
     {
       "id": "02-with-me-always-025",
       "lesson_number": 5,
-      "lesson_title": "Wag Anyway Learning to Find Joy, Even When Life Hurts",
+      "lesson_title": "Wag Anyway",
       "section": null,
       "page": 14,
       "word_count": 90,
       "text": "We’ve seen dogs wag their tails in some strange moments. A dog had just come back from the vet. He is sore. There’s a cone on his head. Every step is painful. But call his name, and you’ll see him wagging his tail.\n\nHe was hurting. He was probably quite confused. But something in him still lit up at the sound of a familiar voice.\n\nWag.\n\nIt wasn’t a big, wild tail spin. Just a soft thump, thump, thump on the floor. A quiet little, “I’m still glad you’re here.”",
       "keep": false,
-      "themes": []
+      "themes": [],
+      "lesson_subtitle": "Learning to Find Joy, Even When Life Hurts"
     },
     {
       "id": "02-with-me-always-026",
       "lesson_number": 5,
-      "lesson_title": "Wag Anyway Learning to Find Joy, Even When Life Hurts",
+      "lesson_title": "Wag Anyway",
       "section": null,
       "page": 14,
       "word_count": 95,
@@ -371,12 +391,13 @@
         "grieving",
         "discouraged",
         "hopeful"
-      ]
+      ],
+      "lesson_subtitle": "Learning to Find Joy, Even When Life Hurts"
     },
     {
       "id": "02-with-me-always-027",
       "lesson_number": 5,
-      "lesson_title": "Wag Anyway Learning to Find Joy, Even When Life Hurts",
+      "lesson_title": "Wag Anyway",
       "section": null,
       "page": 14,
       "word_count": 106,
@@ -387,12 +408,13 @@
         "grieving",
         "joyful",
         "grateful"
-      ]
+      ],
+      "lesson_subtitle": "Learning to Find Joy, Even When Life Hurts"
     },
     {
       "id": "02-with-me-always-028",
       "lesson_number": 5,
-      "lesson_title": "Wag Anyway Learning to Find Joy, Even When Life Hurts",
+      "lesson_title": "Wag Anyway",
       "section": null,
       "page": 15,
       "word_count": 107,
@@ -403,12 +425,13 @@
         "grieving",
         "joyful",
         "trusting"
-      ]
+      ],
+      "lesson_subtitle": "Learning to Find Joy, Even When Life Hurts"
     },
     {
       "id": "02-with-me-always-029",
       "lesson_number": 5,
-      "lesson_title": "Wag Anyway Learning to Find Joy, Even When Life Hurts",
+      "lesson_title": "Wag Anyway",
       "section": null,
       "page": 15,
       "word_count": 74,
@@ -419,34 +442,37 @@
         "grieving",
         "joyful",
         "loved"
-      ]
+      ],
+      "lesson_subtitle": "Learning to Find Joy, Even When Life Hurts"
     },
     {
       "id": "02-with-me-always-030",
       "lesson_number": 6,
-      "lesson_title": "Guard The Weak Learning to Care for Those Who Need Help",
+      "lesson_title": "Guard The Weak",
       "section": null,
       "page": 16,
       "word_count": 81,
       "text": "A dog blocked traffic for a squirrel. The squirrel was frozen in the middle of a quiet street. Unsurprising. Squirrels tend to do that. It was too scared to move. And a car was slowly coming. Not fast, but fast enough.\n\nWhat was suprising was that a dog ran out and just stood in front of the squirrel. His tail was stiff. His body was still. His eyes were locked. He was telling the approaching car: “Not this one. Not today.”",
       "keep": false,
-      "themes": []
+      "themes": [],
+      "lesson_subtitle": "Learning to Care for Those Who Need Help"
     },
     {
       "id": "02-with-me-always-031",
       "lesson_number": 6,
-      "lesson_title": "Guard The Weak Learning to Care for Those Who Need Help",
+      "lesson_title": "Guard The Weak",
       "section": null,
       "page": 16,
       "word_count": 107,
       "text": "The driver stopped. The squirrel blinked, then scurried off. And the dog trotted back to the sidewalk like it was no big deal.\n\nThat’s not something we can train a dog to do. (Well, maybe, some special dogs with very special training can do that.) But in general, this kind of behavior comes from something they just know: protect the small ones. Watch out for the weak ones. Step in when someone’s in trouble.\n\nBig dogs curled around small puppies during a thunderstorm. Older dogs walking slow beside a younger one that’s limping. Stray dogs sticking together in the cold. These are examples of loyalty and love.",
       "keep": false,
-      "themes": []
+      "themes": [],
+      "lesson_subtitle": "Learning to Care for Those Who Need Help"
     },
     {
       "id": "02-with-me-always-032",
       "lesson_number": 6,
-      "lesson_title": "Guard The Weak Learning to Care for Those Who Need Help",
+      "lesson_title": "Guard The Weak",
       "section": null,
       "page": 16,
       "word_count": 82,
@@ -457,12 +483,13 @@
         "forgotten",
         "called",
         "loved"
-      ]
+      ],
+      "lesson_subtitle": "Learning to Care for Those Who Need Help"
     },
     {
       "id": "02-with-me-always-033",
       "lesson_number": 6,
-      "lesson_title": "Guard The Weak Learning to Care for Those Who Need Help",
+      "lesson_title": "Guard The Weak",
       "section": null,
       "page": 17,
       "word_count": 99,
@@ -473,12 +500,13 @@
         "forgotten",
         "loved",
         "called"
-      ]
+      ],
+      "lesson_subtitle": "Learning to Care for Those Who Need Help"
     },
     {
       "id": "02-with-me-always-034",
       "lesson_number": 6,
-      "lesson_title": "Guard The Weak Learning to Care for Those Who Need Help",
+      "lesson_title": "Guard The Weak",
       "section": null,
       "page": 17,
       "word_count": 65,
@@ -489,23 +517,25 @@
         "forgotten",
         "loved",
         "hopeful"
-      ]
+      ],
+      "lesson_subtitle": "Learning to Care for Those Who Need Help"
     },
     {
       "id": "02-with-me-always-035",
       "lesson_number": 7,
-      "lesson_title": "Stay With Me Learning to Be Present When It Hurts",
+      "lesson_title": "Stay With Me",
       "section": null,
       "page": 18,
       "word_count": 93,
       "text": "There’s something about a dog that just knows when to stay. We have all been sick before, the kind of sick where all we can do is lie still for a long time and everything feels off. Nothing tastes right. Nothing sounds right. The day moves slowly. And we feel far away from the world.\n\nAnd on those days, wouldn’t it be nice if a dog curled up beside us. And not move. For hours. If he didn’t bark and remained quiet. And just breathed, while we breathed. Just stayed there with us.",
       "keep": false,
-      "themes": []
+      "themes": [],
+      "lesson_subtitle": "Learning to Be Present When It Hurts"
     },
     {
       "id": "02-with-me-always-036",
       "lesson_number": 7,
-      "lesson_title": "Stay With Me Learning to Be Present When It Hurts",
+      "lesson_title": "Stay With Me",
       "section": null,
       "page": 18,
       "word_count": 109,
@@ -516,12 +546,13 @@
         "lonely",
         "loved",
         "peaceful"
-      ]
+      ],
+      "lesson_subtitle": "Learning to Be Present When It Hurts"
     },
     {
       "id": "02-with-me-always-037",
       "lesson_number": 7,
-      "lesson_title": "Stay With Me Learning to Be Present When It Hurts",
+      "lesson_title": "Stay With Me",
       "section": null,
       "page": 18,
       "word_count": 80,
@@ -532,12 +563,13 @@
         "lonely",
         "loved",
         "forgotten"
-      ]
+      ],
+      "lesson_subtitle": "Learning to Be Present When It Hurts"
     },
     {
       "id": "02-with-me-always-038",
       "lesson_number": 7,
-      "lesson_title": "Stay With Me Learning to Be Present When It Hurts",
+      "lesson_title": "Stay With Me",
       "section": null,
       "page": 19,
       "word_count": 121,
@@ -548,23 +580,25 @@
         "grieving",
         "loved",
         "trusting"
-      ]
+      ],
+      "lesson_subtitle": "Learning to Be Present When It Hurts"
     },
     {
       "id": "02-with-me-always-039",
       "lesson_number": 8,
-      "lesson_title": "Trust The Hand That Feeds Learning to Depend on God for What We Need",
+      "lesson_title": "Trust The Hand That Feeds",
       "section": null,
       "page": 20,
       "word_count": 117,
       "text": "Some dogs stare at you while you eat. They have their eyes wide open. And their tails? Absolutely still. Just hoping for a bite. For a tiny morsel to drop on the floor. And some others wait patiently near their bowl. They don’t make a sound. They just sit there, trusting their owners (assuming they are good owners) will take care of them.\n\nAnd you know what? Good owners do.\n\nWe feed them. We fill their bowl. Most of the time. We have to admit that we have forgotten a few times. We give them what they need. Definitely not always what they want. But we give them enough, and on time. Usually. We are only human.",
       "keep": false,
-      "themes": []
+      "themes": [],
+      "lesson_subtitle": "Learning to Depend on God for What We Need"
     },
     {
       "id": "02-with-me-always-040",
       "lesson_number": 8,
-      "lesson_title": "Trust The Hand That Feeds Learning to Depend on God for What We Need",
+      "lesson_title": "Trust The Hand That Feeds",
       "section": null,
       "page": 20,
       "word_count": 96,
@@ -575,23 +609,25 @@
         "doubting",
         "afraid",
         "trusting"
-      ]
+      ],
+      "lesson_subtitle": "Learning to Depend on God for What We Need"
     },
     {
       "id": "02-with-me-always-041",
       "lesson_number": 8,
-      "lesson_title": "Trust The Hand That Feeds Learning to Depend on God for What We Need",
+      "lesson_title": "Trust The Hand That Feeds",
       "section": null,
       "page": 20,
       "word_count": 81,
       "text": "20\n\nBut then we remember: dogs don’t stock the pantry. They don’t carry cash or write grocery lists. They trust their owners, the ones who fill their bowls morning and night.\n\nThere was a man who lived under a bridge. Unfortunately, there are too many. He had nothing. He had no job. He had no car. He didn’t even have an ID. But every morning, he prayed. Just a simple one: “God, feed me today.” And somehow he was always fed.",
       "keep": false,
-      "themes": []
+      "themes": [],
+      "lesson_subtitle": "Learning to Depend on God for What We Need"
     },
     {
       "id": "02-with-me-always-042",
       "lesson_number": 8,
-      "lesson_title": "Trust The Hand That Feeds Learning to Depend on God for What We Need",
+      "lesson_title": "Trust The Hand That Feeds",
       "section": null,
       "page": 21,
       "word_count": 139,
@@ -602,12 +638,13 @@
         "afraid",
         "trusting",
         "hopeful"
-      ]
+      ],
+      "lesson_subtitle": "Learning to Depend on God for What We Need"
     },
     {
       "id": "02-with-me-always-043",
       "lesson_number": 8,
-      "lesson_title": "Trust The Hand That Feeds Learning to Depend on God for What We Need",
+      "lesson_title": "Trust The Hand That Feeds",
       "section": null,
       "page": 21,
       "word_count": 105,
@@ -618,12 +655,13 @@
         "waiting",
         "trusting",
         "grateful"
-      ]
+      ],
+      "lesson_subtitle": "Learning to Depend on God for What We Need"
     },
     {
       "id": "02-with-me-always-044",
       "lesson_number": 9,
-      "lesson_title": "Sleep In Peace Learning to Rest When the World Feels Unsafe",
+      "lesson_title": "Sleep In Peace",
       "section": null,
       "page": 23,
       "word_count": 81,
@@ -634,12 +672,13 @@
         "afraid",
         "resting",
         "trusting"
-      ]
+      ],
+      "lesson_subtitle": "Learning to Rest When the World Feels Unsafe"
     },
     {
       "id": "02-with-me-always-045",
       "lesson_number": 9,
-      "lesson_title": "Sleep In Peace Learning to Rest When the World Feels Unsafe",
+      "lesson_title": "Sleep In Peace",
       "section": null,
       "page": 23,
       "word_count": 114,
@@ -650,12 +689,13 @@
         "afraid",
         "weary",
         "resting"
-      ]
+      ],
+      "lesson_subtitle": "Learning to Rest When the World Feels Unsafe"
     },
     {
       "id": "02-with-me-always-046",
       "lesson_number": 9,
-      "lesson_title": "Sleep In Peace Learning to Rest When the World Feels Unsafe",
+      "lesson_title": "Sleep In Peace",
       "section": null,
       "page": 23,
       "word_count": 108,
@@ -666,12 +706,13 @@
         "afraid",
         "resting",
         "trusting"
-      ]
+      ],
+      "lesson_subtitle": "Learning to Rest When the World Feels Unsafe"
     },
     {
       "id": "02-with-me-always-047",
       "lesson_number": 9,
-      "lesson_title": "Sleep In Peace Learning to Rest When the World Feels Unsafe",
+      "lesson_title": "Sleep In Peace",
       "section": null,
       "page": 24,
       "word_count": 90,
@@ -682,23 +723,25 @@
         "weary",
         "resting",
         "surrendered"
-      ]
+      ],
+      "lesson_subtitle": "Learning to Rest When the World Feels Unsafe"
     },
     {
       "id": "02-with-me-always-048",
       "lesson_number": 10,
-      "lesson_title": "Leave The Past Learning to Move On from What We Can’t Change",
+      "lesson_title": "Leave The Past",
       "section": null,
       "page": 25,
       "word_count": 121,
       "text": "Ever seen a dog sit around feeling sorry for something it did yesterday? They don’t lie on the floor thinking, “I shouldn’t have chewed that shoe…” Or, “I can’t believe I barked at the mailman…” Or, “Why did I eat that sock?”\n\nDogs mess up. Some dogs almost everyday. But they move on. Now, sure, they may look guilty in the moment. We walk into the room, and there’s trash everywhere, and they give us that look. You know the one: their ears are low, eyes are wide, their tails doing a tiny slow wag, like they’re saying, “Yeah… I did that. Sorry.” But five minutes later? They’re fine. They’re back to playing, napping, or just following you around like normal.",
       "keep": false,
-      "themes": []
+      "themes": [],
+      "lesson_subtitle": "Learning to Move On from What We Can’t Change"
     },
     {
       "id": "02-with-me-always-049",
       "lesson_number": 10,
-      "lesson_title": "Leave The Past Learning to Move On from What We Can’t Change",
+      "lesson_title": "Leave The Past",
       "section": null,
       "page": 25,
       "word_count": 85,
@@ -709,12 +752,13 @@
         "ashamed",
         "discouraged",
         "striving"
-      ]
+      ],
+      "lesson_subtitle": "Learning to Move On from What We Can’t Change"
     },
     {
       "id": "02-with-me-always-050",
       "lesson_number": 10,
-      "lesson_title": "Leave The Past Learning to Move On from What We Can’t Change",
+      "lesson_title": "Leave The Past",
       "section": null,
       "page": 25,
       "word_count": 107,
@@ -725,12 +769,13 @@
         "ashamed",
         "forgiven",
         "restored"
-      ]
+      ],
+      "lesson_subtitle": "Learning to Move On from What We Can’t Change"
     },
     {
       "id": "02-with-me-always-051",
       "lesson_number": 10,
-      "lesson_title": "Leave The Past Learning to Move On from What We Can’t Change",
+      "lesson_title": "Leave The Past",
       "section": null,
       "page": 26,
       "word_count": 58,
@@ -741,23 +786,25 @@
         "ashamed",
         "forgiven",
         "loved"
-      ]
+      ],
+      "lesson_subtitle": "Learning to Move On from What We Can’t Change"
     },
     {
       "id": "02-with-me-always-052",
       "lesson_number": 11,
-      "lesson_title": "Chase What Matters Learning to Focus on What’s Worth Following",
+      "lesson_title": "Chase What Matters",
       "section": null,
       "page": 27,
       "word_count": 98,
       "text": "Dogs chase things. They chase balls. They chase cats. They chase their own tails.\n\nEver see a dog chase a falling leaf for a full minute like it was the most important mission of his life? But some dogs don’t chase everything. They choose.\n\nThere was a dog who ignored everything. There was one thing he did not ignore though: his favorite toy, being picked up by his person. He didn’t care about squirrels, visitors, or even snacks. He’d lock his eyes on that toy and wait like it was the only thing in the world that mattered.",
       "keep": false,
-      "themes": []
+      "themes": [],
+      "lesson_subtitle": "Learning to Focus on What’s Worth Following"
     },
     {
       "id": "02-with-me-always-053",
       "lesson_number": 11,
-      "lesson_title": "Chase What Matters Learning to Focus on What’s Worth Following",
+      "lesson_title": "Chase What Matters",
       "section": null,
       "page": 27,
       "word_count": 88,
@@ -768,12 +815,13 @@
         "weary",
         "called",
         "surrendered"
-      ]
+      ],
+      "lesson_subtitle": "Learning to Focus on What’s Worth Following"
     },
     {
       "id": "02-with-me-always-054",
       "lesson_number": 11,
-      "lesson_title": "Chase What Matters Learning to Focus on What’s Worth Following",
+      "lesson_title": "Chase What Matters",
       "section": null,
       "page": 27,
       "word_count": 89,
@@ -784,12 +832,13 @@
         "called",
         "surrendered",
         "trusting"
-      ]
+      ],
+      "lesson_subtitle": "Learning to Focus on What’s Worth Following"
     },
     {
       "id": "02-with-me-always-055",
       "lesson_number": 11,
-      "lesson_title": "Chase What Matters Learning to Focus on What’s Worth Following",
+      "lesson_title": "Chase What Matters",
       "section": null,
       "page": 28,
       "word_count": 65,
@@ -800,23 +849,25 @@
         "anxious",
         "peaceful",
         "surrendered"
-      ]
+      ],
+      "lesson_subtitle": "Learning to Focus on What’s Worth Following"
     },
     {
       "id": "02-with-me-always-056",
       "lesson_number": 12,
-      "lesson_title": "Go Home Learning Where We Belong and Who’s Waiting There",
+      "lesson_title": "Go Home",
       "section": null,
       "page": 29,
       "word_count": 93,
       "text": "Dogs always know where home is.\n\nEven if they wander. Even if they get lost for a while. Even if they chase a squirrel across the street and forget for a moment. When it’s time, they know how to get back.\n\nNot all dogs can do this, but most dogs who are gone for days can find their way back to their front porch. Have you heard of stories where dogs who traveled miles to return to their family they loved? Somehow, they just know that this is where they’re meant to be.",
       "keep": false,
-      "themes": []
+      "themes": [],
+      "lesson_subtitle": "Learning Where We Belong and Who’s Waiting There"
     },
     {
       "id": "02-with-me-always-057",
       "lesson_number": 12,
-      "lesson_title": "Go Home Learning Where We Belong and Who’s Waiting There",
+      "lesson_title": "Go Home",
       "section": null,
       "page": 29,
       "word_count": 94,
@@ -827,12 +878,13 @@
         "weary",
         "lost",
         "hopeful"
-      ]
+      ],
+      "lesson_subtitle": "Learning Where We Belong and Who’s Waiting There"
     },
     {
       "id": "02-with-me-always-058",
       "lesson_number": 12,
-      "lesson_title": "Go Home Learning Where We Belong and Who’s Waiting There",
+      "lesson_title": "Go Home",
       "section": null,
       "page": 29,
       "word_count": 118,
@@ -843,12 +895,13 @@
         "guilty",
         "restored",
         "loved"
-      ]
+      ],
+      "lesson_subtitle": "Learning Where We Belong and Who’s Waiting There"
     },
     {
       "id": "02-with-me-always-059",
       "lesson_number": 12,
-      "lesson_title": "Go Home Learning Where We Belong and Who’s Waiting There",
+      "lesson_title": "Go Home",
       "section": null,
       "page": 30,
       "word_count": 107,
@@ -859,12 +912,13 @@
         "guilty",
         "forgiven",
         "loved"
-      ]
+      ],
+      "lesson_subtitle": "Learning Where We Belong and Who’s Waiting There"
     },
     {
       "id": "02-with-me-always-060",
       "lesson_number": 12,
-      "lesson_title": "Go Home Learning Where We Belong and Who’s Waiting There",
+      "lesson_title": "Go Home",
       "section": null,
       "page": 30,
       "word_count": 106,
@@ -875,12 +929,13 @@
         "striving",
         "trusting",
         "hopeful"
-      ]
+      ],
+      "lesson_subtitle": "Learning Where We Belong and Who’s Waiting There"
     },
     {
       "id": "02-with-me-always-061",
       "lesson_number": 12,
-      "lesson_title": "Go Home Learning Where We Belong and Who’s Waiting There",
+      "lesson_title": "Go Home",
       "section": null,
       "page": 31,
       "word_count": 91,
@@ -891,12 +946,13 @@
         "lonely",
         "forgotten",
         "loved"
-      ]
+      ],
+      "lesson_subtitle": "Learning Where We Belong and Who’s Waiting There"
     },
     {
       "id": "02-with-me-always-062",
       "lesson_number": 12,
-      "lesson_title": "Go Home Learning Where We Belong and Who’s Waiting There",
+      "lesson_title": "Go Home",
       "section": null,
       "page": 31,
       "word_count": 44,
@@ -907,7 +963,8 @@
         "lonely",
         "peaceful",
         "hopeful"
-      ]
+      ],
+      "lesson_subtitle": "Learning Where We Belong and Who’s Waiting There"
     },
     {
       "id": "02-with-me-always-063",

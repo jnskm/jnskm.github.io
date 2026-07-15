@@ -187,6 +187,14 @@
   text-align: center;
   margin: 0;
 }
+/* Which lesson the quote came from — a smaller, lighter line under the source. */
+.sam-lesson {
+  font-family: 'EB Garamond', serif;
+  font-size: 0.8rem;
+  color: #aaa;
+  text-align: center;
+  margin: 0.15rem 0 0 0;
+}
 
 /* A Scripture quote set apart within a passage — its own line(s) with an extra
    line of space above and below, and the reference right-justified beneath. */

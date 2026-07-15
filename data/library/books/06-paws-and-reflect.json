@@ -131,29 +131,31 @@
     {
       "id": "06-paws-and-reflect-010",
       "lesson_number": 1,
-      "lesson_title": "The Eager Puppy When Every Morning Feels Like Christmas",
+      "lesson_title": "The Eager Puppy",
       "section": null,
       "page": 9,
       "word_count": 96,
       "text": "Every morning at exactly 6:47 AM, Max the Golden Retriever puppy starts his day the same way. His tail begins wagging before his eyes even open.\n\n6:48. He’s bouncing around his kennel like a furry ping-pong ball.\n\n6:49. He’s convinced that THIS IS THE BEST DAY EVER and everyone within a three-block radius knows it.\n\nMax doesn’t check his phone first thing in the morning. He doesn’t scroll through social media to see what drama happened overnight. He doesn’t even think about yesterday’s disappointments or tomorrow’s worries. He just wakes up absolutely thrilled to be alive.",
       "keep": false,
-      "themes": []
+      "themes": [],
+      "lesson_subtitle": "When Every Morning Feels Like Christmas"
     },
     {
       "id": "06-paws-and-reflect-011",
       "lesson_number": 1,
-      "lesson_title": "The Eager Puppy When Every Morning Feels Like Christmas",
+      "lesson_title": "The Eager Puppy",
       "section": null,
       "page": 9,
       "word_count": 109,
       "text": "Last Tuesday was a perfect example. It was raining. Max’s favorite tennis ball had been destroyed the day before. His breakfast was the same boring kibble he’d eaten for weeks. But did any of that dampen his enthusiasm? Not a chance. He greeted the rainy\n\n9 morning like it was Christmas, his birthday, and the last day of school all rolled into one.\n\nWe humans, especially teenagers, could learn something from Max’s approach to mornings.\n\nThink about our typical morning. Hit snooze three times. Immediately grab the phone. Get stressed about assignments, friend drama, or world events. Drag ourselves through our routine wondering if anything exciting will ever happen.",
       "keep": false,
-      "themes": []
+      "themes": [],
+      "lesson_subtitle": "When Every Morning Feels Like Christmas"
     },
     {
       "id": "06-paws-and-reflect-012",
       "lesson_number": 1,
-      "lesson_title": "The Eager Puppy When Every Morning Feels Like Christmas",
+      "lesson_title": "The Eager Puppy",
       "section": null,
       "page": 10,
       "word_count": 85,
@@ -164,12 +166,13 @@
         "weary",
         "joyful",
         "hopeful"
-      ]
+      ],
+      "lesson_subtitle": "When Every Morning Feels Like Christmas"
     },
     {
       "id": "06-paws-and-reflect-013",
       "lesson_number": 1,
-      "lesson_title": "The Eager Puppy When Every Morning Feels Like Christmas",
+      "lesson_title": "The Eager Puppy",
       "section": null,
       "page": 10,
       "word_count": 114,
@@ -180,12 +183,13 @@
         "weary",
         "grateful",
         "joyful"
-      ]
+      ],
+      "lesson_subtitle": "When Every Morning Feels Like Christmas"
     },
     {
       "id": "06-paws-and-reflect-014",
       "lesson_number": 1,
-      "lesson_title": "The Eager Puppy When Every Morning Feels Like Christmas",
+      "lesson_title": "The Eager Puppy",
       "section": null,
       "page": 11,
       "word_count": 80,
@@ -196,34 +200,37 @@
         "discouraged",
         "grateful",
         "hopeful"
-      ]
+      ],
+      "lesson_subtitle": "When Every Morning Feels Like Christmas"
     },
     {
       "id": "06-paws-and-reflect-015",
       "lesson_number": 2,
-      "lesson_title": "The Distracted Dog How to Walk Straight When Everything’s Interesting",
+      "lesson_title": "The Distracted Dog",
       "section": null,
       "page": 12,
       "word_count": 93,
       "text": "Rosie the Beagle has exactly one job during our neighborhood walks: walk on the leash beside her owner. That’s it. Simple, right?\n\nBut Rosie treats every walk like a sensory adventure requiring urgent investigation. Step one: sniff the fire hydrant (priority level: CRITICAL). Step two: investigate that mysterious rustling in the bushes (could be a squirrel, could be a plastic bag, must determine immediately). Step three: greet every passing dog with the enthusiasm of a long-lost reunion. Step four: chase that leaf blowing across the sidewalk because it’s clearly up to something suspicious.",
       "keep": false,
-      "themes": []
+      "themes": [],
+      "lesson_subtitle": "How to Walk Straight When Everything’s Interesting"
     },
     {
       "id": "06-paws-and-reflect-016",
       "lesson_number": 2,
-      "lesson_title": "The Distracted Dog How to Walk Straight When Everything’s Interesting",
+      "lesson_title": "The Distracted Dog",
       "section": null,
       "page": 12,
       "word_count": 95,
       "text": "Meanwhile, her patient owner stands there holding the leash, gently tugging Rosie back on course about every fifteen seconds. The walk that should take ten minutes takes thirty, and they cover twice as much ground going sideways as they do going forward.\n\n12\n\nSound familiar? Rosie’s distractibility is hilarious, but it’s also a mirror. How often do we start our day with good intentions… to focus on our studies, to be kind to our family, to spend time with God… only to find ourselves pulled in seventeen different directions by the time lunch rolls around?",
       "keep": false,
-      "themes": []
+      "themes": [],
+      "lesson_subtitle": "How to Walk Straight When Everything’s Interesting"
     },
     {
       "id": "06-paws-and-reflect-017",
       "lesson_number": 2,
-      "lesson_title": "The Distracted Dog How to Walk Straight When Everything’s Interesting",
+      "lesson_title": "The Distracted Dog",
       "section": null,
       "page": 13,
       "word_count": 107,
@@ -234,12 +241,13 @@
         "striving",
         "anxious",
         "confused"
-      ]
+      ],
+      "lesson_subtitle": "How to Walk Straight When Everything’s Interesting"
     },
     {
       "id": "06-paws-and-reflect-018",
       "lesson_number": 2,
-      "lesson_title": "The Distracted Dog How to Walk Straight When Everything’s Interesting",
+      "lesson_title": "The Distracted Dog",
       "section": null,
       "page": 13,
       "word_count": 116,
@@ -250,12 +258,13 @@
         "anxious",
         "trusting",
         "called"
-      ]
+      ],
+      "lesson_subtitle": "How to Walk Straight When Everything’s Interesting"
     },
     {
       "id": "06-paws-and-reflect-019",
       "lesson_number": 2,
-      "lesson_title": "The Distracted Dog How to Walk Straight When Everything’s Interesting",
+      "lesson_title": "The Distracted Dog",
       "section": null,
       "page": 14,
       "word_count": 102,
@@ -265,34 +274,37 @@
         "striving",
         "anxious",
         "trusting"
-      ]
+      ],
+      "lesson_subtitle": "How to Walk Straight When Everything’s Interesting"
     },
     {
       "id": "06-paws-and-reflect-020",
       "lesson_number": 3,
-      "lesson_title": "The Pack Walker Why Different Dogs Make the Best Teams",
+      "lesson_title": "The Pack Walker",
       "section": null,
       "page": 16,
       "word_count": 120,
       "text": "Every morning at the local dog park, there’s an interesting thing that happens. Charlie the Labrador, Scout the Border Collie, and Baxter the mixed-breed have formed what can only be described as the world’s most loyal walking club. They don’t just happen to end up together, they actively seek one another out.\n\nWhen Charlie arrives first, he sits by the entrance scanning for his friends. When Scout shows up, Charlie’s whole body wags with recognition. When Baxter finally appears, the three of them immediately fall into formation and begin their circuit around the park. They walk at the same pace, stop when one needs to investigate something important, and somehow always end up back together even when they briefly scatter.",
       "keep": false,
-      "themes": []
+      "themes": [],
+      "lesson_subtitle": "Why Different Dogs Make the Best Teams"
     },
     {
       "id": "06-paws-and-reflect-021",
       "lesson_number": 3,
-      "lesson_title": "The Pack Walker Why Different Dogs Make the Best Teams",
+      "lesson_title": "The Pack Walker",
       "section": null,
       "page": 16,
       "word_count": 102,
       "text": "Here’s the thing that gets us: they’re completely different dogs. Charlie is laid-back and gentle. Scout is intense and energetic. Baxter is somewhere in the middle but has his own quirky personality. In human terms, they probably wouldn’t be the “obvious” friend group. But they’ve figured out something beautiful about friendship that we often miss.\n\n16\n\nHigh school can feel like one giant social experiment. Who sits with whom at lunch becomes a complex equation involving shared interests, social status, convenience, and sometimes just random chance. We often drift toward people who are exactly like us: same interests, same backgrounds, same perspectives.",
       "keep": false,
-      "themes": []
+      "themes": [],
+      "lesson_subtitle": "Why Different Dogs Make the Best Teams"
     },
     {
       "id": "06-paws-and-reflect-022",
       "lesson_number": 3,
-      "lesson_title": "The Pack Walker Why Different Dogs Make the Best Teams",
+      "lesson_title": "The Pack Walker",
       "section": null,
       "page": 17,
       "word_count": 103,
@@ -302,12 +314,13 @@
         "lonely",
         "loved",
         "hopeful"
-      ]
+      ],
+      "lesson_subtitle": "Why Different Dogs Make the Best Teams"
     },
     {
       "id": "06-paws-and-reflect-023",
       "lesson_number": 3,
-      "lesson_title": "The Pack Walker Why Different Dogs Make the Best Teams",
+      "lesson_title": "The Pack Walker",
       "section": null,
       "page": 17,
       "word_count": 100,
@@ -317,12 +330,13 @@
         "lonely",
         "loved",
         "called"
-      ]
+      ],
+      "lesson_subtitle": "Why Different Dogs Make the Best Teams"
     },
     {
       "id": "06-paws-and-reflect-024",
       "lesson_number": 3,
-      "lesson_title": "The Pack Walker Why Different Dogs Make the Best Teams",
+      "lesson_title": "The Pack Walker",
       "section": null,
       "page": 18,
       "word_count": 96,
@@ -332,12 +346,13 @@
         "lonely",
         "called",
         "trusting"
-      ]
+      ],
+      "lesson_subtitle": "Why Different Dogs Make the Best Teams"
     },
     {
       "id": "06-paws-and-reflect-025",
       "lesson_number": 3,
-      "lesson_title": "The Pack Walker Why Different Dogs Make the Best Teams",
+      "lesson_title": "The Pack Walker",
       "section": null,
       "page": 18,
       "word_count": 100,
@@ -347,23 +362,25 @@
         "lonely",
         "loved",
         "hopeful"
-      ]
+      ],
+      "lesson_subtitle": "Why Different Dogs Make the Best Teams"
     },
     {
       "id": "06-paws-and-reflect-026",
       "lesson_number": 4,
-      "lesson_title": "The Treat Hoarder The Problem with Emergency Stashes",
+      "lesson_title": "The Treat Hoarder",
       "section": null,
       "page": 20,
       "word_count": 117,
       "text": "Luna the Golden Retriever has a serious problem: she’s convinced there’s a global shortage of dog treats coming, and she needs to prepare for the end of the world. Give Luna a treat, and she doesn’t eat it. Oh no. She carries it around like a precious treasure, eventually hiding it in what she believes is the perfect secret location (usually under the couch cushions or behind the TV stand).\n\nHer owner has found Luna’s “emergency stash” multiple times. Under her bed: seventeen dried liver treats. In the backyard behind the garden shed: a collection of rawhide bones that could feed a small pack. In the laundry room behind the detergent: enough biscuits to last through winter.",
       "keep": false,
-      "themes": []
+      "themes": [],
+      "lesson_subtitle": "The Problem with Emergency Stashes"
     },
     {
       "id": "06-paws-and-reflect-027",
       "lesson_number": 4,
-      "lesson_title": "The Treat Hoarder The Problem with Emergency Stashes",
+      "lesson_title": "The Treat Hoarder",
       "section": null,
       "page": 20,
       "word_count": 98,
@@ -373,12 +390,13 @@
         "anxious",
         "striving",
         "trusting"
-      ]
+      ],
+      "lesson_subtitle": "The Problem with Emergency Stashes"
     },
     {
       "id": "06-paws-and-reflect-028",
       "lesson_number": 4,
-      "lesson_title": "The Treat Hoarder The Problem with Emergency Stashes",
+      "lesson_title": "The Treat Hoarder",
       "section": null,
       "page": 21,
       "word_count": 108,
@@ -389,12 +407,13 @@
         "striving",
         "afraid",
         "trusting"
-      ]
+      ],
+      "lesson_subtitle": "The Problem with Emergency Stashes"
     },
     {
       "id": "06-paws-and-reflect-029",
       "lesson_number": 4,
-      "lesson_title": "The Treat Hoarder The Problem with Emergency Stashes",
+      "lesson_title": "The Treat Hoarder",
       "section": null,
       "page": 21,
       "word_count": 86,
@@ -405,12 +424,13 @@
         "striving",
         "trusting",
         "grateful"
-      ]
+      ],
+      "lesson_subtitle": "The Problem with Emergency Stashes"
     },
     {
       "id": "06-paws-and-reflect-030",
       "lesson_number": 4,
-      "lesson_title": "The Treat Hoarder The Problem with Emergency Stashes",
+      "lesson_title": "The Treat Hoarder",
       "section": null,
       "page": 22,
       "word_count": 87,
@@ -421,12 +441,13 @@
         "anxious",
         "trusting",
         "hopeful"
-      ]
+      ],
+      "lesson_subtitle": "The Problem with Emergency Stashes"
     },
     {
       "id": "06-paws-and-reflect-031",
       "lesson_number": 4,
-      "lesson_title": "The Treat Hoarder The Problem with Emergency Stashes",
+      "lesson_title": "The Treat Hoarder",
       "section": null,
       "page": 22,
       "word_count": 99,
@@ -436,12 +457,13 @@
         "striving",
         "called",
         "joyful"
-      ]
+      ],
+      "lesson_subtitle": "The Problem with Emergency Stashes"
     },
     {
       "id": "06-paws-and-reflect-032",
       "lesson_number": 4,
-      "lesson_title": "The Treat Hoarder The Problem with Emergency Stashes",
+      "lesson_title": "The Treat Hoarder",
       "section": null,
       "page": 23,
       "word_count": 79,
@@ -452,23 +474,25 @@
         "trusting",
         "hopeful",
         "grateful"
-      ]
+      ],
+      "lesson_subtitle": "The Problem with Emergency Stashes"
     },
     {
       "id": "06-paws-and-reflect-033",
       "lesson_number": 5,
-      "lesson_title": "The Anxious Rescue Learning to Believe in Good Hands Again",
+      "lesson_title": "The Anxious Rescue",
       "section": null,
       "page": 24,
       "word_count": 126,
       "text": "When Pepper first arrived at the animal shelter, she was what the volunteers gently called “a work in progress.” The little terrier mix had clearly been through some hard times before being rescued. She flinched when people moved too quickly. She hid under furniture when visitors came. She hoarded food like she might never see another meal. Every sound made her jump, every new person was a potential threat.\n\nBut something beautiful happened over the months that followed. Slowly, carefully, the shelter staff began earning Pepper’s trust. They moved gently around her. They spoke in calm voices. They gave her space when she needed it and stayed close when she was ready for comfort. They were endlessly patient with her setbacks and celebrated every small victory.",
       "keep": false,
-      "themes": []
+      "themes": [],
+      "lesson_subtitle": "Learning to Believe in Good Hands Again"
     },
     {
       "id": "06-paws-and-reflect-034",
       "lesson_number": 5,
-      "lesson_title": "The Anxious Rescue Learning to Believe in Good Hands Again",
+      "lesson_title": "The Anxious Rescue",
       "section": null,
       "page": 24,
       "word_count": 114,
@@ -479,12 +503,13 @@
         "afraid",
         "trusting",
         "hopeful"
-      ]
+      ],
+      "lesson_subtitle": "Learning to Believe in Good Hands Again"
     },
     {
       "id": "06-paws-and-reflect-035",
       "lesson_number": 5,
-      "lesson_title": "The Anxious Rescue Learning to Believe in Good Hands Again",
+      "lesson_title": "The Anxious Rescue",
       "section": null,
       "page": 25,
       "word_count": 91,
@@ -495,12 +520,13 @@
         "afraid",
         "anxious",
         "loved"
-      ]
+      ],
+      "lesson_subtitle": "Learning to Believe in Good Hands Again"
     },
     {
       "id": "06-paws-and-reflect-036",
       "lesson_number": 5,
-      "lesson_title": "The Anxious Rescue Learning to Believe in Good Hands Again",
+      "lesson_title": "The Anxious Rescue",
       "section": null,
       "page": 25,
       "word_count": 83,
@@ -511,12 +537,13 @@
         "anxious",
         "trusting",
         "loved"
-      ]
+      ],
+      "lesson_subtitle": "Learning to Believe in Good Hands Again"
     },
     {
       "id": "06-paws-and-reflect-037",
       "lesson_number": 5,
-      "lesson_title": "The Anxious Rescue Learning to Believe in Good Hands Again",
+      "lesson_title": "The Anxious Rescue",
       "section": null,
       "page": 26,
       "word_count": 103,
@@ -527,12 +554,13 @@
         "lonely",
         "trusting",
         "hopeful"
-      ]
+      ],
+      "lesson_subtitle": "Learning to Believe in Good Hands Again"
     },
     {
       "id": "06-paws-and-reflect-038",
       "lesson_number": 5,
-      "lesson_title": "The Anxious Rescue Learning to Believe in Good Hands Again",
+      "lesson_title": "The Anxious Rescue",
       "section": null,
       "page": 26,
       "word_count": 114,
@@ -543,12 +571,13 @@
         "lonely",
         "trusting",
         "hopeful"
-      ]
+      ],
+      "lesson_subtitle": "Learning to Believe in Good Hands Again"
     },
     {
       "id": "06-paws-and-reflect-039",
       "lesson_number": 5,
-      "lesson_title": "The Anxious Rescue Learning to Believe in Good Hands Again",
+      "lesson_title": "The Anxious Rescue",
       "section": null,
       "page": 27,
       "word_count": 60,
@@ -559,34 +588,37 @@
         "restored",
         "called",
         "hopeful"
-      ]
+      ],
+      "lesson_subtitle": "Learning to Believe in Good Hands Again"
     },
     {
       "id": "06-paws-and-reflect-040",
       "lesson_number": 6,
-      "lesson_title": "The Show-Off Poodle When Being Perfect Keeps You from Having Fun",
+      "lesson_title": "The Show-Off Poodle",
       "section": null,
       "page": 28,
       "word_count": 114,
       "text": "Princess is a standard poodle who clearly knows she’s magnificent. And to be fair, she really is beautiful. Perfectly groomed, elegant stride, head held high like she’s always posing for a magazine cover. When she walks through the neighborhood, she practically floats across the sidewalk with the confidence of a supermodel on a runway.\n\nBut here’s where Princess gets into trouble: she’s so focused on her own fabulousness that she’s become completely oblivious to everything else. She’s too important to acknowledge other dogs when they greet her. She’s too dignified to play in the mud puddles that bring other dogs joy. She’s too sophisticated to get excited about simple pleasures like squirrel-chasing or stick-fetching.",
       "keep": false,
-      "themes": []
+      "themes": [],
+      "lesson_subtitle": "When Being Perfect Keeps You from Having Fun"
     },
     {
       "id": "06-paws-and-reflect-041",
       "lesson_number": 6,
-      "lesson_title": "The Show-Off Poodle When Being Perfect Keeps You from Having Fun",
+      "lesson_title": "The Show-Off Poodle",
       "section": null,
       "page": 28,
       "word_count": 127,
       "text": "Last week, Princess’s owner was walking her past the local dog park when a tennis ball rolled right in front of her. Any normal dog would have at least sniffed it, maybe played with it. But Princess stepped carefully around it like it was beneath her notice.\n\n28\n\nMeanwhile, a scruffy little mutt named Murphy grabbed the ball and spent the next ten minutes in absolute bliss, tossing it around and pouncing on it like he’d discovered hidden treasure.\n\nGuess which dog was happier? Princess represents something we all struggle with, especially during the high school years when social status feels incredibly important. It’s easy to become so focused on our image, our reputation, or our achievements that we lose touch with simple joys and genuine connections.",
       "keep": false,
-      "themes": []
+      "themes": [],
+      "lesson_subtitle": "When Being Perfect Keeps You from Having Fun"
     },
     {
       "id": "06-paws-and-reflect-042",
       "lesson_number": 6,
-      "lesson_title": "The Show-Off Poodle When Being Perfect Keeps You from Having Fun",
+      "lesson_title": "The Show-Off Poodle",
       "section": null,
       "page": 29,
       "word_count": 101,
@@ -597,12 +629,13 @@
         "striving",
         "lonely",
         "ashamed"
-      ]
+      ],
+      "lesson_subtitle": "When Being Perfect Keeps You from Having Fun"
     },
     {
       "id": "06-paws-and-reflect-043",
       "lesson_number": 6,
-      "lesson_title": "The Show-Off Poodle When Being Perfect Keeps You from Having Fun",
+      "lesson_title": "The Show-Off Poodle",
       "section": null,
       "page": 29,
       "word_count": 92,
@@ -613,12 +646,13 @@
         "striving",
         "loved",
         "resting"
-      ]
+      ],
+      "lesson_subtitle": "When Being Perfect Keeps You from Having Fun"
     },
     {
       "id": "06-paws-and-reflect-044",
       "lesson_number": 6,
-      "lesson_title": "The Show-Off Poodle When Being Perfect Keeps You from Having Fun",
+      "lesson_title": "The Show-Off Poodle",
       "section": null,
       "page": 30,
       "word_count": 90,
@@ -629,12 +663,13 @@
         "striving",
         "loved",
         "joyful"
-      ]
+      ],
+      "lesson_subtitle": "When Being Perfect Keeps You from Having Fun"
     },
     {
       "id": "06-paws-and-reflect-045",
       "lesson_number": 6,
-      "lesson_title": "The Show-Off Poodle When Being Perfect Keeps You from Having Fun",
+      "lesson_title": "The Show-Off Poodle",
       "section": null,
       "page": 30,
       "word_count": 90,
@@ -644,12 +679,13 @@
         "proud",
         "striving",
         "loved"
-      ]
+      ],
+      "lesson_subtitle": "When Being Perfect Keeps You from Having Fun"
     },
     {
       "id": "06-paws-and-reflect-046",
       "lesson_number": 6,
-      "lesson_title": "The Show-Off Poodle When Being Perfect Keeps You from Having Fun",
+      "lesson_title": "The Show-Off Poodle",
       "section": null,
       "page": 31,
       "word_count": 93,
@@ -660,34 +696,37 @@
         "striving",
         "joyful",
         "resting"
-      ]
+      ],
+      "lesson_subtitle": "When Being Perfect Keeps You from Having Fun"
     },
     {
       "id": "06-paws-and-reflect-047",
       "lesson_number": 7,
-      "lesson_title": "The Loyal Mutt The Beauty of Showing Up Every Day",
+      "lesson_title": "The Loyal Mutt",
       "section": null,
       "page": 32,
       "word_count": 85,
       "text": "Buddy is not what you’d call a remarkable dog. He’s a medium-sized mutt of uncertain heritage: part Lab, part German Shepherd, part “your guess is as good as mine.” His fur is brown and somewhat thin and stringy. His ears don’t match. One of his teeth sticks out at a funny angle. He’s never won a dog show, learned impressive tricks, or done anything that would make the evening news.\n\nBut here’s what Buddy does every single day: he loves his family with unwavering devotion.",
       "keep": false,
-      "themes": []
+      "themes": [],
+      "lesson_subtitle": "The Beauty of Showing Up Every Day"
     },
     {
       "id": "06-paws-and-reflect-048",
       "lesson_number": 7,
-      "lesson_title": "The Loyal Mutt The Beauty of Showing Up Every Day",
+      "lesson_title": "The Loyal Mutt",
       "section": null,
       "page": 32,
       "word_count": 83,
       "text": "When Sarah gets home from school, Buddy is waiting by the door like she’s returning from a dangerous mission instead of just chemistry class. When her dad works late in his home office, Buddy lies quietly beside his chair for hours. When her mom is sick, Buddy becomes a furry nurse, refusing to leave her side. He doesn’t understand why Sarah sometimes cries over friend drama, but he knows that’s his cue to rest his head on her lap until she feels better.",
       "keep": false,
-      "themes": []
+      "themes": [],
+      "lesson_subtitle": "The Beauty of Showing Up Every Day"
     },
     {
       "id": "06-paws-and-reflect-049",
       "lesson_number": 7,
-      "lesson_title": "The Loyal Mutt The Beauty of Showing Up Every Day",
+      "lesson_title": "The Loyal Mutt",
       "section": null,
       "page": 32,
       "word_count": 117,
@@ -698,12 +737,13 @@
         "weary",
         "loved",
         "called"
-      ]
+      ],
+      "lesson_subtitle": "The Beauty of Showing Up Every Day"
     },
     {
       "id": "06-paws-and-reflect-050",
       "lesson_number": 7,
-      "lesson_title": "The Loyal Mutt The Beauty of Showing Up Every Day",
+      "lesson_title": "The Loyal Mutt",
       "section": null,
       "page": 33,
       "word_count": 86,
@@ -714,12 +754,13 @@
         "striving",
         "called",
         "faithful"
-      ]
+      ],
+      "lesson_subtitle": "The Beauty of Showing Up Every Day"
     },
     {
       "id": "06-paws-and-reflect-051",
       "lesson_number": 7,
-      "lesson_title": "The Loyal Mutt The Beauty of Showing Up Every Day",
+      "lesson_title": "The Loyal Mutt",
       "section": null,
       "page": 33,
       "word_count": 126,
@@ -730,12 +771,13 @@
         "forgotten",
         "called",
         "hopeful"
-      ]
+      ],
+      "lesson_subtitle": "The Beauty of Showing Up Every Day"
     },
     {
       "id": "06-paws-and-reflect-052",
       "lesson_number": 7,
-      "lesson_title": "The Loyal Mutt The Beauty of Showing Up Every Day",
+      "lesson_title": "The Loyal Mutt",
       "section": null,
       "page": 34,
       "word_count": 102,
@@ -746,12 +788,13 @@
         "discouraged",
         "called",
         "trusting"
-      ]
+      ],
+      "lesson_subtitle": "The Beauty of Showing Up Every Day"
     },
     {
       "id": "06-paws-and-reflect-053",
       "lesson_number": 7,
-      "lesson_title": "The Loyal Mutt The Beauty of Showing Up Every Day",
+      "lesson_title": "The Loyal Mutt",
       "section": null,
       "page": 35,
       "word_count": 96,
@@ -761,12 +804,13 @@
         "called",
         "trusting",
         "loved"
-      ]
+      ],
+      "lesson_subtitle": "The Beauty of Showing Up Every Day"
     },
     {
       "id": "06-paws-and-reflect-054",
       "lesson_number": 7,
-      "lesson_title": "The Loyal Mutt The Beauty of Showing Up Every Day",
+      "lesson_title": "The Loyal Mutt",
       "section": null,
       "page": 35,
       "word_count": 85,
@@ -776,34 +820,37 @@
         "called",
         "discouraged",
         "hopeful"
-      ]
+      ],
+      "lesson_subtitle": "The Beauty of Showing Up Every Day"
     },
     {
       "id": "06-paws-and-reflect-055",
       "lesson_number": 8,
-      "lesson_title": "The Sleepy Senior Why Naps Aren’t a Sign of Weakness",
+      "lesson_title": "The Sleepy Senior",
       "section": null,
       "page": 37,
       "word_count": 109,
       "text": "Meet Walter, a thirteen-year-old Basset Hound who has mastered something most of us struggle with: the art of rest. Walter sleeps an impressive sixteen hours a day, and he does it without any guilt whatsoever. He’s got prime napping spots throughout the house: the sunny patch by the living room window for morning snoozes, the cool tile in the kitchen for afternoon siestas, and his favorite dog bed for serious nighttime sleeping.\n\nWhen Walter was younger, he was always on the move. Chasing rabbits, playing fetch, following interesting smells around the neighborhood. But now? He’s discovered that sometimes the best thing you can do is absolutely nothing at all.",
       "keep": false,
-      "themes": []
+      "themes": [],
+      "lesson_subtitle": "Why Naps Aren’t a Sign of Weakness"
     },
     {
       "id": "06-paws-and-reflect-056",
       "lesson_number": 8,
-      "lesson_title": "The Sleepy Senior Why Naps Aren’t a Sign of Weakness",
+      "lesson_title": "The Sleepy Senior",
       "section": null,
       "page": 37,
       "word_count": 95,
       "text": "Watch Walter settle in for a nap, and you’ll see a master class in rest. He doesn’t check his phone first (obviously). He doesn’t make mental lists of things he should be doing instead. He doesn’t feel guilty about being “unproductive.” He just finds a comfortable spot, circles three times (basset hound tradition), and lets himself fully relax.\n\n37\n\nThe funny thing is, Walter’s family doesn’t think less of him for all this sleeping. If anything, they find his peaceful presence comforting. When the house gets chaotic, there’s something stabilizing about Walter’s calm, rested demeanor.",
       "keep": false,
-      "themes": []
+      "themes": [],
+      "lesson_subtitle": "Why Naps Aren’t a Sign of Weakness"
     },
     {
       "id": "06-paws-and-reflect-057",
       "lesson_number": 8,
-      "lesson_title": "The Sleepy Senior Why Naps Aren’t a Sign of Weakness",
+      "lesson_title": "The Sleepy Senior",
       "section": null,
       "page": 38,
       "word_count": 83,
@@ -813,12 +860,13 @@
         "weary",
         "striving",
         "resting"
-      ]
+      ],
+      "lesson_subtitle": "Why Naps Aren’t a Sign of Weakness"
     },
     {
       "id": "06-paws-and-reflect-058",
       "lesson_number": 8,
-      "lesson_title": "The Sleepy Senior Why Naps Aren’t a Sign of Weakness",
+      "lesson_title": "The Sleepy Senior",
       "section": null,
       "page": 38,
       "word_count": 88,
@@ -828,12 +876,13 @@
         "weary",
         "striving",
         "anxious"
-      ]
+      ],
+      "lesson_subtitle": "Why Naps Aren’t a Sign of Weakness"
     },
     {
       "id": "06-paws-and-reflect-059",
       "lesson_number": 8,
-      "lesson_title": "The Sleepy Senior Why Naps Aren’t a Sign of Weakness",
+      "lesson_title": "The Sleepy Senior",
       "section": null,
       "page": 39,
       "word_count": 96,
@@ -844,12 +893,13 @@
         "striving",
         "loved",
         "resting"
-      ]
+      ],
+      "lesson_subtitle": "Why Naps Aren’t a Sign of Weakness"
     },
     {
       "id": "06-paws-and-reflect-060",
       "lesson_number": 8,
-      "lesson_title": "The Sleepy Senior Why Naps Aren’t a Sign of Weakness",
+      "lesson_title": "The Sleepy Senior",
       "section": null,
       "page": 39,
       "word_count": 87,
@@ -860,12 +910,13 @@
         "striving",
         "resting",
         "loved"
-      ]
+      ],
+      "lesson_subtitle": "Why Naps Aren’t a Sign of Weakness"
     },
     {
       "id": "06-paws-and-reflect-061",
       "lesson_number": 8,
-      "lesson_title": "The Sleepy Senior Why Naps Aren’t a Sign of Weakness",
+      "lesson_title": "The Sleepy Senior",
       "section": null,
       "page": 40,
       "word_count": 84,
@@ -875,12 +926,13 @@
         "weary",
         "striving",
         "resting"
-      ]
+      ],
+      "lesson_subtitle": "Why Naps Aren’t a Sign of Weakness"
     },
     {
       "id": "06-paws-and-reflect-062",
       "lesson_number": 8,
-      "lesson_title": "The Sleepy Senior Why Naps Aren’t a Sign of Weakness",
+      "lesson_title": "The Sleepy Senior",
       "section": null,
       "page": 40,
       "word_count": 89,
@@ -891,23 +943,25 @@
         "striving",
         "resting",
         "trusting"
-      ]
+      ],
+      "lesson_subtitle": "Why Naps Aren’t a Sign of Weakness"
     },
     {
       "id": "06-paws-and-reflect-063",
       "lesson_number": 9,
-      "lesson_title": "The Protective Guardian Standing Up When It Really Matters",
+      "lesson_title": "The Protective Guardian",
       "section": null,
       "page": 42,
       "word_count": 149,
       "text": "Bear is a 120-pound German Shepherd who looks like he could audition for a superhero movie. With his huge size and alert expression, he’s the kind of dog that makes strangers cross to the other side of the street. But here’s what Bear’s neighbors have learned: this gentle giant is all bark and very little bite. Unless someone threatens his family.\n\nLast month, Bear proved just how courageous he really is. While his ten-year-old owner Emma was playing in the front yard, a stranger approached asking unusual questions and trying to get Emma to come closer to his car. Bear, who had been lounging peacefully in the shade, instantly transformed. He positioned himself between Emma and the stranger, stood at full height, and made it very clear that any threat to Emma would have to go through him first. The stranger quickly decided he had somewhere else to be.",
       "keep": false,
-      "themes": []
+      "themes": [],
+      "lesson_subtitle": "Standing Up When It Really Matters"
     },
     {
       "id": "06-paws-and-reflect-064",
       "lesson_number": 9,
-      "lesson_title": "The Protective Guardian Standing Up When It Really Matters",
+      "lesson_title": "The Protective Guardian",
       "section": null,
       "page": 42,
       "word_count": 108,
@@ -918,12 +972,13 @@
         "anxious",
         "called",
         "trusting"
-      ]
+      ],
+      "lesson_subtitle": "Standing Up When It Really Matters"
     },
     {
       "id": "06-paws-and-reflect-065",
       "lesson_number": 9,
-      "lesson_title": "The Protective Guardian Standing Up When It Really Matters",
+      "lesson_title": "The Protective Guardian",
       "section": null,
       "page": 43,
       "word_count": 82,
@@ -934,12 +989,13 @@
         "tempted",
         "called",
         "ashamed"
-      ]
+      ],
+      "lesson_subtitle": "Standing Up When It Really Matters"
     },
     {
       "id": "06-paws-and-reflect-066",
       "lesson_number": 9,
-      "lesson_title": "The Protective Guardian Standing Up When It Really Matters",
+      "lesson_title": "The Protective Guardian",
       "section": null,
       "page": 43,
       "word_count": 86,
@@ -950,12 +1006,13 @@
         "anxious",
         "trusting",
         "called"
-      ]
+      ],
+      "lesson_subtitle": "Standing Up When It Really Matters"
     },
     {
       "id": "06-paws-and-reflect-067",
       "lesson_number": 9,
-      "lesson_title": "The Protective Guardian Standing Up When It Really Matters",
+      "lesson_title": "The Protective Guardian",
       "section": null,
       "page": 44,
       "word_count": 90,
@@ -966,12 +1023,13 @@
         "anxious",
         "trusting",
         "called"
-      ]
+      ],
+      "lesson_subtitle": "Standing Up When It Really Matters"
     },
     {
       "id": "06-paws-and-reflect-068",
       "lesson_number": 9,
-      "lesson_title": "The Protective Guardian Standing Up When It Really Matters",
+      "lesson_title": "The Protective Guardian",
       "section": null,
       "page": 44,
       "word_count": 107,
@@ -982,12 +1040,13 @@
         "ashamed",
         "called",
         "trusting"
-      ]
+      ],
+      "lesson_subtitle": "Standing Up When It Really Matters"
     },
     {
       "id": "06-paws-and-reflect-069",
       "lesson_number": 9,
-      "lesson_title": "The Protective Guardian Standing Up When It Really Matters",
+      "lesson_title": "The Protective Guardian",
       "section": null,
       "page": 45,
       "word_count": 86,
@@ -998,34 +1057,37 @@
         "trusting",
         "called",
         "hopeful"
-      ]
+      ],
+      "lesson_subtitle": "Standing Up When It Really Matters"
     },
     {
       "id": "06-paws-and-reflect-070",
       "lesson_number": 10,
-      "lesson_title": "The Guilty Chewer What to Do When You’ve Eaten the Couch",
+      "lesson_title": "The Guilty Chewer",
       "section": null,
       "page": 47,
       "word_count": 137,
       "text": "Murphy the Labrador has a confession to make: he ate the couch. Well, not the entire couch, but a significant corner of it, along with one throw pillow, the TV remote, and half of a very expensive pair of shoes. This happened on a Tuesday when his family was out longer than usual, and Murphy got bored, anxious, and destructive: a dangerous combination for a young dog with powerful jaws.\n\nWhen Murphy’s family came home to the scene of destruction, his reaction was unmistakable guilt. His ears back. His tail was down. And his body language was admitting, “I know I messed up big time.” He didn’t try to blame it on the cat. He didn’t act like nothing had happened. He just looked absolutely miserable, clearly understanding that he had disappointed the people he loved most.",
       "keep": false,
-      "themes": []
+      "themes": [],
+      "lesson_subtitle": "What to Do When You’ve Eaten the Couch"
     },
     {
       "id": "06-paws-and-reflect-071",
       "lesson_number": 10,
-      "lesson_title": "The Guilty Chewer What to Do When You’ve Eaten the Couch",
+      "lesson_title": "The Guilty Chewer",
       "section": null,
       "page": 47,
       "word_count": 84,
       "text": "But here’s what happened next: after the initial shock and frustration, Murphy’s family sat down and had a calm conversation about better ways to handle his anxiety. They bought more chew toys, adjusted their\n\n47 schedule to give him more exercise, and created a more comfortable space for him when they were away. Most importantly, they didn’t hold the incident against him forever. Within a few days, Murphy was back to being a beloved family member, not “the dog who destroyed the living room.”",
       "keep": false,
-      "themes": []
+      "themes": [],
+      "lesson_subtitle": "What to Do When You’ve Eaten the Couch"
     },
     {
       "id": "06-paws-and-reflect-072",
       "lesson_number": 10,
-      "lesson_title": "The Guilty Chewer What to Do When You’ve Eaten the Couch",
+      "lesson_title": "The Guilty Chewer",
       "section": null,
       "page": 48,
       "word_count": 127,
@@ -1036,12 +1098,13 @@
         "guilty",
         "discouraged",
         "hopeful"
-      ]
+      ],
+      "lesson_subtitle": "What to Do When You’ve Eaten the Couch"
     },
     {
       "id": "06-paws-and-reflect-073",
       "lesson_number": 10,
-      "lesson_title": "The Guilty Chewer What to Do When You’ve Eaten the Couch",
+      "lesson_title": "The Guilty Chewer",
       "section": null,
       "page": 48,
       "word_count": 117,
@@ -1052,12 +1115,13 @@
         "guilty",
         "forgiven",
         "hopeful"
-      ]
+      ],
+      "lesson_subtitle": "What to Do When You’ve Eaten the Couch"
     },
     {
       "id": "06-paws-and-reflect-074",
       "lesson_number": 10,
-      "lesson_title": "The Guilty Chewer What to Do When You’ve Eaten the Couch",
+      "lesson_title": "The Guilty Chewer",
       "section": null,
       "page": 49,
       "word_count": 94,
@@ -1068,12 +1132,13 @@
         "guilty",
         "forgiven",
         "striving"
-      ]
+      ],
+      "lesson_subtitle": "What to Do When You’ve Eaten the Couch"
     },
     {
       "id": "06-paws-and-reflect-075",
       "lesson_number": 10,
-      "lesson_title": "The Guilty Chewer What to Do When You’ve Eaten the Couch",
+      "lesson_title": "The Guilty Chewer",
       "section": null,
       "page": 50,
       "word_count": 102,
@@ -1084,12 +1149,13 @@
         "guilty",
         "forgiven",
         "restored"
-      ]
+      ],
+      "lesson_subtitle": "What to Do When You’ve Eaten the Couch"
     },
     {
       "id": "06-paws-and-reflect-076",
       "lesson_number": 10,
-      "lesson_title": "The Guilty Chewer What to Do When You’ve Eaten the Couch",
+      "lesson_title": "The Guilty Chewer",
       "section": null,
       "page": 50,
       "word_count": 98,
@@ -1100,12 +1166,13 @@
         "guilty",
         "forgiven",
         "hopeful"
-      ]
+      ],
+      "lesson_subtitle": "What to Do When You’ve Eaten the Couch"
     },
     {
       "id": "06-paws-and-reflect-077",
       "lesson_number": 10,
-      "lesson_title": "The Guilty Chewer What to Do When You’ve Eaten the Couch",
+      "lesson_title": "The Guilty Chewer",
       "section": null,
       "page": 51,
       "word_count": 55,
@@ -1116,34 +1183,37 @@
         "guilty",
         "forgiven",
         "loved"
-      ]
+      ],
+      "lesson_subtitle": "What to Do When You’ve Eaten the Couch"
     },
     {
       "id": "06-paws-and-reflect-078",
       "lesson_number": 11,
-      "lesson_title": "The Patient Therapy Dog How to Help Without Making It About You",
+      "lesson_title": "The Patient Therapy Dog",
       "section": null,
       "page": 52,
       "word_count": 128,
       "text": "Daisy is a Golden Retriever with the most important job in the world: she’s a therapy dog at the local children’s hospital. Three days a week, Daisy puts on her official vest, rides the elevator to the floor where doctors and nurses are helping children get better, and brings joy to kids who really need it.\n\nBut here’s what makes Daisy special: she seems to just know exactly what each child needs. With the full-of- energy six-year-old recovering from surgery, she’s playful and wiggly, encouraging him to laugh and move around. With the quiet twelve-year-old undergoing cancer treatment, she’s calm and still, rests her head on the bed and provides gentle friendship. With the scared toddler getting blood drawn, she performs her ‘tricks’ to distract and comfort him.",
       "keep": false,
-      "themes": []
+      "themes": [],
+      "lesson_subtitle": "How to Help Without Making It About You"
     },
     {
       "id": "06-paws-and-reflect-079",
       "lesson_number": 11,
-      "lesson_title": "The Patient Therapy Dog How to Help Without Making It About You",
+      "lesson_title": "The Patient Therapy Dog",
       "section": null,
       "page": 52,
       "word_count": 134,
       "text": "Daisy never gets frustrated when kids are having bad days. She doesn’t take it personally when someone is too sick to want visitors. She doesn’t ask for thanks or try to get noticed for the things she does to help. She just shows up every time, understands the mood of\n\n52 kids, and does whatever is needed to help make the children feel a little better.\n\nLast week, Daisy spent two hours sitting quietly beside a young boy who was too anxious to speak but clearly needed a friend. She didn’t push him to talk or play or get upset when he stayed quiet. She just offered her peaceful presence, and gradually, the boy began to relax. By the end of the visit, he was gently petting her fur and whispering about his worries.",
       "keep": false,
-      "themes": []
+      "themes": [],
+      "lesson_subtitle": "How to Help Without Making It About You"
     },
     {
       "id": "06-paws-and-reflect-080",
       "lesson_number": 11,
-      "lesson_title": "The Patient Therapy Dog How to Help Without Making It About You",
+      "lesson_title": "The Patient Therapy Dog",
       "section": null,
       "page": 53,
       "word_count": 94,
@@ -1153,12 +1223,13 @@
         "called",
         "striving",
         "loved"
-      ]
+      ],
+      "lesson_subtitle": "How to Help Without Making It About You"
     },
     {
       "id": "06-paws-and-reflect-081",
       "lesson_number": 11,
-      "lesson_title": "The Patient Therapy Dog How to Help Without Making It About You",
+      "lesson_title": "The Patient Therapy Dog",
       "section": null,
       "page": 53,
       "word_count": 124,
@@ -1168,12 +1239,13 @@
         "called",
         "grateful",
         "trusting"
-      ]
+      ],
+      "lesson_subtitle": "How to Help Without Making It About You"
     },
     {
       "id": "06-paws-and-reflect-082",
       "lesson_number": 11,
-      "lesson_title": "The Patient Therapy Dog How to Help Without Making It About You",
+      "lesson_title": "The Patient Therapy Dog",
       "section": null,
       "page": 54,
       "word_count": 138,
@@ -1183,12 +1255,13 @@
         "called",
         "loved",
         "joyful"
-      ]
+      ],
+      "lesson_subtitle": "How to Help Without Making It About You"
     },
     {
       "id": "06-paws-and-reflect-083",
       "lesson_number": 11,
-      "lesson_title": "The Patient Therapy Dog How to Help Without Making It About You",
+      "lesson_title": "The Patient Therapy Dog",
       "section": null,
       "page": 55,
       "word_count": 93,
@@ -1198,12 +1271,13 @@
         "called",
         "discouraged",
         "trusting"
-      ]
+      ],
+      "lesson_subtitle": "How to Help Without Making It About You"
     },
     {
       "id": "06-paws-and-reflect-084",
       "lesson_number": 11,
-      "lesson_title": "The Patient Therapy Dog How to Help Without Making It About You",
+      "lesson_title": "The Patient Therapy Dog",
       "section": null,
       "page": 55,
       "word_count": 95,
@@ -1213,34 +1287,37 @@
         "called",
         "proud",
         "joyful"
-      ]
+      ],
+      "lesson_subtitle": "How to Help Without Making It About You"
     },
     {
       "id": "06-paws-and-reflect-085",
       "lesson_number": 12,
-      "lesson_title": "The Waiting Dog Why the Best Things Are Worth the Wait",
+      "lesson_title": "The Waiting Dog",
       "section": null,
       "page": 57,
       "word_count": 85,
       "text": "Every afternoon at 3:47 PM, Max the Border Collie takes up his position by the front window. He sits perfectly still, ears alert, eyes fixed on the street, waiting for the familiar sound of the school bus. For the next twenty-three minutes, Max keeps watch without losing focus. When he finally hears the bus approaching, he shows his joy by wagging his tail, and by the time his ten-year-old best friend Katie steps through the door, Max is so excited he can barely stay still.",
       "keep": false,
-      "themes": []
+      "themes": [],
+      "lesson_subtitle": "Why the Best Things Are Worth the Wait"
     },
     {
       "id": "06-paws-and-reflect-086",
       "lesson_number": 12,
-      "lesson_title": "The Waiting Dog Why the Best Things Are Worth the Wait",
+      "lesson_title": "The Waiting Dog",
       "section": null,
       "page": 57,
       "word_count": 88,
       "text": "Max has been doing this for three years now. Through rain, snow, and blazing sun streaming through the window. Through days when Katie comes home happy and days when she comes home crying. Through ordinary Tuesday afternoons and special Friday celebrations. He does this everyday Katie goes to school: 3:47 PM, window position, focused waiting, explosive reunion.\n\nHere’s what’s amazing about Max’s waiting everyday: he completely sure that Katie will come home. He’s never once positioned himself by the window thinking, “Well, maybe she’ll show up, maybe she",
       "keep": false,
-      "themes": []
+      "themes": [],
+      "lesson_subtitle": "Why the Best Things Are Worth the Wait"
     },
     {
       "id": "06-paws-and-reflect-087",
       "lesson_number": 12,
-      "lesson_title": "The Waiting Dog Why the Best Things Are Worth the Wait",
+      "lesson_title": "The Waiting Dog",
       "section": null,
       "page": 57,
       "word_count": 95,
@@ -1251,12 +1328,13 @@
         "trusting",
         "hopeful",
         "anxious"
-      ]
+      ],
+      "lesson_subtitle": "Why the Best Things Are Worth the Wait"
     },
     {
       "id": "06-paws-and-reflect-088",
       "lesson_number": 12,
-      "lesson_title": "The Waiting Dog Why the Best Things Are Worth the Wait",
+      "lesson_title": "The Waiting Dog",
       "section": null,
       "page": 58,
       "word_count": 87,
@@ -1267,12 +1345,13 @@
         "afraid",
         "hopeful",
         "waiting"
-      ]
+      ],
+      "lesson_subtitle": "Why the Best Things Are Worth the Wait"
     },
     {
       "id": "06-paws-and-reflect-089",
       "lesson_number": 12,
-      "lesson_title": "The Waiting Dog Why the Best Things Are Worth the Wait",
+      "lesson_title": "The Waiting Dog",
       "section": null,
       "page": 58,
       "word_count": 90,
@@ -1283,12 +1362,13 @@
         "afraid",
         "hopeful",
         "loved"
-      ]
+      ],
+      "lesson_subtitle": "Why the Best Things Are Worth the Wait"
     },
     {
       "id": "06-paws-and-reflect-090",
       "lesson_number": 12,
-      "lesson_title": "The Waiting Dog Why the Best Things Are Worth the Wait",
+      "lesson_title": "The Waiting Dog",
       "section": null,
       "page": 59,
       "word_count": 97,
@@ -1299,12 +1379,13 @@
         "waiting",
         "trusting",
         "hopeful"
-      ]
+      ],
+      "lesson_subtitle": "Why the Best Things Are Worth the Wait"
     },
     {
       "id": "06-paws-and-reflect-091",
       "lesson_number": 12,
-      "lesson_title": "The Waiting Dog Why the Best Things Are Worth the Wait",
+      "lesson_title": "The Waiting Dog",
       "section": null,
       "page": 59,
       "word_count": 92,
@@ -1315,12 +1396,13 @@
         "afraid",
         "trusting",
         "hopeful"
-      ]
+      ],
+      "lesson_subtitle": "Why the Best Things Are Worth the Wait"
     },
     {
       "id": "06-paws-and-reflect-092",
       "lesson_number": 12,
-      "lesson_title": "The Waiting Dog Why the Best Things Are Worth the Wait",
+      "lesson_title": "The Waiting Dog",
       "section": null,
       "page": 60,
       "word_count": 108,
@@ -1331,12 +1413,13 @@
         "trusting",
         "waiting",
         "grateful"
-      ]
+      ],
+      "lesson_subtitle": "Why the Best Things Are Worth the Wait"
     },
     {
       "id": "06-paws-and-reflect-093",
       "lesson_number": 12,
-      "lesson_title": "The Waiting Dog Why the Best Things Are Worth the Wait",
+      "lesson_title": "The Waiting Dog",
       "section": null,
       "page": 60,
       "word_count": 104,
@@ -1347,12 +1430,13 @@
         "trusting",
         "hopeful",
         "grateful"
-      ]
+      ],
+      "lesson_subtitle": "Why the Best Things Are Worth the Wait"
     },
     {
       "id": "06-paws-and-reflect-094",
       "lesson_number": 12,
-      "lesson_title": "The Waiting Dog Why the Best Things Are Worth the Wait",
+      "lesson_title": "The Waiting Dog",
       "section": null,
       "page": 61,
       "word_count": 100,
@@ -1363,12 +1447,13 @@
         "trusting",
         "hopeful",
         "joyful"
-      ]
+      ],
+      "lesson_subtitle": "Why the Best Things Are Worth the Wait"
     },
     {
       "id": "06-paws-and-reflect-095",
       "lesson_number": 12,
-      "lesson_title": "The Waiting Dog Why the Best Things Are Worth the Wait",
+      "lesson_title": "The Waiting Dog",
       "section": null,
       "page": 62,
       "word_count": 91,
@@ -1379,12 +1464,13 @@
         "trusting",
         "joyful",
         "resting"
-      ]
+      ],
+      "lesson_subtitle": "Why the Best Things Are Worth the Wait"
     },
     {
       "id": "06-paws-and-reflect-096",
       "lesson_number": 12,
-      "lesson_title": "The Waiting Dog Why the Best Things Are Worth the Wait",
+      "lesson_title": "The Waiting Dog",
       "section": null,
       "page": 63,
       "word_count": 106,
@@ -1395,12 +1481,13 @@
         "hopeful",
         "called",
         "trusting"
-      ]
+      ],
+      "lesson_subtitle": "Why the Best Things Are Worth the Wait"
     },
     {
       "id": "06-paws-and-reflect-097",
       "lesson_number": 12,
-      "lesson_title": "The Waiting Dog Why the Best Things Are Worth the Wait",
+      "lesson_title": "The Waiting Dog",
       "section": null,
       "page": 63,
       "word_count": 71,
@@ -1411,7 +1498,8 @@
         "joyful",
         "hopeful",
         "trusting"
-      ]
+      ],
+      "lesson_subtitle": "Why the Best Things Are Worth the Wait"
     },
     {
       "id": "06-paws-and-reflect-098",
