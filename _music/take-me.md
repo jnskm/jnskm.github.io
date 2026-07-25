@@ -3,7 +3,6 @@ title: "Take Me"
 date: 2025-03-17
 cover_image: "/assets/images/music/take-me.png"
 youtube: "https://youtu.be/WU5Gg2GeN8g"
-show_lyrics: false
 ---
 ## Bible Verse
 Matthew 11:28-30 (ASV)
@@ -15,10 +14,12 @@ Come unto me, all ye that labor and are heavy laden, and I will give you rest. T
 (Add inspiration and background for this song)
 
 ## Lyrics
+<pre class="lyrics-content">
 [Verse 1]
 (Add lyrics here)
 
 [Chorus]
 (Add lyrics here)
+</pre>
 
 ## Listen On

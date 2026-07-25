@@ -25,16 +25,7 @@ layout: default
     <div class="post-content">
       {{ content }}
     </div>
-    
-    {% if page.show_lyrics and page.lyrics %}
-    <div class="lyrics-section">
-      <h2>Lyrics</h2>
-      <div class="lyrics-content">
-        {{ page.lyrics | markdownify }}
-      </div>
-    </div>
-    {% endif %}
-    
+
     <div class="music-links">
       {% if page.youtube and page.youtube != "" %}
       <a href="{{ page.youtube }}" target="_blank" rel="noopener noreferrer" class="music-link">YouTube</a>

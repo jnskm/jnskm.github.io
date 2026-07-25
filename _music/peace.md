@@ -3,7 +3,6 @@ title: "Peace"
 date: 2025-03-04
 cover_image: "/assets/images/music/peace.png"
 youtube: "https://youtu.be/qf2iKjmIcRA"
-show_lyrics: false
 ---
 ## Bible Verse
 Colossians 3:15-17 (ASV)
@@ -15,10 +14,12 @@ And let the peace of Christ rule in your hearts, to the which also ye were calle
 (Add inspiration and background for this song)
 
 ## Lyrics
+<pre class="lyrics-content">
 [Verse 1]
 (Add lyrics here)
 
 [Chorus]
 (Add lyrics here)
+</pre>
 
 ## Listen On

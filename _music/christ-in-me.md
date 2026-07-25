@@ -4,7 +4,6 @@ date: "2025-09-24"
 cover_image: "/assets/images/music/christ-in-me.png"
 youtube: "https://youtu.be/-hnP6vu772M"
 spotify: "https://open.spotify.com/album/1iFMzBA3RW42jhZWA3hftR?si=zbPBEOJIRqWAUdQpr3ZGeQ"
-show_lyrics: "false"
 youtube_music: "https://music.youtube.com/watch?v=-hnP6vu772M"
 ---
 ## Bible Verse
@@ -17,10 +16,12 @@ I have been crucified with Christ; and it is no longer I that live, but Christ l
 (Add inspiration and background for this song)
 
 ## Lyrics
+<pre class="lyrics-content">
 [Verse 1]
 (Add lyrics here)
 
 [Chorus]
 (Add lyrics here)
+</pre>
 
 ## Listen On

@@ -3,7 +3,6 @@ title: "Joy"
 date: 2025-03-05
 cover_image: "/assets/images/music/joy.png"
 youtube: "https://youtu.be/2FTCwu71Qgo"
-show_lyrics: false
 ---
 ## Bible Verse
 James 1:2-4 (ASV)
@@ -15,10 +14,12 @@ Count it all joy, my brethren, when ye fall into manifold temptations; Knowing t
 (Add inspiration and background for this song)
 
 ## Lyrics
+<pre class="lyrics-content">
 [Verse 1]
 (Add lyrics here)
 
 [Chorus]
 (Add lyrics here)
+</pre>
 
 ## Listen On

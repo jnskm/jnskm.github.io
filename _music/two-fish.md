@@ -3,7 +3,6 @@ title: "Two Fish"
 date: 2025-04-10
 cover_image: "/assets/images/music/two-fish.png"
 youtube: "https://youtu.be/dnN5H6UqNQQ"
-show_lyrics: false
 ---
 ## Bible Verse
 John 6:1-14 (ASV)
@@ -15,10 +14,12 @@ After these things Jesus went away to the other side of the sea of Galilee, whic
 (Add inspiration and background for this song)
 
 ## Lyrics
+<pre class="lyrics-content">
 [Verse 1]
 (Add lyrics here)
 
 [Chorus]
 (Add lyrics here)
+</pre>
 
 ## Listen On

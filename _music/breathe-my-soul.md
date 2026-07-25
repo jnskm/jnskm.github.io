@@ -3,7 +3,6 @@ title: "Breathe My Soul"
 date: "2025-05-30"
 cover_image: "/assets/images/music/breathe-my-soul.png"
 youtube: "https://youtu.be/7f7Y1m7pJm4"
-show_lyrics: "false"
 youtube_music: "https://music.youtube.com/watch?v=7f7Y1m7pJm4"
 ---
 ## Bible Verse
@@ -16,10 +15,12 @@ Jehovah will fight for you, and ye shall hold your peace.
 (Add inspiration and background for this song)
 
 ## Lyrics
+<pre class="lyrics-content">
 [Verse 1]
 (Add lyrics here)
 
 [Chorus]
 (Add lyrics here)
+</pre>
 
 ## Listen On

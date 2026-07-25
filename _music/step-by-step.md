@@ -3,7 +3,6 @@ title: "Step By Step"
 date: 2025-04-29
 cover_image: "/assets/images/music/step-by-step.png"
 youtube: "https://youtu.be/8bbGTxM4Pqk"
-show_lyrics: false
 ---
 ## Bible Verse
 Lamentations 3:22-26 (ASV)
@@ -15,10 +14,12 @@ It is of Jehovah's lovingkindnesses that we are not consumed, because his compas
 (Add inspiration and background for this song)
 
 ## Lyrics
+<pre class="lyrics-content">
 [Verse 1]
 (Add lyrics here)
 
 [Chorus]
 (Add lyrics here)
+</pre>
 
 ## Listen On

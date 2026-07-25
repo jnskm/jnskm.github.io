@@ -3,7 +3,6 @@ title: "The Word Made Flesh"
 date: 2025-02-28
 cover_image: "/assets/images/music/the-word-made-flesh.png"
 youtube: "https://youtu.be/mFJlclakrLU?si=J9oNmn6fqJwytL2V"
-show_lyrics: false
 ---
 ## Bible Verse
 John 1:14-18 (ASV)
@@ -15,10 +14,12 @@ And the Word became flesh, and dwelt among us (and we beheld his glory, glory as
 (Add inspiration and background for this song)
 
 ## Lyrics
+<pre class="lyrics-content">
 [Verse 1]
 (Add lyrics here)
 
 [Chorus]
 (Add lyrics here)
+</pre>
 
 ## Listen On

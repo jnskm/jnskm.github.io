@@ -3,7 +3,6 @@ title: "Stars"
 date: 2025-04-05
 cover_image: "/assets/images/music/stars.png"
 youtube: "https://youtu.be/AZA5db2NhJw"
-show_lyrics: false
 ---
 ## Bible Verse
 Amos 5:8 (ASV)
@@ -15,10 +14,12 @@ Amos 5:8 (ASV)
 (Add inspiration and background for this song)
 
 ## Lyrics
+<pre class="lyrics-content">
 [Verse 1]
 (Add lyrics here)
 
 [Chorus]
 (Add lyrics here)
+</pre>
 
 ## Listen On

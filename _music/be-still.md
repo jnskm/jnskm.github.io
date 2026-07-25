@@ -3,7 +3,6 @@ title: "Be Still"
 date: "2025-02-27"
 cover_image: "/assets/images/music/be-still.png"
 youtube: "https://youtu.be/RoFy80UpDV4"
-show_lyrics: "false"
 youtube_music: "https://music.youtube.com/watch?v=RoFy80UpDV4"
 ---
 ## Bible Verse
@@ -16,10 +15,12 @@ God is our refuge and strength, A very present help in trouble. Therefore will w
 (Add inspiration and background for this song)
 
 ## Lyrics
+<pre class="lyrics-content">
 [Verse 1]
 (Add lyrics here)
 
 [Chorus]
 (Add lyrics here)
+</pre>
 
 ## Listen On

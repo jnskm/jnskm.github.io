@@ -5,7 +5,6 @@ cover_image: "/assets/images/music/persist.png"
 youtube: "https://youtu.be/js2OSs1NIkw"
 spotify: "https://open.spotify.com/album/0BGLmmFbVeN1s9Fx09j3PN?si=hJlZgUZPSXm8VpNzfYChCQ"
 apple_music: "https://music.apple.com/us/album/persist-single/1802387783"
-show_lyrics: false
 ---
 ## Bible Verse
 Galatians 6:9-10 (ASV)

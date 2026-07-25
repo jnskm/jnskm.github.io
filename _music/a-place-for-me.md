@@ -2,18 +2,21 @@
 title: "A Place For Me"
 date: "2025-06-19"
 cover_image: "/assets/images/music/a-place-for-me.png"
+# Recommended image dimensions: 300x300px (1:1 aspect ratio, square)
+# This ensures optimal display and fast loading on all devices
+# File size should be under 100KB for best performance
 youtube: "https://youtu.be/Em0wm9sSyuw"
+youtube_music: "https://music.youtube.com/watch?v=Em0wm9sSyuw"
 spotify: "https://open.spotify.com/album/6epcfaqfwrWaNqWB5soNmh?si=bOlKN3j1TPq3KLkQ-WQuhg"
 apple_music: "https://music.apple.com/us/album/a-place-for-me-single/1821578312"
-show_lyrics: "false"
-youtube_music: "https://music.youtube.com/watch?v=Em0wm9sSyuw"
+amazon_music: ""
 ---
 ## Bible Verse
 John 14:1-3 (ASV)
 
 Let not your heart be troubled: believe in God, believe also in me. In my Father's house are many mansions; if it were not so, I would have told you; for I go to prepare a place for you. And if I go and prepare a place for you, I come again, and will receive you unto myself; that where I am, [there] ye may be also.
 
-# Inspiration
+## Inspiration
 
 Jesus said: "Do not let your hearts be troubled. You believe in God; believe also in Me. My Father’s house has many rooms; if that were not so, would I have told you that I am going there to prepare a place for you? And if I go and prepare a place for you, I will come back and take you to be with Me that you also may be where I am." John 14:1-3.
 
@@ -28,8 +31,8 @@ My home is not here. My home is in heaven, with my brothers and sisters, with my
 
 Home in heaven.
 
-# Lyrics
-<pre class="lyrics">
+## Lyrics
+<pre class="lyrics-content">
 [Verse 1]
 When the nights are long, and I’m all alone
 No door to knock on, no place to call home
@@ -46,7 +49,7 @@ He’s preparing a place for me
 People may leave, and plans fall apart
 But I’m not forgotten, I’m close to His heart
 He sees the tears, He knows my pain
-Nut He’s building a place that will always remain
+But He’s building a place that will always remain
 
 [Chorus]
 He’s preparing a place for me
@@ -67,17 +70,8 @@ He said I'll be with Him
 He’s preparing a place for me
 </pre>
 
-# Listen On
-
-## Inspiration
-
-(Add inspiration and background for this song)
-
-## Lyrics
-[Verse 1]
-(Add lyrics here)
-
-[Chorus]
-(Add lyrics here)
-
 ## Listen On
+- [YouTube](https://youtu.be/Em0wm9sSyuw)
+- [YouTube Music](https://music.youtube.com/watch?v=Em0wm9sSyuw)
+- [Spotify](https://open.spotify.com/album/6epcfaqfwrWaNqWB5soNmh?si=bOlKN3j1TPq3KLkQ-WQuhg)
+- [Apple Music](https://music.apple.com/us/album/a-place-for-me-single/1821578312)

@@ -3,7 +3,6 @@ title: "Perfect Peace"
 date: 2025-06-13
 cover_image: "/assets/images/music/perfect-peace.png"
 youtube: "https://youtu.be/HOwdVrzd16Y"
-show_lyrics: false
 ---
 ## Bible Verse
 Isaiah 26:3 (ASV)
@@ -15,10 +14,12 @@ Thou wilt keep [him] in perfect peace, [whose] mind [is] stayed [on thee]; becau
 (Add inspiration and background for this song)
 
 ## Lyrics
+<pre class="lyrics-content">
 [Verse 1]
 (Add lyrics here)
 
 [Chorus]
 (Add lyrics here)
+</pre>
 
 ## Listen On

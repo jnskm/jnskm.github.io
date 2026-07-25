@@ -3,7 +3,6 @@ title: "Eternal"
 date: "2025-03-01"
 cover_image: "/assets/images/music/eternal.png"
 youtube: "https://youtu.be/_avOIbESHIQ?si=zGskufxb6hm5sBmv"
-show_lyrics: "false"
 youtube_music: "https://music.youtube.com/watch?v=_avOIbESHIQ"
 ---
 ## Bible Verse
@@ -16,10 +15,12 @@ Wherefore we faint not; but though our outward man is decaying, yet our inward m
 (Add inspiration and background for this song)
 
 ## Lyrics
+<pre class="lyrics-content">
 [Verse 1]
 (Add lyrics here)
 
 [Chorus]
 (Add lyrics here)
+</pre>
 
 ## Listen On

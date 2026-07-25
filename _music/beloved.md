@@ -4,7 +4,6 @@ date: "2025-07-13"
 cover_image: "/assets/images/music/beloved.png"
 youtube: "https://youtu.be/TpaSPATIP_A"
 spotify: "https://open.spotify.com/album/5wmXFPG5Hcy2FyaA7ykv4G?si=e6DXT4TJS8SppUuDWZdJ7g"
-show_lyrics: "false"
 youtube_music: "https://music.youtube.com/watch?v=TpaSPATIP_A"
 ---
 ## Bible Verse
@@ -17,10 +16,12 @@ that in the ages to come he might show the exceeding riches of his grace in kind
 (Add inspiration and background for this song)
 
 ## Lyrics
+<pre class="lyrics-content">
 [Verse 1]
 (Add lyrics here)
 
 [Chorus]
 (Add lyrics here)
+</pre>
 
 ## Listen On

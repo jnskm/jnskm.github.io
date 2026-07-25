@@ -3,7 +3,6 @@ title: "Blessed"
 date: "2025-02-26"
 cover_image: "/assets/images/music/blessed.png"
 youtube: "https://youtu.be/dvyCjJ97KkA"
-show_lyrics: "false"
 youtube_music: "https://music.youtube.com/watch?v=dvyCjJ97KkA"
 ---
 ## Bible Verse
@@ -16,10 +15,12 @@ Blessed are the poor in spirit: for theirs is the kingdom of heaven. Blessed are
 (Add inspiration and background for this song)
 
 ## Lyrics
+<pre class="lyrics-content">
 [Verse 1]
 (Add lyrics here)
 
 [Chorus]
 (Add lyrics here)
+</pre>
 
 ## Listen On

@@ -3,7 +3,6 @@ title: "More Than Sparrows"
 date: 2025-10-20
 cover_image: "/assets/images/music/christian-songs-more-than-sparrows-inspired-by-mat.png"
 youtube: "https://youtu.be/3pmxEuCJ4Ks"
-show_lyrics: false
 ---
 ## Bible Verse
 Matthew 6:26,10,29-31 (ASV)
@@ -15,10 +14,12 @@ Behold the birds of the heaven, that they sow not, neither do they reap, nor gat
 (Add inspiration and background for this song)
 
 ## Lyrics
+<pre class="lyrics-content">
 [Verse 1]
 (Add lyrics here)
 
 [Chorus]
 (Add lyrics here)
+</pre>
 
 ## Listen On

@@ -3,7 +3,6 @@ title: "Center"
 date: "2025-03-09"
 cover_image: "/assets/images/music/center.png"
 youtube: "https://youtu.be/LTCx_P7N5UE"
-show_lyrics: "false"
 youtube_music: "https://music.youtube.com/watch?v=LTCx_P7N5UE"
 ---
 ## Bible Verse
@@ -16,10 +15,12 @@ But the fruit of the Spirit is love, joy, peace, longsuffering, kindness, goodne
 (Add inspiration and background for this song)
 
 ## Lyrics
+<pre class="lyrics-content">
 [Verse 1]
 (Add lyrics here)
 
 [Chorus]
 (Add lyrics here)
+</pre>
 
 ## Listen On

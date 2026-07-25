@@ -3,7 +3,6 @@ title: "You Stayed"
 date: 2025-03-26
 cover_image: "/assets/images/music/you-stayed.png"
 youtube: "https://youtu.be/Xo8dv0DCmf4"
-show_lyrics: false
 ---
 ## Bible Verse
 Hebrews 4:15 (ASV)
@@ -15,10 +14,12 @@ For we have not a high priest that cannot be touched with the feeling of our inf
 (Add inspiration and background for this song)
 
 ## Lyrics
+<pre class="lyrics-content">
 [Verse 1]
 (Add lyrics here)
 
 [Chorus]
 (Add lyrics here)
+</pre>
 
 ## Listen On

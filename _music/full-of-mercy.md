@@ -3,7 +3,6 @@ title: "Full Of Mercy"
 date: 2025-06-17
 cover_image: "/assets/images/music/full-of-mercy.png"
 youtube: "https://youtu.be/utsJ9MbvtTk"
-show_lyrics: false
 ---
 ## Bible Verse
 Ephesians 2:4-5 (ASV)
@@ -15,10 +14,12 @@ but God, being rich in mercy, for his great love wherewith he loved us,even when
 (Add inspiration and background for this song)
 
 ## Lyrics
+<pre class="lyrics-content">
 [Verse 1]
 (Add lyrics here)
 
 [Chorus]
 (Add lyrics here)
+</pre>
 
 ## Listen On

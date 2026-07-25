@@ -3,7 +3,6 @@ title: "Follow Me"
 date: 2025-03-07
 cover_image: "/assets/images/music/follow-me.png"
 youtube: "https://youtu.be/o5XrBpqNx7g"
-show_lyrics: false
 ---
 ## Bible Verse
 Hebrews 7:25 (ASV)
@@ -15,10 +14,12 @@ Wherefore also he is able to save to the uttermost them that draw near unto God 
 (Add inspiration and background for this song)
 
 ## Lyrics
+<pre class="lyrics-content">
 [Verse 1]
 (Add lyrics here)
 
 [Chorus]
 (Add lyrics here)
+</pre>
 
 ## Listen On

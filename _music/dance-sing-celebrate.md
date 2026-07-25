@@ -4,7 +4,6 @@ date: "2025-06-30"
 cover_image: "/assets/images/music/dance-sing-celebrate.png"
 youtube: "https://youtu.be/oEdYUuctK4E"
 spotify: "https://open.spotify.com/album/5lLrtbXj5Nj8fafKTEzXm0?si=iys3z3jeTqeun8CTmyqXPA"
-show_lyrics: "false"
 youtube_music: "https://music.youtube.com/watch?v=oEdYUuctK4E"
 ---
 ## Bible Verse
@@ -17,10 +16,12 @@ Thou wilt show me the path of life: In thy presence is fulness of joy; In thy ri
 (Add inspiration and background for this song)
 
 ## Lyrics
+<pre class="lyrics-content">
 [Verse 1]
 (Add lyrics here)
 
 [Chorus]
 (Add lyrics here)
+</pre>
 
 ## Listen On

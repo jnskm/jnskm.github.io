@@ -3,7 +3,6 @@ title: "Be Still - RMX20250501"
 date: "2025-05-08"
 cover_image: "/assets/images/music/be-still-rmx20250501.png"
 youtube: "https://youtu.be/3kHcGGNn7Y4"
-show_lyrics: "false"
 youtube_music: "https://music.youtube.com/watch?v=3kHcGGNn7Y4"
 ---
 ## Bible Verse
@@ -16,10 +15,12 @@ God is our refuge and strength, A very present help in trouble. Therefore will w
 (Add inspiration and background for this song)
 
 ## Lyrics
+<pre class="lyrics-content">
 [Verse 1]
 (Add lyrics here)
 
 [Chorus]
 (Add lyrics here)
+</pre>
 
 ## Listen On

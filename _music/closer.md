@@ -3,7 +3,6 @@ title: "Closer"
 date: "2025-03-19"
 cover_image: "/assets/images/music/closer.png"
 youtube: "https://youtu.be/h2SwqHq3s3s"
-show_lyrics: "false"
 youtube_music: "https://music.youtube.com/watch?v=h2SwqHq3s3s"
 ---
 ## Bible Verse
@@ -16,10 +15,12 @@ O Jehovah, thou hast searched me, and known [me]. Thou knowest my downsitting an
 (Add inspiration and background for this song)
 
 ## Lyrics
+<pre class="lyrics-content">
 [Verse 1]
 (Add lyrics here)
 
 [Chorus]
 (Add lyrics here)
+</pre>
 
 ## Listen On

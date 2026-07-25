@@ -3,7 +3,6 @@ title: "Surrender"
 date: 2025-03-20
 cover_image: "/assets/images/music/surrender.png"
 youtube: "https://youtu.be/AEvvQ5zFnLY"
-show_lyrics: false
 ---
 ## Bible Verse
 Matthew 16:24-25 (ASV)
@@ -15,10 +14,12 @@ Then said Jesus unto his disciples, If any man would come after me, let him deny
 (Add inspiration and background for this song)
 
 ## Lyrics
+<pre class="lyrics-content">
 [Verse 1]
 (Add lyrics here)
 
 [Chorus]
 (Add lyrics here)
+</pre>
 
 ## Listen On

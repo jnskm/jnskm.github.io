@@ -4,7 +4,6 @@ date: 2025-10-03
 cover_image: "/assets/images/music/rest-in-me.png"
 youtube: "https://youtu.be/U0cRBsHjjQo"
 spotify: "https://open.spotify.com/album/1JFMH4bYAeDxCS5mSKupZt?si=j3Oan1jNTVOIPZbXE4KAVQ"
-show_lyrics: false
 ---
 ## Bible Verse
 Matthew 11:28-29 (ASV)
@@ -16,10 +15,12 @@ Come unto me, all ye that labor and are heavy laden, and I will give you rest. T
 (Add inspiration and background for this song)
 
 ## Lyrics
+<pre class="lyrics-content">
 [Verse 1]
 (Add lyrics here)
 
 [Chorus]
 (Add lyrics here)
+</pre>
 
 ## Listen On
