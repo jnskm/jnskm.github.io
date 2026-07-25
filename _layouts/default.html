@@ -27,49 +27,79 @@
     {% include footer.html %}
   </footer>
   <script>
-    // Prevent browser from restoring scroll position
-    if ('scrollRestoration' in history) {
-      history.scrollRestoration = 'manual';
-    }
+    // Scroll position handling.
+    //
+    // The page scrolls inside `.site-main .content` (the window itself is
+    // `overflow: hidden`), so the browser's native scroll restoration — which
+    // only tracks the window — can't help. We save the content scroll position
+    // per page and restore it on back/forward navigation, while a fresh
+    // forward navigation to a new page still starts at the top.
+    (function () {
+      var STORAGE_PREFIX = 'scrollpos:';
 
-    // Reset scroll position to top when page loads
-    function resetScroll() {
-      // Reset window scroll position
-      window.scrollTo(0, 0);
-      
-      // Reset content wrapper scroll position
-      const contentWrapper = document.querySelector('.site-main .content');
-      if (contentWrapper) {
-        contentWrapper.scrollTop = 0;
+      // Native restoration targets the window (which never scrolls here), so
+      // turn it off to avoid it fighting our own handling.
+      if ('scrollRestoration' in history) {
+        history.scrollRestoration = 'manual';
       }
-    }
 
-    // Reset on multiple events to ensure it works
-    document.addEventListener('DOMContentLoaded', function() {
-      // Use requestAnimationFrame to ensure it happens after rendering
-      requestAnimationFrame(function() {
-        resetScroll();
-        // Double-check after a short delay
-        setTimeout(resetScroll, 0);
-      });
-    });
-
-    // Also reset on page load
-    window.addEventListener('load', function() {
-      requestAnimationFrame(function() {
-        resetScroll();
-      });
-    });
-
-    // Reset on pageshow (for back/forward navigation)
-    window.addEventListener('pageshow', function(event) {
-      if (event.persisted) {
-        // Page was loaded from cache
-        requestAnimationFrame(function() {
-          resetScroll();
-        });
+      function getScroller() {
+        return document.querySelector('.site-main .content');
       }
-    });
+
+      function storageKey() {
+        return STORAGE_PREFIX + location.pathname;
+      }
+
+      function savePosition() {
+        var el = getScroller();
+        if (!el) return;
+        try { sessionStorage.setItem(storageKey(), String(el.scrollTop)); } catch (e) {}
+      }
+
+      function restorePosition() {
+        var el = getScroller();
+        if (!el) return;
+        var saved;
+        try { saved = sessionStorage.getItem(storageKey()); } catch (e) { saved = null; }
+        if (saved !== null) { el.scrollTop = parseInt(saved, 10) || 0; }
+      }
+
+      // True only when this load came from the browser's back/forward buttons.
+      function isBackForward() {
+        try {
+          var nav = performance.getEntriesByType('navigation')[0];
+          if (nav && nav.type) return nav.type === 'back_forward';
+        } catch (e) {}
+        return performance.navigation && performance.navigation.type === 2;
+      }
+
+      document.addEventListener('DOMContentLoaded', function () {
+        if (isBackForward()) { restorePosition(); }
+
+        var el = getScroller();
+        if (el) {
+          var ticking = false;
+          el.addEventListener('scroll', function () {
+            if (ticking) return;
+            ticking = true;
+            requestAnimationFrame(function () { savePosition(); ticking = false; });
+          }, { passive: true });
+        }
+      });
+
+      // pagehide fires for both a normal unload and entering the back/forward
+      // cache; unlike beforeunload it does not disqualify the page from bfcache.
+      window.addEventListener('pagehide', savePosition);
+
+      window.addEventListener('pageshow', function (event) {
+        // bfcache restore already keeps the content scroll intact; only a fresh
+        // back/forward load needs an explicit restore (re-applied here after
+        // full layout/images in case DOMContentLoaded ran too early).
+        if (event.persisted) return;
+        if (isBackForward()) { restorePosition(); }
+      });
+    })();
   </script>
 </body>
 </html>
