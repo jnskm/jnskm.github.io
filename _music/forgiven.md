@@ -28,5 +28,3 @@ And you, being dead through your trespasses and the uncircumcision of your flesh
 </pre>
 
 ## Listen On
-- [YouTube](https://youtu.be/emcpTcVba64)
-- [YouTube Music](https://music.youtube.com/watch?v=emcpTcVba64)

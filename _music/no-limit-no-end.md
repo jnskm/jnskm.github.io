@@ -104,5 +104,3 @@ No end
 </pre>
 
 ## Listen On
-- [YouTube](https://youtu.be/Q8CI_kJ_P6A)
-- [YouTube Music](https://music.youtube.com/watch?v=Q8CI_kJ_P6A)

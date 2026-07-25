@@ -11,8 +11,6 @@ Psalm 103:2<br>
 Praise the LORD, my soul,<br>
 and forget not all His benefits --<br>
 
-## Listen On
-
 ## Inspiration
 
 (Add inspiration and background for this song)
@@ -25,3 +23,5 @@ and forget not all His benefits --<br>
 [Chorus]
 (Add lyrics here)
 </pre>
+
+## Listen On

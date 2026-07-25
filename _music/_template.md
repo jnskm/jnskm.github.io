@@ -30,5 +30,5 @@ Book 0:0 (ASV)
 </pre>
 
 ## Listen On
-- [YouTube](https://youtu.be/...)
-- [YouTube Music](https://music.youtube.com/watch?v=...)
+<!-- Streaming links are generated automatically from the front matter above;
+     no need to list them here. -->

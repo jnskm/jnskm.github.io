@@ -71,7 +71,3 @@ He’s preparing a place for me
 </pre>
 
 ## Listen On
-- [YouTube](https://youtu.be/Em0wm9sSyuw)
-- [YouTube Music](https://music.youtube.com/watch?v=Em0wm9sSyuw)
-- [Spotify](https://open.spotify.com/album/6epcfaqfwrWaNqWB5soNmh?si=bOlKN3j1TPq3KLkQ-WQuhg)
-- [Apple Music](https://music.apple.com/us/album/a-place-for-me-single/1821578312)

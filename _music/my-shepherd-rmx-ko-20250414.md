@@ -28,5 +28,3 @@ Jehovah is my shepherd; I shall not want. He maketh me to lie down in green past
 </pre>
 
 ## Listen On
-- [YouTube](https://youtu.be/EAuRYtIdosA)
-- [YouTube Music](https://music.youtube.com/watch?v=EAuRYtIdosA)

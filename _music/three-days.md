@@ -28,5 +28,3 @@ But he was wounded for our transgressions, he was bruised for our iniquities; th
 </pre>
 
 ## Listen On
-- [YouTube](https://youtu.be/RslmDgrluQU)
-- [YouTube Music](https://music.youtube.com/watch?v=RslmDgrluQU)
